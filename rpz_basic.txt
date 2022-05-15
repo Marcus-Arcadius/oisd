@@ -1,12 +1,12 @@
-; Version: 202205150826
+; Version: 202205150833
 ; Title: oisd basic
-; Last modified: 15 May 2022 08:26 UTC
+; Last modified: 15 May 2022 08:33 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1652603209 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1652603387 86400 3600 604800 30
  NS localhost.
 
 00-gov.cn CNAME .
@@ -18583,8 +18583,6 @@ bobrilla.com CNAME .
 *.bobrilla.com CNAME .
 bochugho.net CNAME .
 *.bochugho.net CNAME .
-bochuwutu.com CNAME .
-*.bochuwutu.com CNAME .
 bodaybo.net CNAME .
 *.bodaybo.net CNAME .
 bodelen.com CNAME .
@@ -30499,8 +30497,6 @@ drkness.net CNAME .
 *.drkness.net CNAME .
 drlimmode9ddd.cloudfront.net CNAME .
 *.drlimmode9ddd.cloudfront.net CNAME .
-drlphsvpybieyie.xyz CNAME .
-*.drlphsvpybieyie.xyz CNAME .
 drmfslx.cn CNAME .
 *.drmfslx.cn CNAME .
 drogog.com CNAME .
@@ -31037,8 +31033,6 @@ dyntrk.com CNAME .
 *.dyntrk.com CNAME .
 dyrfxuvraq0fk.cloudfront.net CNAME .
 *.dyrfxuvraq0fk.cloudfront.net CNAME .
-dyshigichu.com CNAME .
-*.dyshigichu.com CNAME .
 dyssir.com CNAME .
 *.dyssir.com CNAME .
 dysuriasps.com CNAME .
@@ -34161,8 +34155,6 @@ fancrew.jp CNAME .
 *.fancrew.jp CNAME .
 fancyactivity.com CNAME .
 *.fancyactivity.com CNAME .
-fancyfourthvolcano.com CNAME .
-*.fancyfourthvolcano.com CNAME .
 fandangollc.demdex.net CNAME .
 *.fandangollc.demdex.net CNAME .
 fandelcot.com CNAME .
@@ -41333,8 +41325,6 @@ honorablehydrant.com CNAME .
 *.honorablehydrant.com CNAME .
 honorableland.com CNAME .
 *.honorableland.com CNAME .
-honorablesimilar.com CNAME .
-*.honorablesimilar.com CNAME .
 honouncil.com CNAME .
 *.honouncil.com CNAME .
 honoursdashed.com CNAME .
@@ -41589,8 +41579,6 @@ hoverr.media CNAME .
 *.hoverr.media CNAME .
 hovg.de CNAME .
 *.hovg.de CNAME .
-hovoptelo.com CNAME .
-*.hovoptelo.com CNAME .
 howdoesin.net CNAME .
 *.howdoesin.net CNAME .
 howeve.com CNAME .
@@ -45689,8 +45677,6 @@ jjpnveujkk.com CNAME .
 *.jjpnveujkk.com CNAME .
 jjxgly.com CNAME .
 *.jjxgly.com CNAME .
-jjz666.cn CNAME .
-*.jjz666.cn CNAME .
 jke1.jianke.com CNAME .
 *.jke1.jianke.com CNAME .
 jkha742.xyz CNAME .
@@ -46759,8 +46745,6 @@ kbugxeslbjc8.com CNAME .
 *.kbugxeslbjc8.com CNAME .
 kbx1sth37s.com CNAME .
 *.kbx1sth37s.com CNAME .
-kbxowbavadw.com CNAME .
-*.kbxowbavadw.com CNAME .
 kbyfbw6aaada.com CNAME .
 *.kbyfbw6aaada.com CNAME .
 kc-valves.com CNAME .
@@ -61687,8 +61671,6 @@ pigpenchiba.com CNAME .
 *.pigpenchiba.com CNAME .
 pigspie.com CNAME .
 *.pigspie.com CNAME .
-pigtisetdilqsi.com CNAME .
-*.pigtisetdilqsi.com CNAME .
 pigtre.com CNAME .
 *.pigtre.com CNAME .
 pijiagui.cn CNAME .
@@ -65559,8 +65541,6 @@ quangcao247.com.vn CNAME .
 *.quangcao247.com.vn CNAME .
 quanin.xyz CNAME .
 *.quanin.xyz CNAME .
-quanjiao10.top CNAME .
-*.quanjiao10.top CNAME .
 quanmindi.com CNAME .
 *.quanmindi.com CNAME .
 quansj.cn CNAME .
@@ -70895,8 +70875,6 @@ seon.io CNAME .
 *.seon.io CNAME .
 seondnsresolve.com CNAME .
 *.seondnsresolve.com CNAME .
-seonetwizard.com CNAME .
-*.seonetwizard.com CNAME .
 seonto.com CNAME .
 *.seonto.com CNAME .
 seoparts.com CNAME .
@@ -71655,8 +71633,6 @@ shoptarget.com.br CNAME .
 *.shoptarget.com.br CNAME .
 shoptimally.com CNAME .
 *.shoptimally.com CNAME .
-shoptylasty.pro CNAME .
-*.shoptylasty.pro CNAME .
 shopusuallyvirtue.com CNAME .
 *.shopusuallyvirtue.com CNAME .
 shopworld.info CNAME .
@@ -83895,8 +83871,6 @@ uymjbn.com CNAME .
 *.uymjbn.com CNAME .
 uymkdz9s.com CNAME .
 *.uymkdz9s.com CNAME .
-uytwvgrshiakd.xyz CNAME .
-*.uytwvgrshiakd.xyz CNAME .
 uyueread.com CNAME .
 *.uyueread.com CNAME .
 uz-analysis.akamaized.net CNAME .
@@ -83927,8 +83901,6 @@ v.bsvideos.com CNAME .
 *.v.bsvideos.com CNAME .
 v.cdn4.life CNAME .
 *.v.cdn4.life CNAME .
-v.cqpsf.cn CNAME .
-*.v.cqpsf.cn CNAME .
 v.luxfp.space CNAME .
 *.v.luxfp.space CNAME .
 v.oui.sncf CNAME .
