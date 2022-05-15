@@ -1,6 +1,6 @@
-# Version: 202205150820
+# Version: 202205150834
 # Title: oisd extra
-# Last modified: 15 May 2022 08:20 UTC
+# Last modified: 15 May 2022 08:34 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq                                                
@@ -28,7 +28,6 @@ address=/a.wishabi.com/#
 address=/aan.amazon.com/#
 address=/accesstrade.co.id/#
 address=/ace.naver.com/#
-address=/act1-1.info/#
 address=/acxjepzmvqycf.com/#
 address=/ad-ettoday.cdn.hinet.net/#
 address=/ad-tool.com/#
@@ -326,7 +325,6 @@ address=/getblueshift.com/#
 address=/getpublica.com/#
 address=/ghosthis.review/#
 address=/giqepofa.com/#
-address=/glaoduuyguwqr.com/#
 address=/gnar.grammarly.com/#
 address=/go-mpulse.net/#
 address=/go2fun.xyz/#
@@ -357,7 +355,6 @@ address=/hotelscombined.com.au/#
 address=/hpuvkfbww.com/#
 address=/hs-scripts.com/#
 address=/hsoub.com/#
-address=/huiqingvip.cn/#
 address=/humanpresence.app/#
 address=/hurom365.cn/#
 address=/hypestat.com/#
@@ -567,7 +564,6 @@ address=/prvsz4pe.micpn.com/#
 address=/psaglyfico.com/#
 address=/pseptegoti.com/#
 address=/psqiwslwpjccb.com/#
-address=/ptilytiga.com/#
 address=/publicidees.com/#
 address=/pubmatic.com/#
 address=/puddlebooty.com/#
@@ -580,6 +576,7 @@ address=/pyzwwzzooq.com/#
 address=/qaykb.com/#
 address=/qienews.cn/#
 address=/qksrv.net/#
+address=/quanjiao10.top/#
 address=/quantserve.com/#
 address=/quantummetric.com/#
 address=/quartic.pl/#
@@ -746,7 +743,6 @@ address=/tuezse.cn/#
 address=/turbotraff.com/#
 address=/tvtnbu.cn/#
 address=/tw5k2vc.cn/#
-address=/twirlunsight.cam/#
 address=/tysicyse.com/#
 address=/u1n6ok.cn/#
 address=/ucqfmwanc.com/#

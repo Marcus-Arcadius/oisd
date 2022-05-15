@@ -1,12 +1,12 @@
-; Version: 202205150820
+; Version: 202205150834
 ; Title: oisd extra
-; Last modified: 15 May 2022 08:20 UTC
+; Last modified: 15 May 2022 08:34 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1652602578 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1652603387 86400 3600 604800 30
  NS localhost.
 
 0emm.com CNAME .
@@ -55,8 +55,6 @@ accesstrade.co.id CNAME .
 *.accesstrade.co.id CNAME .
 ace.naver.com CNAME .
 *.ace.naver.com CNAME .
-act1-1.info CNAME .
-*.act1-1.info CNAME .
 acxjepzmvqycf.com CNAME .
 *.acxjepzmvqycf.com CNAME .
 ad-ettoday.cdn.hinet.net CNAME .
@@ -651,8 +649,6 @@ ghosthis.review CNAME .
 *.ghosthis.review CNAME .
 giqepofa.com CNAME .
 *.giqepofa.com CNAME .
-glaoduuyguwqr.com CNAME .
-*.glaoduuyguwqr.com CNAME .
 gnar.grammarly.com CNAME .
 *.gnar.grammarly.com CNAME .
 go-mpulse.net CNAME .
@@ -713,8 +709,6 @@ hs-scripts.com CNAME .
 *.hs-scripts.com CNAME .
 hsoub.com CNAME .
 *.hsoub.com CNAME .
-huiqingvip.cn CNAME .
-*.huiqingvip.cn CNAME .
 humanpresence.app CNAME .
 *.humanpresence.app CNAME .
 hurom365.cn CNAME .
@@ -1133,8 +1127,6 @@ pseptegoti.com CNAME .
 *.pseptegoti.com CNAME .
 psqiwslwpjccb.com CNAME .
 *.psqiwslwpjccb.com CNAME .
-ptilytiga.com CNAME .
-*.ptilytiga.com CNAME .
 publicidees.com CNAME .
 *.publicidees.com CNAME .
 pubmatic.com CNAME .
@@ -1159,6 +1151,8 @@ qienews.cn CNAME .
 *.qienews.cn CNAME .
 qksrv.net CNAME .
 *.qksrv.net CNAME .
+quanjiao10.top CNAME .
+*.quanjiao10.top CNAME .
 quantserve.com CNAME .
 *.quantserve.com CNAME .
 quantummetric.com CNAME .
@@ -1491,8 +1485,6 @@ tvtnbu.cn CNAME .
 *.tvtnbu.cn CNAME .
 tw5k2vc.cn CNAME .
 *.tw5k2vc.cn CNAME .
-twirlunsight.cam CNAME .
-*.twirlunsight.cam CNAME .
 tysicyse.com CNAME .
 *.tysicyse.com CNAME .
 u1n6ok.cn CNAME .
