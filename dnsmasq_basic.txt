@@ -1,6 +1,6 @@
-# Version: 202205150738
+# Version: 202205150742
 # Title: oisd basic
-# Last modified: 15 May 2022 07:38 UTC
+# Last modified: 15 May 2022 07:42 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq                                                
@@ -10496,7 +10496,6 @@ address=/capcityadvcom.112.2o7.net/#
 address=/capecodonlinecom.112.2o7.net/#
 address=/caperedlevi.com/#
 address=/caphaiks.com/#
-address=/capi.connatix.com/#
 address=/capliman.com/#
 address=/capodannoinversilia.com/#
 address=/cappens-dreperor.com/#
@@ -10729,7 +10728,6 @@ address=/ccxhpipe.cn/#
 address=/ccymzg.cn/#
 address=/cczuxie.com/#
 address=/cd-ads.com/#
-address=/cd.connatix.com/#
 address=/cd4348d1133.com/#
 address=/cd490573c64f3f.com/#
 address=/cd828.com/#
@@ -10987,7 +10985,6 @@ address=/cdp.asia/#
 address=/cdp.cloud.unity3d.com/#
 address=/cdp.vemt.com/#
 address=/cdrvrs.com/#
-address=/cds.connatix.com/#
 address=/cds.taboola.com/#
 address=/cdsbnrs.com/#
 address=/cdtbox.rocks/#
@@ -22181,7 +22178,6 @@ address=/img.atdmt.com/#
 address=/img.avatraffic.com/#
 address=/img.bbchat.tv/#
 address=/img.bluehost.com/#
-address=/img.connatix.com/#
 address=/img.crossinstall.com/#
 address=/img.discovery.com/#
 address=/img.ferlie.net/#
@@ -47541,3 +47537,7 @@ address=/zzxxli.club/#
 address=/zzyonghao.com/#
 address=/zzyytt.top/#
 address=/zzznews.ru/#
+
+
+
+

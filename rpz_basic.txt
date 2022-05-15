@@ -1,12 +1,12 @@
-; Version: 202205150738
+; Version: 202205150742
 ; Title: oisd basic
-; Last modified: 15 May 2022 07:38 UTC
+; Last modified: 15 May 2022 07:42 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1652600286 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1652600574 86400 3600 604800 30
  NS localhost.
 
 00-gov.cn CNAME .
@@ -20991,8 +20991,6 @@ caperedlevi.com CNAME .
 *.caperedlevi.com CNAME .
 caphaiks.com CNAME .
 *.caphaiks.com CNAME .
-capi.connatix.com CNAME .
-*.capi.connatix.com CNAME .
 capliman.com CNAME .
 *.capliman.com CNAME .
 capodannoinversilia.com CNAME .
@@ -21457,8 +21455,6 @@ cczuxie.com CNAME .
 *.cczuxie.com CNAME .
 cd-ads.com CNAME .
 *.cd-ads.com CNAME .
-cd.connatix.com CNAME .
-*.cd.connatix.com CNAME .
 cd4348d1133.com CNAME .
 *.cd4348d1133.com CNAME .
 cd490573c64f3f.com CNAME .
@@ -21973,8 +21969,6 @@ cdp.vemt.com CNAME .
 *.cdp.vemt.com CNAME .
 cdrvrs.com CNAME .
 *.cdrvrs.com CNAME .
-cds.connatix.com CNAME .
-*.cds.connatix.com CNAME .
 cds.taboola.com CNAME .
 *.cds.taboola.com CNAME .
 cdsbnrs.com CNAME .
@@ -44361,8 +44355,6 @@ img.bbchat.tv CNAME .
 *.img.bbchat.tv CNAME .
 img.bluehost.com CNAME .
 *.img.bluehost.com CNAME .
-img.connatix.com CNAME .
-*.img.connatix.com CNAME .
 img.crossinstall.com CNAME .
 *.img.crossinstall.com CNAME .
 img.discovery.com CNAME .
@@ -95081,3 +95073,7 @@ zzyytt.top CNAME .
 *.zzyytt.top CNAME .
 zzznews.ru CNAME .
 *.zzznews.ru CNAME .
+
+
+
+
