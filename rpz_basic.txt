@@ -1,12 +1,12 @@
-; Version: 202205150820
+; Version: 202205150826
 ; Title: oisd basic
-; Last modified: 15 May 2022 08:20 UTC
+; Last modified: 15 May 2022 08:26 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1652602578 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1652603209 86400 3600 604800 30
  NS localhost.
 
 00-gov.cn CNAME .
@@ -70149,8 +70149,6 @@ sdk.appsflyer.tk CNAME .
 *.sdk.appsflyer.tk CNAME .
 sdk.apptentive.com CNAME .
 *.sdk.apptentive.com CNAME .
-sdk.asapp.com CNAME .
-*.sdk.asapp.com CNAME .
 sdk.collabollc.com CNAME .
 *.sdk.collabollc.com CNAME .
 sdk.consoliads.com CNAME .
