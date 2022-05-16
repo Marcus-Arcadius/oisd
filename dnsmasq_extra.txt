@@ -1,6 +1,6 @@
-# Version: 202205161004
+# Version: 202205161537
 # Title: oisd extra
-# Last modified: 16 May 2022 10:04 UTC
+# Last modified: 16 May 2022 15:37 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq                                                
@@ -142,7 +142,6 @@ address=/c-api-bit.shopeemobile.com/#
 address=/c.live.com/#
 address=/c.msn.com/#
 address=/c212.net/#
-address=/caliskankoylu.com/#
 address=/campaignmonitor.com/#
 address=/cc-dt.com/#
 address=/cdn-image.com/#
@@ -595,7 +594,6 @@ address=/siteplug.com/#
 address=/sitetoway.com/#
 address=/sitetracker.com/#
 address=/sjgnskf.com/#
-address=/smartclip.net/#
 address=/smartlook.com/#
 address=/smetrics.aem.playstation.com/#
 address=/smetrics.discover.com/#
@@ -644,7 +642,6 @@ address=/thebrighttag.com/#
 address=/thersprens.com/#
 address=/thewebanswers.com/#
 address=/tidaltv.com/#
-address=/tiozao.net/#
 address=/tm.tradetracker.net/#
 address=/tms-st.cdn.ngenix.net/#
 address=/tnarzc.com/#
@@ -724,7 +721,6 @@ address=/x3-predictor.goguardian.com/#
 address=/xapi.ozon.ru/#
 address=/xcy8.com/#
 address=/xlog-va.musical.ly/#
-address=/xstronger.com/#
 address=/xtow.xyz/#
 address=/xtxa.net/#
 address=/xxsjsp.com/#

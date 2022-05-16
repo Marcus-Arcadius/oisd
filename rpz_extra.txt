@@ -1,12 +1,12 @@
-; Version: 202205161004
+; Version: 202205161537
 ; Title: oisd extra
-; Last modified: 16 May 2022 10:04 UTC
+; Last modified: 16 May 2022 15:37 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1652695201 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1652714970 86400 3600 604800 30
  NS localhost.
 
 0emm.com CNAME .
@@ -283,8 +283,6 @@ c.msn.com CNAME .
 *.c.msn.com CNAME .
 c212.net CNAME .
 *.c212.net CNAME .
-caliskankoylu.com CNAME .
-*.caliskankoylu.com CNAME .
 campaignmonitor.com CNAME .
 *.campaignmonitor.com CNAME .
 cc-dt.com CNAME .
@@ -1189,8 +1187,6 @@ sitetracker.com CNAME .
 *.sitetracker.com CNAME .
 sjgnskf.com CNAME .
 *.sjgnskf.com CNAME .
-smartclip.net CNAME .
-*.smartclip.net CNAME .
 smartlook.com CNAME .
 *.smartlook.com CNAME .
 smetrics.aem.playstation.com CNAME .
@@ -1287,8 +1283,6 @@ thewebanswers.com CNAME .
 *.thewebanswers.com CNAME .
 tidaltv.com CNAME .
 *.tidaltv.com CNAME .
-tiozao.net CNAME .
-*.tiozao.net CNAME .
 tm.tradetracker.net CNAME .
 *.tm.tradetracker.net CNAME .
 tms-st.cdn.ngenix.net CNAME .
@@ -1447,8 +1441,6 @@ xcy8.com CNAME .
 *.xcy8.com CNAME .
 xlog-va.musical.ly CNAME .
 *.xlog-va.musical.ly CNAME .
-xstronger.com CNAME .
-*.xstronger.com CNAME .
 xtow.xyz CNAME .
 *.xtow.xyz CNAME .
 xtxa.net CNAME .
