@@ -1,12 +1,12 @@
-; Version: 202205170930
+; Version: 202205171003
 ; Title: oisd basic
-; Last modified: 17 May 2022 09:30 UTC
+; Last modified: 17 May 2022 10:03 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1652779593 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1652781601 86400 3600 604800 30
  NS localhost.
 
 0.nextyourcontent.com CNAME .
@@ -9095,8 +9095,6 @@ ads.imeem.com CNAME .
 *.ads.imeem.com CNAME .
 ads.img.co.za CNAME .
 *.ads.img.co.za CNAME .
-ads.img.globo.com CNAME .
-*.ads.img.globo.com CNAME .
 ads.imguol.com CNAME .
 *.ads.imguol.com CNAME .
 ads.incubu.com CNAME .
@@ -23219,8 +23217,6 @@ bogcuoc.com CNAME .
 *.bogcuoc.com CNAME .
 bogginunstill.com CNAME .
 *.bogginunstill.com CNAME .
-bogglecool.club CNAME .
-*.bogglecool.club CNAME .
 bogrex.com CNAME .
 *.bogrex.com CNAME .
 bogrodius.com CNAME .
@@ -26841,8 +26837,6 @@ cennter.com CNAME .
 *.cennter.com CNAME .
 censusmiles.com CNAME .
 *.censusmiles.com CNAME .
-centalsruck.com CNAME .
-*.centalsruck.com CNAME .
 centauruspopyou.com CNAME .
 *.centauruspopyou.com CNAME .
 centent.slreamplay.cc CNAME .
@@ -36447,8 +36441,6 @@ dlswbr.baidu.com CNAME .
 *.dlswbr.baidu.com CNAME .
 dltenjy.cn CNAME .
 *.dltenjy.cn CNAME .
-dltinaozs.com CNAME .
-*.dltinaozs.com CNAME .
 dlv.itmedia.jp CNAME .
 *.dlv.itmedia.jp CNAME .
 dlvds9i67c60j.cloudfront.net CNAME .
@@ -49041,8 +49033,6 @@ headstonerinse.com CNAME .
 *.headstonerinse.com CNAME .
 headup.com CNAME .
 *.headup.com CNAME .
-headwell.cn CNAME .
-*.headwell.cn CNAME .
 headyguin.com CNAME .
 *.headyguin.com CNAME .
 headyhook.com CNAME .
@@ -61661,8 +61651,6 @@ lzljhs.com CNAME .
 *.lzljhs.com CNAME .
 lzls.ltd CNAME .
 *.lzls.ltd CNAME .
-lzpgstae.com CNAME .
-*.lzpgstae.com CNAME .
 lzrikate.com CNAME .
 *.lzrikate.com CNAME .
 lzupkz.com CNAME .
@@ -65957,8 +65945,6 @@ mon.isnssdk.com CNAME .
 *.mon.isnssdk.com CNAME .
 mon.snssdk.com CNAME .
 *.mon.snssdk.com CNAME .
-mon1.marketo.com CNAME .
-*.mon1.marketo.com CNAME .
 monad-rtb.com CNAME .
 *.monad-rtb.com CNAME .
 monadplug.com CNAME .
@@ -71465,8 +71451,6 @@ open8video.blob.core.windows.net CNAME .
 *.open8video.blob.core.windows.net CNAME .
 openad.net CNAME .
 *.openad.net CNAME .
-openad.tf1.fr CNAME .
-*.openad.tf1.fr CNAME .
 openad.travelnow.com CNAME .
 *.openad.travelnow.com CNAME .
 openadext.tf1.fr CNAME .
@@ -78533,8 +78517,6 @@ qatarchekmak.com CNAME .
 *.qatarchekmak.com CNAME .
 qbaka.net CNAME .
 *.qbaka.net CNAME .
-qbgrlltue.com CNAME .
-*.qbgrlltue.com CNAME .
 qbhyczr5hw.ru CNAME .
 *.qbhyczr5hw.ru CNAME .
 qbittorrent.com CNAME .
@@ -78609,8 +78591,6 @@ qdmil.com CNAME .
 *.qdmil.com CNAME .
 qdopportune.cn CNAME .
 *.qdopportune.cn CNAME .
-qdsfzz.cn CNAME .
-*.qdsfzz.cn CNAME .
 qdtracking.com CNAME .
 *.qdtracking.com CNAME .
 qdwght.com CNAME .
@@ -83997,8 +83977,6 @@ scfatao.com CNAME .
 *.scfatao.com CNAME .
 scgis.co.uk CNAME .
 *.scgis.co.uk CNAME .
-scgrzlketpica.com CNAME .
-*.scgrzlketpica.com CNAME .
 sch.line.me CNAME .
 *.sch.line.me CNAME .
 schaeffers.112.2o7.net CNAME .
@@ -88957,8 +88935,6 @@ spirebaboon.com CNAME .
 *.spirebaboon.com CNAME .
 spiritedirreparablemiscarriage.com CNAME .
 *.spiritedirreparablemiscarriage.com CNAME .
-spiritualbrakes.com CNAME .
-*.spiritualbrakes.com CNAME .
 spirliesalse.com CNAME .
 *.spirliesalse.com CNAME .
 spirub.com CNAME .
@@ -95375,8 +95351,6 @@ tnttv.112.2o7.net CNAME .
 *.tnttv.112.2o7.net CNAME .
 tnx.net CNAME .
 *.tnx.net CNAME .
-tnzjsphdird.com CNAME .
-*.tnzjsphdird.com CNAME .
 to.getnitropack.com CNAME .
 *.to.getnitropack.com CNAME .
 to335.cn CNAME .
@@ -98315,8 +98289,6 @@ trucktirehotline.com CNAME .
 *.trucktirehotline.com CNAME .
 truconversion.com CNAME .
 *.truconversion.com CNAME .
-true-counter.com CNAME .
-*.true-counter.com CNAME .
 true2file.com CNAME .
 *.true2file.com CNAME .
 truecrypt.fr CNAME .
@@ -98957,8 +98929,6 @@ twofish.freeuk.com CNAME .
 *.twofish.freeuk.com CNAME .
 twoj-voucher.com CNAME .
 *.twoj-voucher.com CNAME .
-twoje-nagrody.com.pl CNAME .
-*.twoje-nagrody.com.pl CNAME .
 twoje-nagrody.pl CNAME .
 *.twoje-nagrody.pl CNAME .
 twokidjay.com CNAME .
@@ -100909,8 +100879,6 @@ valuad.cloud CNAME .
 *.valuad.cloud CNAME .
 valuead.com CNAME .
 *.valuead.com CNAME .
-valueaffiliate.net CNAME .
-*.valueaffiliate.net CNAME .
 valueclick.com CNAME .
 *.valueclick.com CNAME .
 valueclick.jp CNAME .
@@ -107637,8 +107605,6 @@ yfzbn.com CNAME .
 *.yfzbn.com CNAME .
 yfzjhvllsioo.com CNAME .
 *.yfzjhvllsioo.com CNAME .
-yg592gpmrh0q.com CNAME .
-*.yg592gpmrh0q.com CNAME .
 yggkzs.cn CNAME .
 *.yggkzs.cn CNAME .
 ygqjt.cn CNAME .
