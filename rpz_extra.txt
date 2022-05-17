@@ -1,12 +1,12 @@
-; Version: 202205161537
+; Version: 202205171004
 ; Title: oisd extra
-; Last modified: 16 May 2022 15:37 UTC
+; Last modified: 17 May 2022 10:04 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1652714970 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1652781601 86400 3600 604800 30
  NS localhost.
 
 0emm.com CNAME .
@@ -425,6 +425,8 @@ digitaladvisor.dk CNAME .
 *.digitaladvisor.dk CNAME .
 djtflbt20bdde.cloudfront.net CNAME .
 *.djtflbt20bdde.cloudfront.net CNAME .
+dltinaozs.com CNAME .
+*.dltinaozs.com CNAME .
 dnsseed.bitcoin.dashjr.org CNAME .
 *.dnsseed.bitcoin.dashjr.org CNAME .
 dnsseed.bluematt.me CNAME .
@@ -1009,8 +1011,6 @@ pr-update.biz CNAME .
 *.pr-update.biz CNAME .
 premiumbros.com CNAME .
 *.premiumbros.com CNAME .
-presentationsportsman.com CNAME .
-*.presentationsportsman.com CNAME .
 privacy-policy.truste.com CNAME .
 *.privacy-policy.truste.com CNAME .
 promoted.soundcloud.com CNAME .
@@ -1035,6 +1035,8 @@ px.spiceworks.com CNAME .
 *.px.spiceworks.com CNAME .
 pxf.io CNAME .
 *.pxf.io CNAME .
+qdsfzz.cn CNAME .
+*.qdsfzz.cn CNAME .
 qksrv.net CNAME .
 *.qksrv.net CNAME .
 quantserve.com CNAME .
@@ -1121,6 +1123,8 @@ sc-static.net CNAME .
 *.sc-static.net CNAME .
 scanverify.com CNAME .
 *.scanverify.com CNAME .
+scgrzlketpica.com CNAME .
+*.scgrzlketpica.com CNAME .
 sci.intuit.com CNAME .
 *.sci.intuit.com CNAME .
 screenshots.goguardian.com CNAME .
@@ -1369,6 +1373,8 @@ userreplay.net CNAME .
 *.userreplay.net CNAME .
 v.shopify.com CNAME .
 *.v.shopify.com CNAME .
+valueaffiliate.net CNAME .
+*.valueaffiliate.net CNAME .
 valuedopinions.co.uk CNAME .
 *.valuedopinions.co.uk CNAME .
 velaro.com CNAME .
@@ -1455,6 +1461,8 @@ yessearches.com CNAME .
 *.yessearches.com CNAME .
 yeswegays.com CNAME .
 *.yeswegays.com CNAME .
+yg592gpmrh0q.com CNAME .
+*.yg592gpmrh0q.com CNAME .
 youboranqs01.com CNAME .
 *.youboranqs01.com CNAME .
 youndoo.com CNAME .
