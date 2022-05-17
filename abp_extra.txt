@@ -1,7 +1,7 @@
 [Adblock Plus]
-! Version: 202205171004
+! Version: 202205171520
 ! Title: oisd extra
-! Last modified: 17 May 2022 10:04 UTC
+! Last modified: 17 May 2022 15:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://oisd.nl
 ! Syntax: Adblock Plus Filter List                
@@ -16,7 +16,10 @@
 ||2cnt.net^
 ||2o7.net^
 ||3ba87e4828c5a95.com^
+||5qoh.cn^
+||76xs.com^
 ||810251.com^
+||8mb4qkd74cht.com^
 ||a-mo.net^
 ||a.klaviyo.com^
 ||a.wishabi.com^
@@ -24,13 +27,13 @@
 ||aan.amazon.com^
 ||accesstrade.co.id^
 ||ace.naver.com^
-||activealibi.com^
 ||ad-ettoday.cdn.hinet.net^
 ||adash.man.aliyuncs.com^
 ||adasist.com^
 ||adbrix.io^
 ||adcell.com^
 ||adcolo.com^
+||adextent.com^
 ||adform.net^
 ||adjust.com^
 ||adk2.net^
@@ -56,6 +59,7 @@
 ||adzerk.net^
 ||affex.org^
 ||affiliatefuture.com^
+||afy11.net^
 ||agacelebir.com^
 ||agkn.com^
 ||aimatch.com^
@@ -70,6 +74,7 @@
 ||analytics.edgekey.net^
 ||analytics.edgesuite.net^
 ||analytics.robinhood.com^
+||andlache.com^
 ||android.bugly.qq.com^
 ||androidtvchannels-pa.googleapis.com^
 ||androidtvwatsonfe-pa.googleapis.com^
@@ -102,6 +107,7 @@
 ||attracta.com^
 ||auditude.com^
 ||auth.be.sec.miui.com^
+||authorneryj.club^
 ||awemwh.com^
 ||awin1.com^
 ||azadify.com^
@@ -118,6 +124,7 @@
 ||bi.medscape.com^
 ||bigdata.ssp.samsung.com^
 ||bincun.xyz^
+||bisiraczyxbu.com^
 ||bizrate.com^
 ||bkrtx.com^
 ||blueconic.net^
@@ -137,7 +144,6 @@
 ||browser.sentry-cdn.com^
 ||btstatic.com^
 ||budurl.com^
-||buildtrafficx.com^
 ||bxczchdxynw.com^
 ||c-api-bit.shopeemobile.com^
 ||c.live.com^
@@ -150,6 +156,7 @@
 ||cdn2.cache.vn^
 ||cedexis.com^
 ||cftrack.com^
+||cgjfanun12on.com^
 ||cimage.adobe.com^
 ||cintnetworks.com^
 ||cleverpush.com^
@@ -168,10 +175,12 @@
 ||conduit-services.com^
 ||config.uca.cloud.unity3d.com^
 ||consent-manager-events.ogury.io^
+||consentedconscientious.com^
 ||conversions.appsflyer.com^
 ||convertexperiments.com^
 ||converti.se^
 ||coremetrics.com^
+||counterfeitafloatcondolences.com^
 ||countvoncount.goguardian.com^
 ||cptrack.de^
 ||cquotient.com^
@@ -185,7 +194,6 @@
 ||customer.io^
 ||customerevents.netflix.com^
 ||cws.conviva.com^
-||d131c7173a.com^
 ||d1af033869koo7.cloudfront.net^
 ||d1z2jf7jlzjs58.cloudfront.net^
 ||d1zgderxoe1a.cloudfront.net^
@@ -195,12 +203,14 @@
 ||d31qbv1cthcecs.cloudfront.net^
 ||d35u1vg1q28b3w.cloudfront.net^
 ||d4624d2bc2.com^
+||daikuanfanli.com^
 ||dash.tmearn.com^
 ||data.mistat.india.xiaomi.com^
 ||data.mistat.intl.xiaomi.com^
 ||data.mistat.rus.xiaomi.com^
 ||data.mistat.xiaomi.com^
 ||datacaciques.com^
+||datasecu.download^
 ||deals.macupdate.com^
 ||decibelinsight.net^
 ||decknetwork.net^
@@ -209,12 +219,11 @@
 ||demdex.net^
 ||detectvid.com^
 ||dev.appboy.com^
-||dexessee.com^
 ||dfgchcnqsa.com^
 ||dichordkomati.cam^
 ||digitaladvisor.dk^
+||dilutecellar.com^
 ||djtflbt20bdde.cloudfront.net^
-||dltinaozs.com^
 ||dnsseed.bitcoin.dashjr.org^
 ||dnsseed.bluematt.me^
 ||do-not-tracker.org^
@@ -224,7 +233,7 @@
 ||doubleclick.net^
 ||doutthenhap.info^
 ||dspultra.com^
-||earthahedda.com^
+||dyx0878.cn^
 ||easycounter.com^
 ||easysol.net^
 ||edrone.me^
@@ -267,7 +276,6 @@
 ||feature.fm^
 ||featyn.com^
 ||fenefa.com^
-||fenrunwayradiant.com^
 ||fireflyengagement.com^
 ||flexlinkspro.com^
 ||flixcar.com^
@@ -276,11 +284,11 @@
 ||forestbrowser.com^
 ||forter.com^
 ||fourier.taobao.com^
-||fqjgxtyaqftpt.com^
 ||freegeoip.app^
 ||freewheel-mtgx-tv.akamaized.net^
 ||friendbuy.com^
 ||frontier.musical.ly^
+||fsdwd.xyz^
 ||fullstory.com^
 ||fulltraffic.net^
 ||funcionapage.com^
@@ -292,6 +300,7 @@
 ||geoip.nekudo.com^
 ||geojs.io^
 ||geolocation-db.com^
+||gertesaevided.xyz^
 ||getalinkandshare.com^
 ||getblueshift.com^
 ||getpublica.com^
@@ -299,7 +308,6 @@
 ||giqepofa.com^
 ||gnar.grammarly.com^
 ||go-mpulse.net^
-||go2fun.xyz^
 ||go2jump.org^
 ||goatcounter.com^
 ||goingsilltrusty.com^
@@ -311,15 +319,13 @@
 ||gosquared.com^
 ||grainstucked.com^
 ||graph.facebook.com^
-||grouac.com^
+||greetham.net^
 ||growingio.com^
+||guotaotaoci.net^
 ||gvt2.com^
-||hbgwmkydpjmv.com^
-||he3kz8.com^
 ||hit.interia.pl^
 ||hitmarkerjobs.com^
 ||hohosearch.com^
-||homemadebarricadedialogue.com^
 ||hostip.info^
 ||hotelscombined.com.au^
 ||hotkeys.com^
@@ -368,12 +374,12 @@
 ||journity.com^
 ||js-agent.newrelic.com^
 ||jwpltx.com^
+||jzn360.cn^
 ||kaiyiluye.com^
 ||kampyle.com^
 ||kaxsdc.com^
 ||kissmetrics.com^
 ||krxd.net^
-||kvilhypwtelaos.xyz^
 ||l0l.top^
 ||l2.io^
 ||lcs.naver.com^
@@ -406,7 +412,6 @@
 ||magicplayer-s.acestream.net^
 ||magicplayer-s.torrentstream.org^
 ||mairdumont.com^
-||mannequinent.site^
 ||marfeelcache.com^
 ||marinsm.com^
 ||marketingautomation.services^
@@ -422,8 +427,8 @@
 ||metrics.brightcove.com^
 ||metrics.claspws.tv^
 ||metrics.mzstatic.com^
-||microsoftaffiliates.net^
 ||mindtake.com^
+||ministedik.info^
 ||mixi.media^
 ||mixturehopeful.com^
 ||mkt51.net^
@@ -474,6 +479,7 @@
 ||overture.com^
 ||p.typekit.net^
 ||p.yotpo.com^
+||p6p2w3v92czo.com^
 ||pagefair.com^
 ||pangle.io^
 ||panther.goguardian.com^
@@ -487,6 +493,7 @@
 ||perfdrive.com^
 ||perimeterx.net^
 ||perr.h-cdn.com^
+||petulantsubordinate.com^
 ||pf.intuit.com^
 ||pidorg.ru^
 ||pings.conviva.com^
@@ -511,7 +518,7 @@
 ||promoted.soundcloud.com^
 ||provocativeprivate.com^
 ||prvsz4pe.micpn.com^
-||psqiwslwpjccb.com^
+||psoomeeg.com^
 ||publicidees.com^
 ||pubmatic.com^
 ||pushwelcome.com^
@@ -572,13 +579,11 @@
 ||seal.godaddy.com^
 ||seal.networksolutions.com^
 ||search2000s.com^
-||searsbushelbus.com^
 ||securemetrics.apple.com^
 ||securitymetrics.com^
 ||sedoparking.com^
 ||seed.bitcoin.sipa.be^
 ||seed.bitcoinstats.com^
-||seeswifty.cam^
 ||segment.com^
 ||segment.io^
 ||sensic.net^
@@ -589,7 +594,7 @@
 ||sessioncam.com^
 ||shopperapproved.com^
 ||siamzone.com^
-||siblesectiveal.club^
+||sibilantamusing.com^
 ||sift.com^
 ||siftscience.com^
 ||simpliftsbefore.info^
@@ -618,7 +623,9 @@
 ||stocks-analytics-events.news.apple-dns.net^
 ||storeconfig.mistat.intl.xiaomi.com^
 ||streamate.com^
+||stripseamanacknowledge.com^
 ||sts.eccmp.com^
+||subdatescene.cam^
 ||sumo.com^
 ||sundaysky.com^
 ||superbanner.org^
@@ -642,7 +649,6 @@
 ||thathersevengid.ru^
 ||thebestoffersintheweb.com^
 ||thebrighttag.com^
-||thersprens.com^
 ||thewebanswers.com^
 ||tidaltv.com^
 ||tm.tradetracker.net^
@@ -666,33 +672,34 @@
 ||tradedoubler.com^
 ||tradescape.biz^
 ||trafficguard.ai^
+||trafficposse.com^
 ||traq.li^
 ||trbas.com^
 ||trbo.com^
 ||treehousei.com^
 ||trk.pinterest.com^
 ||trotux.com^
-||tsitelur.ru^
+||ttspikbeglki.com^
 ||tubereplay.com^
 ||uamobile.net^
 ||uarating.com^
 ||udiwhryjqdsc.com^
 ||ue.flipboard.com^
 ||uid.mavencoalition.io^
-||under2given.com^
 ||unid.go.com^
 ||universalsearches.com^
+||unlikebenignityeyeshadow.com^
 ||us.i1.yimg.com^
 ||us04logfiles.zoom.us^
 ||usabilla.com^
 ||useinsider.com^
 ||userreplay.net^
 ||v.shopify.com^
-||valueaffiliate.net^
 ||valuedopinions.co.uk^
 ||velaro.com^
 ||verify.authorize.net^
 ||veta.naver.com^
+||vetodelaycourageous.com^
 ||vi-serve.com^
 ||videoplayerhub.com^
 ||vilynx.com^
@@ -723,22 +730,21 @@
 ||x3-policy-maker.goguardian.com^
 ||x3-predictor.goguardian.com^
 ||xapi.ozon.ru^
-||xcy8.com^
 ||xlog-va.musical.ly^
-||xtow.xyz^
+||xmouxe.cn^
 ||xtxa.net^
+||xuruochen.cn^
 ||xxsjsp.com^
 ||xywgbms.top^
 ||xzixbirtfo.com^
 ||yessearches.com^
 ||yeswegays.com^
-||yg592gpmrh0q.com^
+||ygqukhllchpw.com^
+||yoretxpczr.com^
 ||youboranqs01.com^
 ||youndoo.com^
 ||youvisit.com^
 ||zenaps.com^
-||zkba9.cn^
 ||zmnkduay.com^
-||zswxrfwnapgg.com^
 ||zugo.com^
 ||zxsmxt.com^
