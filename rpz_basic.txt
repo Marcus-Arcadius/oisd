@@ -1,12 +1,12 @@
-; Version: 202205171520
+; Version: 202205171540
 ; Title: oisd basic
-; Last modified: 17 May 2022 15:20 UTC
+; Last modified: 17 May 2022 15:40 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1652799015 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1652802015 86400 3600 604800 30
  NS localhost.
 
 0.code.cotsta.ru CNAME .
@@ -4547,8 +4547,6 @@ abouthomesdecorating.com CNAME .
 *.abouthomesdecorating.com CNAME .
 aboutwebservices.com CNAME .
 *.aboutwebservices.com CNAME .
-above.com CNAME .
-*.above.com CNAME .
 abovede6.com CNAME .
 *.abovede6.com CNAME .
 aboveredirect.top CNAME .
@@ -110575,3 +110573,4 @@ zzyytt.top CNAME .
 *.zzyytt.top CNAME .
 zzznews.ru CNAME .
 *.zzznews.ru CNAME .
+

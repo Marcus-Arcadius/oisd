@@ -1,6 +1,6 @@
-# Version: 202205171520
+# Version: 202205171540
 # Title: oisd basic
-# Last modified: 17 May 2022 15:20 UTC
+# Last modified: 17 May 2022 15:40 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq                                                
@@ -2274,7 +2274,6 @@ address=/aboutads.quantcast.com/#
 address=/aboutharrypotter.fasthost.tv/#
 address=/abouthomesdecorating.com/#
 address=/aboutwebservices.com/#
-address=/above.com/#
 address=/abovede6.com/#
 address=/aboveredirect.top/#
 address=/abp.dummy280280.net/#
