@@ -1,6 +1,6 @@
-# Version: 202205181005
+# Version: 202205182233
 # Title: oisd extra
-# Last modified: 18 May 2022 10:05 UTC
+# Last modified: 18 May 2022 22:33 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains (wildcards)                                    
@@ -15,12 +15,9 @@
 *.247-inc.net
 *.2cnt.net
 *.2o7.net
-*.51yes.com
-*.66996.top
 *.6likosy.com
 *.76xs.com
 *.810251.com
-*.99click.com
 *.a-mo.net
 *.a.klaviyo.com
 *.a.wishabi.com
@@ -32,7 +29,6 @@
 *.ad-ettoday.cdn.hinet.net
 *.adash.man.aliyuncs.com
 *.adbrix.io
-*.adbukaserver.com
 *.adcell.com
 *.adcolo.com
 *.adform.net
@@ -82,7 +78,6 @@
 *.androidtvchannels-pa.googleapis.com
 *.androidtvwatsonfe-pa.googleapis.com
 *.anerqdd.ga
-*.angsrvr.com
 *.anqpq.cn
 *.aopxnvrugx.com
 *.apexstats.com
@@ -134,6 +129,7 @@
 *.bi.medscape.com
 *.biandaosheng.com
 *.bigdata.ssp.samsung.com
+*.bincun.xyz
 *.bizrate.com
 *.bkrtx.com
 *.blueconic.net
@@ -157,12 +153,9 @@
 *.bxkhoyrl.xyz
 *.c-api-bit.shopeemobile.com
 *.c.live.com
-*.c.microsoft.com
 *.c.msn.com
-*.c.t-online.de
 *.c212.net
 *.campaignmonitor.com
-*.castplatform.com
 *.cc-dt.com
 *.cdn-image.com
 *.cdn-net.com
@@ -175,7 +168,6 @@
 *.clickcease.com
 *.clickmeter.com
 *.clicktale.net
-*.client-event-reporter.twitch.tv
 *.cloudflareinsights.com
 *.cmp-cdn.ghostery.com
 *.cnetcontentsolutions.com
@@ -216,6 +208,7 @@
 *.data.mistat.india.xiaomi.com
 *.data.mistat.intl.xiaomi.com
 *.data.mistat.rus.xiaomi.com
+*.data.mistat.xiaomi.com
 *.datacaciques.com
 *.deals.macupdate.com
 *.decibelinsight.net
@@ -229,7 +222,6 @@
 *.digitaladvisor.dk
 *.djtflbt20bdde.cloudfront.net
 *.dkjrvgfozzhc.com
-*.dlyukun.cn
 *.dnsseed.bitcoin.dashjr.org
 *.dnsseed.bluematt.me
 *.do-not-tracker.org
@@ -237,16 +229,17 @@
 *.dotomi.com
 *.doubleclick.net
 *.dspultra.com
-*.dw998.com
 *.easycounter.com
 *.easysol.net
 *.edrone.me
 *.elastx.net
 *.ensighten.com
+*.entrecard.com
 *.epfcfhtjxqd.com
 *.er.search.naver.com
 *.ertongjiaju360.com
 *.etahub.com
+*.etl.tindersparks.com
 *.etzxnqfew.com
 *.eu.spgo.io
 *.eulerian.brandalley.fr
@@ -277,7 +270,6 @@
 *.feature.fm
 *.fg-z.com
 *.fireflyengagement.com
-*.fishhoo.com
 *.fkkse.com
 *.flexlinkspro.com
 *.flixcar.com
@@ -293,12 +285,10 @@
 *.fsdwd.xyz
 *.fullstory.com
 *.funcionapage.com
-*.galleyn.com
 *.gc.zgo.at
 *.gecko-sg.byteoversea.com
 *.gekko.spiceworks.com
 *.gemius.pl
-*.geo-idm.fr
 *.geoip-db.com
 *.geoip.nekudo.com
 *.geojs.io
@@ -308,7 +298,6 @@
 *.getpublica.com
 *.ghosthis.review
 *.giqepofa.com
-*.globalteaser.ru
 *.gnar.grammarly.com
 *.go-mpulse.net
 *.go2jump.org
@@ -326,6 +315,7 @@
 *.hit.interia.pl
 *.hitmarkerjobs.com
 *.hohosearch.com
+*.hongyangbg.com
 *.hostip.info
 *.hotelscombined.com.au
 *.hotkeys.com
@@ -347,12 +337,10 @@
 *.impactradius.com
 *.inaudiblecanteen.com
 *.includecheck.oisd.nl
-*.index.ru
 *.indexww.com
 *.inetinteractive.com
 *.informer.yandex.ru
 *.inquisition.goguardian.com
-*.inrool.com
 *.inside-graph.com
 *.insightexpress.com
 *.insightexpressai.com
@@ -371,9 +359,7 @@
 *.ist-track.com
 *.jdoqocy.com
 *.jeeng.com
-*.jgcq3003.com
 *.jivox.com
-*.jmp9.com
 *.journity.com
 *.jquery-cdn.download
 *.js-agent.newrelic.com
@@ -409,7 +395,6 @@
 *.logrocket.com
 *.logs.amap.com
 *.logs.datadoghq.eu
-*.logs.eu-west-1.amazonaws.com
 *.lomadee.com
 *.loptyinterva.xyz
 *.love-our.ru
@@ -427,7 +412,6 @@
 *.marinsm.com
 *.marketingautomation.services
 *.marketo.com
-*.masteroids.com
 *.mbsy.co
 *.md-nx.com
 *.measure.ic.tver.jp
@@ -442,29 +426,24 @@
 *.metrics.mzstatic.com
 *.milabra.com
 *.mindtake.com
-*.mistat.xiaomi.com
 *.mixi.media
 *.mkt51.net
 *.mlstat.com
 *.mmstat.com
 *.mmtro.com
-*.mobalyzer.net
 *.moengage.com
 *.moneroocean.stream
 *.moneyplatform.biz
 *.monitis.com
 *.mopinion.com
 *.movable-ink-397.com
-*.mp.huangye.miui.com
 *.mparticle.com
 *.mplxtms.com
 *.mrzikj.com
-*.mudezs.com
 *.multiview.com
 *.mustang-browser.com
 *.mxpnl.com
 *.myvisualiq.net
-*.nanovisor.io
 *.navaltophes.com
 *.naytev.com
 *.neemu.com
@@ -472,7 +451,6 @@
 *.netcore.co.in
 *.netcoresmartech.com
 *.netupdater.info
-*.news-easy.org
 *.nicesearches.com
 *.nil.naver.com
 *.njih.net
@@ -510,7 +488,6 @@
 *.pepperjamnetwork.com
 *.perfalytics.com
 *.perfdrive.com
-*.performancingads.com
 *.perimeterx.net
 *.perr.h-cdn.com
 *.pf.intuit.com
@@ -527,7 +504,6 @@
 *.pntra.com
 *.pntrac.com
 *.pntrs.com
-*.poorlydig.com
 *.ppcprotect.com
 *.ppro.de
 *.privacy-policy.truste.com
@@ -550,7 +526,6 @@
 *.r42tag.com
 *.ramp.purch.com
 *.rat.rakuten.co.jp
-*.realmedia.com
 *.realsrv.com
 *.recruitics.com
 *.recs.richrelevance.com
@@ -563,14 +538,12 @@
 *.register.xmpush.xiaomi.com
 *.relevant-digital.com
 *.researchnow.co.uk
-*.resolver.gslb.mi-idc.com
 *.resolver.msg.xiaomi.net
 *.resu8.hjfile.cn
 *.returnpath.net
 *.revcontent.com
 *.revmob.com
 *.rezync.com
-*.ritecounter.com
 *.rlcdn.com
 *.rnet.plus
 *.rockstorageplace.com
@@ -578,10 +551,7 @@
 *.rpts.org
 *.rubicon.wellsfargo.com
 *.rutrk.org
-*.s24hc8xzag.com
-*.s2s.rafotech.com
 *.sa.bbc.co.uk
-*.sa.bbc.com
 *.sail-horizon.com
 *.sakura.goguardian.com
 *.salemove.com
@@ -596,7 +566,6 @@
 *.seal.digicert.com
 *.seal.godaddy.com
 *.seal.networksolutions.com
-*.seal.verisign.com
 *.search2000s.com
 *.securemetrics.apple.com
 *.securitymetrics.com
@@ -611,8 +580,6 @@
 *.services.zam.com
 *.serving-sys.com
 *.sessioncam.com
-*.shengchaopiao.cn
-*.shenghuo.xiaomi.com
 *.shopperapproved.com
 *.siamzone.com
 *.sift.com
@@ -638,7 +605,6 @@
 *.stat24.com
 *.statcounter.com
 *.static.parsely.com
-*.statistiq.com
 *.stats.paypal.com
 *.stats.pusher.com
 *.statsevent.com
@@ -654,7 +620,6 @@
 *.sweetheartpartial.com
 *.t.appsflyer.com
 *.t.indeed.com
-*.t.vimeo.com
 *.t.wayfair.com
 *.taboola.com
 *.tacticalrepublic.com
@@ -664,13 +629,13 @@
 *.tagm.tchibo.de
 *.tapad.com
 *.taplytics.com
+*.tatjhh.cn
 *.tc.tradetracker.net
 *.tce.alicdn.com
 *.td563.com
 *.technical-service.net
 *.technoratimedia.com
 *.telemetry.soundcloud.com
-*.temnos.com
 *.thebestoffersintheweb.com
 *.thebrighttag.com
 *.thewebanswers.com
@@ -707,16 +672,13 @@
 *.unid.go.com
 *.universalsearches.com
 *.us.i1.yimg.com
-*.us04logfiles-va.zoom.us
 *.us04logfiles.zoom.us
 *.usabilla.com
 *.useinsider.com
 *.userreplay.net
-*.uzpmrbek.com
 *.v.shopify.com
 *.valuedopinions.co.uk
 *.vanjyvsr.com
-*.vbanm.com
 *.velaro.com
 *.verify.authorize.net
 *.veta.naver.com
@@ -740,7 +702,6 @@
 *.widget.trustpilot.com
 *.widgets.trustedshops.com
 *.wlaoc.cn
-*.wmhlch.com
 *.woopra.com
 *.wootric.com
 *.wsapi-global.master.live
@@ -753,20 +714,16 @@
 *.xapi.ozon.ru
 *.xclicks.net
 *.xkqpco.com
-*.xlmc.sec.miui.com
 *.xlog-va.musical.ly
 *.xn--wxtr9fwyxk9c.club
 *.xtxa.net
-*.xwell.ru
 *.yessearches.com
 *.yeswegays.com
-*.yingjiawm.com
 *.yixiangzhan.cn
-*.yohioo.com
 *.youboranqs01.com
 *.youndoo.com
 *.youvisit.com
+*.yuhuanjiuye.com
 *.zenaps.com
 *.zop381q5o0q1.com
 *.zugo.com
-*.zzbaowen.com
