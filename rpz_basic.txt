@@ -1,12 +1,12 @@
-; Version: 202205191535
+; Version: 202205191859
 ; Title: oisd basic
-; Last modified: 19 May 2022 15:35 UTC
+; Last modified: 19 May 2022 18:59 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1652974277 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1652986527 86400 3600 604800 30
  NS localhost.
 
 0.code.cotsta.ru CNAME .
@@ -18689,8 +18689,6 @@ balabass.peerserver.com CNAME .
 *.balabass.peerserver.com CNAME .
 balaglivetv.com CNAME .
 *.balaglivetv.com CNAME .
-balancebreath.com CNAME .
-*.balancebreath.com CNAME .
 balancemailbox.com CNAME .
 *.balancemailbox.com CNAME .
 balancer.devtodev.com CNAME .
@@ -94531,8 +94529,6 @@ ttapuycpjvjz.com CNAME .
 *.ttapuycpjvjz.com CNAME .
 ttarget.ru CNAME .
 *.ttarget.ru CNAME .
-ttauri.techradar.com CNAME .
-*.ttauri.techradar.com CNAME .
 ttayy.cn CNAME .
 *.ttayy.cn CNAME .
 ttbc33.com CNAME .
