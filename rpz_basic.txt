@@ -1,12 +1,12 @@
-; Version: 202205191004
+; Version: 202205191530
 ; Title: oisd basic
-; Last modified: 19 May 2022 10:04 UTC
+; Last modified: 19 May 2022 15:30 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1652954401 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1652974208 86400 3600 604800 30
  NS localhost.
 
 0.code.cotsta.ru CNAME .
@@ -59229,8 +59229,6 @@ ligatus.com CNAME .
 *.ligatus.com CNAME .
 ligatus.de CNAME .
 *.ligatus.de CNAME .
-lightboxcdn.com CNAME .
-*.lightboxcdn.com CNAME .
 lightcushion.com CNAME .
 *.lightcushion.com CNAME .
 lighterobliterate.com CNAME .
@@ -110227,3 +110225,4 @@ zzyytt.top CNAME .
 *.zzyytt.top CNAME .
 zzznews.ru CNAME .
 *.zzznews.ru CNAME .
+
