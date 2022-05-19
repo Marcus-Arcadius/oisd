@@ -1,6 +1,6 @@
-# Version: 202205182233
+# Version: 202205192204
 # Title: oisd extra
-# Last modified: 18 May 2022 22:33 UTC
+# Last modified: 19 May 2022 22:04 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq                                                
@@ -659,6 +659,7 @@ address=/traq.li/#
 address=/trbas.com/#
 address=/trbo.com/#
 address=/treehousei.com/#
+address=/treg.hearstnp.com/#
 address=/trk.pinterest.com/#
 address=/trotux.com/#
 address=/trourted.pro/#
