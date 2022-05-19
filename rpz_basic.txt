@@ -1,12 +1,12 @@
-; Version: 202205182232
+; Version: 202205190607
 ; Title: oisd basic
-; Last modified: 18 May 2022 22:32 UTC
+; Last modified: 19 May 2022 06:07 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1652911201 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1652940446 86400 3600 604800 30
  NS localhost.
 
 0.code.cotsta.ru CNAME .
@@ -30117,8 +30117,6 @@ d15kdpgjg3unno.cloudfront.net CNAME .
 *.d15kdpgjg3unno.cloudfront.net CNAME .
 d15nyyrvgr35tv.cloudfront.net CNAME .
 *.d15nyyrvgr35tv.cloudfront.net CNAME .
-d15r06k2ko210l.cloudfront.net CNAME .
-*.d15r06k2ko210l.cloudfront.net CNAME .
 d160mt023h8h3d.cloudfront.net CNAME .
 *.d160mt023h8h3d.cloudfront.net CNAME .
 d162nnmwf9bggr.cloudfront.net CNAME .
