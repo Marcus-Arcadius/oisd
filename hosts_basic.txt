@@ -1,6 +1,6 @@
-# Version: 202205201605
+# Version: 202205202204
 # Title: oisd basic
-# Last modified: 20 May 2022 16:05 UTC
+# Last modified: 20 May 2022 22:04 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Hosts                                                  
@@ -57005,6 +57005,7 @@
 0.0.0.0 stats.fd.nl
 0.0.0.0 stats.ficbook.net
 0.0.0.0 stats.fidelity-media.com
+0.0.0.0 stats.fifthstarlabs.io
 0.0.0.0 stats.firedrive.com
 0.0.0.0 stats.fomo.com
 0.0.0.0 stats.foxcounter.com

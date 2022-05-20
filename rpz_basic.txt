@@ -1,12 +1,12 @@
-; Version: 202205201605
+; Version: 202205202204
 ; Title: oisd basic
-; Last modified: 20 May 2022 16:05 UTC
+; Last modified: 20 May 2022 22:04 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1653062453 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1653084001 86400 3600 604800 30
  NS localhost.
 
 0.code.cotsta.ru CNAME .
@@ -91855,6 +91855,8 @@ stats.fd.nl CNAME .
 *.stats.fd.nl CNAME .
 stats.ficbook.net CNAME .
 *.stats.ficbook.net CNAME .
+stats.fifthstarlabs.io CNAME .
+*.stats.fifthstarlabs.io CNAME .
 stats.firedrive.com CNAME .
 *.stats.firedrive.com CNAME .
 stats.fomo.com CNAME .

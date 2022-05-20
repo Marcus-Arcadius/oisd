@@ -1,6 +1,6 @@
-# Version: 202205201605
+# Version: 202205202204
 # Title: oisd basic
-# Last modified: 20 May 2022 16:05 UTC
+# Last modified: 20 May 2022 22:04 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq                                                
@@ -45928,6 +45928,7 @@ address=/stats.fairmont.com/#
 address=/stats.fastcompany.com/#
 address=/stats.fd.nl/#
 address=/stats.ficbook.net/#
+address=/stats.fifthstarlabs.io/#
 address=/stats.firedrive.com/#
 address=/stats.fomo.com/#
 address=/stats.fr/#
