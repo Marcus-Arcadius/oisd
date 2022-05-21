@@ -1,6 +1,6 @@
-# Version: 202205211004
+# Version: 202205211227
 # Title: oisd basic
-# Last modified: 21 May 2022 10:04 UTC
+# Last modified: 21 May 2022 12:27 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq                                                
@@ -31926,7 +31926,6 @@ address=/mc.mmkkhhnn.cn/#
 address=/mc.tvzhe.com/#
 address=/mc.weather.com.cn/#
 address=/mc.yandex.com/#
-address=/mc.yandex.ru/#
 address=/mc876.com/#
 address=/mcafee-home.7eer.net/#
 address=/mcapublicschool.com/#
