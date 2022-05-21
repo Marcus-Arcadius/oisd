@@ -1,6 +1,6 @@
-# Version: 202205192204
+# Version: 202205211004
 # Title: oisd extra
-# Last modified: 19 May 2022 22:04 UTC
+# Last modified: 21 May 2022 10:04 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Hosts                                                  
@@ -241,7 +241,6 @@
 0.0.0.0 feature.fm
 0.0.0.0 fireflyengagement.com
 0.0.0.0 flexlinkspro.com
-0.0.0.0 flixcar.com
 0.0.0.0 flx1.com
 0.0.0.0 foreseeresults.com
 0.0.0.0 forestbrowser.com
@@ -261,6 +260,7 @@
 0.0.0.0 geoip.nekudo.com
 0.0.0.0 geojs.io
 0.0.0.0 geolocation-db.com
+0.0.0.0 geotrust.com
 0.0.0.0 getalinkandshare.com
 0.0.0.0 getblueshift.com
 0.0.0.0 getpublica.com
@@ -777,7 +777,6 @@
 0.0.0.0 www.fg-z.com
 0.0.0.0 www.fireflyengagement.com
 0.0.0.0 www.fkkse.com
-0.0.0.0 www.flixcar.com
 0.0.0.0 www.foreseeresults.com
 0.0.0.0 www.forestbrowser.com
 0.0.0.0 www.forter.com
@@ -790,6 +789,7 @@
 0.0.0.0 www.geoip-db.com
 0.0.0.0 www.geojs.io
 0.0.0.0 www.geolocation-db.com
+0.0.0.0 www.geotrust.com
 0.0.0.0 www.getalinkandshare.com
 0.0.0.0 www.getblueshift.com
 0.0.0.0 www.getpublica.com
