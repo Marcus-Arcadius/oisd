@@ -1,6 +1,6 @@
-# Version: 202205211004
+# Version: 202205211255
 # Title: oisd extra
-# Last modified: 21 May 2022 10:04 UTC
+# Last modified: 21 May 2022 12:55 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains (wildcards)                                    
@@ -33,7 +33,6 @@
 *.adcolo.com
 *.adform.net
 *.adjust.com
-*.adk2.net
 *.adnetasia.com
 *.adnxs.com
 *.adocean.pl
@@ -41,7 +40,6 @@
 *.adpushup.com
 *.adregain.com
 *.adrelayer.com
-*.ads.eorezo.com
 *.ads.google.com
 *.ads.reddit.com
 *.adsafeprotected.com
@@ -49,7 +47,6 @@
 *.adserver.snapads.com
 *.adservice.google.com
 *.adservicemedia.dk
-*.adssyscom.com
 *.adtrackers.net
 *.adtraction.com
 *.advertising.com
@@ -95,7 +92,6 @@
 *.app.chat.xiaomi.net
 *.appboy-images.com
 *.appcast.io
-*.applog.uc.cn
 *.appmetrica.yandex.com
 *.artfin.club
 *.asadcdn.com
@@ -106,7 +102,6 @@
 *.assoc-amazon.fr
 *.assoc-amazon.jp
 *.at-o.net
-*.attirerpage.com
 *.attracta.com
 *.auditude.com
 *.auth.be.sec.miui.com
@@ -141,7 +136,6 @@
 *.bp01.net
 *.bridgetrack.com
 *.brightedge.com
-*.bro3.biz
 *.bronto.com
 *.browser-update.org
 *.browser.events.data.microsoft.com
@@ -176,7 +170,6 @@
 *.collect.media.jio.com
 *.commander1.com
 *.commission-junction.com
-*.conduit-services.com
 *.config.uca.cloud.unity3d.com
 *.consent-manager-events.ogury.io
 *.conversions.appsflyer.com
@@ -187,7 +180,6 @@
 *.cptrack.de
 *.cquotient.com
 *.criteo.com
-*.crossrider.com
 *.csr.onet.pl
 *.cst.cstwpush.com
 *.cts.businesswire.com
@@ -217,7 +209,6 @@
 *.demandbase.com
 *.demdex.net
 *.demotesusceptible.com
-*.detectvid.com
 *.dev.appboy.com
 *.digitaladvisor.dk
 *.djtflbt20bdde.cloudfront.net
@@ -274,7 +265,6 @@
 *.flexlinkspro.com
 *.flx1.com
 *.foreseeresults.com
-*.forestbrowser.com
 *.forter.com
 *.fourier.taobao.com
 *.freegeoip.app
@@ -283,7 +273,6 @@
 *.frontier.musical.ly
 *.fsdwd.xyz
 *.fullstory.com
-*.funcionapage.com
 *.gc.zgo.at
 *.gecko-sg.byteoversea.com
 *.gekko.spiceworks.com
@@ -297,7 +286,6 @@
 *.getblueshift.com
 *.getpublica.com
 *.ghosthis.review
-*.giqepofa.com
 *.gnar.grammarly.com
 *.go-mpulse.net
 *.go2jump.org
@@ -314,7 +302,6 @@
 *.gvt2.com
 *.hit.interia.pl
 *.hitmarkerjobs.com
-*.hohosearch.com
 *.hongyangbg.com
 *.hostip.info
 *.hotelscombined.com.au
@@ -329,11 +316,9 @@
 *.i.viafoura.co
 *.iam-agof-app.irquest.com
 *.ib.snssdk.com
-*.ibryte.com
 *.ichnaea-web.netflix.com
 *.ichnaea.netflix.com
 *.idealmedia.io
-*.igg.biz
 *.impactradius.com
 *.inaudiblecanteen.com
 *.includecheck.oisd.nl
@@ -376,7 +361,6 @@
 *.l2.io
 *.lashquivercakes.com
 *.lcs.naver.com
-*.leadboltads.net
 *.leadpages.net
 *.leanplum.com
 *.lgsmartad.com
@@ -399,9 +383,7 @@
 *.loptyinterva.xyz
 *.love-our.ru
 *.luckyorange.com
-*.luckysearch123.com
 *.lyczhb.com
-*.m2pub.com
 *.m365log.com
 *.mabaya.com
 *.magicplayer-api.torrentstream.org
@@ -413,6 +395,7 @@
 *.marketingautomation.services
 *.marketo.com
 *.mbsy.co
+*.mc.yandex.ru
 *.md-nx.com
 *.measure.ic.tver.jp
 *.media01.eu
@@ -428,7 +411,6 @@
 *.mindtake.com
 *.mixi.media
 *.mkt51.net
-*.mlstat.com
 *.mmstat.com
 *.mmtro.com
 *.moengage.com
@@ -441,7 +423,6 @@
 *.mplxtms.com
 *.mrzikj.com
 *.multiview.com
-*.mustang-browser.com
 *.mxpnl.com
 *.myvisualiq.net
 *.navaltophes.com
@@ -451,7 +432,6 @@
 *.netcore.co.in
 *.netcoresmartech.com
 *.netupdater.info
-*.nicesearches.com
 *.nil.naver.com
 *.njih.net
 *.nmetrics.samsung.com
@@ -468,8 +448,6 @@
 *.om.cbsi.com
 *.omarsys.com
 *.onenetworkdirect.net
-*.online-adnetwork.com
-*.ooxxsearch.com
 *.open.oneplus.net
 *.optinmonster.com
 *.overture.com
@@ -510,7 +488,6 @@
 *.promoted.soundcloud.com
 *.prvsz4pe.micpn.com
 *.publicidees.com
-*.pubmatic.com
 *.pushwelcome.com
 *.pushwoosh.com
 *.pv.sohu.com
@@ -542,11 +519,9 @@
 *.resu8.hjfile.cn
 *.returnpath.net
 *.revcontent.com
-*.revmob.com
 *.rezync.com
 *.rlcdn.com
 *.rnet.plus
-*.rockstorageplace.com
 *.rousedmilk.com
 *.rpts.org
 *.rubicon.wellsfargo.com
@@ -566,7 +541,6 @@
 *.seal.digicert.com
 *.seal.godaddy.com
 *.seal.networksolutions.com
-*.search2000s.com
 *.securemetrics.apple.com
 *.securitymetrics.com
 *.sedoparking.com
@@ -584,7 +558,6 @@
 *.siamzone.com
 *.sift.com
 *.siftscience.com
-*.simpliftsbefore.info
 *.sitemobia.com
 *.siteplug.com
 *.sitetoway.com
@@ -600,7 +573,6 @@
 *.srvtrck.com
 *.sspapi-prd.samsungrs.com
 *.sstats.adobe.com
-*.startpageing123.com
 *.stat.download.xunlei.com
 *.stat24.com
 *.statcounter.com
@@ -632,14 +604,10 @@
 *.tatjhh.cn
 *.tc.tradetracker.net
 *.tce.alicdn.com
-*.td563.com
 *.technical-service.net
 *.technoratimedia.com
 *.telemetry.soundcloud.com
-*.thebestoffersintheweb.com
 *.thebrighttag.com
-*.thewebanswers.com
-*.tidaltv.com
 *.tm.tradetracker.net
 *.tms-st.cdn.ngenix.net
 *.todhamilton.pro
@@ -664,14 +632,12 @@
 *.treehousei.com
 *.treg.hearstnp.com
 *.trk.pinterest.com
-*.trotux.com
 *.trourted.pro
 *.uamobile.net
 *.uarating.com
 *.ue.flipboard.com
 *.uid.mavencoalition.io
 *.unid.go.com
-*.universalsearches.com
 *.us.i1.yimg.com
 *.us04logfiles.zoom.us
 *.usabilla.com
@@ -690,7 +656,6 @@
 *.vortex.data.microsoft.com
 *.vortex.hulu.com
 *.w88.espn.com
-*.walasearch.com
 *.waptrick.com
 *.we-stats.com
 *.webcare.byside.com
@@ -718,13 +683,10 @@
 *.xlog-va.musical.ly
 *.xn--wxtr9fwyxk9c.club
 *.xtxa.net
-*.yessearches.com
 *.yeswegays.com
 *.yixiangzhan.cn
 *.youboranqs01.com
-*.youndoo.com
 *.youvisit.com
 *.yuhuanjiuye.com
 *.zenaps.com
 *.zop381q5o0q1.com
-*.zugo.com
