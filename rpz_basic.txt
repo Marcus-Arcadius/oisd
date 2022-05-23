@@ -1,12 +1,12 @@
-; Version: 202205222204
+; Version: 202205231004
 ; Title: oisd basic
-; Last modified: 22 May 2022 22:04 UTC
+; Last modified: 23 May 2022 10:04 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1653256831 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1653300001 86400 3600 604800 30
  NS localhost.
 
 0.code.cotsta.ru CNAME .
@@ -4189,6 +4189,8 @@ aau8.xyz CNAME .
 *.aau8.xyz CNAME .
 aau9.xyz CNAME .
 *.aau9.xyz CNAME .
+aawulszemel.com CNAME .
+*.aawulszemel.com CNAME .
 aax-us-east-retail-direct.amazon-adsystem.com CNAME .
 *.aax-us-east-retail-direct.amazon-adsystem.com CNAME .
 aax-us-east-retail-direct.amazon.com CNAME .
@@ -16157,6 +16159,8 @@ arthyredir.com CNAME .
 *.arthyredir.com CNAME .
 artisan-digital.cn CNAME .
 *.artisan-digital.cn CNAME .
+artisticbuoyemphasize.com CNAME .
+*.artisticbuoyemphasize.com CNAME .
 artpever.com CNAME .
 *.artpever.com CNAME .
 artreconnect.com CNAME .
@@ -31211,6 +31215,8 @@ dacui.online CNAME .
 *.dacui.online CNAME .
 dadawm.cc CNAME .
 *.dadawm.cc CNAME .
+daddychess.online CNAME .
+*.daddychess.online CNAME .
 daddywu.cn CNAME .
 *.daddywu.cn CNAME .
 dadedaxue.com CNAME .
@@ -31875,6 +31881,8 @@ dd7bet.me CNAME .
 *.dd7bet.me CNAME .
 ddacn6pr5v0tl.cloudfront.net CNAME .
 *.ddacn6pr5v0tl.cloudfront.net CNAME .
+ddajztoum.com CNAME .
+*.ddajztoum.com CNAME .
 ddanq.com CNAME .
 *.ddanq.com CNAME .
 ddb85f4fd9.com CNAME .
@@ -34649,6 +34657,8 @@ dtv5loup63fac.cloudfront.net CNAME .
 *.dtv5loup63fac.cloudfront.net CNAME .
 dtvc.adsafeprotected.com CNAME .
 *.dtvc.adsafeprotected.com CNAME .
+dtwangicrur.com CNAME .
+*.dtwangicrur.com CNAME .
 dtxngr.com CNAME .
 *.dtxngr.com CNAME .
 dtxtngytz5im1.cloudfront.net CNAME .
@@ -40873,6 +40883,8 @@ fun705.com CNAME .
 *.fun705.com CNAME .
 fun7778.com CNAME .
 *.fun7778.com CNAME .
+fun881211.com CNAME .
+*.fun881211.com CNAME .
 funcionapage.com CNAME .
 *.funcionapage.com CNAME .
 functionalclam.com CNAME .
@@ -41059,6 +41071,8 @@ fwccw.com CNAME .
 *.fwccw.com CNAME .
 fwias.adsafeprotected.com CNAME .
 *.fwias.adsafeprotected.com CNAME .
+fwlgepp.cn CNAME .
+*.fwlgepp.cn CNAME .
 fwnetrb.cn CNAME .
 *.fwnetrb.cn CNAME .
 fwnowvgk.com CNAME .
@@ -46011,6 +46025,8 @@ hivecn.cn CNAME .
 *.hivecn.cn CNAME .
 hivideoworld.com CNAME .
 *.hivideoworld.com CNAME .
+hiwfaoa.cn CNAME .
+*.hiwfaoa.cn CNAME .
 hizlireklam.com CNAME .
 *.hizlireklam.com CNAME .
 hjgd.ltd CNAME .
@@ -51171,6 +51187,8 @@ jiujiupk.com CNAME .
 *.jiujiupk.com CNAME .
 jiuku.cc CNAME .
 *.jiuku.cc CNAME .
+jiulingdl.cn CNAME .
+*.jiulingdl.cn CNAME .
 jiulx.com CNAME .
 *.jiulx.com CNAME .
 jiusty.com CNAME .
@@ -60433,6 +60451,8 @@ mkoh.top CNAME .
 *.mkoh.top CNAME .
 mkontakt.az CNAME .
 *.mkontakt.az CNAME .
+mkscuty.cn CNAME .
+*.mkscuty.cn CNAME .
 mkt.hoanghamobile.com CNAME .
 *.mkt.hoanghamobile.com CNAME .
 mkt10.122.2o7.net CNAME .
@@ -62097,6 +62117,8 @@ muvimtim.com CNAME .
 *.muvimtim.com CNAME .
 muwmedia.com CNAME .
 *.muwmedia.com CNAME .
+muwootch.com CNAME .
+*.muwootch.com CNAME .
 muybjar.cn CNAME .
 *.muybjar.cn CNAME .
 muyijia.shop CNAME .
@@ -73103,6 +73125,8 @@ qrlsx.com CNAME .
 *.qrlsx.com CNAME .
 qrstes.com CNAME .
 *.qrstes.com CNAME .
+qrzogzy.cn CNAME .
+*.qrzogzy.cn CNAME .
 qs.ioam.de CNAME .
 *.qs.ioam.de CNAME .
 qs01.cn CNAME .
@@ -80177,6 +80201,8 @@ silversomewhatbudget.com CNAME .
 *.silversomewhatbudget.com CNAME .
 silvesterinmailand.com CNAME .
 *.silvesterinmailand.com CNAME .
+simajl.top CNAME .
+*.simajl.top CNAME .
 simaoer.com CNAME .
 *.simaoer.com CNAME .
 simastudio.cn CNAME .
@@ -87963,6 +87989,8 @@ tiankongzudui.com CNAME .
 *.tiankongzudui.com CNAME .
 tianlule.cn CNAME .
 *.tianlule.cn CNAME .
+tianqi1212.com CNAME .
+*.tianqi1212.com CNAME .
 tianqi777.com CNAME .
 *.tianqi777.com CNAME .
 tiantai.ink CNAME .
@@ -97859,6 +97887,8 @@ wrotr.com CNAME .
 *.wrotr.com CNAME .
 wrtm.walla.co.il CNAME .
 *.wrtm.walla.co.il CNAME .
+wru795e.cn CNAME .
+*.wru795e.cn CNAME .
 wryfinger.com CNAME .
 *.wryfinger.com CNAME .
 wrygraphicstheme.com CNAME .
@@ -98565,6 +98595,8 @@ xavingtsun.com CNAME .
 *.xavingtsun.com CNAME .
 xawab.com CNAME .
 *.xawab.com CNAME .
+xawmgspvdvyrnrd.com CNAME .
+*.xawmgspvdvyrnrd.com CNAME .
 xaxdwz.xyz CNAME .
 *.xaxdwz.xyz CNAME .
 xaxoro.com CNAME .
@@ -99917,6 +99949,8 @@ yfzjhvllsioo.com CNAME .
 *.yfzjhvllsioo.com CNAME .
 ygamhusjtdzajm.com CNAME .
 *.ygamhusjtdzajm.com CNAME .
+ygetatleiomrrr.com CNAME .
+*.ygetatleiomrrr.com CNAME .
 yggkzs.cn CNAME .
 *.yggkzs.cn CNAME .
 ygqjt.cn CNAME .
