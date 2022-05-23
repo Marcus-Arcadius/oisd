@@ -1,6 +1,6 @@
-# Version: 202205211255
+# Version: 202205231744
 # Title: oisd extra
-# Last modified: 21 May 2022 12:55 UTC
+# Last modified: 23 May 2022 17:44 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Hosts                                                  
@@ -500,6 +500,7 @@
 0.0.0.0 siftscience.com
 0.0.0.0 siteplug.com
 0.0.0.0 sitetracker.com
+0.0.0.0 smartlock.google.com
 0.0.0.0 smartlook.com
 0.0.0.0 smetrics.aem.playstation.com
 0.0.0.0 smetrics.discover.com
