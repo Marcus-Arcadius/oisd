@@ -1,12 +1,12 @@
-; Version: 202205242219
+; Version: 202205242305
 ; Title: oisd basic
-; Last modified: 24 May 2022 22:19 UTC
+; Last modified: 24 May 2022 23:05 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1653429602 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1653433300 86400 3600 604800 30
  NS localhost.
 
 0.code.cotsta.ru CNAME .
@@ -17913,8 +17913,6 @@ asdhit.com CNAME .
 *.asdhit.com CNAME .
 asdkd.tutuapp.com CNAME .
 *.asdkd.tutuapp.com CNAME .
-asdllran2.tk CNAME .
-*.asdllran2.tk CNAME .
 asdnow.xyz CNAME .
 *.asdnow.xyz CNAME .
 asdpoi.com CNAME .
@@ -21117,8 +21115,6 @@ beabsolom.com CNAME .
 *.beabsolom.com CNAME .
 beach-trk.com CNAME .
 *.beach-trk.com CNAME .
-beachconection.com CNAME .
-*.beachconection.com CNAME .
 beachfrontio.com CNAME .
 *.beachfrontio.com CNAME .
 beachrule.com CNAME .
@@ -41161,8 +41157,6 @@ exapxl.de CNAME .
 *.exapxl.de CNAME .
 exarchybonging.com CNAME .
 *.exarchybonging.com CNAME .
-exartn.tk CNAME .
-*.exartn.tk CNAME .
 exasked.com CNAME .
 *.exasked.com CNAME .
 exc.ns.nl CNAME .
@@ -44349,8 +44343,6 @@ freshmate.com.cn CNAME .
 *.freshmate.com.cn CNAME .
 freshplum.com CNAME .
 *.freshplum.com CNAME .
-freshzz00.duckdns.org CNAME .
-*.freshzz00.duckdns.org CNAME .
 fretfulfurniture.com CNAME .
 *.fretfulfurniture.com CNAME .
 frevi.net CNAME .
@@ -80959,8 +80951,6 @@ rdsb2.club CNAME .
 *.rdsb2.club CNAME .
 rdsb21.club CNAME .
 *.rdsb21.club CNAME .
-rdsort.fun CNAME .
-*.rdsort.fun CNAME .
 rdsvsh.com CNAME .
 *.rdsvsh.com CNAME .
 rdtk.io CNAME .
@@ -84583,8 +84573,6 @@ san-spr-01.net CNAME .
 *.san-spr-01.net CNAME .
 sana.newsinc.com.s3.amazonaws.com CNAME .
 *.sana.newsinc.com.s3.amazonaws.com CNAME .
-sanaadlin.tk CNAME .
-*.sanaadlin.tk CNAME .
 sanalreklam.com CNAME .
 *.sanalreklam.com CNAME .
 sanalytics.ncaa.com CNAME .
