@@ -1,12 +1,12 @@
-; Version: 202205231744
+; Version: 202205252135
 ; Title: oisd extra
-; Last modified: 23 May 2022 17:44 UTC
+; Last modified: 25 May 2022 21:35 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1653325300 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1653513542 86400 3600 604800 30
  NS localhost.
 
 0346420d60.com CNAME .
@@ -41,12 +41,16 @@ a5ee094155.com CNAME .
 *.a5ee094155.com CNAME .
 aan.amazon.com CNAME .
 *.aan.amazon.com CNAME .
+absolstats.co.za CNAME .
+*.absolstats.co.za CNAME .
 accesstrade.co.id CNAME .
 *.accesstrade.co.id CNAME .
 ace.naver.com CNAME .
 *.ace.naver.com CNAME .
 ad-ettoday.cdn.hinet.net CNAME .
 *.ad-ettoday.cdn.hinet.net CNAME .
+ad-server.co.za CNAME .
+*.ad-server.co.za CNAME .
 adash.man.aliyuncs.com CNAME .
 *.adash.man.aliyuncs.com CNAME .
 adbrix.io CNAME .
@@ -101,6 +105,8 @@ affex.org CNAME .
 *.affex.org CNAME .
 affiliatefuture.com CNAME .
 *.affiliatefuture.com CNAME .
+affiliatenetwork.co.za CNAME .
+*.affiliatenetwork.co.za CNAME .
 afy11.net CNAME .
 *.afy11.net CNAME .
 agacelebir.com CNAME .
@@ -213,6 +219,8 @@ baidutuapi.com CNAME .
 *.baidutuapi.com CNAME .
 bam-x.com CNAME .
 *.bam-x.com CNAME .
+bannerignition.co.za CNAME .
+*.bannerignition.co.za CNAME .
 bannertrack.net CNAME .
 *.bannertrack.net CNAME .
 baremetrics.com CNAME .
@@ -773,6 +781,8 @@ magicplayer-s.torrentstream.org CNAME .
 *.magicplayer-s.torrentstream.org CNAME .
 mairdumont.com CNAME .
 *.mairdumont.com CNAME .
+marbil24.co.za CNAME .
+*.marbil24.co.za CNAME .
 marfeelcache.com CNAME .
 *.marfeelcache.com CNAME .
 marinsm.com CNAME .
@@ -1149,6 +1159,8 @@ statcounter.com CNAME .
 *.statcounter.com CNAME .
 static.parsely.com CNAME .
 *.static.parsely.com CNAME .
+stats.itweb.co.za CNAME .
+*.stats.itweb.co.za CNAME .
 stats.paypal.com CNAME .
 *.stats.paypal.com CNAME .
 stats.pusher.com CNAME .
@@ -1209,6 +1221,8 @@ technoratimedia.com CNAME .
 *.technoratimedia.com CNAME .
 telemetry.soundcloud.com CNAME .
 *.telemetry.soundcloud.com CNAME .
+tencent.xn--io0a7i CNAME .
+*.tencent.xn--io0a7i CNAME .
 thebrighttag.com CNAME .
 *.thebrighttag.com CNAME .
 tm.tradetracker.net CNAME .
@@ -1221,6 +1235,8 @@ tools.ranker.com CNAME .
 *.tools.ranker.com CNAME .
 torimochi.line-apps.com CNAME .
 *.torimochi.line-apps.com CNAME .
+toutiao.xn--fiqs8s CNAME .
+*.toutiao.xn--fiqs8s CNAME .
 tr.snapchat.com CNAME .
 *.tr.snapchat.com CNAME .
 track.effiliation.com CNAME .
@@ -1313,6 +1329,8 @@ we-stats.com CNAME .
 *.we-stats.com CNAME .
 webcare.byside.com CNAME .
 *.webcare.byside.com CNAME .
+webcounter.co.za CNAME .
+*.webcounter.co.za CNAME .
 webgains.com CNAME .
 *.webgains.com CNAME .
 webhop.net CNAME .

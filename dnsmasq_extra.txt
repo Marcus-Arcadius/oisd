@@ -1,6 +1,6 @@
-# Version: 202205231744
+# Version: 202205252135
 # Title: oisd extra
-# Last modified: 23 May 2022 17:44 UTC
+# Last modified: 25 May 2022 21:35 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq                                                
@@ -21,9 +21,11 @@ address=/a.wishabi.com/#
 address=/a2.xinhuanet.com/#
 address=/a5ee094155.com/#
 address=/aan.amazon.com/#
+address=/absolstats.co.za/#
 address=/accesstrade.co.id/#
 address=/ace.naver.com/#
 address=/ad-ettoday.cdn.hinet.net/#
+address=/ad-server.co.za/#
 address=/adash.man.aliyuncs.com/#
 address=/adbrix.io/#
 address=/adcell.com/#
@@ -51,6 +53,7 @@ address=/advertland.ru/#
 address=/adzerk.net/#
 address=/affex.org/#
 address=/affiliatefuture.com/#
+address=/affiliatenetwork.co.za/#
 address=/afy11.net/#
 address=/agacelebir.com/#
 address=/agkn.com/#
@@ -107,6 +110,7 @@ address=/awin1.com/#
 address=/azadify.com/#
 address=/baidutuapi.com/#
 address=/bam-x.com/#
+address=/bannerignition.co.za/#
 address=/bannertrack.net/#
 address=/baremetrics.com/#
 address=/bc0a.com/#
@@ -387,6 +391,7 @@ address=/magicplayer-api.torrentstream.org/#
 address=/magicplayer-s.acestream.net/#
 address=/magicplayer-s.torrentstream.org/#
 address=/mairdumont.com/#
+address=/marbil24.co.za/#
 address=/marfeelcache.com/#
 address=/marinsm.com/#
 address=/marketingautomation.services/#
@@ -575,6 +580,7 @@ address=/stat.download.xunlei.com/#
 address=/stat24.com/#
 address=/statcounter.com/#
 address=/static.parsely.com/#
+address=/stats.itweb.co.za/#
 address=/stats.paypal.com/#
 address=/stats.pusher.com/#
 address=/statsevent.com/#
@@ -605,12 +611,14 @@ address=/tce.alicdn.com/#
 address=/technical-service.net/#
 address=/technoratimedia.com/#
 address=/telemetry.soundcloud.com/#
+address=/tencent.xn--io0a7i/#
 address=/thebrighttag.com/#
 address=/tm.tradetracker.net/#
 address=/tms-st.cdn.ngenix.net/#
 address=/todhamilton.pro/#
 address=/tools.ranker.com/#
 address=/torimochi.line-apps.com/#
+address=/toutiao.xn--fiqs8s/#
 address=/tr.snapchat.com/#
 address=/track.effiliation.com/#
 address=/track.nzz.ch/#
@@ -657,6 +665,7 @@ address=/w88.espn.com/#
 address=/waptrick.com/#
 address=/we-stats.com/#
 address=/webcare.byside.com/#
+address=/webcounter.co.za/#
 address=/webgains.com/#
 address=/webhop.net/#
 address=/webmasterplan.com/#
