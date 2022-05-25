@@ -1,12 +1,12 @@
-; Version: 202205242305
+; Version: 202205251004
 ; Title: oisd basic
-; Last modified: 24 May 2022 23:05 UTC
+; Last modified: 25 May 2022 10:04 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1653433300 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1653472802 86400 3600 604800 30
  NS localhost.
 
 0.code.cotsta.ru CNAME .
@@ -3987,8 +3987,6 @@ a.vtvdigital.vn CNAME .
 *.a.vtvdigital.vn CNAME .
 a.w3techs.com CNAME .
 *.a.w3techs.com CNAME .
-a.walla.co.il CNAME .
-*.a.walla.co.il CNAME .
 a.wanzhuang.com CNAME .
 *.a.wanzhuang.com CNAME .
 a.watchomovies.com CNAME .
@@ -10493,8 +10491,6 @@ adserv.impactengine.com CNAME .
 *.adserv.impactengine.com CNAME .
 adserv.maineguide.com CNAME .
 *.adserv.maineguide.com CNAME .
-adserv.mako.co.il CNAME .
-*.adserv.mako.co.il CNAME .
 adserv.mywebtimes.com CNAME .
 *.adserv.mywebtimes.com CNAME .
 adserv.net CNAME .
@@ -30557,26 +30553,8 @@ content.seerealgirls.com CNAME .
 *.content.seerealgirls.com CNAME .
 content.thrixxx.com CNAME .
 *.content.thrixxx.com CNAME .
-content1.pcmweb.nl CNAME .
-*.content1.pcmweb.nl CNAME .
-content1.pu.nl CNAME .
-*.content1.pu.nl CNAME .
-content1.wasmachines.nl CNAME .
-*.content1.wasmachines.nl CNAME .
-content1.zoom.nl CNAME .
-*.content1.zoom.nl CNAME .
-content2.besteproduct.nl CNAME .
-*.content2.besteproduct.nl CNAME .
-content2.kieskeurig.nl CNAME .
-*.content2.kieskeurig.nl CNAME .
 content2.nrc.nl CNAME .
 *.content2.nrc.nl CNAME .
-content2.pu.nl CNAME .
-*.content2.pu.nl CNAME .
-content2.wasmachines.nl CNAME .
-*.content2.wasmachines.nl CNAME .
-content2.zoom.nl CNAME .
-*.content2.zoom.nl CNAME .
 contentabc.com CNAME .
 *.contentabc.com CNAME .
 contentcleaner.com CNAME .
@@ -32057,8 +32035,6 @@ crmmetrixwris.com CNAME .
 *.crmmetrixwris.com CNAME .
 crmpilot.it CNAME .
 *.crmpilot.it CNAME .
-crnsgngrpj.nl CNAME .
-*.crnsgngrpj.nl CNAME .
 cro.fi-tsunagu.com CNAME .
 *.cro.fi-tsunagu.com CNAME .
 croakflabbyconsume.com CNAME .
@@ -41409,8 +41385,6 @@ exportspring.com CNAME .
 *.exportspring.com CNAME .
 exposebox.com CNAME .
 *.exposebox.com CNAME .
-exposeboxwallashops.blob.core.windows.net CNAME .
-*.exposeboxwallashops.blob.core.windows.net CNAME .
 exposuremixed.com CNAME .
 *.exposuremixed.com CNAME .
 expotb.com CNAME .
@@ -49171,26 +49145,8 @@ harvester.hnonline.sk CNAME .
 *.harvester.hnonline.sk CNAME .
 harvesttheory.com CNAME .
 *.harvesttheory.com CNAME .
-hasdarot.club CNAME .
-*.hasdarot.club CNAME .
-hasdarot.co CNAME .
-*.hasdarot.co CNAME .
-hasdarot.com CNAME .
-*.hasdarot.com CNAME .
-hasdarot.live CNAME .
-*.hasdarot.live CNAME .
 hasdarot.me CNAME .
 *.hasdarot.me CNAME .
-hasdarot.net CNAME .
-*.hasdarot.net CNAME .
-hasdarot.pro CNAME .
-*.hasdarot.pro CNAME .
-hasdarot.space CNAME .
-*.hasdarot.space CNAME .
-hasdarot.tv CNAME .
-*.hasdarot.tv CNAME .
-hasdarot.xyz CNAME .
-*.hasdarot.xyz CNAME .
 hasdrs.com CNAME .
 *.hasdrs.com CNAME .
 hash-hash-tag.com CNAME .
@@ -51005,8 +50961,6 @@ houanjijuxie.cn CNAME .
 *.houanjijuxie.cn CNAME .
 houbaotech.cn CNAME .
 *.houbaotech.cn CNAME .
-houdini.haaretz.co.il CNAME .
-*.houdini.haaretz.co.il CNAME .
 houdodoo.net CNAME .
 *.houdodoo.net CNAME .
 houfang8.com CNAME .
@@ -61613,8 +61567,6 @@ losingoldfry.com CNAME .
 *.losingoldfry.com CNAME .
 losital.ru CNAME .
 *.losital.ru CNAME .
-losittooday.info CNAME .
-*.losittooday.info CNAME .
 losstrack.com CNAME .
 *.losstrack.com CNAME .
 lostartofbeingadame.com CNAME .
@@ -70023,8 +69975,6 @@ noisesneezehatred.com CNAME .
 *.noisesneezehatred.com CNAME .
 noisysortcasualty.com CNAME .
 *.noisysortcasualty.com CNAME .
-nojazz.eu CNAME .
-*.nojazz.eu CNAME .
 nojsstats.appspot.com CNAME .
 *.nojsstats.appspot.com CNAME .
 nokaut.link CNAME .
@@ -85315,8 +85265,6 @@ sdc.lef.org CNAME .
 *.sdc.lef.org CNAME .
 sdc.livingchoices.com CNAME .
 *.sdc.livingchoices.com CNAME .
-sdc.mako.co.il CNAME .
-*.sdc.mako.co.il CNAME .
 sdc.mcafee.com CNAME .
 *.sdc.mcafee.com CNAME .
 sdc.netiq.com CNAME .
@@ -106817,8 +106765,6 @@ wroton.com CNAME .
 *.wroton.com CNAME .
 wrotr.com CNAME .
 *.wrotr.com CNAME .
-wrtm.walla.co.il CNAME .
-*.wrtm.walla.co.il CNAME .
 wru795e.cn CNAME .
 *.wru795e.cn CNAME .
 wryfinger.com CNAME .
