@@ -1,6 +1,6 @@
-# Version: 202205252135
+# Version: 202205252222
 # Title: oisd extra
-# Last modified: 25 May 2022 21:35 UTC
+# Last modified: 25 May 2022 22:22 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains (wildcards)                                    
@@ -8,16 +8,100 @@
 # All domains ánd their subdomains should be blocked
 # Entry: "*.example.com" should block access to "example.com" and "subdomain.example.com" but not "thiseexample.com"
 
+*.0.code.cotsta.ru
 *.0346420d60.com
 *.0emm.com
 *.0emn.com
 *.0fmm.com
+*.1.01fy.cn
+*.1.07swz.com
+*.1.1010pic.com
+*.1.11130.com.cn
+*.1.11467.com
+*.1.5000yan.com
+*.1.51dongshi.com
+*.1.51sxue.cn
+*.1.66law.cn
+*.1.78500.cn
+*.1.800400.net
+*.1.92caijing.com
+*.1.ajiyuming.com
+*.1.arpun.com
+*.1.bh5.com.cn
+*.1.ccutu.com
+*.1.cjcp.cn
+*.1.codesdq.com
+*.1.feihua.com
+*.1.feihua.net.cn
+*.1.glook.cn
+*.1.hao123.com
+*.1.idc100.com
+*.1.isanxia.com
+*.1.jiqie.cn
+*.1.jushtong.com
+*.1.kuaidiwo.cn
+*.1.lishibu.com
+*.1.lvshi567.com
+*.1.mgff.com
+*.1.mm100.com
+*.1.pncdn.cn
+*.1.qjhm.net
+*.1.rr95.com
+*.1.shopit.cn
+*.1.sj33.net
+*.1.soufy.cn
+*.1.tecbbs.com
+*.1.ttxs123.net
+*.1.uc129.com
+*.1.ufc123.com
+*.1.ufc7.com
+*.1.v-x.com.cn
+*.1.vsimg.com
+*.1.weiheshidai.com
+*.1.xilu.com
+*.1.xuexili.com
+*.1.yac8.net
+*.1.yuexw.com
+*.1.yxzw.com.cn
+*.1.zhev.com.cn
+*.1.zhuangxiu567.com
+*.1.zuowenjun.com
+*.100.pncdn.cn
+*.1080872514.rsc.cdn77.org
+*.11.96131.com.cn
+*.11.yiqig.cn
+*.12.beautifulero.com
+*.12.cookcai.com
+*.1571627030.rsc.cdn77.org
+*.1675450967.rsc.cdn77.org
+*.1686607364.rsc.cdn77.org
+*.17.huanqiu.com
+*.2.haoxue360.com
+*.2021.dxsbb.com
+*.21.fh21static.com
+*.21.zhaozongjie.com
 *.247-inc.net
+*.283.laobanfa.com
 *.2cnt.net
 *.2o7.net
+*.3.5646.cn
+*.3.ssqzj.com
+*.32.huanqiu.com
+*.321.jintang114.org
+*.360.anatic.net
+*.468.vologdainfo.ru
+*.5.gzfenda.com
+*.5.sc126.com
+*.5568.gjghy.com
 *.6likosy.com
+*.703531862.vws.vegacdn.vn
 *.76xs.com
+*.801.tianyaui.com
 *.810251.com
+*.8131.qizhihaotian.cn
+*.83.locksmaker.com.cn
+*.8961.jianbihua.com
+*.9990.spqsd.com
 *.a-mo.net
 *.a.klaviyo.com
 *.a.wishabi.com
