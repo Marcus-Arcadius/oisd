@@ -1,6 +1,6 @@
-# Version: 202205262234
+# Version: 202205272205
 # Title: oisd extra
-# Last modified: 26 May 2022 22:34 UTC
+# Last modified: 27 May 2022 22:05 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq                                                
@@ -771,6 +771,7 @@ address=/xapi.ozon.ru/#
 address=/xclicks.net/#
 address=/xkqpco.com/#
 address=/xlog-va.musical.ly/#
+address=/xn--2ss830adjbqy7h.xn--fiqs8s/#
 address=/xn--wxtr9fwyxk9c.club/#
 address=/xtxa.net/#
 address=/yeswegays.com/#

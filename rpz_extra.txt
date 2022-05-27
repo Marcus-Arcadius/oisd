@@ -1,12 +1,12 @@
-; Version: 202205262234
+; Version: 202205272205
 ; Title: oisd extra
-; Last modified: 26 May 2022 22:34 UTC
+; Last modified: 27 May 2022 22:05 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1653602432 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1653688801 86400 3600 604800 30
  NS localhost.
 
 0.code.cotsta.ru CNAME .
@@ -1541,6 +1541,8 @@ xkqpco.com CNAME .
 *.xkqpco.com CNAME .
 xlog-va.musical.ly CNAME .
 *.xlog-va.musical.ly CNAME .
+xn--2ss830adjbqy7h.xn--fiqs8s CNAME .
+*.xn--2ss830adjbqy7h.xn--fiqs8s CNAME .
 xn--wxtr9fwyxk9c.club CNAME .
 *.xn--wxtr9fwyxk9c.club CNAME .
 xtxa.net CNAME .
