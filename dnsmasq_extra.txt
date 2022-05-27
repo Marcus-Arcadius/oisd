@@ -1,6 +1,6 @@
-# Version: 202205252222
+# Version: 202205262234
 # Title: oisd extra
-# Last modified: 25 May 2022 22:22 UTC
+# Last modified: 26 May 2022 22:34 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq                                                
@@ -335,7 +335,6 @@ address=/evergage.com/#
 address=/eviltracker.net/#
 address=/evt.mxplay.com/#
 address=/exactag.com/#
-address=/exacttarget.com/#
 address=/exosrv.com/#
 address=/exponea.com/#
 address=/ext.goguardian.com/#
