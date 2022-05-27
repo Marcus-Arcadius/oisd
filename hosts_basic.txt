@@ -1,6 +1,6 @@
-# Version: 202205270533
+# Version: 202205271318
 # Title: oisd basic
-# Last modified: 27 May 2022 05:33 UTC
+# Last modified: 27 May 2022 13:18 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Hosts                                                  
@@ -239,6 +239,7 @@
 0.0.0.0 123cha.com
 0.0.0.0 123compteur.com
 0.0.0.0 123count.com
+0.0.0.0 123date.me
 0.0.0.0 123found.com
 0.0.0.0 123freeavatars.com
 0.0.0.0 123fvd.com
@@ -2974,7 +2975,6 @@
 0.0.0.0 ad.batanga.com
 0.0.0.0 ad.batanga.net
 0.0.0.0 ad.be.doubleclick.net
-0.0.0.0 ad.bench.utorrent.com
 0.0.0.0 ad.beritasatumedia.com
 0.0.0.0 ad.bg.doubleclick.net
 0.0.0.0 ad.bharatstudent.com
@@ -6227,7 +6227,6 @@
 0.0.0.0 adultadvertising.com
 0.0.0.0 adultadvertising.net
 0.0.0.0 adultadworld.com
-0.0.0.0 adultblogtoplist.com
 0.0.0.0 adultcamchatfree.com
 0.0.0.0 adultcamfree.com
 0.0.0.0 adultcamliveweb.com
@@ -11334,7 +11333,6 @@
 0.0.0.0 banggongxia.xyz
 0.0.0.0 bango.net
 0.0.0.0 bangplamahospital.com
-0.0.0.0 bangready.com
 0.0.0.0 bangtyranclank.com
 0.0.0.0 bangxin.xyz
 0.0.0.0 banhfw.cn
@@ -14468,7 +14466,6 @@
 0.0.0.0 cambodiaoutsourcing.com
 0.0.0.0 cambrianter.club
 0.0.0.0 camel.headfarming.com
-0.0.0.0 cameracaseira.com
 0.0.0.0 cameraunswing.com
 0.0.0.0 camiocw.com
 0.0.0.0 camisagrieko.com
@@ -14877,7 +14874,6 @@
 0.0.0.0 ccm19.de
 0.0.0.0 ccmcroads.com
 0.0.0.0 ccmdgg.com
-0.0.0.0 ccmiocw.com
 0.0.0.0 ccpa.psg.nexstardigital.net
 0.0.0.0 ccportal.iad.apple.com
 0.0.0.0 ccqecqbdstaxc.com
@@ -15535,7 +15531,6 @@
 0.0.0.0 cdn.wadawada-stop-report-us.com
 0.0.0.0 cdn.watchingthat.net
 0.0.0.0 cdn.webpushr.com
-0.0.0.0 cdn.welcome.pussysaga.com
 0.0.0.0 cdn.wenzhangba.cn
 0.0.0.0 cdn.wpm.neustar.biz
 0.0.0.0 cdn.wuyou.ca
@@ -24294,7 +24289,6 @@
 0.0.0.0 events.proper.io
 0.0.0.0 events.realgravity.com
 0.0.0.0 events.reclamefolder.nl
-0.0.0.0 events.reddit.com
 0.0.0.0 events.redditmedia.com
 0.0.0.0 events.samsungads.com
 0.0.0.0 events.sd-nbb.de
@@ -26723,6 +26717,7 @@
 0.0.0.0 gamigoads.com
 0.0.0.0 gammachug.com
 0.0.0.0 gammadsp.com
+0.0.0.0 gammae.com
 0.0.0.0 gammamaximum.com
 0.0.0.0 gammamkt.com
 0.0.0.0 gammaplatform.com
@@ -29601,7 +29596,6 @@
 0.0.0.0 hodor-collect.arabam.com
 0.0.0.0 hoegutvie.com
 0.0.0.0 hoemasfat.site
-0.0.0.0 hoerbird.net
 0.0.0.0 hogawn.com
 0.0.0.0 hogilh.com
 0.0.0.0 hognaivee.com
@@ -32213,7 +32207,6 @@
 0.0.0.0 istat24.com
 0.0.0.0 istatistik.arabam.com
 0.0.0.0 istatistik.trthaber.com
-0.0.0.0 istats.nl
 0.0.0.0 istcs.top
 0.0.0.0 istlandoll.com
 0.0.0.0 istrack.com
@@ -32499,7 +32492,6 @@
 0.0.0.0 jaubeebe.net
 0.0.0.0 jauchuwa.net
 0.0.0.0 jaumevie.com
-0.0.0.0 jav321.com
 0.0.0.0 java8.xyz
 0.0.0.0 javacript.cf
 0.0.0.0 javacript.gq
@@ -33091,7 +33083,6 @@
 0.0.0.0 js.logentries.com
 0.0.0.0 js.mangapro.top
 0.0.0.0 js.matheranalytics.com
-0.0.0.0 js.medi-8.net
 0.0.0.0 js.mediams.mb.softbank.jp
 0.0.0.0 js.mediaz.asia
 0.0.0.0 js.miaozhen.com
@@ -34644,7 +34635,6 @@
 0.0.0.0 lcwfab1.com
 0.0.0.0 lcwfab2.com
 0.0.0.0 lcwfab3.com
-0.0.0.0 lcwfabt1.com
 0.0.0.0 lcwfabt2.com
 0.0.0.0 lcwfabt3.com
 0.0.0.0 ldap.a4.tl
@@ -48475,7 +48465,6 @@
 0.0.0.0 rose.ixbt.com
 0.0.0.0 rosebudmorgue.com
 0.0.0.0 rosebudsawservice.com.au
-0.0.0.0 roselip-fetish.com
 0.0.0.0 rosenberg.appmetrica.webvisor.com
 0.0.0.0 rosenberg.appmetrica.yandex.net
 0.0.0.0 rosenewshd.com
@@ -50757,7 +50746,6 @@
 0.0.0.0 server03new.dot.at
 0.0.0.0 server1.affiz.net
 0.0.0.0 server1.beaconpush.com
-0.0.0.0 server1.extra-web.cz
 0.0.0.0 server1.opentracker.net
 0.0.0.0 server10.opentracker.net
 0.0.0.0 server2.discountclick.com
@@ -51187,6 +51175,7 @@
 0.0.0.0 sholombombic.com
 0.0.0.0 shonretimus.com
 0.0.0.0 shoofle.tv
+0.0.0.0 shoogloonetwork.com
 0.0.0.0 shooksap.net
 0.0.0.0 shooterpillar.com
 0.0.0.0 shootoax.com
@@ -55281,6 +55270,7 @@
 0.0.0.0 t.easyads28.mobi
 0.0.0.0 t.eclick.vn
 0.0.0.0 t.effectivemeasure.net
+0.0.0.0 t.eharmony.com
 0.0.0.0 t.etraveli.com
 0.0.0.0 t.extreme-dm.com
 0.0.0.0 t.felmat.net
@@ -57579,7 +57569,6 @@
 0.0.0.0 track.mopo.de
 0.0.0.0 track.moreniche.com
 0.0.0.0 track.movad.net
-0.0.0.0 track.mp4.center
 0.0.0.0 track.mycliplister.com
 0.0.0.0 track.netzero.net
 0.0.0.0 track.nifty.com
@@ -57952,7 +57941,6 @@
 0.0.0.0 tracking.keywee.co
 0.0.0.0 tracking.komoot.de
 0.0.0.0 tracking.krone.at
-0.0.0.0 tracking.ladies.de
 0.0.0.0 tracking.leadlander.com
 0.0.0.0 tracking.leeep.jp
 0.0.0.0 tracking.legacyoffers.com
@@ -58342,7 +58330,6 @@
 0.0.0.0 travelingturtleharmonious.com
 0.0.0.0 travellingfate.com
 0.0.0.0 travelnourhai.com
-0.0.0.0 travelogity.com
 0.0.0.0 travels.cdtscorp.com
 0.0.0.0 travelscream.com
 0.0.0.0 traveltogandi.com
@@ -59361,6 +59348,7 @@
 0.0.0.0 unblestrustic.com
 0.0.0.0 unblockedtpb.pw
 0.0.0.0 unblockia.com
+0.0.0.0 unblocksit.es
 0.0.0.0 unblocktheship.org
 0.0.0.0 unbodypestis.com
 0.0.0.0 unbuttondeferinstalment.com
@@ -63930,7 +63918,6 @@
 0.0.0.0 xmlterra.com
 0.0.0.0 xmlwizard.com
 0.0.0.0 xmmnsl.com
-0.0.0.0 xmorex.com
 0.0.0.0 xmpp-ha-alb.iadvize.com
 0.0.0.0 xmr-useast1.beeppool.org
 0.0.0.0 xmr.101010.pl
