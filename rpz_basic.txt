@@ -1,12 +1,12 @@
-; Version: 202205271318
+; Version: 202205271330
 ; Title: oisd basic
-; Last modified: 27 May 2022 13:18 UTC
+; Last modified: 27 May 2022 13:30 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1653657225 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1653658002 86400 3600 604800 30
  NS localhost.
 
 00-gov.cn CNAME .
@@ -39401,6 +39401,8 @@ events.realgravity.com CNAME .
 *.events.realgravity.com CNAME .
 events.reclamefolder.nl CNAME .
 *.events.reclamefolder.nl CNAME .
+events.reddit.com CNAME .
+*.events.reddit.com CNAME .
 events.redditmedia.com CNAME .
 *.events.redditmedia.com CNAME .
 events.sd-nbb.de CNAME .

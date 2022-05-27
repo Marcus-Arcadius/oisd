@@ -1,6 +1,6 @@
-# Version: 202205271318
+# Version: 202205271330
 # Title: oisd basic
-# Last modified: 27 May 2022 13:18 UTC
+# Last modified: 27 May 2022 13:30 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Hosts                                                  
@@ -24289,6 +24289,7 @@
 0.0.0.0 events.proper.io
 0.0.0.0 events.realgravity.com
 0.0.0.0 events.reclamefolder.nl
+0.0.0.0 events.reddit.com
 0.0.0.0 events.redditmedia.com
 0.0.0.0 events.samsungads.com
 0.0.0.0 events.sd-nbb.de

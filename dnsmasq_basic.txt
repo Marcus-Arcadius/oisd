@@ -1,6 +1,6 @@
-# Version: 202205271318
+# Version: 202205271330
 # Title: oisd basic
-# Last modified: 27 May 2022 13:18 UTC
+# Last modified: 27 May 2022 13:30 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq                                                
@@ -19701,6 +19701,7 @@ address=/events.onet.pl/#
 address=/events.personali.com/#
 address=/events.realgravity.com/#
 address=/events.reclamefolder.nl/#
+address=/events.reddit.com/#
 address=/events.redditmedia.com/#
 address=/events.sd-nbb.de/#
 address=/events.shareably.net/#
