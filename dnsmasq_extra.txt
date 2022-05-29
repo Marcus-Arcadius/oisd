@@ -1,6 +1,6 @@
-# Version: 202205272205
+# Version: 202205291458
 # Title: oisd extra
-# Last modified: 27 May 2022 22:05 UTC
+# Last modified: 29 May 2022 14:58 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq                                                
@@ -405,7 +405,7 @@ address=/ichnaea.netflix.com/#
 address=/idealmedia.io/#
 address=/impactradius.com/#
 address=/inaudiblecanteen.com/#
-address=/includecheck.oisd.nl/#
+address=/includecheck_dnsmasq_extra.oisd.nl/#
 address=/indexww.com/#
 address=/inetinteractive.com/#
 address=/informer.yandex.ru/#
