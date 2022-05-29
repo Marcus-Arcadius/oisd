@@ -1,12 +1,12 @@
-; Version: 202205291458
+; Version: 202205291741
 ; Title: oisd basic
-; Last modified: 29 May 2022 14:58 UTC
+; Last modified: 29 May 2022 17:41 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1653834112 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1653846106 86400 3600 604800 30
  NS localhost.
 
 00-gov.cn CNAME .
@@ -90619,8 +90619,6 @@ services.adtech.us CNAME .
 *.services.adtech.us CNAME .
 services.bionika-digital.ru CNAME .
 *.services.bionika-digital.ru CNAME .
-services.brightline.tv CNAME .
-*.services.brightline.tv CNAME .
 services.coem.awem.com CNAME .
 *.services.coem.awem.com CNAME .
 services.hearstmags.com CNAME .
