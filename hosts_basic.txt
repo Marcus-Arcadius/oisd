@@ -1,6 +1,6 @@
-# Version: 202205291741
+# Version: 202205291746
 # Title: oisd basic
-# Last modified: 29 May 2022 17:41 UTC
+# Last modified: 29 May 2022 17:46 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Hosts                                                  
@@ -34393,7 +34393,7 @@
 0.0.0.0 inclinationwitchcraftafresh.com
 0.0.0.0 inclk.com
 0.0.0.0 incloak.com
-0.0.0.0 includecheck_hosts_basic.oisd.nl
+0.0.0.0 includecheck.oisd.nl
 0.0.0.0 includemodal.com
 0.0.0.0 includepurple.com
 0.0.0.0 incluster.com
@@ -58340,7 +58340,6 @@
 0.0.0.0 starkhelperidentifier.com
 0.0.0.0 starkpropagandaattacks.com
 0.0.0.0 starlayer.com
-0.0.0.0 starlink.country
 0.0.0.0 starsearchtool.com
 0.0.0.0 starseed.fr
 0.0.0.0 start-page.org
