@@ -1,6 +1,6 @@
-# Version: 202205291747
+# Version: 202205301005
 # Title: oisd extra
-# Last modified: 29 May 2022 17:47 UTC
+# Last modified: 30 May 2022 10:05 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Hosts                                                  
@@ -336,7 +336,6 @@
 0.0.0.0 geoip.nekudo.com
 0.0.0.0 geojs.io
 0.0.0.0 geolocation-db.com
-0.0.0.0 geotrust.com
 0.0.0.0 getalinkandshare.com
 0.0.0.0 getblueshift.com
 0.0.0.0 getpublica.com
@@ -839,7 +838,6 @@
 0.0.0.0 www.geoip-db.com
 0.0.0.0 www.geojs.io
 0.0.0.0 www.geolocation-db.com
-0.0.0.0 www.geotrust.com
 0.0.0.0 www.getalinkandshare.com
 0.0.0.0 www.getblueshift.com
 0.0.0.0 www.getpublica.com

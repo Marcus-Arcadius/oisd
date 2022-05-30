@@ -1,6 +1,6 @@
-# Version: 202205291747
+# Version: 202205301005
 # Title: oisd extra
-# Last modified: 29 May 2022 17:47 UTC
+# Last modified: 30 May 2022 10:05 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq                                                
@@ -365,7 +365,6 @@ address=/geoip-db.com/#
 address=/geoip.nekudo.com/#
 address=/geojs.io/#
 address=/geolocation-db.com/#
-address=/geotrust.com/#
 address=/getalinkandshare.com/#
 address=/getblueshift.com/#
 address=/getpublica.com/#
