@@ -1,6 +1,6 @@
-# Version: 202205301005
+# Version: 202205301459
 # Title: oisd extra
-# Last modified: 30 May 2022 10:05 UTC
+# Last modified: 30 May 2022 14:59 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq                                                
@@ -694,6 +694,7 @@ address=/technical-service.net/#
 address=/technoratimedia.com/#
 address=/telemetry.soundcloud.com/#
 address=/tencent.xn--io0a7i/#
+address=/tf111.xyz/#
 address=/thebrighttag.com/#
 address=/tm.tradetracker.net/#
 address=/tms-st.cdn.ngenix.net/#

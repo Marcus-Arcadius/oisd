@@ -1,12 +1,12 @@
-; Version: 202205301005
+; Version: 202205301459
 ; Title: oisd extra
-; Last modified: 30 May 2022 10:05 UTC
+; Last modified: 30 May 2022 14:59 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1653904801 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1653920803 86400 3600 604800 30
  NS localhost.
 
 0.code.cotsta.ru CNAME .
@@ -1387,6 +1387,8 @@ telemetry.soundcloud.com CNAME .
 *.telemetry.soundcloud.com CNAME .
 tencent.xn--io0a7i CNAME .
 *.tencent.xn--io0a7i CNAME .
+tf111.xyz CNAME .
+*.tf111.xyz CNAME .
 thebrighttag.com CNAME .
 *.thebrighttag.com CNAME .
 tm.tradetracker.net CNAME .
