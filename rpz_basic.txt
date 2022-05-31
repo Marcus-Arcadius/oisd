@@ -1,12 +1,12 @@
-; Version: 202205311005
+; Version: 202205311444
 ; Title: oisd basic
-; Last modified: 31 May 2022 10:05 UTC
+; Last modified: 31 May 2022 14:44 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1653991201 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1654008246 86400 3600 604800 30
  NS localhost.
 
 00-gov.cn CNAME .
@@ -26153,8 +26153,6 @@ cbtrk.net CNAME .
 *.cbtrk.net CNAME .
 cbuacategic.xyz CNAME .
 *.cbuacategic.xyz CNAME .
-cc-api-data.adobe.io CNAME .
-*.cc-api-data.adobe.io CNAME .
 cc.8181zx.com CNAME .
 *.cc.8181zx.com CNAME .
 cc.calltracking.ru CNAME .

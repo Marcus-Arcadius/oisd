@@ -1,6 +1,6 @@
-# Version: 202205311005
+# Version: 202205311444
 # Title: oisd basic
-# Last modified: 31 May 2022 10:05 UTC
+# Last modified: 31 May 2022 14:44 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq                                                
@@ -13077,7 +13077,6 @@ address=/cbstelevisiondistribution.112.2o7.net/#
 address=/cbt.whatcounts.net/#
 address=/cbtrk.net/#
 address=/cbuacategic.xyz/#
-address=/cc-api-data.adobe.io/#
 address=/cc.8181zx.com/#
 address=/cc.calltracking.ru/#
 address=/cc.histoires-de-sexe-gratuites.com/#
