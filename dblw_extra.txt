@@ -1,6 +1,6 @@
-# Version: 202205301459
+# Version: 202205311516
 # Title: oisd extra
-# Last modified: 30 May 2022 14:59 UTC
+# Last modified: 31 May 2022 15:16 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains (wildcards)                                    
@@ -238,6 +238,7 @@
 *.c.msn.com
 *.c212.net
 *.campaignmonitor.com
+*.cc-api-data.adobe.io
 *.cc-dt.com
 *.cdn-image.com
 *.cdn-net.com
