@@ -1,9 +1,9 @@
-# Version: 202205311535
+# Version: 202206011007
 # Title: oisd nsfw
-# Last modified: 31 May 2022 15:35 UTC
+# Last modified: 1 Jun 2022 10:07 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
-# Syntax: Domains (wildcards)                                     
+# Syntax: Domains (wildcards)                                      
 
 # All domains ánd their subdomains should be blocked
 # Entry: "*.example.com" should block access to "example.com" and "subdomain.example.com" but not "thiseexample.com"
@@ -38418,7 +38418,6 @@
 *.counderwr.tumblr.com
 *.countercurrents.org
 *.counters1.tumblr.com
-*.countgore.com
 *.countilde.online
 *.countingsheepcoffee.com
 *.countryotter.tumblr.com
@@ -151194,7 +151193,6 @@
 *.serial-fucker.com
 *.serial-lover.fr
 *.serial.flasher.free.fr
-*.serialkillerdatabase.net
 *.serialspublications.com
 *.seriedujour.free.fr
 *.series-tgp.com
