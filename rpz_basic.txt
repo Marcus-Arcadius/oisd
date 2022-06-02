@@ -1,12 +1,12 @@
-; Version: 202206021005
+; Version: 202206021434
 ; Title: oisd basic
-; Last modified: 2 Jun 2022 10:05 UTC
+; Last modified: 2 Jun 2022 14:34 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                    
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1654164001 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1654180470 86400 3600 604800 30
  NS localhost.
 
 00-gov.cn CNAME .
@@ -121883,8 +121883,6 @@ thunder.adnxs.com CNAME .
 *.thunder.adnxs.com CNAME .
 thunderbird.es CNAME .
 *.thunderbird.es CNAME .
-thunderhead.com CNAME .
-*.thunderhead.com CNAME .
 thunderingrose.com CNAME .
 *.thunderingrose.com CNAME .
 thundersoft.top CNAME .
@@ -142729,3 +142727,4 @@ zzz.pissrip.net CNAME .
 *.zzz.pissrip.net CNAME .
 zzznews.ru CNAME .
 *.zzznews.ru CNAME .
+
