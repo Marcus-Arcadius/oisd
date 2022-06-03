@@ -6,7 +6,7 @@
 ; Syntax: Response Policy Zone                                    
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1654250401 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1654252385 86400 3600 604800 30
  NS localhost.
 
 00-gov.cn CNAME .
@@ -11952,7 +11952,6 @@ adultdatelink.com CNAME .
 adultdatingtest.worlddatingforum.com CNAME .
 *.adultdatingtest.worlddatingforum.com CNAME .
 adultfriendfinder.com CNAME .
-*.adultfriendfinder.com CNAME .
 adultgameexchange.com CNAME .
 *.adultgameexchange.com CNAME .
 adultimate.net CNAME .
