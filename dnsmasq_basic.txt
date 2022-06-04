@@ -1,6 +1,6 @@
-# Version: 202206032205
+# Version: 202206040735
 # Title: oisd basic
-# Last modified: 3 Jun 2022 22:05 UTC
+# Last modified: 4 Jun 2022 07:35 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq                                                 
@@ -8481,7 +8481,6 @@ address=/api.mobcells.com/#
 address=/api.mobitech-content.xyz/#
 address=/api.moengage.com/#
 address=/api.monedata.io/#
-address=/api.moneroocean.stream/#
 address=/api.myendpoint.io/#
 address=/api.myhappyads.com/#
 address=/api.nas.nct.vn/#

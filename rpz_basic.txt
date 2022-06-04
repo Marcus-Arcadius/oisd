@@ -1,12 +1,12 @@
-; Version: 202206032205
+; Version: 202206040735
 ; Title: oisd basic
-; Last modified: 3 Jun 2022 22:05 UTC
+; Last modified: 4 Jun 2022 07:35 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                    
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1654293631 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1654328135 86400 3600 604800 30
  NS localhost.
 
 00-gov.cn CNAME .
@@ -16961,8 +16961,6 @@ api.moengage.com CNAME .
 *.api.moengage.com CNAME .
 api.monedata.io CNAME .
 *.api.monedata.io CNAME .
-api.moneroocean.stream CNAME .
-*.api.moneroocean.stream CNAME .
 api.myendpoint.io CNAME .
 *.api.myendpoint.io CNAME .
 api.myhappyads.com CNAME .
