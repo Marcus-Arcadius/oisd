@@ -1,12 +1,12 @@
-; Version: 202206040735
+; Version: 202206040736
 ; Title: oisd basic
-; Last modified: 4 Jun 2022 07:35 UTC
+; Last modified: 4 Jun 2022 07:36 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                    
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1654328135 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1654328188 86400 3600 604800 30
  NS localhost.
 
 00-gov.cn CNAME .
@@ -50193,8 +50193,6 @@ gukmoduk.one CNAME .
 *.gukmoduk.one CNAME .
 gulf-industrial.com CNAME .
 *.gulf-industrial.com CNAME .
-gulf.moneroocean.stream CNAME .
-*.gulf.moneroocean.stream CNAME .
 guliangli.online CNAME .
 *.guliangli.online CNAME .
 gulliblecamp.com CNAME .
@@ -115221,3 +115219,4 @@ zzz.pissrip.net CNAME .
 *.zzz.pissrip.net CNAME .
 zzznews.ru CNAME .
 *.zzznews.ru CNAME .
+
