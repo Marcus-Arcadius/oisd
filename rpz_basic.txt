@@ -1,12 +1,12 @@
-; Version: 202206040745
+; Version: 202206040749
 ; Title: oisd basic
-; Last modified: 4 Jun 2022 07:45 UTC
+; Last modified: 4 Jun 2022 07:49 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                    
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1654328440 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1654328941 86400 3600 604800 30
  NS localhost.
 
 00-gov.cn CNAME .
@@ -44015,8 +44015,6 @@ firebanner.com CNAME .
 *.firebanner.com CNAME .
 firebase-settings.crashlytics.com CNAME .
 *.firebase-settings.crashlytics.com CNAME .
-firebaselogging-pa.googleapis.com CNAME .
-*.firebaselogging-pa.googleapis.com CNAME .
 firebaselogging.googleapis.com CNAME .
 *.firebaselogging.googleapis.com CNAME .
 fireextinguisherroastcontributor.com CNAME .
@@ -113851,3 +113849,4 @@ zzz.pissrip.net CNAME .
 *.zzz.pissrip.net CNAME .
 zzznews.ru CNAME .
 *.zzznews.ru CNAME .
+

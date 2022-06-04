@@ -1,6 +1,6 @@
-# Version: 202206040745
+# Version: 202206040748
 # Title: oisd basic
-# Last modified: 4 Jun 2022 07:45 UTC
+# Last modified: 4 Jun 2022 07:48 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Hosts                                                   
@@ -27315,7 +27315,6 @@
 0.0.0.0 fireadsone.com
 0.0.0.0 firebanner.com
 0.0.0.0 firebase-settings.crashlytics.com
-0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 firebaselogging.googleapis.com
 0.0.0.0 fireextinguisherroastcontributor.com
 0.0.0.0 firefeeder.com

@@ -1,6 +1,6 @@
-# Version: 202206040745
+# Version: 202206040748
 # Title: oisd basic
-# Last modified: 4 Jun 2022 07:45 UTC
+# Last modified: 4 Jun 2022 07:48 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq                                                 
@@ -22008,7 +22008,6 @@ address=/fipvn.cn/#
 address=/fireadsone.com/#
 address=/firebanner.com/#
 address=/firebase-settings.crashlytics.com/#
-address=/firebaselogging-pa.googleapis.com/#
 address=/firebaselogging.googleapis.com/#
 address=/fireextinguisherroastcontributor.com/#
 address=/firefeeder.com/#
