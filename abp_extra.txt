@@ -1,7 +1,7 @@
 [Adblock Plus]
-! Version: 202206032205
+! Version: 202206040814
 ! Title: oisd extra
-! Last modified: 3 Jun 2022 22:05 UTC
+! Last modified: 4 Jun 2022 08:14 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://oisd.nl
 ! Syntax: Adblock Plus Filter List                 
@@ -362,6 +362,7 @@
 ||faktor.io^
 ||fccinteractive.com^
 ||feature.fm^
+||firebaselogging-pa.googleapis.com^
 ||fireflyengagement.com^
 ||flexlinkspro.com^
 ||flx1.com^

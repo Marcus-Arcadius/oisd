@@ -1,6 +1,6 @@
-# Version: 202206032205
+# Version: 202206040814
 # Title: oisd extra
-# Last modified: 3 Jun 2022 22:05 UTC
+# Last modified: 4 Jun 2022 08:14 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq                                                 
@@ -361,6 +361,7 @@ address=/f-log-at.grammarly.io/#
 address=/faktor.io/#
 address=/fccinteractive.com/#
 address=/feature.fm/#
+address=/firebaselogging-pa.googleapis.com/#
 address=/fireflyengagement.com/#
 address=/flexlinkspro.com/#
 address=/flx1.com/#
