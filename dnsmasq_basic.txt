@@ -1,6 +1,6 @@
-# Version: 202206051316
+# Version: 202206052009
 # Title: oisd basic
-# Last modified: 5 Jun 2022 13:16 UTC
+# Last modified: 5 Jun 2022 20:09 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq                                                 
@@ -32976,7 +32976,6 @@ address=/medusasailor.com/#
 address=/medusasglance.com/#
 address=/medyagundem.com/#
 address=/medyanet.net/#
-address=/medyanetads.com/#
 address=/meegliwu.net/#
 address=/meelba.com/#
 address=/meendo.ru/#

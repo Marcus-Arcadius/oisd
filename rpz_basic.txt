@@ -1,12 +1,12 @@
-; Version: 202206051316
+; Version: 202206052009
 ; Title: oisd basic
-; Last modified: 5 Jun 2022 13:16 UTC
+; Last modified: 5 Jun 2022 20:09 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                    
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1654434737 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1654459757 86400 3600 604800 30
  NS localhost.
 
 00-gov.cn CNAME .
@@ -65951,8 +65951,6 @@ medyagundem.com CNAME .
 *.medyagundem.com CNAME .
 medyanet.net CNAME .
 *.medyanet.net CNAME .
-medyanetads.com CNAME .
-*.medyanetads.com CNAME .
 meegliwu.net CNAME .
 *.meegliwu.net CNAME .
 meelba.com CNAME .
@@ -114259,3 +114257,4 @@ zzz.pissrip.net CNAME .
 *.zzz.pissrip.net CNAME .
 zzznews.ru CNAME .
 *.zzznews.ru CNAME .
+
