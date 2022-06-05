@@ -1,12 +1,12 @@
-; Version: 202206051317
+; Version: 202206052233
 ; Title: oisd extra
-; Last modified: 5 Jun 2022 13:17 UTC
+; Last modified: 5 Jun 2022 22:33 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                    
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1654434737 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1654466401 86400 3600 604800 30
  NS localhost.
 
 0.code.cotsta.ru CNAME .
@@ -925,6 +925,8 @@ medianaft.com CNAME .
 *.medianaft.com CNAME .
 mediaplex.com CNAME .
 *.mediaplex.com CNAME .
+medyanetads.com CNAME .
+*.medyanetads.com CNAME .
 metaffiliation.com CNAME .
 *.metaffiliation.com CNAME .
 metok.sys.miui.com CNAME .

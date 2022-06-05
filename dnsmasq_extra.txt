@@ -1,6 +1,6 @@
-# Version: 202206051317
+# Version: 202206052233
 # Title: oisd extra
-# Last modified: 5 Jun 2022 13:17 UTC
+# Last modified: 5 Jun 2022 22:33 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq                                                 
@@ -463,6 +463,7 @@ address=/measure.ic.tver.jp/#
 address=/media01.eu/#
 address=/medianaft.com/#
 address=/mediaplex.com/#
+address=/medyanetads.com/#
 address=/metaffiliation.com/#
 address=/metok.sys.miui.com/#
 address=/metric.gstatic.com/#
