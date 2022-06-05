@@ -1,12 +1,12 @@
-; Version: 202206040814
+; Version: 202206050742
 ; Title: oisd extra
-; Last modified: 4 Jun 2022 08:14 UTC
+; Last modified: 5 Jun 2022 07:42 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                    
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1654330144 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1654414634 86400 3600 604800 30
  NS localhost.
 
 0.code.cotsta.ru CNAME .
@@ -571,6 +571,8 @@ cws.conviva.com CNAME .
 *.cws.conviva.com CNAME .
 czrkmjchnono.com CNAME .
 *.czrkmjchnono.com CNAME .
+d10lpsik1i8c69.cloudfront.net CNAME .
+*.d10lpsik1i8c69.cloudfront.net CNAME .
 d1af033869koo7.cloudfront.net CNAME .
 *.d1af033869koo7.cloudfront.net CNAME .
 d1z2jf7jlzjs58.cloudfront.net CNAME .
@@ -579,6 +581,8 @@ d1zgderxoe1a.cloudfront.net CNAME .
 *.d1zgderxoe1a.cloudfront.net CNAME .
 d2e0sxz09bo7k2.cloudfront.net CNAME .
 *.d2e0sxz09bo7k2.cloudfront.net CNAME .
+d2na2p72vtqyok.cloudfront.net CNAME .
+*.d2na2p72vtqyok.cloudfront.net CNAME .
 d2r1yp2w7bby2u.cloudfront.net CNAME .
 *.d2r1yp2w7bby2u.cloudfront.net CNAME .
 d2wy8f7a9ursnm.cloudfront.net CNAME .
@@ -587,6 +591,10 @@ d31qbv1cthcecs.cloudfront.net CNAME .
 *.d31qbv1cthcecs.cloudfront.net CNAME .
 d35u1vg1q28b3w.cloudfront.net CNAME .
 *.d35u1vg1q28b3w.cloudfront.net CNAME .
+d3tglifpd8whs6.cloudfront.net CNAME .
+*.d3tglifpd8whs6.cloudfront.net CNAME .
+d5nxst8fruw4z.cloudfront.net CNAME .
+*.d5nxst8fruw4z.cloudfront.net CNAME .
 dash.tmearn.com CNAME .
 *.dash.tmearn.com CNAME .
 data.mistat.india.xiaomi.com CNAME .
@@ -735,6 +743,8 @@ forter.com CNAME .
 *.forter.com CNAME .
 fourier.taobao.com CNAME .
 *.fourier.taobao.com CNAME .
+fraudmetrix.cn CNAME .
+*.fraudmetrix.cn CNAME .
 freegeoip.app CNAME .
 *.freegeoip.app CNAME .
 freewheel-mtgx-tv.akamaized.net CNAME .
@@ -799,6 +809,8 @@ groorgex.net CNAME .
 *.groorgex.net CNAME .
 growingio.com CNAME .
 *.growingio.com CNAME .
+gsp1.baidu.com CNAME .
+*.gsp1.baidu.com CNAME .
 guolvhbb.cn CNAME .
 *.guolvhbb.cn CNAME .
 gvt2.com CNAME .
@@ -821,6 +833,8 @@ hs-scripts.com CNAME .
 *.hs-scripts.com CNAME .
 hsoub.com CNAME .
 *.hsoub.com CNAME .
+hubpd.com CNAME .
+*.hubpd.com CNAME .
 humanpresence.app CNAME .
 *.humanpresence.app CNAME .
 huojub.com CNAME .
@@ -893,6 +907,8 @@ isnssdk.com CNAME .
 *.isnssdk.com CNAME .
 ist-track.com CNAME .
 *.ist-track.com CNAME .
+jav321.com CNAME .
+*.jav321.com CNAME .
 jdoqocy.com CNAME .
 *.jdoqocy.com CNAME .
 jeeng.com CNAME .
@@ -943,6 +959,8 @@ log-upload-os.hoyoverse.com CNAME .
 *.log-upload-os.hoyoverse.com CNAME .
 log-upload-os.mihoyo.com CNAME .
 *.log-upload-os.mihoyo.com CNAME .
+log-upload.mihoyo.com CNAME .
+*.log-upload.mihoyo.com CNAME .
 log.quora.com CNAME .
 *.log.quora.com CNAME .
 log.tiktokv.com CNAME .
@@ -1065,6 +1083,8 @@ neemu.com CNAME .
 *.neemu.com CNAME .
 neighchurch.com CNAME .
 *.neighchurch.com CNAME .
+nejmqianyan.cn CNAME .
+*.nejmqianyan.cn CNAME .
 net.kg CNAME .
 *.net.kg CNAME .
 netcore.co.in CNAME .
@@ -1193,6 +1213,8 @@ prvsz4pe.micpn.com CNAME .
 *.prvsz4pe.micpn.com CNAME .
 publicidees.com CNAME .
 *.publicidees.com CNAME .
+puds.ucweb.com CNAME .
+*.puds.ucweb.com CNAME .
 pushwelcome.com CNAME .
 *.pushwelcome.com CNAME .
 pushwoosh.com CNAME .
@@ -1405,6 +1427,8 @@ sumo.com CNAME .
 *.sumo.com CNAME .
 sundaysky.com CNAME .
 *.sundaysky.com CNAME .
+supportxmr.com CNAME .
+*.supportxmr.com CNAME .
 t.appsflyer.com CNAME .
 *.t.appsflyer.com CNAME .
 t.indeed.com CNAME .
@@ -1501,6 +1525,8 @@ tripsbooth.com CNAME .
 *.tripsbooth.com CNAME .
 trk.pinterest.com CNAME .
 *.trk.pinterest.com CNAME .
+u.huoying666.com CNAME .
+*.u.huoying666.com CNAME .
 uamobile.net CNAME .
 *.uamobile.net CNAME .
 uarating.com CNAME .

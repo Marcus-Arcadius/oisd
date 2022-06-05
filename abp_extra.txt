@@ -1,7 +1,7 @@
 [Adblock Plus]
-! Version: 202206040814
+! Version: 202206050742
 ! Title: oisd extra
-! Last modified: 4 Jun 2022 08:14 UTC
+! Last modified: 5 Jun 2022 07:42 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://oisd.nl
 ! Syntax: Adblock Plus Filter List                 
@@ -287,14 +287,18 @@
 ||customerevents.netflix.com^
 ||cws.conviva.com^
 ||czrkmjchnono.com^
+||d10lpsik1i8c69.cloudfront.net^
 ||d1af033869koo7.cloudfront.net^
 ||d1z2jf7jlzjs58.cloudfront.net^
 ||d1zgderxoe1a.cloudfront.net^
 ||d2e0sxz09bo7k2.cloudfront.net^
+||d2na2p72vtqyok.cloudfront.net^
 ||d2r1yp2w7bby2u.cloudfront.net^
 ||d2wy8f7a9ursnm.cloudfront.net^
 ||d31qbv1cthcecs.cloudfront.net^
 ||d35u1vg1q28b3w.cloudfront.net^
+||d3tglifpd8whs6.cloudfront.net^
+||d5nxst8fruw4z.cloudfront.net^
 ||dash.tmearn.com^
 ||data.mistat.india.xiaomi.com^
 ||data.mistat.intl.xiaomi.com^
@@ -369,6 +373,7 @@
 ||foreseeresults.com^
 ||forter.com^
 ||fourier.taobao.com^
+||fraudmetrix.cn^
 ||freegeoip.app^
 ||freewheel-mtgx-tv.akamaized.net^
 ||friendbuy.com^
@@ -401,6 +406,7 @@
 ||greetham.net^
 ||groorgex.net^
 ||growingio.com^
+||gsp1.baidu.com^
 ||guolvhbb.cn^
 ||gvt2.com^
 ||hit.interia.pl^
@@ -412,6 +418,7 @@
 ||hovoptelo.com^
 ||hs-scripts.com^
 ||hsoub.com^
+||hubpd.com^
 ||humanpresence.app^
 ||huojub.com^
 ||hvcbkr.com^
@@ -448,6 +455,7 @@
 ||ironbeast.io^
 ||isnssdk.com^
 ||ist-track.com^
+||jav321.com^
 ||jdoqocy.com^
 ||jeeng.com^
 ||jivox.com^
@@ -473,6 +481,7 @@
 ||log-tb.sgsnssdk.com^
 ||log-upload-os.hoyoverse.com^
 ||log-upload-os.mihoyo.com^
+||log-upload.mihoyo.com^
 ||log.quora.com^
 ||log.tiktokv.com^
 ||logentries.com^
@@ -534,6 +543,7 @@
 ||nbjmp.com^
 ||neemu.com^
 ||neighchurch.com^
+||nejmqianyan.cn^
 ||net.kg^
 ||netcore.co.in^
 ||netcoresmartech.com^
@@ -598,6 +608,7 @@
 ||promoted.soundcloud.com^
 ||prvsz4pe.micpn.com^
 ||publicidees.com^
+||puds.ucweb.com^
 ||pushwelcome.com^
 ||pushwoosh.com^
 ||putrr14.com^
@@ -704,6 +715,7 @@
 ||sts.eccmp.com^
 ||sumo.com^
 ||sundaysky.com^
+||supportxmr.com^
 ||t.appsflyer.com^
 ||t.indeed.com^
 ||t.wayfair.com^
@@ -752,6 +764,7 @@
 ||treg.hearstnp.com^
 ||tripsbooth.com^
 ||trk.pinterest.com^
+||u.huoying666.com^
 ||uamobile.net^
 ||uarating.com^
 ||ue.flipboard.com^

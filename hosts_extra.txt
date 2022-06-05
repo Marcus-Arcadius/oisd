@@ -1,6 +1,6 @@
-# Version: 202206040814
+# Version: 202206050742
 # Title: oisd extra
-# Last modified: 4 Jun 2022 08:14 UTC
+# Last modified: 5 Jun 2022 07:42 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Hosts                                                   
@@ -255,14 +255,18 @@
 0.0.0.0 customer.io
 0.0.0.0 customerevents.netflix.com
 0.0.0.0 cws.conviva.com
+0.0.0.0 d10lpsik1i8c69.cloudfront.net
 0.0.0.0 d1af033869koo7.cloudfront.net
 0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
 0.0.0.0 d1zgderxoe1a.cloudfront.net
 0.0.0.0 d2e0sxz09bo7k2.cloudfront.net
+0.0.0.0 d2na2p72vtqyok.cloudfront.net
 0.0.0.0 d2r1yp2w7bby2u.cloudfront.net
 0.0.0.0 d2wy8f7a9ursnm.cloudfront.net
 0.0.0.0 d31qbv1cthcecs.cloudfront.net
 0.0.0.0 d35u1vg1q28b3w.cloudfront.net
+0.0.0.0 d3tglifpd8whs6.cloudfront.net
+0.0.0.0 d5nxst8fruw4z.cloudfront.net
 0.0.0.0 dash.tmearn.com
 0.0.0.0 data.mistat.india.xiaomi.com
 0.0.0.0 data.mistat.intl.xiaomi.com
@@ -325,6 +329,7 @@
 0.0.0.0 foreseeresults.com
 0.0.0.0 forter.com
 0.0.0.0 fourier.taobao.com
+0.0.0.0 fraudmetrix.cn
 0.0.0.0 freegeoip.app
 0.0.0.0 freewheel-mtgx-tv.akamaized.net
 0.0.0.0 friendbuy.com
@@ -352,6 +357,7 @@
 0.0.0.0 gosquared.com
 0.0.0.0 graph.facebook.com
 0.0.0.0 growingio.com
+0.0.0.0 gsp1.baidu.com
 0.0.0.0 gvt2.com
 0.0.0.0 hit.interia.pl
 0.0.0.0 hitmarkerjobs.com
@@ -360,6 +366,7 @@
 0.0.0.0 hotkeys.com
 0.0.0.0 hs-scripts.com
 0.0.0.0 hsoub.com
+0.0.0.0 hubpd.com
 0.0.0.0 humanpresence.app
 0.0.0.0 hypestat.com
 0.0.0.0 i.viafoura.co
@@ -390,6 +397,7 @@
 0.0.0.0 ironbeast.io
 0.0.0.0 isnssdk.com
 0.0.0.0 ist-track.com
+0.0.0.0 jav321.com
 0.0.0.0 jdoqocy.com
 0.0.0.0 jeeng.com
 0.0.0.0 jivox.com
@@ -412,6 +420,7 @@
 0.0.0.0 log-tb.sgsnssdk.com
 0.0.0.0 log-upload-os.hoyoverse.com
 0.0.0.0 log-upload-os.mihoyo.com
+0.0.0.0 log-upload.mihoyo.com
 0.0.0.0 log.quora.com
 0.0.0.0 log.tiktokv.com
 0.0.0.0 logentries.com
@@ -463,6 +472,7 @@
 0.0.0.0 myvisualiq.net
 0.0.0.0 naytev.com
 0.0.0.0 neemu.com
+0.0.0.0 nejmqianyan.cn
 0.0.0.0 net.kg
 0.0.0.0 netcore.co.in
 0.0.0.0 netcoresmartech.com
@@ -519,6 +529,7 @@
 0.0.0.0 promoted.soundcloud.com
 0.0.0.0 prvsz4pe.micpn.com
 0.0.0.0 publicidees.com
+0.0.0.0 puds.ucweb.com
 0.0.0.0 pushwelcome.com
 0.0.0.0 pushwoosh.com
 0.0.0.0 pv.sohu.com
@@ -614,6 +625,7 @@
 0.0.0.0 sts.eccmp.com
 0.0.0.0 sumo.com
 0.0.0.0 sundaysky.com
+0.0.0.0 supportxmr.com
 0.0.0.0 t.appsflyer.com
 0.0.0.0 t.indeed.com
 0.0.0.0 t.wayfair.com
@@ -657,6 +669,7 @@
 0.0.0.0 treehousei.com
 0.0.0.0 treg.hearstnp.com
 0.0.0.0 trk.pinterest.com
+0.0.0.0 u.huoying666.com
 0.0.0.0 uamobile.net
 0.0.0.0 uarating.com
 0.0.0.0 ue.flipboard.com
@@ -848,6 +861,7 @@
 0.0.0.0 www.fireflyengagement.com
 0.0.0.0 www.foreseeresults.com
 0.0.0.0 www.forter.com
+0.0.0.0 www.fraudmetrix.cn
 0.0.0.0 www.freegeoip.app
 0.0.0.0 www.friendbuy.com
 0.0.0.0 www.fullstory.com
@@ -879,6 +893,7 @@
 0.0.0.0 www.hovoptelo.com
 0.0.0.0 www.hs-scripts.com
 0.0.0.0 www.hsoub.com
+0.0.0.0 www.hubpd.com
 0.0.0.0 www.humanpresence.app
 0.0.0.0 www.huojub.com
 0.0.0.0 www.hvcbkr.com
@@ -905,6 +920,7 @@
 0.0.0.0 www.ipredictive.com
 0.0.0.0 www.isnssdk.com
 0.0.0.0 www.ist-track.com
+0.0.0.0 www.jav321.com
 0.0.0.0 www.jdoqocy.com
 0.0.0.0 www.jeeng.com
 0.0.0.0 www.jivox.com
@@ -962,6 +978,7 @@
 0.0.0.0 www.nbjmp.com
 0.0.0.0 www.neemu.com
 0.0.0.0 www.neighchurch.com
+0.0.0.0 www.nejmqianyan.cn
 0.0.0.0 www.net.kg
 0.0.0.0 www.netcoresmartech.com
 0.0.0.0 www.netupdater.info
@@ -1045,6 +1062,7 @@
 0.0.0.0 www.streamate.com
 0.0.0.0 www.sumo.com
 0.0.0.0 www.sundaysky.com
+0.0.0.0 www.supportxmr.com
 0.0.0.0 www.taboola.com
 0.0.0.0 www.tacticalrepublic.com
 0.0.0.0 www.tagcommander.com
