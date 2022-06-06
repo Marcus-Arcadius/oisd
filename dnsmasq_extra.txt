@@ -1,6 +1,6 @@
-# Version: 202206061004
+# Version: 202206062209
 # Title: oisd extra
-# Last modified: 6 Jun 2022 10:04 UTC
+# Last modified: 6 Jun 2022 22:09 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq                                                 
@@ -570,6 +570,7 @@ address=/refersion.com/#
 address=/reknitgude.cam/#
 address=/relevant-digital.com/#
 address=/renyantian.top/#
+address=/requestmetrics.com/#
 address=/researchnow.co.uk/#
 address=/resolver.msg.xiaomi.net/#
 address=/resu8.hjfile.cn/#
