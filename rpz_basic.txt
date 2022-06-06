@@ -1,12 +1,12 @@
-; Version: 202206052232
+; Version: 202206060921
 ; Title: oisd basic
-; Last modified: 5 Jun 2022 22:32 UTC
+; Last modified: 6 Jun 2022 09:21 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                    
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1654466401 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1654507316 86400 3600 604800 30
  NS localhost.
 
 00-gov.cn CNAME .
@@ -84783,8 +84783,6 @@ s3pe5ye7ri8a.com CNAME .
 *.s3pe5ye7ri8a.com CNAME .
 s3r.tut.by CNAME .
 *.s3r.tut.by CNAME .
-s3s-main.net CNAME .
-*.s3s-main.net CNAME .
 s4.addthis.com CNAME .
 *.s4.addthis.com CNAME .
 s4.hit.stat24.com CNAME .
@@ -112163,3 +112161,4 @@ zzz.pissrip.net CNAME .
 *.zzz.pissrip.net CNAME .
 zzznews.ru CNAME .
 *.zzznews.ru CNAME .
+
