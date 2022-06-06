@@ -1,6 +1,6 @@
-# Version: 202206052233
+# Version: 202206061004
 # Title: oisd extra
-# Last modified: 5 Jun 2022 22:33 UTC
+# Last modified: 6 Jun 2022 10:04 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Hosts                                                   
@@ -86,7 +86,6 @@
 0.0.0.0 360.anatic.net
 0.0.0.0 468.vologdainfo.ru
 0.0.0.0 5.gzfenda.com
-0.0.0.0 5.sc126.com
 0.0.0.0 5568.gjghy.com
 0.0.0.0 703531862.vws.vegacdn.vn
 0.0.0.0 801.tianyaui.com
@@ -293,6 +292,8 @@
 0.0.0.0 fireflyengagement.com
 0.0.0.0 flexlinkspro.com
 0.0.0.0 flx1.com
+0.0.0.0 fonts.googleapis.com
+0.0.0.0 fonts.gstatic.com
 0.0.0.0 forter.com
 0.0.0.0 fourier.taobao.com
 0.0.0.0 fraudmetrix.cn
@@ -494,6 +495,7 @@
 0.0.0.0 rpts.org
 0.0.0.0 rubicon.wellsfargo.com
 0.0.0.0 rutrk.org
+0.0.0.0 s3s-main.net
 0.0.0.0 sa.bbc.co.uk
 0.0.0.0 sail-horizon.com
 0.0.0.0 sakura.goguardian.com

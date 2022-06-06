@@ -1,6 +1,6 @@
-# Version: 202206052233
+# Version: 202206061004
 # Title: oisd extra
-# Last modified: 5 Jun 2022 22:33 UTC
+# Last modified: 6 Jun 2022 10:04 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq                                                 
@@ -89,7 +89,6 @@ address=/3627818666.com/#
 address=/3ba87e4828c5a95.com/#
 address=/468.vologdainfo.ru/#
 address=/5.gzfenda.com/#
-address=/5.sc126.com/#
 address=/50trk.com/#
 address=/5568.gjghy.com/#
 address=/703531862.vws.vegacdn.vn/#
@@ -336,6 +335,8 @@ address=/firebaselogging-pa.googleapis.com/#
 address=/fireflyengagement.com/#
 address=/flexlinkspro.com/#
 address=/flx1.com/#
+address=/fonts.googleapis.com/#
+address=/fonts.gstatic.com/#
 address=/forter.com/#
 address=/fourier.taobao.com/#
 address=/fraudmetrix.cn/#
@@ -581,6 +582,7 @@ address=/rsftjj.cn/#
 address=/rubicon.wellsfargo.com/#
 address=/rutrk.org/#
 address=/rzxlszy.vip/#
+address=/s3s-main.net/#
 address=/sa.bbc.co.uk/#
 address=/sail-horizon.com/#
 address=/sakura.goguardian.com/#

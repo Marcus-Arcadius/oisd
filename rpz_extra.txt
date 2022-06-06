@@ -1,12 +1,12 @@
-; Version: 202206052233
+; Version: 202206061004
 ; Title: oisd extra
-; Last modified: 5 Jun 2022 22:33 UTC
+; Last modified: 6 Jun 2022 10:04 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                    
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1654466401 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1654509602 86400 3600 604800 30
  NS localhost.
 
 0.code.cotsta.ru CNAME .
@@ -177,8 +177,6 @@ $TTL 30
 *.468.vologdainfo.ru CNAME .
 5.gzfenda.com CNAME .
 *.5.gzfenda.com CNAME .
-5.sc126.com CNAME .
-*.5.sc126.com CNAME .
 50trk.com CNAME .
 *.50trk.com CNAME .
 5568.gjghy.com CNAME .
@@ -671,6 +669,10 @@ flexlinkspro.com CNAME .
 *.flexlinkspro.com CNAME .
 flx1.com CNAME .
 *.flx1.com CNAME .
+fonts.googleapis.com CNAME .
+*.fonts.googleapis.com CNAME .
+fonts.gstatic.com CNAME .
+*.fonts.gstatic.com CNAME .
 forter.com CNAME .
 *.forter.com CNAME .
 fourier.taobao.com CNAME .
@@ -1161,6 +1163,8 @@ rutrk.org CNAME .
 *.rutrk.org CNAME .
 rzxlszy.vip CNAME .
 *.rzxlszy.vip CNAME .
+s3s-main.net CNAME .
+*.s3s-main.net CNAME .
 sa.bbc.co.uk CNAME .
 *.sa.bbc.co.uk CNAME .
 sail-horizon.com CNAME .
