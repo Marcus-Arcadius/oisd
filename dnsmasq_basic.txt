@@ -1,6 +1,6 @@
-# Version: 202206062209
+# Version: 202206070527
 # Title: oisd basic
-# Last modified: 6 Jun 2022 22:09 UTC
+# Last modified: 7 Jun 2022 05:27 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq                                                 
@@ -2098,7 +2098,6 @@ address=/aau8.xyz/#
 address=/aau9.xyz/#
 address=/aaucwbe.com/#
 address=/aax-us-east-retail-direct.amazon-adsystem.com/#
-address=/aax-us-east-retail-direct.amazon.com/#
 address=/aaxads.com/#
 address=/aaxads.com.edgekey.net/#
 address=/aaxdetect.com/#
