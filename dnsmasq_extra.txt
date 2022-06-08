@@ -1,6 +1,6 @@
-# Version: 202206081033
+# Version: 202206081501
 # Title: oisd extra
-# Last modified: 8 Jun 2022 10:33 UTC
+# Last modified: 8 Jun 2022 15:01 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq                                                 
@@ -188,7 +188,6 @@ address=/babysitterpancakerich.com/#
 address=/baijiangyurong.top/#
 address=/baitbrdwk.com/#
 address=/bam-x.com/#
-address=/bannerconnect.com/#
 address=/bannerignition.co.za/#
 address=/bannertrack.net/#
 address=/baremetrics.com/#
@@ -299,7 +298,6 @@ address=/dynamitedepressionweapons.com/#
 address=/dynsrvdea.com/#
 address=/e719.net/#
 address=/easycounter.com/#
-address=/easysol.net/#
 address=/ebsxlpv.cn/#
 address=/eccehkho.com/#
 address=/edrone.me/#
@@ -336,8 +334,6 @@ address=/firebaselogging-pa.googleapis.com/#
 address=/fireflyengagement.com/#
 address=/flexlinkspro.com/#
 address=/flx1.com/#
-address=/fonts.googleapis.com/#
-address=/fonts.gstatic.com/#
 address=/forter.com/#
 address=/fourier.taobao.com/#
 address=/fraudmetrix.cn/#
@@ -515,7 +511,6 @@ address=/omarsys.com/#
 address=/onenetworkdirect.net/#
 address=/orninedin.club/#
 address=/othesarialiber.club/#
-address=/p.typekit.net/#
 address=/p.yotpo.com/#
 address=/pangle.io/#
 address=/panther.goguardian.com/#
@@ -679,6 +674,7 @@ address=/uarating.com/#
 address=/ue.flipboard.com/#
 address=/uid.mavencoalition.io/#
 address=/unid.go.com/#
+address=/unpkg.com/#
 address=/us.i1.yimg.com/#
 address=/us04logfiles.zoom.us/#
 address=/usabilla.com/#

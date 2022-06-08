@@ -1,7 +1,7 @@
 [Adblock Plus]
-! Version: 202206081033
+! Version: 202206081501
 ! Title: oisd extra
-! Last modified: 8 Jun 2022 10:33 UTC
+! Last modified: 8 Jun 2022 15:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://oisd.nl
 ! Syntax: Adblock Plus Filter List                 
@@ -189,7 +189,6 @@
 ||baijiangyurong.top^
 ||baitbrdwk.com^
 ||bam-x.com^
-||bannerconnect.com^
 ||bannerignition.co.za^
 ||bannertrack.net^
 ||baremetrics.com^
@@ -300,7 +299,6 @@
 ||dynsrvdea.com^
 ||e719.net^
 ||easycounter.com^
-||easysol.net^
 ||ebsxlpv.cn^
 ||eccehkho.com^
 ||edrone.me^
@@ -337,8 +335,6 @@
 ||fireflyengagement.com^
 ||flexlinkspro.com^
 ||flx1.com^
-||fonts.googleapis.com^
-||fonts.gstatic.com^
 ||forter.com^
 ||fourier.taobao.com^
 ||fraudmetrix.cn^
@@ -516,7 +512,6 @@
 ||onenetworkdirect.net^
 ||orninedin.club^
 ||othesarialiber.club^
-||p.typekit.net^
 ||p.yotpo.com^
 ||pangle.io^
 ||panther.goguardian.com^
@@ -680,6 +675,7 @@
 ||ue.flipboard.com^
 ||uid.mavencoalition.io^
 ||unid.go.com^
+||unpkg.com^
 ||us.i1.yimg.com^
 ||us04logfiles.zoom.us^
 ||usabilla.com^

@@ -1,12 +1,12 @@
-; Version: 202206081033
+; Version: 202206081501
 ; Title: oisd extra
-; Last modified: 8 Jun 2022 10:33 UTC
+; Last modified: 8 Jun 2022 15:01 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                    
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1654682401 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1654700256 86400 3600 604800 30
  NS localhost.
 
 0.code.cotsta.ru CNAME .
@@ -375,8 +375,6 @@ baitbrdwk.com CNAME .
 *.baitbrdwk.com CNAME .
 bam-x.com CNAME .
 *.bam-x.com CNAME .
-bannerconnect.com CNAME .
-*.bannerconnect.com CNAME .
 bannerignition.co.za CNAME .
 *.bannerignition.co.za CNAME .
 bannertrack.net CNAME .
@@ -597,8 +595,6 @@ e719.net CNAME .
 *.e719.net CNAME .
 easycounter.com CNAME .
 *.easycounter.com CNAME .
-easysol.net CNAME .
-*.easysol.net CNAME .
 ebsxlpv.cn CNAME .
 *.ebsxlpv.cn CNAME .
 eccehkho.com CNAME .
@@ -671,10 +667,6 @@ flexlinkspro.com CNAME .
 *.flexlinkspro.com CNAME .
 flx1.com CNAME .
 *.flx1.com CNAME .
-fonts.googleapis.com CNAME .
-*.fonts.googleapis.com CNAME .
-fonts.gstatic.com CNAME .
-*.fonts.gstatic.com CNAME .
 forter.com CNAME .
 *.forter.com CNAME .
 fourier.taobao.com CNAME .
@@ -1029,8 +1021,6 @@ orninedin.club CNAME .
 *.orninedin.club CNAME .
 othesarialiber.club CNAME .
 *.othesarialiber.club CNAME .
-p.typekit.net CNAME .
-*.p.typekit.net CNAME .
 p.yotpo.com CNAME .
 *.p.yotpo.com CNAME .
 pangle.io CNAME .
@@ -1357,6 +1347,8 @@ uid.mavencoalition.io CNAME .
 *.uid.mavencoalition.io CNAME .
 unid.go.com CNAME .
 *.unid.go.com CNAME .
+unpkg.com CNAME .
+*.unpkg.com CNAME .
 us.i1.yimg.com CNAME .
 *.us.i1.yimg.com CNAME .
 us04logfiles.zoom.us CNAME .
