@@ -1,12 +1,12 @@
-; Version: 202206091700
+; Version: 202206092204
 ; Title: oisd basic
-; Last modified: 9 Jun 2022 17:00 UTC
+; Last modified: 9 Jun 2022 22:04 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                    
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1654792294 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1654812031 86400 3600 604800 30
  NS localhost.
 
 00-gov.cn CNAME .
@@ -49393,8 +49393,6 @@ gpr.hu CNAME .
 *.gpr.hu CNAME .
 gpsecureads.com CNAME .
 *.gpsecureads.com CNAME .
-gpyrvmufck.com CNAME .
-*.gpyrvmufck.com CNAME .
 gqedxf.com CNAME .
 *.gqedxf.com CNAME .
 gqqdlckj8y.com CNAME .
