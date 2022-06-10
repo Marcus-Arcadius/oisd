@@ -1,6 +1,6 @@
-# Version: 202206101004
+# Version: 202206101607
 # Title: oisd basic
-# Last modified: 10 Jun 2022 10:04 UTC
+# Last modified: 10 Jun 2022 16:07 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq                                                
@@ -130,7 +130,6 @@ address=/0q2.sitey.me/#
 address=/0redirb.com/#
 address=/0redird.com/#
 address=/0rg.pw/#
-address=/0s9dxlr07huu.com/#
 address=/0sntp7dnrr.com/#
 address=/0stats.com/#
 address=/0sywjs4r1x.com/#
