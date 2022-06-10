@@ -1,9 +1,9 @@
-# Version: 202206092204
+# Version: 202206101004
 # Title: oisd basic
-# Last modified: 9 Jun 2022 22:04 UTC
+# Last modified: 10 Jun 2022 10:04 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
-# Syntax: Domains (wildcards)                                     
+# Syntax: Domains (wildcards)                                    
 
 # All domains ánd their subdomains should be blocked
 # Entry: "*.example.com" should block access to "example.com" and "subdomain.example.com" but not "thiseexample.com"
@@ -1972,7 +1972,6 @@
 *.a.votpusk.ru
 *.a.vtvdigital.vn
 *.a.w3techs.com
-*.a.walla.co.il
 *.a.wanzhuang.com
 *.a.warddogs.com
 *.a.watchomovies.com
@@ -5312,7 +5311,6 @@
 *.adserv.bravenet.com
 *.adserv.impactengine.com
 *.adserv.maineguide.com
-*.adserv.mako.co.il
 *.adserv.mywebtimes.com
 *.adserv.net
 *.adserv.newcentury.net
@@ -9874,7 +9872,6 @@
 *.b.sonorousporn.com
 *.b.stranamam.ru
 *.b.thanksearch.com
-*.b.trovagnocca.com
 *.b.tukucc.com
 *.b.unjs.com
 *.b00.xyz
@@ -18409,7 +18406,6 @@
 *.dev2-admin.ycbnt.net
 *.dev2pub.com
 *.dev4enki.com
-*.devaje.pourfemme.it
 *.devaluationlimetreedeadly.com
 *.devaluationobserve.com
 *.devappstor.com
@@ -21399,7 +21395,6 @@
 *.export.voffka.com
 *.exportspring.com
 *.exposebox.com
-*.exposeboxwallashops.blob.core.windows.net
 *.exposuremixed.com
 *.expotb.com
 *.expoteam.net
@@ -25406,17 +25401,9 @@
 *.harvester.hnonline.sk
 *.harvesttheory.com
 *.hasdarot.cc
-*.hasdarot.club
-*.hasdarot.co
-*.hasdarot.com
 *.hasdarot.life
-*.hasdarot.live
 *.hasdarot.me
-*.hasdarot.net
-*.hasdarot.pro
-*.hasdarot.tv
 *.hasdarot.vip
-*.hasdarot.xyz
 *.hasdrs.com
 *.hash-hash-tag.com
 *.hashcoin.co
@@ -26343,7 +26330,6 @@
 *.hotwords.es
 *.houanjijuxie.cn
 *.houbaotech.cn
-*.houdini.haaretz.co.il
 *.houdodoo.net
 *.houfang8.com
 *.houmei.ren
@@ -31837,7 +31823,6 @@
 *.losecounter.de
 *.losingfoundation.com
 *.losingoldfry.com
-*.losittooday.info
 *.losstrack.com
 *.lostartofbeingadame.com
 *.losu.112.2o7.net
@@ -44049,7 +44034,6 @@
 *.sdc.flysas.com
 *.sdc.lef.org
 *.sdc.livingchoices.com
-*.sdc.mako.co.il
 *.sdc.mcafee.com
 *.sdc.netiq.com
 *.sdc.prudential.com
@@ -44997,7 +44981,6 @@
 *.shop-cdn.coccoc.com
 *.shop.kicker.de
 *.shop.mediasova.ru
-*.shop.sportal.it
 *.shop.vnay.vn
 *.shopalyst.com
 *.shopathome.com
@@ -51431,7 +51414,6 @@
 *.tt128viet.com
 *.ttahsdu.top
 *.ttarget.ru
-*.ttauri.techradar.com
 *.ttayy.cn
 *.ttbc33.com
 *.ttdhea.com
@@ -55109,7 +55091,6 @@
 *.wrkl.xyz
 *.wrmcfyzl.com
 *.wrongpotato.com
-*.wrtm.walla.co.il
 *.wru795e.cn
 *.wryfinger.com
 *.wrygraphicstheme.com
