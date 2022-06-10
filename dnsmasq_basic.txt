@@ -1,6 +1,6 @@
-# Version: 202206101607
+# Version: 202206101614
 # Title: oisd basic
-# Last modified: 10 Jun 2022 16:07 UTC
+# Last modified: 10 Jun 2022 16:14 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq                                                
@@ -21016,7 +21016,6 @@ address=/eulerian.belambra.fr/#
 address=/eulerian.com/#
 address=/eulerian.madeindesign.com/#
 address=/eulerian.mathon.fr/#
-address=/eulerian.sarenza.com/#
 address=/eulerian.splendia.com/#
 address=/euleriancdn.net/#
 address=/eum-appdynamics.com/#

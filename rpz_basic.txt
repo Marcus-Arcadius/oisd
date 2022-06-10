@@ -1,12 +1,12 @@
-; Version: 202206101607
+; Version: 202206101614
 ; Title: oisd basic
-; Last modified: 10 Jun 2022 16:07 UTC
+; Last modified: 10 Jun 2022 16:14 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1654877023 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1654877680 86400 3600 604800 30
  NS localhost.
 
 00-gov.cn CNAME .
@@ -42031,8 +42031,6 @@ eulerian.madeindesign.com CNAME .
 *.eulerian.madeindesign.com CNAME .
 eulerian.mathon.fr CNAME .
 *.eulerian.mathon.fr CNAME .
-eulerian.sarenza.com CNAME .
-*.eulerian.sarenza.com CNAME .
 eulerian.splendia.com CNAME .
 *.eulerian.splendia.com CNAME .
 euleriancdn.net CNAME .
