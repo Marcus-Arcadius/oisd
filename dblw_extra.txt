@@ -1,9 +1,9 @@
-# Version: 202206091701
+# Version: 202206101617
 # Title: oisd extra
-# Last modified: 9 Jun 2022 17:01 UTC
+# Last modified: 10 Jun 2022 16:17 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
-# Syntax: Domains (wildcards)                                     
+# Syntax: Domains (wildcards)                                    
 
 # All domains ánd their subdomains should be blocked
 # Entry: "*.example.com" should block access to "example.com" and "subdomain.example.com" but not "thiseexample.com"
@@ -314,6 +314,7 @@
 *.eulerian.brandalley.fr
 *.eulerian.net
 *.eulerian.officiel-des-vacances.com
+*.eulerian.sarenza.com
 *.eventgw.twilio.com
 *.events.jotform.com
 *.events.launchdarkly.com

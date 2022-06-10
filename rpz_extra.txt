@@ -1,12 +1,12 @@
-; Version: 202206091701
+; Version: 202206101617
 ; Title: oisd extra
-; Last modified: 9 Jun 2022 17:01 UTC
+; Last modified: 10 Jun 2022 16:17 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
-; Syntax: Response Policy Zone                                    
+; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1654792294 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1654877601 86400 3600 604800 30
  NS localhost.
 
 0.code.cotsta.ru CNAME .
@@ -621,6 +621,8 @@ eulerian.net CNAME .
 *.eulerian.net CNAME .
 eulerian.officiel-des-vacances.com CNAME .
 *.eulerian.officiel-des-vacances.com CNAME .
+eulerian.sarenza.com CNAME .
+*.eulerian.sarenza.com CNAME .
 eventgw.twilio.com CNAME .
 *.eventgw.twilio.com CNAME .
 events.jotform.com CNAME .

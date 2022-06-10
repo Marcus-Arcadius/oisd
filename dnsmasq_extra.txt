@@ -1,9 +1,9 @@
-# Version: 202206091701
+# Version: 202206101617
 # Title: oisd extra
-# Last modified: 9 Jun 2022 17:01 UTC
+# Last modified: 10 Jun 2022 16:17 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
-# Syntax: DNSMasq                                                 
+# Syntax: DNSMasq                                                
 
 address=/0.code.cotsta.ru/#
 address=/0emm.com/#
@@ -311,6 +311,7 @@ address=/eu.spgo.io/#
 address=/eulerian.brandalley.fr/#
 address=/eulerian.net/#
 address=/eulerian.officiel-des-vacances.com/#
+address=/eulerian.sarenza.com/#
 address=/eventgw.twilio.com/#
 address=/events.jotform.com/#
 address=/events.launchdarkly.com/#
