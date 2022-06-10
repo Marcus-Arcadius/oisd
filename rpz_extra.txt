@@ -1,12 +1,12 @@
-; Version: 202206101617
+; Version: 202206101834
 ; Title: oisd extra
-; Last modified: 10 Jun 2022 16:17 UTC
+; Last modified: 10 Jun 2022 18:34 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1654877601 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1654884202 86400 3600 604800 30
  NS localhost.
 
 0.code.cotsta.ru CNAME .
@@ -749,6 +749,8 @@ hovoptelo.com CNAME .
 *.hovoptelo.com CNAME .
 hs-scripts.com CNAME .
 *.hs-scripts.com CNAME .
+hscoscdn20.net CNAME .
+*.hscoscdn20.net CNAME .
 hsoub.com CNAME .
 *.hsoub.com CNAME .
 hubpd.com CNAME .

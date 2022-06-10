@@ -1,9 +1,11 @@
-# Version: 202206101617
+# Version: 202206101834
 # Title: oisd extra
-# Last modified: 10 Jun 2022 16:17 UTC
+# Last modified: 10 Jun 2022 18:34 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                                
+
+server:
 
 local-zone: "0.code.cotsta.ru." always_null
 local-zone: "0emm.com." always_null
@@ -375,6 +377,7 @@ local-zone: "hotelscombined.com.au." always_null
 local-zone: "hotkeys.com." always_null
 local-zone: "hovoptelo.com." always_null
 local-zone: "hs-scripts.com." always_null
+local-zone: "hscoscdn20.net." always_null
 local-zone: "hsoub.com." always_null
 local-zone: "hubpd.com." always_null
 local-zone: "humanpresence.app." always_null
