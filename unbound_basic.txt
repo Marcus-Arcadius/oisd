@@ -1,6 +1,6 @@
-# Version: 202206102203
+# Version: 202206110509
 # Title: oisd basic
-# Last modified: 10 Jun 2022 22:03 UTC
+# Last modified: 11 Jun 2022 05:09 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                                
@@ -20439,7 +20439,6 @@ local-zone: "eipweb.com." always_null
 local-zone: "eirenefv.com." always_null
 local-zone: "eiryabba.com." always_null
 local-zone: "eisenstein.dk." always_null
-local-zone: "eisys-bcs.jp." always_null
 local-zone: "eiteribesshaints.com." always_null
 local-zone: "eiv.baidu.com." always_null
 local-zone: "eivamos.com." always_null
