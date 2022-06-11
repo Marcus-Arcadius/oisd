@@ -1,6 +1,6 @@
-# Version: 202206110614
+# Version: 202206111503
 # Title: oisd basic
-# Last modified: 11 Jun 2022 06:14 UTC
+# Last modified: 11 Jun 2022 15:03 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                                
@@ -15659,7 +15659,6 @@ local-zone: "connectionads.com." always_null
 local-zone: "connectionlead.com." always_null
 local-zone: "connectionsenvisagehoarfrost.com." always_null
 local-zone: "connectionzone.com." always_null
-local-zone: "connects.ch." always_null
 local-zone: "connexionsafe.com." always_null
 local-zone: "connexity.net." always_null
 local-zone: "connexplace.com." always_null
