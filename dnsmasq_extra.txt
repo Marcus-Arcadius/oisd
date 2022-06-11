@@ -1,6 +1,6 @@
-# Version: 202206110615
+# Version: 202206112230
 # Title: oisd extra
-# Last modified: 11 Jun 2022 06:15 UTC
+# Last modified: 11 Jun 2022 22:30 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq                                                
@@ -246,6 +246,7 @@ address=/cohesionapps.com/#
 address=/commander1.com/#
 address=/commission-junction.com/#
 address=/config.uca.cloud.unity3d.com/#
+address=/connects.ch/#
 address=/consent-manager-events.ogury.io/#
 address=/continuousprescription.com/#
 address=/conversions.appsflyer.com/#

@@ -1,6 +1,6 @@
-# Version: 202206110615
+# Version: 202206112230
 # Title: oisd extra
-# Last modified: 11 Jun 2022 06:15 UTC
+# Last modified: 11 Jun 2022 22:30 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                                
@@ -248,6 +248,7 @@ local-zone: "cohesionapps.com." always_null
 local-zone: "commander1.com." always_null
 local-zone: "commission-junction.com." always_null
 local-zone: "config.uca.cloud.unity3d.com." always_null
+local-zone: "connects.ch." always_null
 local-zone: "consent-manager-events.ogury.io." always_null
 local-zone: "continuousprescription.com." always_null
 local-zone: "conversions.appsflyer.com." always_null
