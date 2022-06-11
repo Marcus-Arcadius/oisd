@@ -1,6 +1,6 @@
-# Version: 202206101834
+# Version: 202206110615
 # Title: oisd extra
-# Last modified: 10 Jun 2022 18:34 UTC
+# Last modified: 11 Jun 2022 06:15 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                                
@@ -303,6 +303,7 @@ local-zone: "easycounter.com." always_null
 local-zone: "ebsxlpv.cn." always_null
 local-zone: "eccehkho.com." always_null
 local-zone: "edrone.me." always_null
+local-zone: "eisys-bcs.jp." always_null
 local-zone: "ekgloczbsblg.com." always_null
 local-zone: "elastx.net." always_null
 local-zone: "endovmwy.com." always_null

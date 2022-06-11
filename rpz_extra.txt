@@ -1,12 +1,12 @@
-; Version: 202206101834
+; Version: 202206110615
 ; Title: oisd extra
-; Last modified: 10 Jun 2022 18:34 UTC
+; Last modified: 11 Jun 2022 06:15 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1654884202 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1654927857 86400 3600 604800 30
  NS localhost.
 
 0.code.cotsta.ru CNAME .
@@ -601,6 +601,8 @@ eccehkho.com CNAME .
 *.eccehkho.com CNAME .
 edrone.me CNAME .
 *.edrone.me CNAME .
+eisys-bcs.jp CNAME .
+*.eisys-bcs.jp CNAME .
 ekgloczbsblg.com CNAME .
 *.ekgloczbsblg.com CNAME .
 elastx.net CNAME .
