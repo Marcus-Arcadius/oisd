@@ -1,6 +1,6 @@
-# Version: 202206121828
+# Version: 202206122007
 # Title: oisd basic
-# Last modified: 12 Jun 2022 18:28 UTC
+# Last modified: 12 Jun 2022 20:07 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                                
@@ -27729,7 +27729,7 @@ local-zone: "incestland.com." always_null
 local-zone: "incisivemedia.112.2o7.net." always_null
 local-zone: "inclk.com." always_null
 local-zone: "incloak.com." always_null
-local-zone: "includecheck.oisd.nl." always_null
+local-zone: "includechecknew.oisd.nl." always_null
 local-zone: "includemodal.com." always_null
 local-zone: "incluster.com." always_null
 local-zone: "incognitosearches.com." always_null
