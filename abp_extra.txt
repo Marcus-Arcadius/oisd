@@ -1,7 +1,7 @@
 [Adblock Plus]
-! Version: 202206121625
+! Version: 202206121829
 ! Title: oisd extra
-! Last modified: 12 Jun 2022 16:25 UTC
+! Last modified: 12 Jun 2022 18:29 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://oisd.nl
 ! Syntax: Adblock Plus Filter List                
@@ -280,6 +280,7 @@
 ||d5nxst8fruw4z.cloudfront.net^
 ||data.mistat.intl.xiaomi.com^
 ||data.mistat.rus.xiaomi.com^
+||data.mistat.xiaomi.com^
 ||datacaciques.com^
 ||deals.macupdate.com^
 ||demdex.net^
@@ -473,7 +474,6 @@
 ||mhxrnjokswyx.com^
 ||mimpiphy.net^
 ||mindtake.com^
-||mistat.xiaomi.com^
 ||mixi.media^
 ||mkt51.net^
 ||mmstat.com^
