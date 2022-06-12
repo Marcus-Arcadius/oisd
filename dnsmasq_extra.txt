@@ -1,6 +1,6 @@
-# Version: 202206122008
+# Version: 202206122025
 # Title: oisd extra
-# Last modified: 12 Jun 2022 20:08 UTC
+# Last modified: 12 Jun 2022 20:25 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq                                                
@@ -392,7 +392,7 @@ address=/idealmedia.io/#
 address=/igvxnenqgu.com/#
 address=/iklantop.net/#
 address=/impactradius.com/#
-address=/includechecknew.oisd.nl/#
+address=/includecheck.oisd.nl/#
 address=/indecisionremittance.com/#
 address=/indexww.com/#
 address=/inetinteractive.com/#
