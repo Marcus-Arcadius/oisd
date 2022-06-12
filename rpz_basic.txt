@@ -1,12 +1,12 @@
-; Version: 202206121624
+; Version: 202206121828
 ; Title: oisd basic
-; Last modified: 12 Jun 2022 16:24 UTC
+; Last modified: 12 Jun 2022 18:28 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1655050837 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1655058265 86400 3600 604800 30
  NS localhost.
 
 00-gov.cn CNAME .
@@ -4667,6 +4667,8 @@ abtaurosa.club CNAME .
 *.abtaurosa.club CNAME .
 abtest.alibaba.com CNAME .
 *.abtest.alibaba.com CNAME .
+abtest.mistat.xiaomi.com CNAME .
+*.abtest.mistat.xiaomi.com CNAME .
 abtesting.perfectcorp.com CNAME .
 *.abtesting.perfectcorp.com CNAME .
 abtracker.adultbouncer.com CNAME .
@@ -94095,6 +94097,8 @@ staceydodge.com CNAME .
 *.staceydodge.com CNAME .
 stack-sonar.com CNAME .
 *.stack-sonar.com CNAME .
+stack9.collect.igodigital.com CNAME .
+*.stack9.collect.igodigital.com CNAME .
 stackadapt.com CNAME .
 *.stackadapt.com CNAME .
 stackattacka.com CNAME .

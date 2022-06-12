@@ -1,7 +1,7 @@
 [Adblock Plus]
-! Version: 202206121624
+! Version: 202206121828
 ! Title: oisd basic
-! Last modified: 12 Jun 2022 16:24 UTC
+! Last modified: 12 Jun 2022 18:28 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://oisd.nl
 ! Syntax: Adblock Plus Filter List                
@@ -2335,6 +2335,7 @@
 ||absurdwater.com^
 ||abtaurosa.club^
 ||abtest.alibaba.com^
+||abtest.mistat.xiaomi.com^
 ||abtesting.perfectcorp.com^
 ||abtracker.adultbouncer.com^
 ||abtrcking.com^
@@ -47049,6 +47050,7 @@
 ||stabx.net^
 ||staceydodge.com^
 ||stack-sonar.com^
+||stack9.collect.igodigital.com^
 ||stackadapt.com^
 ||stackattacka.com^
 ||stackdigital.co.uk^

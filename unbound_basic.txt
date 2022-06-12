@@ -1,6 +1,6 @@
-# Version: 202206121624
+# Version: 202206121828
 # Title: oisd basic
-# Last modified: 12 Jun 2022 16:24 UTC
+# Last modified: 12 Jun 2022 18:28 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                                
@@ -2336,6 +2336,7 @@ local-zone: "absurdapple.com." always_null
 local-zone: "absurdwater.com." always_null
 local-zone: "abtaurosa.club." always_null
 local-zone: "abtest.alibaba.com." always_null
+local-zone: "abtest.mistat.xiaomi.com." always_null
 local-zone: "abtesting.perfectcorp.com." always_null
 local-zone: "abtracker.adultbouncer.com." always_null
 local-zone: "abtrcking.com." always_null
@@ -47050,6 +47051,7 @@ local-zone: "stablemoney.ru." always_null
 local-zone: "stabx.net." always_null
 local-zone: "staceydodge.com." always_null
 local-zone: "stack-sonar.com." always_null
+local-zone: "stack9.collect.igodigital.com." always_null
 local-zone: "stackadapt.com." always_null
 local-zone: "stackattacka.com." always_null
 local-zone: "stackdigital.co.uk." always_null
