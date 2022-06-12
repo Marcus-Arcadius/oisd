@@ -1,6 +1,6 @@
-# Version: 202206121502
+# Version: 202206121625
 # Title: oisd extra
-# Last modified: 12 Jun 2022 15:02 UTC
+# Last modified: 12 Jun 2022 16:25 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                                
@@ -281,7 +281,6 @@ local-zone: "d3tglifpd8whs6.cloudfront.net." always_null
 local-zone: "d5nxst8fruw4z.cloudfront.net." always_null
 local-zone: "data.mistat.intl.xiaomi.com." always_null
 local-zone: "data.mistat.rus.xiaomi.com." always_null
-local-zone: "data.mistat.xiaomi.com." always_null
 local-zone: "datacaciques.com." always_null
 local-zone: "deals.macupdate.com." always_null
 local-zone: "demdex.net." always_null
@@ -475,6 +474,7 @@ local-zone: "metrics.claspws.tv." always_null
 local-zone: "mhxrnjokswyx.com." always_null
 local-zone: "mimpiphy.net." always_null
 local-zone: "mindtake.com." always_null
+local-zone: "mistat.xiaomi.com." always_null
 local-zone: "mixi.media." always_null
 local-zone: "mkt51.net." always_null
 local-zone: "mmstat.com." always_null

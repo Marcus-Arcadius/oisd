@@ -1,6 +1,6 @@
-# Version: 202206121502
+# Version: 202206121625
 # Title: oisd extra
-# Last modified: 12 Jun 2022 15:02 UTC
+# Last modified: 12 Jun 2022 16:25 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq                                                
@@ -279,7 +279,6 @@ address=/d3tglifpd8whs6.cloudfront.net/#
 address=/d5nxst8fruw4z.cloudfront.net/#
 address=/data.mistat.intl.xiaomi.com/#
 address=/data.mistat.rus.xiaomi.com/#
-address=/data.mistat.xiaomi.com/#
 address=/datacaciques.com/#
 address=/deals.macupdate.com/#
 address=/demdex.net/#
@@ -473,6 +472,7 @@ address=/metrics.claspws.tv/#
 address=/mhxrnjokswyx.com/#
 address=/mimpiphy.net/#
 address=/mindtake.com/#
+address=/mistat.xiaomi.com/#
 address=/mixi.media/#
 address=/mkt51.net/#
 address=/mmstat.com/#
