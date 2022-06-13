@@ -1,6 +1,6 @@
-# Version: 202206122025
+# Version: 202206132129
 # Title: oisd extra
-# Last modified: 12 Jun 2022 20:25 UTC
+# Last modified: 13 Jun 2022 21:29 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq                                                
@@ -109,10 +109,8 @@ address=/a2.xinhuanet.com/#
 address=/a35c92d96766745.com/#
 address=/a997aa5071.com/#
 address=/aan.amazon.com/#
-address=/absolstats.co.za/#
 address=/accesstrade.co.id/#
 address=/ad-ettoday.cdn.hinet.net/#
-address=/ad-server.co.za/#
 address=/ad132m.com/#
 address=/adash.man.aliyuncs.com/#
 address=/adbrix.io/#
@@ -140,7 +138,6 @@ address=/adzerk.net/#
 address=/aeesy.com/#
 address=/affex.org/#
 address=/affiliatefuture.com/#
-address=/affiliatenetwork.co.za/#
 address=/affiliclk.org/#
 address=/agacelebir.com/#
 address=/agkn.com/#
@@ -188,7 +185,6 @@ address=/babysitterpancakerich.com/#
 address=/baijiangyurong.top/#
 address=/baitbrdwk.com/#
 address=/bam-x.com/#
-address=/bannerignition.co.za/#
 address=/bannertrack.net/#
 address=/baremetrics.com/#
 address=/baywttgdhe.download/#
@@ -453,7 +449,6 @@ address=/magicplayer-s.torrentstream.org/#
 address=/mahidevrat.com/#
 address=/mairdumont.com/#
 address=/mancehostic.site/#
-address=/marbil24.co.za/#
 address=/marfeelcache.com/#
 address=/marinsm.com/#
 address=/marketingautomation.services/#
@@ -625,7 +620,6 @@ address=/stat.download.xunlei.com/#
 address=/stat24.com/#
 address=/statcounter.com/#
 address=/static.parsely.com/#
-address=/stats.itweb.co.za/#
 address=/stats.paypal.com/#
 address=/stats.pusher.com/#
 address=/stocks-analytics-events.apple.com/#
@@ -698,7 +692,6 @@ address=/wapadv.com/#
 address=/warningoffended.com/#
 address=/we-stats.com/#
 address=/webcare.byside.com/#
-address=/webcounter.co.za/#
 address=/webgains.com/#
 address=/webhop.net/#
 address=/webmasterplan.com/#

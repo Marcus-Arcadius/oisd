@@ -1,12 +1,12 @@
-; Version: 202206122025
+; Version: 202206132129
 ; Title: oisd extra
-; Last modified: 12 Jun 2022 20:25 UTC
+; Last modified: 13 Jun 2022 21:29 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1655065241 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1655155436 86400 3600 604800 30
  NS localhost.
 
 0.code.cotsta.ru CNAME .
@@ -217,14 +217,10 @@ a997aa5071.com CNAME .
 *.a997aa5071.com CNAME .
 aan.amazon.com CNAME .
 *.aan.amazon.com CNAME .
-absolstats.co.za CNAME .
-*.absolstats.co.za CNAME .
 accesstrade.co.id CNAME .
 *.accesstrade.co.id CNAME .
 ad-ettoday.cdn.hinet.net CNAME .
 *.ad-ettoday.cdn.hinet.net CNAME .
-ad-server.co.za CNAME .
-*.ad-server.co.za CNAME .
 ad132m.com CNAME .
 *.ad132m.com CNAME .
 adash.man.aliyuncs.com CNAME .
@@ -279,8 +275,6 @@ affex.org CNAME .
 *.affex.org CNAME .
 affiliatefuture.com CNAME .
 *.affiliatefuture.com CNAME .
-affiliatenetwork.co.za CNAME .
-*.affiliatenetwork.co.za CNAME .
 affiliclk.org CNAME .
 *.affiliclk.org CNAME .
 agacelebir.com CNAME .
@@ -375,8 +369,6 @@ baitbrdwk.com CNAME .
 *.baitbrdwk.com CNAME .
 bam-x.com CNAME .
 *.bam-x.com CNAME .
-bannerignition.co.za CNAME .
-*.bannerignition.co.za CNAME .
 bannertrack.net CNAME .
 *.bannertrack.net CNAME .
 baremetrics.com CNAME .
@@ -905,8 +897,6 @@ mairdumont.com CNAME .
 *.mairdumont.com CNAME .
 mancehostic.site CNAME .
 *.mancehostic.site CNAME .
-marbil24.co.za CNAME .
-*.marbil24.co.za CNAME .
 marfeelcache.com CNAME .
 *.marfeelcache.com CNAME .
 marinsm.com CNAME .
@@ -1249,8 +1239,6 @@ statcounter.com CNAME .
 *.statcounter.com CNAME .
 static.parsely.com CNAME .
 *.static.parsely.com CNAME .
-stats.itweb.co.za CNAME .
-*.stats.itweb.co.za CNAME .
 stats.paypal.com CNAME .
 *.stats.paypal.com CNAME .
 stats.pusher.com CNAME .
@@ -1395,8 +1383,6 @@ we-stats.com CNAME .
 *.we-stats.com CNAME .
 webcare.byside.com CNAME .
 *.webcare.byside.com CNAME .
-webcounter.co.za CNAME .
-*.webcounter.co.za CNAME .
 webgains.com CNAME .
 *.webgains.com CNAME .
 webhop.net CNAME .

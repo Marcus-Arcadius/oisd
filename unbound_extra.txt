@@ -1,6 +1,6 @@
-# Version: 202206122025
+# Version: 202206132129
 # Title: oisd extra
-# Last modified: 12 Jun 2022 20:25 UTC
+# Last modified: 13 Jun 2022 21:29 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                                
@@ -111,10 +111,8 @@ local-zone: "a2.xinhuanet.com." always_null
 local-zone: "a35c92d96766745.com." always_null
 local-zone: "a997aa5071.com." always_null
 local-zone: "aan.amazon.com." always_null
-local-zone: "absolstats.co.za." always_null
 local-zone: "accesstrade.co.id." always_null
 local-zone: "ad-ettoday.cdn.hinet.net." always_null
-local-zone: "ad-server.co.za." always_null
 local-zone: "ad132m.com." always_null
 local-zone: "adash.man.aliyuncs.com." always_null
 local-zone: "adbrix.io." always_null
@@ -142,7 +140,6 @@ local-zone: "adzerk.net." always_null
 local-zone: "aeesy.com." always_null
 local-zone: "affex.org." always_null
 local-zone: "affiliatefuture.com." always_null
-local-zone: "affiliatenetwork.co.za." always_null
 local-zone: "affiliclk.org." always_null
 local-zone: "agacelebir.com." always_null
 local-zone: "agkn.com." always_null
@@ -190,7 +187,6 @@ local-zone: "babysitterpancakerich.com." always_null
 local-zone: "baijiangyurong.top." always_null
 local-zone: "baitbrdwk.com." always_null
 local-zone: "bam-x.com." always_null
-local-zone: "bannerignition.co.za." always_null
 local-zone: "bannertrack.net." always_null
 local-zone: "baremetrics.com." always_null
 local-zone: "baywttgdhe.download." always_null
@@ -455,7 +451,6 @@ local-zone: "magicplayer-s.torrentstream.org." always_null
 local-zone: "mahidevrat.com." always_null
 local-zone: "mairdumont.com." always_null
 local-zone: "mancehostic.site." always_null
-local-zone: "marbil24.co.za." always_null
 local-zone: "marfeelcache.com." always_null
 local-zone: "marinsm.com." always_null
 local-zone: "marketingautomation.services." always_null
@@ -627,7 +622,6 @@ local-zone: "stat.download.xunlei.com." always_null
 local-zone: "stat24.com." always_null
 local-zone: "statcounter.com." always_null
 local-zone: "static.parsely.com." always_null
-local-zone: "stats.itweb.co.za." always_null
 local-zone: "stats.paypal.com." always_null
 local-zone: "stats.pusher.com." always_null
 local-zone: "stocks-analytics-events.apple.com." always_null
@@ -700,7 +694,6 @@ local-zone: "wapadv.com." always_null
 local-zone: "warningoffended.com." always_null
 local-zone: "we-stats.com." always_null
 local-zone: "webcare.byside.com." always_null
-local-zone: "webcounter.co.za." always_null
 local-zone: "webgains.com." always_null
 local-zone: "webhop.net." always_null
 local-zone: "webmasterplan.com." always_null
