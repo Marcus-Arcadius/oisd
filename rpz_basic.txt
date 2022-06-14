@@ -1,12 +1,12 @@
-; Version: 202206132204
+; Version: 202206141004
 ; Title: oisd basic
-; Last modified: 13 Jun 2022 22:04 UTC
+; Last modified: 14 Jun 2022 10:04 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1655157601 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1655200801 86400 3600 604800 30
  NS localhost.
 
 00-gov.cn CNAME .
@@ -19805,8 +19805,6 @@ b.stranamam.ru CNAME .
 *.b.stranamam.ru CNAME .
 b.thanksearch.com CNAME .
 *.b.thanksearch.com CNAME .
-b.trovagnocca.com CNAME .
-*.b.trovagnocca.com CNAME .
 b.unjs.com CNAME .
 *.b.unjs.com CNAME .
 b00.xyz CNAME .
@@ -36913,8 +36911,6 @@ dev2pub.com CNAME .
 *.dev2pub.com CNAME .
 dev4enki.com CNAME .
 *.dev4enki.com CNAME .
-devaje.pourfemme.it CNAME .
-*.devaje.pourfemme.it CNAME .
 devaluationlimetreedeadly.com CNAME .
 *.devaluationlimetreedeadly.com CNAME .
 devaluationobserve.com CNAME .
@@ -90429,8 +90425,6 @@ shop.kicker.de CNAME .
 *.shop.kicker.de CNAME .
 shop.mediasova.ru CNAME .
 *.shop.mediasova.ru CNAME .
-shop.sportal.it CNAME .
-*.shop.sportal.it CNAME .
 shop.vnay.vn CNAME .
 *.shop.vnay.vn CNAME .
 shopalyst.com CNAME .

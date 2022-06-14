@@ -1,6 +1,6 @@
-# Version: 202206132204
+# Version: 202206141004
 # Title: oisd basic
-# Last modified: 13 Jun 2022 22:04 UTC
+# Last modified: 14 Jun 2022 10:04 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                                
@@ -9905,7 +9905,6 @@ local-zone: "b.smartnews.be." always_null
 local-zone: "b.sonorousporn.com." always_null
 local-zone: "b.stranamam.ru." always_null
 local-zone: "b.thanksearch.com." always_null
-local-zone: "b.trovagnocca.com." always_null
 local-zone: "b.unjs.com." always_null
 local-zone: "b00.xyz." always_null
 local-zone: "b014381c95cb.com." always_null
@@ -18459,7 +18458,6 @@ local-zone: "dev0.buzz." always_null
 local-zone: "dev2-admin.ycbnt.net." always_null
 local-zone: "dev2pub.com." always_null
 local-zone: "dev4enki.com." always_null
-local-zone: "devaje.pourfemme.it." always_null
 local-zone: "devaluationlimetreedeadly.com." always_null
 local-zone: "devaluationobserve.com." always_null
 local-zone: "devappstor.com." always_null
@@ -45217,7 +45215,6 @@ local-zone: "shootpatagainjogging.com." always_null
 local-zone: "shop-cdn.coccoc.com." always_null
 local-zone: "shop.kicker.de." always_null
 local-zone: "shop.mediasova.ru." always_null
-local-zone: "shop.sportal.it." always_null
 local-zone: "shop.vnay.vn." always_null
 local-zone: "shopalyst.com." always_null
 local-zone: "shopart.me." always_null
