@@ -1,6 +1,6 @@
-# Version: 202206161046
+# Version: 202206161336
 # Title: oisd extra
-# Last modified: 16 Jun 2022 10:46 UTC
+# Last modified: 16 Jun 2022 13:36 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                                
@@ -477,7 +477,6 @@ local-zone: "mparticle.com." always_null
 local-zone: "mplxtms.com." always_null
 local-zone: "mqgpo.com." always_null
 local-zone: "mrzikj.com." always_null
-local-zone: "mudezs.com." always_null
 local-zone: "multiview.com." always_null
 local-zone: "mxpnl.com." always_null
 local-zone: "myvisualiq.net." always_null
