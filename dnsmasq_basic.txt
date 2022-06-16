@@ -1,6 +1,6 @@
-# Version: 202206161005
+# Version: 202206161036
 # Title: oisd basic
-# Last modified: 16 Jun 2022 10:05 UTC
+# Last modified: 16 Jun 2022 10:36 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq                                                
@@ -17848,7 +17848,6 @@ address=/data-failover.eroadvertising.com/#
 address=/data-location.enhance.co/#
 address=/data-optout-service.uca.cloud.unity3d.com/#
 address=/data.abebooks.com/#
-address=/data.adobedc.net/#
 address=/data.adwombat.com/#
 address=/data.alexa.com/#
 address=/data.appscomeon.com/#

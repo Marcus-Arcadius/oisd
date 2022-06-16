@@ -1,12 +1,12 @@
-; Version: 202206161005
+; Version: 202206161036
 ; Title: oisd basic
-; Last modified: 16 Jun 2022 10:05 UTC
+; Last modified: 16 Jun 2022 10:36 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1655373601 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1655375767 86400 3600 604800 30
  NS localhost.
 
 0001.best CNAME .
@@ -35695,8 +35695,6 @@ data-optout-service.uca.cloud.unity3d.com CNAME .
 *.data-optout-service.uca.cloud.unity3d.com CNAME .
 data.abebooks.com CNAME .
 *.data.abebooks.com CNAME .
-data.adobedc.net CNAME .
-*.data.adobedc.net CNAME .
 data.adwombat.com CNAME .
 *.data.adwombat.com CNAME .
 data.alexa.com CNAME .
@@ -115303,3 +115301,4 @@ zzz.pissrip.net CNAME .
 *.zzz.pissrip.net CNAME .
 zzznews.ru CNAME .
 *.zzznews.ru CNAME .
+

@@ -1,6 +1,6 @@
-# Version: 202206161005
+# Version: 202206161036
 # Title: oisd basic
-# Last modified: 16 Jun 2022 10:05 UTC
+# Last modified: 16 Jun 2022 10:36 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                                
@@ -17850,7 +17850,6 @@ local-zone: "data-failover.eroadvertising.com." always_null
 local-zone: "data-location.enhance.co." always_null
 local-zone: "data-optout-service.uca.cloud.unity3d.com." always_null
 local-zone: "data.abebooks.com." always_null
-local-zone: "data.adobedc.net." always_null
 local-zone: "data.adwombat.com." always_null
 local-zone: "data.alexa.com." always_null
 local-zone: "data.appscomeon.com." always_null
