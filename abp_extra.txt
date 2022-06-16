@@ -1,7 +1,7 @@
 [Adblock Plus]
-! Version: 202206161006
+! Version: 202206161046
 ! Title: oisd extra
-! Last modified: 16 Jun 2022 10:06 UTC
+! Last modified: 16 Jun 2022 10:46 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://oisd.nl
 ! Syntax: Adblock Plus Filter List                
@@ -88,7 +88,6 @@
 ||360.anatic.net^
 ||468.vologdainfo.ru^
 ||5.gzfenda.com^
-||51yes.com^
 ||5568.gjghy.com^
 ||703531862.vws.vegacdn.vn^
 ||801.tianyaui.com^
@@ -109,7 +108,6 @@
 ||ad-ettoday.cdn.hinet.net^
 ||adash.man.aliyuncs.com^
 ||adbrix.io^
-||adcast.ru^
 ||adcell.com^
 ||adcolo.com^
 ||adform.net^
@@ -137,7 +135,6 @@
 ||affiliatefuture.com^
 ||agacelebir.com^
 ||agkn.com^
-||ahyau.com^
 ||aimatch.com^
 ||ajpxs.xyz^
 ||akstat.io^
@@ -175,7 +172,6 @@
 ||awin1.com^
 ||axhntisudyhmxjd.xyz^
 ||axioux.com^
-||az7t8.com^
 ||bam-x.com^
 ||bannertrack.net^
 ||baremetrics.com^
@@ -196,6 +192,7 @@
 ||bluetoad.com^
 ||bm23.com^
 ||bn5x.net^
+||bokroet.com^
 ||bp01.net^
 ||bridgetrack.com^
 ||brightedge.com^
@@ -231,7 +228,6 @@
 ||cnetcontentsolutions.com^
 ||cnzz.com^
 ||cohesionapps.com^
-||collect.igodigital.com^
 ||commander1.com^
 ||commission-junction.com^
 ||complicatedgeneratelens.com^
@@ -246,7 +242,6 @@
 ||cquotient.com^
 ||csr.onet.pl^
 ||cst.cstwpush.com^
-||ctenetwork.com^
 ||cts.businesswire.com^
 ||cts.vresp.com^
 ||curalate.com^
@@ -265,9 +260,10 @@
 ||d35u1vg1q28b3w.cloudfront.net^
 ||d3tglifpd8whs6.cloudfront.net^
 ||d5nxst8fruw4z.cloudfront.net^
-||daikuanfanli.com^
+||data.adobedc.net^
 ||data.mistat.intl.xiaomi.com^
 ||data.mistat.rus.xiaomi.com^
+||data.mistat.xiaomi.com^
 ||datacaciques.com^
 ||deagerdtob.biz^
 ||deals.macupdate.com^
@@ -276,7 +272,6 @@
 ||dewsburg.info^
 ||dh2xbuwg.com^
 ||digitaladvisor.dk^
-||digrice.xyz^
 ||djtflbt20bdde.cloudfront.net^
 ||dnsseed.bitcoin.dashjr.org^
 ||dnsseed.bluematt.me^
@@ -293,7 +288,6 @@
 ||edrone.me^
 ||efe0df50ac.com^
 ||eisys-bcs.jp^
-||ekeide.com^
 ||elastx.net^
 ||ellenince.biz^
 ||empiremoney.com^
@@ -341,7 +335,6 @@
 ||gecko-sg.byteoversea.com^
 ||gekko.spiceworks.com^
 ||gemius.pl^
-||geo-idm.fr^
 ||geoip-db.com^
 ||geojs.io^
 ||geolocation-db.com^
@@ -385,11 +378,8 @@
 ||ichnaea.netflix.com^
 ||iciclefilament.com^
 ||idealmedia.io^
-||imglolo.xyz^
 ||impactradius.com^
-||incentaclick.com^
 ||includecheck.oisd.nl^
-||index.ru^
 ||indexww.com^
 ||inetinteractive.com^
 ||informer.yandex.ru^
@@ -423,7 +413,6 @@
 ||jwpltx.com^
 ||kampyle.com^
 ||kaxsdc.com^
-||keyyou.net^
 ||kgftlnvgql.com^
 ||kira5.ru^
 ||knneqqbgxeot.top^
@@ -433,7 +422,6 @@
 ||leanplum.com^
 ||lgsmartad.com^
 ||lhhrupisllmy.com^
-||lianjikeji.cn^
 ||linkev.com^
 ||livetex.ru^
 ||log-tb.sgsnssdk.com^
@@ -458,8 +446,6 @@
 ||marinsm.com^
 ||marketingautomation.services^
 ||marketo.com^
-||maxserving.com^
-||mayie.xyz^
 ||mbsy.co^
 ||mc.yandex.ru^
 ||md-nx.com^
@@ -474,7 +460,6 @@
 ||metric.gstatic.com^
 ||metrics.claspws.tv^
 ||mindtake.com^
-||mistat.xiaomi.com^
 ||mixi.media^
 ||mkt51.net^
 ||mmstat.com^
@@ -487,7 +472,6 @@
 ||mopinion.com^
 ||movable-ink-397.com^
 ||moviestreamingonline.club^
-||mp.huangye.miui.com^
 ||mparticle.com^
 ||mplxtms.com^
 ||mqgpo.com^
@@ -496,9 +480,7 @@
 ||multiview.com^
 ||mxpnl.com^
 ||myvisualiq.net^
-||nanovisor.io^
 ||naytev.com^
-||nedstat.com^
 ||neemu.com^
 ||nejmqianyan.cn^
 ||net.kg^
@@ -575,7 +557,6 @@
 ||relevant-digital.com^
 ||requestmetrics.com^
 ||researchnow.co.uk^
-||resolver.gslb.mi-idc.com^
 ||resolver.msg.xiaomi.net^
 ||respirationcafeincomparable.com^
 ||resu8.hjfile.cn^
@@ -588,12 +569,10 @@
 ||rutrk.org^
 ||s3s-main.net^
 ||sa.bbc.co.uk^
-||sa.bbc.com^
 ||sail-horizon.com^
 ||sakcguwb.com^
 ||sakura.goguardian.com^
 ||salesmanago.pl^
-||sanzhong.co^
 ||sare25.com^
 ||sc-static.net^
 ||scanverify.com^
@@ -604,7 +583,6 @@
 ||securemetrics.apple.com^
 ||securitymetrics.com^
 ||sedoparking.com^
-||seductionprofits.com^
 ||seed.bitcoin.sipa.be^
 ||seed.bitcoinstats.com^
 ||segment.com^
@@ -640,7 +618,6 @@
 ||stats.pusher.com^
 ||stocks-analytics-events.apple.com^
 ||stocks-analytics-events.news.apple-dns.net^
-||stormreader.cn^
 ||streamate.com^
 ||strongexplain.com^
 ||sundaysky.com^
@@ -662,7 +639,6 @@
 ||thebrighttag.com^
 ||thunderhead.com^
 ||timeryielding.com^
-||tizerbank.com^
 ||tm.tradetracker.net^
 ||tms-st.cdn.ngenix.net^
 ||todhamilton.pro^
@@ -691,9 +667,7 @@
 ||uid.mavencoalition.io^
 ||ularlyinteres.biz^
 ||unid.go.com^
-||uohz.cn^
 ||us.i1.yimg.com^
-||us04logfiles-va.zoom.us^
 ||us04logfiles.zoom.us^
 ||usabilla.com^
 ||useinsider.com^
@@ -709,16 +683,15 @@
 ||vortex.hulu.com^
 ||w88.espn.com^
 ||we-stats.com^
-||web0513.com^
 ||webcare.byside.com^
 ||webgains.com^
 ||webhop.net^
 ||webmasterplan.com^
 ||webpower.eu^
+||wf321.com^
 ||widget.trustpilot.com^
 ||widgets.trustedshops.com^
 ||wootric.com^
-||wp-stats.com^
 ||wsapi-global.master.live^
 ||wt-eu02.net^
 ||wurfl.io^
@@ -732,8 +705,6 @@
 ||xuhycaphe.com^
 ||xxxbannerswap.com^
 ||yeswegays.com^
-||yohioo.com^
 ||youvisit.com^
 ||yyshow.top^
 ||zenaps.com^
-||zhide-edu.cn^
