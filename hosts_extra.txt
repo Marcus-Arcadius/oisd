@@ -1,6 +1,6 @@
-# Version: 202206161336
+# Version: 202206171037
 # Title: oisd extra
-# Last modified: 16 Jun 2022 13:36 UTC
+# Last modified: 17 Jun 2022 10:37 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Hosts                                                  
@@ -227,7 +227,6 @@
 0.0.0.0 cts.businesswire.com
 0.0.0.0 cts.vresp.com
 0.0.0.0 curalate.com
-0.0.0.0 customer.io
 0.0.0.0 customerevents.netflix.com
 0.0.0.0 cws.conviva.com
 0.0.0.0 d10lpsik1i8c69.cloudfront.net
@@ -323,7 +322,6 @@
 0.0.0.0 hotelscombined.com.au
 0.0.0.0 hotkeys.com
 0.0.0.0 hs-scripts.com
-0.0.0.0 hscoscdn20.net
 0.0.0.0 hsoub.com
 0.0.0.0 hubpd.com
 0.0.0.0 humanpresence.app
@@ -558,6 +556,7 @@
 0.0.0.0 todhamilton.pro
 0.0.0.0 torimochi.line-apps.com
 0.0.0.0 toutiao.xn--fiqs8s
+0.0.0.0 track.customer.io
 0.0.0.0 track.effiliation.com
 0.0.0.0 track.nzz.ch
 0.0.0.0 tracker.idocdn.com
@@ -572,7 +571,6 @@
 0.0.0.0 treehousei.com
 0.0.0.0 treg.hearstnp.com
 0.0.0.0 trk.pinterest.com
-0.0.0.0 u.huoying666.com
 0.0.0.0 uamobile.net
 0.0.0.0 uarating.com
 0.0.0.0 ue.flipboard.com
@@ -610,7 +608,6 @@
 0.0.0.0 www.88hb7evabd.com
 0.0.0.0 www.a-mo.net
 0.0.0.0 www.a35c92d96766745.com
-0.0.0.0 www.acptkgp.com
 0.0.0.0 www.adbrix.io
 0.0.0.0 www.adcell.com
 0.0.0.0 www.adcolo.com
@@ -694,7 +691,6 @@
 0.0.0.0 www.cptrack.de
 0.0.0.0 www.cquotient.com
 0.0.0.0 www.curalate.com
-0.0.0.0 www.customer.io
 0.0.0.0 www.datacaciques.com
 0.0.0.0 www.deagerdtob.biz
 0.0.0.0 www.demdex.net
@@ -754,11 +750,9 @@
 0.0.0.0 www.happer.info
 0.0.0.0 www.hileatthesa.biz
 0.0.0.0 www.hitmarkerjobs.com
-0.0.0.0 www.hmaqz.top
 0.0.0.0 www.hostip.info
 0.0.0.0 www.hotkeys.com
 0.0.0.0 www.hs-scripts.com
-0.0.0.0 www.hscoscdn20.net
 0.0.0.0 www.hsoub.com
 0.0.0.0 www.htuczktvwtsf.com
 0.0.0.0 www.hubpd.com
@@ -842,7 +836,6 @@
 0.0.0.0 www.nejmqianyan.cn
 0.0.0.0 www.net.kg
 0.0.0.0 www.netupdater.info
-0.0.0.0 www.ngsaang.top
 0.0.0.0 www.njih.net
 0.0.0.0 www.nonstoppartner.net
 0.0.0.0 www.nr-data.net
@@ -961,7 +954,6 @@
 0.0.0.0 www.xxxbannerswap.com
 0.0.0.0 www.yeswegays.com
 0.0.0.0 www.youvisit.com
-0.0.0.0 www.yyshow.top
 0.0.0.0 www.zenaps.com
 0.0.0.0 x3-policy-maker.goguardian.com
 0.0.0.0 x3-predictor.goguardian.com

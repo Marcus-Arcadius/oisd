@@ -1,6 +1,6 @@
-# Version: 202206161336
+# Version: 202206171037
 # Title: oisd extra
-# Last modified: 16 Jun 2022 13:36 UTC
+# Last modified: 17 Jun 2022 10:37 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq                                                
@@ -103,7 +103,6 @@ address=/a2.xinhuanet.com/#
 address=/a35c92d96766745.com/#
 address=/aan.amazon.com/#
 address=/accesstrade.co.id/#
-address=/acptkgp.com/#
 address=/ad-ettoday.cdn.hinet.net/#
 address=/adash.man.aliyuncs.com/#
 address=/adbrix.io/#
@@ -244,7 +243,6 @@ address=/cst.cstwpush.com/#
 address=/cts.businesswire.com/#
 address=/cts.vresp.com/#
 address=/curalate.com/#
-address=/customer.io/#
 address=/customerevents.netflix.com/#
 address=/cws.conviva.com/#
 address=/d10lpsik1i8c69.cloudfront.net/#
@@ -357,12 +355,10 @@ address=/happer.info/#
 address=/hileatthesa.biz/#
 address=/hit.interia.pl/#
 address=/hitmarkerjobs.com/#
-address=/hmaqz.top/#
 address=/hostip.info/#
 address=/hotelscombined.com.au/#
 address=/hotkeys.com/#
 address=/hs-scripts.com/#
-address=/hscoscdn20.net/#
 address=/hsoub.com/#
 address=/htuczktvwtsf.com/#
 address=/hubpd.com/#
@@ -484,7 +480,6 @@ address=/nejmqianyan.cn/#
 address=/net.kg/#
 address=/netcore.co.in/#
 address=/netupdater.info/#
-address=/ngsaang.top/#
 address=/njih.net/#
 address=/nonstoppartner.net/#
 address=/nr-data.net/#
@@ -643,6 +638,7 @@ address=/todhamilton.pro/#
 address=/torimochi.line-apps.com/#
 address=/tothisimpo.biz/#
 address=/toutiao.xn--fiqs8s/#
+address=/track.customer.io/#
 address=/track.effiliation.com/#
 address=/track.nzz.ch/#
 address=/tracker.idocdn.com/#
@@ -658,7 +654,6 @@ address=/trbo.com/#
 address=/treehousei.com/#
 address=/treg.hearstnp.com/#
 address=/trk.pinterest.com/#
-address=/u.huoying666.com/#
 address=/uamobile.net/#
 address=/uarating.com/#
 address=/ue.flipboard.com/#
@@ -704,5 +699,4 @@ address=/xuhycaphe.com/#
 address=/xxxbannerswap.com/#
 address=/yeswegays.com/#
 address=/youvisit.com/#
-address=/yyshow.top/#
 address=/zenaps.com/#

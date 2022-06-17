@@ -1,6 +1,6 @@
-# Version: 202206161336
+# Version: 202206171037
 # Title: oisd extra
-# Last modified: 16 Jun 2022 13:36 UTC
+# Last modified: 17 Jun 2022 10:37 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                                
@@ -105,7 +105,6 @@ local-zone: "a2.xinhuanet.com." always_null
 local-zone: "a35c92d96766745.com." always_null
 local-zone: "aan.amazon.com." always_null
 local-zone: "accesstrade.co.id." always_null
-local-zone: "acptkgp.com." always_null
 local-zone: "ad-ettoday.cdn.hinet.net." always_null
 local-zone: "adash.man.aliyuncs.com." always_null
 local-zone: "adbrix.io." always_null
@@ -246,7 +245,6 @@ local-zone: "cst.cstwpush.com." always_null
 local-zone: "cts.businesswire.com." always_null
 local-zone: "cts.vresp.com." always_null
 local-zone: "curalate.com." always_null
-local-zone: "customer.io." always_null
 local-zone: "customerevents.netflix.com." always_null
 local-zone: "cws.conviva.com." always_null
 local-zone: "d10lpsik1i8c69.cloudfront.net." always_null
@@ -359,12 +357,10 @@ local-zone: "happer.info." always_null
 local-zone: "hileatthesa.biz." always_null
 local-zone: "hit.interia.pl." always_null
 local-zone: "hitmarkerjobs.com." always_null
-local-zone: "hmaqz.top." always_null
 local-zone: "hostip.info." always_null
 local-zone: "hotelscombined.com.au." always_null
 local-zone: "hotkeys.com." always_null
 local-zone: "hs-scripts.com." always_null
-local-zone: "hscoscdn20.net." always_null
 local-zone: "hsoub.com." always_null
 local-zone: "htuczktvwtsf.com." always_null
 local-zone: "hubpd.com." always_null
@@ -486,7 +482,6 @@ local-zone: "nejmqianyan.cn." always_null
 local-zone: "net.kg." always_null
 local-zone: "netcore.co.in." always_null
 local-zone: "netupdater.info." always_null
-local-zone: "ngsaang.top." always_null
 local-zone: "njih.net." always_null
 local-zone: "nonstoppartner.net." always_null
 local-zone: "nr-data.net." always_null
@@ -645,6 +640,7 @@ local-zone: "todhamilton.pro." always_null
 local-zone: "torimochi.line-apps.com." always_null
 local-zone: "tothisimpo.biz." always_null
 local-zone: "toutiao.xn--fiqs8s." always_null
+local-zone: "track.customer.io." always_null
 local-zone: "track.effiliation.com." always_null
 local-zone: "track.nzz.ch." always_null
 local-zone: "tracker.idocdn.com." always_null
@@ -660,7 +656,6 @@ local-zone: "trbo.com." always_null
 local-zone: "treehousei.com." always_null
 local-zone: "treg.hearstnp.com." always_null
 local-zone: "trk.pinterest.com." always_null
-local-zone: "u.huoying666.com." always_null
 local-zone: "uamobile.net." always_null
 local-zone: "uarating.com." always_null
 local-zone: "ue.flipboard.com." always_null
@@ -706,5 +701,4 @@ local-zone: "xuhycaphe.com." always_null
 local-zone: "xxxbannerswap.com." always_null
 local-zone: "yeswegays.com." always_null
 local-zone: "youvisit.com." always_null
-local-zone: "yyshow.top." always_null
 local-zone: "zenaps.com." always_null

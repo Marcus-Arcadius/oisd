@@ -1,12 +1,12 @@
-; Version: 202206161336
+; Version: 202206171037
 ; Title: oisd extra
-; Last modified: 16 Jun 2022 13:36 UTC
+; Last modified: 17 Jun 2022 10:37 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1655386248 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1655460001 86400 3600 604800 30
  NS localhost.
 
 0.code.cotsta.ru CNAME .
@@ -205,8 +205,6 @@ aan.amazon.com CNAME .
 *.aan.amazon.com CNAME .
 accesstrade.co.id CNAME .
 *.accesstrade.co.id CNAME .
-acptkgp.com CNAME .
-*.acptkgp.com CNAME .
 ad-ettoday.cdn.hinet.net CNAME .
 *.ad-ettoday.cdn.hinet.net CNAME .
 adash.man.aliyuncs.com CNAME .
@@ -487,8 +485,6 @@ cts.vresp.com CNAME .
 *.cts.vresp.com CNAME .
 curalate.com CNAME .
 *.curalate.com CNAME .
-customer.io CNAME .
-*.customer.io CNAME .
 customerevents.netflix.com CNAME .
 *.customerevents.netflix.com CNAME .
 cws.conviva.com CNAME .
@@ -713,8 +709,6 @@ hit.interia.pl CNAME .
 *.hit.interia.pl CNAME .
 hitmarkerjobs.com CNAME .
 *.hitmarkerjobs.com CNAME .
-hmaqz.top CNAME .
-*.hmaqz.top CNAME .
 hostip.info CNAME .
 *.hostip.info CNAME .
 hotelscombined.com.au CNAME .
@@ -723,8 +717,6 @@ hotkeys.com CNAME .
 *.hotkeys.com CNAME .
 hs-scripts.com CNAME .
 *.hs-scripts.com CNAME .
-hscoscdn20.net CNAME .
-*.hscoscdn20.net CNAME .
 hsoub.com CNAME .
 *.hsoub.com CNAME .
 htuczktvwtsf.com CNAME .
@@ -967,8 +959,6 @@ netcore.co.in CNAME .
 *.netcore.co.in CNAME .
 netupdater.info CNAME .
 *.netupdater.info CNAME .
-ngsaang.top CNAME .
-*.ngsaang.top CNAME .
 njih.net CNAME .
 *.njih.net CNAME .
 nonstoppartner.net CNAME .
@@ -1285,6 +1275,8 @@ tothisimpo.biz CNAME .
 *.tothisimpo.biz CNAME .
 toutiao.xn--fiqs8s CNAME .
 *.toutiao.xn--fiqs8s CNAME .
+track.customer.io CNAME .
+*.track.customer.io CNAME .
 track.effiliation.com CNAME .
 *.track.effiliation.com CNAME .
 track.nzz.ch CNAME .
@@ -1315,8 +1307,6 @@ treg.hearstnp.com CNAME .
 *.treg.hearstnp.com CNAME .
 trk.pinterest.com CNAME .
 *.trk.pinterest.com CNAME .
-u.huoying666.com CNAME .
-*.u.huoying666.com CNAME .
 uamobile.net CNAME .
 *.uamobile.net CNAME .
 uarating.com CNAME .
@@ -1407,7 +1397,5 @@ yeswegays.com CNAME .
 *.yeswegays.com CNAME .
 youvisit.com CNAME .
 *.youvisit.com CNAME .
-yyshow.top CNAME .
-*.yyshow.top CNAME .
 zenaps.com CNAME .
 *.zenaps.com CNAME .
