@@ -1,6 +1,6 @@
-# Version: 202206181735
+# Version: 202206190951
 # Title: oisd extra
-# Last modified: 18 Jun 2022 17:35 UTC
+# Last modified: 19 Jun 2022 09:51 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                                
@@ -755,7 +755,6 @@ local-zone: "taplytics.com." always_null
 local-zone: "tc.tradetracker.net." always_null
 local-zone: "tce.alicdn.com." always_null
 local-zone: "technical-service.net." always_null
-local-zone: "tencent.xn--io0a7i." always_null
 local-zone: "tf111.xyz." always_null
 local-zone: "thebrighttag.com." always_null
 local-zone: "thunderhead.com." always_null
@@ -764,7 +763,6 @@ local-zone: "tms-st.cdn.ngenix.net." always_null
 local-zone: "todhamilton.pro." always_null
 local-zone: "toftofcal.com." always_null
 local-zone: "torimochi.line-apps.com." always_null
-local-zone: "toutiao.xn--fiqs8s." always_null
 local-zone: "tpvjycisbqklu.com." always_null
 local-zone: "track.customer.io." always_null
 local-zone: "track.effiliation.com." always_null
@@ -825,7 +823,6 @@ local-zone: "x3-predictor.goguardian.com." always_null
 local-zone: "xapi.ozon.ru." always_null
 local-zone: "xhrxmbqixobk.com." always_null
 local-zone: "xlog-va.musical.ly." always_null
-local-zone: "xn--2ss830adjbqy7h.xn--fiqs8s." always_null
 local-zone: "xtxa.net." always_null
 local-zone: "yeswegays.com." always_null
 local-zone: "youvisit.com." always_null

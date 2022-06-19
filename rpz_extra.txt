@@ -1,12 +1,12 @@
-; Version: 202206181735
+; Version: 202206190951
 ; Title: oisd extra
-; Last modified: 18 Jun 2022 17:35 UTC
+; Last modified: 19 Jun 2022 09:51 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1655572230 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1655631949 86400 3600 604800 30
  NS localhost.
 
 0001.best CNAME .
@@ -1505,8 +1505,6 @@ tce.alicdn.com CNAME .
 *.tce.alicdn.com CNAME .
 technical-service.net CNAME .
 *.technical-service.net CNAME .
-tencent.xn--io0a7i CNAME .
-*.tencent.xn--io0a7i CNAME .
 tf111.xyz CNAME .
 *.tf111.xyz CNAME .
 thebrighttag.com CNAME .
@@ -1523,8 +1521,6 @@ toftofcal.com CNAME .
 *.toftofcal.com CNAME .
 torimochi.line-apps.com CNAME .
 *.torimochi.line-apps.com CNAME .
-toutiao.xn--fiqs8s CNAME .
-*.toutiao.xn--fiqs8s CNAME .
 tpvjycisbqklu.com CNAME .
 *.tpvjycisbqklu.com CNAME .
 track.customer.io CNAME .
@@ -1645,8 +1641,6 @@ xhrxmbqixobk.com CNAME .
 *.xhrxmbqixobk.com CNAME .
 xlog-va.musical.ly CNAME .
 *.xlog-va.musical.ly CNAME .
-xn--2ss830adjbqy7h.xn--fiqs8s CNAME .
-*.xn--2ss830adjbqy7h.xn--fiqs8s CNAME .
 xtxa.net CNAME .
 *.xtxa.net CNAME .
 yeswegays.com CNAME .
