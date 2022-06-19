@@ -1,12 +1,12 @@
-; Version: 202206191021
+; Version: 202206192232
 ; Title: oisd basic
-; Last modified: 19 Jun 2022 10:21 UTC
+; Last modified: 19 Jun 2022 22:32 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1655633844 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1655676031 86400 3600 604800 30
  NS localhost.
 
 0.code.cotsta.ru CNAME .
@@ -13799,6 +13799,8 @@ agdm.ml CNAME .
 *.agdm.ml CNAME .
 agegreetings.112.2o7.net CNAME .
 *.agegreetings.112.2o7.net CNAME .
+agemn.co.za CNAME .
+*.agemn.co.za CNAME .
 agenduret.com CNAME .
 *.agenduret.com CNAME .
 agent.contentsanalyst.com CNAME .
@@ -18993,8 +18995,6 @@ ateletswitoto.com CNAME .
 *.ateletswitoto.com CNAME .
 atemda.com CNAME .
 *.atemda.com CNAME .
-atenaperu.com CNAME .
-*.atenaperu.com CNAME .
 aterroppop.com CNAME .
 *.aterroppop.com CNAME .
 atevaccination.com CNAME .
@@ -22919,6 +22919,8 @@ bhaagya.app CNAME .
 *.bhaagya.app CNAME .
 bhabhiporn.pro CNAME .
 *.bhabhiporn.pro CNAME .
+bharattank.me CNAME .
+*.bharattank.me CNAME .
 bhcumsc.com CNAME .
 *.bhcumsc.com CNAME .
 bhgdiabeticliving.112.2o7.net CNAME .
@@ -27429,8 +27431,6 @@ cdn-ketchapp.akamaized.net CNAME .
 *.cdn-ketchapp.akamaized.net CNAME .
 cdn-media.aibuy.io CNAME .
 *.cdn-media.aibuy.io CNAME .
-cdn-mxpnl.com CNAME .
-*.cdn-mxpnl.com CNAME .
 cdn-my4.ru CNAME .
 *.cdn-my4.ru CNAME .
 cdn-my5.ru CNAME .
@@ -29015,6 +29015,8 @@ cirochimi.com CNAME .
 *.cirochimi.com CNAME .
 cirsepuh.net CNAME .
 *.cirsepuh.net CNAME .
+cis-tunisie.com CNAME .
+*.cis-tunisie.com CNAME .
 ciscowebex.112.2o7.net CNAME .
 *.ciscowebex.112.2o7.net CNAME .
 cisheeng.com CNAME .
@@ -31327,6 +31329,8 @@ computerxchange.com CNAME .
 *.computerxchange.com CNAME .
 computeterrifyingobdurate.com CNAME .
 *.computeterrifyingobdurate.com CNAME .
+computiendastrevo.com CNAME .
+*.computiendastrevo.com CNAME .
 comscore.com CNAME .
 *.comscore.com CNAME .
 comscoreresearch.com CNAME .
@@ -62407,8 +62411,6 @@ linkslot.ru CNAME .
 *.linkslot.ru CNAME .
 linksmart.com CNAME .
 *.linksmart.com CNAME .
-linksource.cool CNAME .
-*.linksource.cool CNAME .
 linkstation.de CNAME .
 *.linkstation.de CNAME .
 linkstorm.net CNAME .
@@ -62559,6 +62561,8 @@ liunxgroup.top CNAME .
 *.liunxgroup.top CNAME .
 liupan.asia CNAME .
 *.liupan.asia CNAME .
+liuresidences.com CNAME .
+*.liuresidences.com CNAME .
 liushuaib.xyz CNAME .
 *.liushuaib.xyz CNAME .
 liusuqin.fun CNAME .
@@ -69355,6 +69359,8 @@ monumentsmaterialeasel.com CNAME .
 *.monumentsmaterialeasel.com CNAME .
 monxserver.com CNAME .
 *.monxserver.com CNAME .
+monzywuh.tk CNAME .
+*.monzywuh.tk CNAME .
 moo9995.com CNAME .
 *.moo9995.com CNAME .
 mooantink.com CNAME .
@@ -71519,8 +71525,6 @@ netaffiliation.com CNAME .
 *.netaffiliation.com CNAME .
 netagent.cz CNAME .
 *.netagent.cz CNAME .
-netanalyzer.space CNAME .
-*.netanalyzer.space CNAME .
 netapplications.com CNAME .
 *.netapplications.com CNAME .
 netavenir.com CNAME .
@@ -78091,8 +78095,6 @@ phpape.com CNAME .
 *.phpape.com CNAME .
 phpmyvisites.net CNAME .
 *.phpmyvisites.net CNAME .
-phpnan.com CNAME .
-*.phpnan.com CNAME .
 phpstat.com CNAME .
 *.phpstat.com CNAME .
 phpteaser.ru CNAME .
@@ -81033,6 +81035,8 @@ prospectnews.com CNAME .
 *.prospectnews.com CNAME .
 prospecttommy.com CNAME .
 *.prospecttommy.com CNAME .
+prosperbusinessdepot.com CNAME .
+*.prosperbusinessdepot.com CNAME .
 prosperent.com CNAME .
 *.prosperent.com CNAME .
 prospergenerosityperformance.com CNAME .
@@ -83093,6 +83097,8 @@ quantumads.com CNAME .
 *.quantumads.com CNAME .
 quantumdex.io CNAME .
 *.quantumdex.io CNAME .
+quantumers.com CNAME .
+*.quantumers.com CNAME .
 quantumpers.com CNAME .
 *.quantumpers.com CNAME .
 quanwu.shop CNAME .
@@ -84417,6 +84423,8 @@ redemptionphrase.com CNAME .
 *.redemptionphrase.com CNAME .
 redemw.com CNAME .
 *.redemw.com CNAME .
+redesign.heathermorgan.co CNAME .
+*.redesign.heathermorgan.co CNAME .
 redewdit.pro CNAME .
 *.redewdit.pro CNAME .
 redexchange.net CNAME .
@@ -85205,6 +85213,8 @@ reproofdibase.com CNAME .
 *.reproofdibase.com CNAME .
 repruggob.com CNAME .
 *.repruggob.com CNAME .
+repservis.com.ar CNAME .
+*.repservis.com.ar CNAME .
 repsrowedpay.com CNAME .
 *.repsrowedpay.com CNAME .
 reptilefightearn.com CNAME .
@@ -98997,8 +99007,6 @@ thegioididong.me CNAME .
 *.thegioididong.me CNAME .
 thegroup.112.2o7.net CNAME .
 *.thegroup.112.2o7.net CNAME .
-theherohomes.in CNAME .
-*.theherohomes.in CNAME .
 theirsvendor.com CNAME .
 *.theirsvendor.com CNAME .
 thekitchengastronomy.com CNAME .
@@ -100419,6 +100427,8 @@ top100bloggers.com CNAME .
 *.top100bloggers.com CNAME .
 top100webshops.com CNAME .
 *.top100webshops.com CNAME .
+top10inmizoram.com CNAME .
+*.top10inmizoram.com CNAME .
 top10sportsites.com CNAME .
 *.top10sportsites.com CNAME .
 top123.ro CNAME .
@@ -105247,6 +105257,8 @@ usabilitytools.com CNAME .
 *.usabilitytools.com CNAME .
 usachoice.net CNAME .
 *.usachoice.net CNAME .
+usadheffreas.top CNAME .
+*.usadheffreas.top CNAME .
 usadmm-ds.dotomi.com CNAME .
 *.usadmm-ds.dotomi.com CNAME .
 usadmm.dotomi.com CNAME .
