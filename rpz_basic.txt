@@ -1,12 +1,12 @@
-; Version: 202206191014
+; Version: 202206191021
 ; Title: oisd basic
-; Last modified: 19 Jun 2022 10:14 UTC
+; Last modified: 19 Jun 2022 10:21 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1655633315 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1655633844 86400 3600 604800 30
  NS localhost.
 
 0.code.cotsta.ru CNAME .
@@ -33803,8 +33803,6 @@ cushionpig.com CNAME .
 *.cushionpig.com CNAME .
 cusok.ru CNAME .
 *.cusok.ru CNAME .
-cusqvmqdqpyyct.com CNAME .
-*.cusqvmqdqpyyct.com CNAME .
 cussixia.de CNAME .
 *.cussixia.de CNAME .
 custodyabsolutiondrawback.com CNAME .
@@ -33865,8 +33863,6 @@ cvsheil.com CNAME .
 *.cvsheil.com CNAME .
 cvtr.io CNAME .
 *.cvtr.io CNAME .
-cvwwnfnxegcfudw.com CNAME .
-*.cvwwnfnxegcfudw.com CNAME .
 cw.addthis.com CNAME .
 *.cw.addthis.com CNAME .
 cw.nu CNAME .
@@ -38661,8 +38657,6 @@ dokauzob.top CNAME .
 *.dokauzob.top CNAME .
 doklam.wang CNAME .
 *.doklam.wang CNAME .
-dokpkvloy.com CNAME .
-*.dokpkvloy.com CNAME .
 dokzl8xhmt1x7.cloudfront.net CNAME .
 *.dokzl8xhmt1x7.cloudfront.net CNAME .
 dola88.info CNAME .
@@ -44325,8 +44319,6 @@ feinthonouredadornment.com CNAME .
 *.feinthonouredadornment.com CNAME .
 feisia1.cn CNAME .
 *.feisia1.cn CNAME .
-feiukhafgfrj.com CNAME .
-*.feiukhafgfrj.com CNAME .
 feiyang163.com CNAME .
 *.feiyang163.com CNAME .
 feizailin.com CNAME .
@@ -55199,8 +55191,6 @@ imitrex.4.p2l.info CNAME .
 *.imitrex.4.p2l.info CNAME .
 imitrk.com CNAME .
 *.imitrk.com CNAME .
-imiupllpitwl.com CNAME .
-*.imiupllpitwl.com CNAME .
 imlidc.cn CNAME .
 *.imlidc.cn CNAME .
 immanalytics.com CNAME .
@@ -58115,8 +58105,6 @@ jitherbilance.in CNAME .
 *.jitherbilance.in CNAME .
 jitmj4.122.2o7.net CNAME .
 *.jitmj4.122.2o7.net CNAME .
-jitpfhufrexxec.com CNAME .
-*.jitpfhufrexxec.com CNAME .
 jittermarmaladeexhausted.com CNAME .
 *.jittermarmaladeexhausted.com CNAME .
 jiu9.shop CNAME .
@@ -59021,8 +59009,6 @@ jwplayer.space CNAME .
 *.jwplayer.space CNAME .
 jwvjcr.cn CNAME .
 *.jwvjcr.cn CNAME .
-jwxhqpmbpcthi.com CNAME .
-*.jwxhqpmbpcthi.com CNAME .
 jx.renrensousuo.com CNAME .
 *.jx.renrensousuo.com CNAME .
 jx118114.net CNAME .
@@ -59459,8 +59445,6 @@ kcdn.xyz CNAME .
 *.kcdn.xyz CNAME .
 kcgkxha.cn CNAME .
 *.kcgkxha.cn CNAME .
-kchubole.com CNAME .
-*.kchubole.com CNAME .
 kcta.or.kr CNAME .
 *.kcta.or.kr CNAME .
 kctag.net CNAME .
@@ -59561,8 +59545,6 @@ keonhacai3.com CNAME .
 *.keonhacai3.com CNAME .
 keotot.net CNAME .
 *.keotot.net CNAME .
-keplxkwnwnjlm.com CNAME .
-*.keplxkwnwnjlm.com CNAME .
 keqcte.cn CNAME .
 *.keqcte.cn CNAME .
 keqiao.pw CNAME .
@@ -79879,8 +79861,6 @@ potionutilize.com CNAME .
 *.potionutilize.com CNAME .
 potnormal.com CNAME .
 *.potnormal.com CNAME .
-potocymxbkrckbb.com CNAME .
-*.potocymxbkrckbb.com CNAME .
 potopy.ru CNAME .
 *.potopy.ru CNAME .
 potteryhuman.com CNAME .
@@ -82657,8 +82637,6 @@ qfs365.com CNAME .
 *.qfs365.com CNAME .
 qfthyjr.pro CNAME .
 *.qfthyjr.pro CNAME .
-qfvgxaqxk.com CNAME .
-*.qfvgxaqxk.com CNAME .
 qfxdvti.cn CNAME .
 *.qfxdvti.cn CNAME .
 qgamsa.com CNAME .
@@ -85697,8 +85675,6 @@ rfpozf.com CNAME .
 *.rfpozf.com CNAME .
 rfr-69.com CNAME .
 *.rfr-69.com CNAME .
-rftqrhjptct.com CNAME .
-*.rftqrhjptct.com CNAME .
 rfyqtv2.com CNAME .
 *.rfyqtv2.com CNAME .
 rg-be.ru CNAME .
@@ -88579,8 +88555,6 @@ sdasasyydd.com CNAME .
 *.sdasasyydd.com CNAME .
 sdawe.top CNAME .
 *.sdawe.top CNAME .
-sdbhchmddlta.com CNAME .
-*.sdbhchmddlta.com CNAME .
 sdc.acc.org CNAME .
 *.sdc.acc.org CNAME .
 sdc.caranddriver.com CNAME .
@@ -89967,8 +89941,6 @@ sf14g.com CNAME .
 *.sf14g.com CNAME .
 sfads.osdn.com CNAME .
 *.sfads.osdn.com CNAME .
-sfbyixjmrpayxrd.com CNAME .
-*.sfbyixjmrpayxrd.com CNAME .
 sfceco.cn CNAME .
 *.sfceco.cn CNAME .
 sffsdvc.com CNAME .
@@ -104479,8 +104451,6 @@ ulyvjty4rd.com CNAME .
 *.ulyvjty4rd.com CNAME .
 um-public-panel-prod.s3.amazonaws.com CNAME .
 *.um-public-panel-prod.s3.amazonaws.com CNAME .
-umadeohw.com CNAME .
-*.umadeohw.com CNAME .
 umbel.com CNAME .
 *.umbel.com CNAME .
 umbemonop.info CNAME .
@@ -105601,8 +105571,6 @@ uxsingh.com CNAME .
 *.uxsingh.com CNAME .
 uxsvipumvu.xyz CNAME .
 *.uxsvipumvu.xyz CNAME .
-uyfjmboaujxxw.com CNAME .
-*.uyfjmboaujxxw.com CNAME .
 uymjbn.com CNAME .
 *.uymjbn.com CNAME .
 uymkdz9s.com CNAME .
@@ -107493,8 +107461,6 @@ vodus.com CNAME .
 *.vodus.com CNAME .
 voduscdn.azureedge.net CNAME .
 *.voduscdn.azureedge.net CNAME .
-vofvuuuofxcwnk.com CNAME .
-*.vofvuuuofxcwnk.com CNAME .
 vogo-vogo.ru CNAME .
 *.vogo-vogo.ru CNAME .
 vogopita.com CNAME .
@@ -110201,8 +110167,6 @@ wlbann.com CNAME .
 *.wlbann.com CNAME .
 wlmarketing.com CNAME .
 *.wlmarketing.com CNAME .
-wlmxkbkelw.com CNAME .
-*.wlmxkbkelw.com CNAME .
 wlog.tmon.co.kr CNAME .
 *.wlog.tmon.co.kr CNAME .
 wlr8yw8.cn CNAME .
@@ -112403,8 +112367,6 @@ xvika.com CNAME .
 *.xvika.com CNAME .
 xviperonec.com CNAME .
 *.xviperonec.com CNAME .
-xvivglon.com CNAME .
-*.xvivglon.com CNAME .
 xvqdfwy.cn CNAME .
 *.xvqdfwy.cn CNAME .
 xvwebllndr.com CNAME .
