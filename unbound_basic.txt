@@ -1,6 +1,6 @@
-# Version: 202206201926
+# Version: 202206202045
 # Title: oisd basic
-# Last modified: 20 Jun 2022 19:26 UTC
+# Last modified: 20 Jun 2022 20:45 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                                
@@ -19665,6 +19665,7 @@ local-zone: "driverpack.io." always_null
 local-zone: "drivingdirt.com." always_null
 local-zone: "drivingschoolburlington.ca." always_null
 local-zone: "drivotracker.com." always_null
+local-zone: "drjaralampos.com." always_null
 local-zone: "drjasonneuro.in." always_null
 local-zone: "drjgjngf.com." always_null
 local-zone: "drkalan.com." always_null
@@ -43933,6 +43934,7 @@ local-zone: "samsienshrivel.com." always_null
 local-zone: "samsungacr.com." always_null
 local-zone: "samsungadhub.com." always_null
 local-zone: "samsungads.com." always_null
+local-zone: "samsungsmartcafetirunelveli.in." always_null
 local-zone: "samsungtvads.com." always_null
 local-zone: "samtrg.com." always_null
 local-zone: "samuelgirlism.com." always_null
@@ -49559,6 +49561,7 @@ local-zone: "thefootpetso.com." always_null
 local-zone: "thefuncoolstuff.com." always_null
 local-zone: "thegioididong.me." always_null
 local-zone: "thegroup.112.2o7.net." always_null
+local-zone: "theherohomes.in." always_null
 local-zone: "theirsvendor.com." always_null
 local-zone: "thekitchengastronomy.com." always_null
 local-zone: "thekromp.com." always_null
@@ -55046,6 +55049,7 @@ local-zone: "winaproduct.com." always_null
 local-zone: "winbuyer.com." always_null
 local-zone: "wincleaner.com." always_null
 local-zone: "windaily.com." always_null
+local-zone: "windcomtechnologies.com." always_null
 local-zone: "winde.cc." always_null
 local-zone: "windofaeolus.com." always_null
 local-zone: "windoorsew.club." always_null
@@ -56226,6 +56230,7 @@ local-zone: "xtraffstat.com." always_null
 local-zone: "xtrafic.ro." always_null
 local-zone: "xtransferme.com." always_null
 local-zone: "xtrasizeoriginal.com.br." always_null
+local-zone: "xtreamdigital.com." always_null
 local-zone: "xtreff69.com." always_null
 local-zone: "xtremelivesupport.com." always_null
 local-zone: "xtremepush.com." always_null

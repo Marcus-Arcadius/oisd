@@ -1,12 +1,12 @@
-; Version: 202206201926
+; Version: 202206202045
 ; Title: oisd basic
-; Last modified: 20 Jun 2022 19:26 UTC
+; Last modified: 20 Jun 2022 20:45 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1655752814 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1655757687 86400 3600 604800 30
  NS localhost.
 
 0.code.cotsta.ru CNAME .
@@ -39325,6 +39325,8 @@ drivingschoolburlington.ca CNAME .
 *.drivingschoolburlington.ca CNAME .
 drivotracker.com CNAME .
 *.drivotracker.com CNAME .
+drjaralampos.com CNAME .
+*.drjaralampos.com CNAME .
 drjasonneuro.in CNAME .
 *.drjasonneuro.in CNAME .
 drjgjngf.com CNAME .
@@ -87861,6 +87863,8 @@ samsungadhub.com CNAME .
 *.samsungadhub.com CNAME .
 samsungads.com CNAME .
 *.samsungads.com CNAME .
+samsungsmartcafetirunelveli.in CNAME .
+*.samsungsmartcafetirunelveli.in CNAME .
 samsungtvads.com CNAME .
 *.samsungtvads.com CNAME .
 samtrg.com CNAME .
@@ -99113,6 +99117,8 @@ thegioididong.me CNAME .
 *.thegioididong.me CNAME .
 thegroup.112.2o7.net CNAME .
 *.thegroup.112.2o7.net CNAME .
+theherohomes.in CNAME .
+*.theherohomes.in CNAME .
 theirsvendor.com CNAME .
 *.theirsvendor.com CNAME .
 thekitchengastronomy.com CNAME .
@@ -110087,6 +110093,8 @@ wincleaner.com CNAME .
 *.wincleaner.com CNAME .
 windaily.com CNAME .
 *.windaily.com CNAME .
+windcomtechnologies.com CNAME .
+*.windcomtechnologies.com CNAME .
 winde.cc CNAME .
 *.winde.cc CNAME .
 windofaeolus.com CNAME .
@@ -112447,6 +112455,8 @@ xtransferme.com CNAME .
 *.xtransferme.com CNAME .
 xtrasizeoriginal.com.br CNAME .
 *.xtrasizeoriginal.com.br CNAME .
+xtreamdigital.com CNAME .
+*.xtreamdigital.com CNAME .
 xtreff69.com CNAME .
 *.xtreff69.com CNAME .
 xtremelivesupport.com CNAME .
