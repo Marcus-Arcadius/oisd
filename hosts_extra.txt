@@ -1,6 +1,6 @@
-# Version: 202206202106
+# Version: 202206202124
 # Title: oisd extra
-# Last modified: 20 Jun 2022 21:06 UTC
+# Last modified: 20 Jun 2022 21:24 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Hosts                                                  
@@ -170,10 +170,20 @@
 0.0.0.0 adpushup.com
 0.0.0.0 adregain.com
 0.0.0.0 adrelayer.com
+0.0.0.0 ads-api.twitter.com
+0.0.0.0 ads-dev.pinterest.com
+0.0.0.0 ads-sg.tiktok.com
 0.0.0.0 ads.aws.fwmrm.net
+0.0.0.0 ads.facebook.com
 0.0.0.0 ads.google.com
+0.0.0.0 ads.linkedin.com
+0.0.0.0 ads.pinterest.com
 0.0.0.0 ads.reddit.com
+0.0.0.0 ads.tiktok.com
 0.0.0.0 ads.twitter.com
+0.0.0.0 ads.yahoo.com
+0.0.0.0 ads.yap.yahoo.com
+0.0.0.0 ads.youtube.com
 0.0.0.0 ads280dummy2.com
 0.0.0.0 adsafeprotected.com
 0.0.0.0 adsafety.net
@@ -197,6 +207,7 @@
 0.0.0.0 adultfriendfinder.com
 0.0.0.0 adups.com
 0.0.0.0 advertising.com
+0.0.0.0 advertising.twitter.com
 0.0.0.0 adzerk.com
 0.0.0.0 adzerk.net
 0.0.0.0 affex.org
@@ -216,13 +227,18 @@
 0.0.0.0 amazonbusiness.com
 0.0.0.0 amdc.m.taobao.com
 0.0.0.0 amplitude.com
+0.0.0.0 an.facebook.com
 0.0.0.0 analytics-api.samsunghealthcn.com
 0.0.0.0 analytics-sg.tiktok.com
 0.0.0.0 analytics.console.aws.a2z.com
 0.0.0.0 analytics.edgekey.net
+0.0.0.0 analytics.facebook.com
 0.0.0.0 analytics.google.com
 0.0.0.0 analytics.mobile.yandex.net
+0.0.0.0 analytics.pinterest.com
+0.0.0.0 analytics.pointdrive.linkedin.com
 0.0.0.0 analytics.robinhood.com
+0.0.0.0 analytics.tiktok.com
 0.0.0.0 analytics.twitter.com
 0.0.0.0 analytics.yahoo.com
 0.0.0.0 android.bugly.qq.com
@@ -234,9 +250,11 @@
 0.0.0.0 api-2-0.spot.im
 0.0.0.0 api-gateway.us-west-2.elasticbeanstalk.com
 0.0.0.0 api-v3.tinypass.com
+0.0.0.0 api.ad.xiaomi.com
 0.0.0.0 api.amplitude.com
 0.0.0.0 api.bluecore.com
 0.0.0.0 api.branch.io
+0.0.0.0 api.bugsnag.com
 0.0.0.0 api.cleverpush.com
 0.0.0.0 api.cxense.com
 0.0.0.0 api.engager.ecbsn.com
@@ -265,8 +283,10 @@
 0.0.0.0 app.adjust.io
 0.0.0.0 app.adjust.net.in
 0.0.0.0 app.appsflyer.com
+0.0.0.0 app.bugsnag.com
 0.0.0.0 app.chat.xiaomi.net
 0.0.0.0 app.getresponse.com
+0.0.0.0 app.getsentry.com
 0.0.0.0 app.meltwater.com
 0.0.0.0 app.sephora.com
 0.0.0.0 app.wootric.com
@@ -417,6 +437,7 @@
 0.0.0.0 cj.com
 0.0.0.0 cj.mplxtms.com
 0.0.0.0 clck.ru
+0.0.0.0 clck.yandex.ru
 0.0.0.0 cleverpush.com
 0.0.0.0 click.dtiserv2.com
 0.0.0.0 click.e.affirm.com
@@ -428,6 +449,7 @@
 0.0.0.0 click.oneplus.cn
 0.0.0.0 click.oneplus.com
 0.0.0.0 click.redditmail.com
+0.0.0.0 click.sender.yandex.ru
 0.0.0.0 clickbank.com
 0.0.0.0 clickcease.com
 0.0.0.0 clickmail.stubhub.com
@@ -452,6 +474,7 @@
 0.0.0.0 commander1.com
 0.0.0.0 commission-junction.com
 0.0.0.0 community.adlandpro.com
+0.0.0.0 config.samsungads.com
 0.0.0.0 config.uca.cloud.unity3d.com
 0.0.0.0 connatix.com
 0.0.0.0 connect.darden.virginia.edu
@@ -554,6 +577,7 @@
 0.0.0.0 dspultra.com
 0.0.0.0 dstreet.pl
 0.0.0.0 duiba.com.cn
+0.0.0.0 dzc-metrics.mzstatic.com
 0.0.0.0 e.imguol.com
 0.0.0.0 e7876.dscg.akamaiedge.net
 0.0.0.0 ea.galerieslafayette.com
@@ -587,6 +611,7 @@
 0.0.0.0 events.jotform.com
 0.0.0.0 events.launchdarkly.com
 0.0.0.0 events.mapbox.com
+0.0.0.0 events.redditmedia.com
 0.0.0.0 events.release.narrativ.com
 0.0.0.0 events.split.io
 0.0.0.0 everesttech.net
@@ -661,7 +686,9 @@
 0.0.0.0 gigazine.asia
 0.0.0.0 glam.com
 0.0.0.0 global-wildcard.insightexpressai.com.edgekey.net
+0.0.0.0 global.adserver.yahoo.com
 0.0.0.0 global.telemetry.insights.video.a2z.com
+0.0.0.0 globalapi.ad.xiaomi.com
 0.0.0.0 gloyah.net
 0.0.0.0 gm.gds.mmstat.com
 0.0.0.0 gm.mmstat.com
@@ -839,6 +866,7 @@
 0.0.0.0 log-upload-os.mihoyo.com
 0.0.0.0 log-upload.mihoyo.com
 0.0.0.0 log.mmstat.com
+0.0.0.0 log.pinterest.com
 0.0.0.0 log.quora.com
 0.0.0.0 log.tiktokv.com
 0.0.0.0 logbak.hicloud.com
@@ -964,6 +992,7 @@
 0.0.0.0 nexusrules.officeapps.live.com
 0.0.0.0 njih.net
 0.0.0.0 nonstoppartner.net
+0.0.0.0 notify.bugsnag.com
 0.0.0.0 nova-collector-1192479543.us-east-1.elb.amazonaws.com
 0.0.0.0 nova.collect.igodigital.com
 0.0.0.0 now.eloqua.com
@@ -1035,6 +1064,7 @@
 0.0.0.0 pipe.aria.microsoft.com
 0.0.0.0 piwik.org
 0.0.0.0 pixel.everesttech.net
+0.0.0.0 pixel.facebook.com
 0.0.0.0 pixelzirkus.gameforge.com
 0.0.0.0 pjatr.com
 0.0.0.0 pjtra.com
@@ -1086,12 +1116,15 @@
 0.0.0.0 redefine.hit.stat24.com
 0.0.0.0 redefine2.hit.stat24.com
 0.0.0.0 redirect-ads.com
+0.0.0.0 redirect.appmetrica.yandex.com
+0.0.0.0 redirect.appmetrica.yandex.ru
 0.0.0.0 redirectingat.com
 0.0.0.0 refer.ccbill.com
 0.0.0.0 referrer.disqus.com
 0.0.0.0 refersion.com
 0.0.0.0 relevant-digital.com
 0.0.0.0 requestmetrics.com
+0.0.0.0 rereddit.com
 0.0.0.0 researchnow.co.uk
 0.0.0.0 researchnow.com
 0.0.0.0 resolver.msg.xiaomi.net
@@ -1130,6 +1163,8 @@
 0.0.0.0 sail-horizon.com
 0.0.0.0 sakura.goguardian.com
 0.0.0.0 salesmanago.pl
+0.0.0.0 samsung-com.112.2o7.net
+0.0.0.0 samsungads.com
 0.0.0.0 sanalytics.disneyplus.com
 0.0.0.0 sare25.com
 0.0.0.0 sawap.equifax.com
@@ -1148,6 +1183,8 @@
 0.0.0.0 sdk.iad-03.braze.com
 0.0.0.0 sdk.split.io
 0.0.0.0 sdkapicdn.applanga.com
+0.0.0.0 sdkconfig.ad.intl.xiaomi.com
+0.0.0.0 sdkconfig.ad.xiaomi.com
 0.0.0.0 seadform.net
 0.0.0.0 seccdn-gl.imrworldwide.com
 0.0.0.0 secondstreetapp.com
@@ -1171,6 +1208,8 @@
 0.0.0.0 services.brightline.tv
 0.0.0.0 services.zam.com
 0.0.0.0 serving-sys.com
+0.0.0.0 sessions.bugsnag.com
+0.0.0.0 settings.luckyorange.net
 0.0.0.0 sgsnssdk.com.edgekey.net
 0.0.0.0 shareaholic.com
 0.0.0.0 shareasale.com
@@ -1213,6 +1252,7 @@
 0.0.0.0 stat.download.xunlei.com
 0.0.0.0 stat24.com
 0.0.0.0 statcounter.com
+0.0.0.0 static.ads-twitter.com
 0.0.0.0 static.adsafeprotected.com
 0.0.0.0 static.cdn.responsys.net
 0.0.0.0 static.cleverpush.com
@@ -1224,6 +1264,7 @@
 0.0.0.0 stats.appsflyer.com
 0.0.0.0 stats.paypal.com
 0.0.0.0 stats.pusher.com
+0.0.0.0 stats.wp.com
 0.0.0.0 stocks-analytics-events.apple.com
 0.0.0.0 stocks-analytics-events.news.apple-dns.net
 0.0.0.0 stormgain.com
@@ -1384,6 +1425,7 @@
 0.0.0.0 whipcrack.org
 0.0.0.0 widget-cdn.rpxnow.com
 0.0.0.0 widget.trustpilot.com
+0.0.0.0 widgets.pinterest.com
 0.0.0.0 widgets.trustedshops.com
 0.0.0.0 wildcard.evidon.com.edgekey.net
 0.0.0.0 wildcard.outbrain.com.edgekey.net
@@ -1494,6 +1536,7 @@
 0.0.0.0 www.anrdoezrs.net
 0.0.0.0 www.answerhub.com
 0.0.0.0 www.apex-ad.com
+0.0.0.0 www.api-hotjar.com
 0.0.0.0 www.apmebf.com
 0.0.0.0 www.aporasal.net
 0.0.0.0 www.appcast.io
@@ -2098,6 +2141,7 @@
 0.0.0.0 www.relacja316.site
 0.0.0.0 www.relevant-digital.com
 0.0.0.0 www.requestmetrics.com
+0.0.0.0 www.rereddit.com
 0.0.0.0 www.researchnow.com
 0.0.0.0 www.revoltprohibit.com
 0.0.0.0 www.riden.network
@@ -2110,6 +2154,7 @@
 0.0.0.0 www.ryrecdiretbet.info
 0.0.0.0 www.s3-ap-southeast-1-amazonaws.com
 0.0.0.0 www.salesmanago.pl
+0.0.0.0 www.samsungads.com
 0.0.0.0 www.sare25.com
 0.0.0.0 www.sasedi.xyz
 0.0.0.0 www.scanverify.com
@@ -2334,6 +2379,7 @@
 0.0.0.0 xlog-va.musical.ly
 0.0.0.0 yandexadexchange.net
 0.0.0.0 yeswegays.com
+0.0.0.0 youtube.cleverads.vn
 0.0.0.0 youvisit.com
 0.0.0.0 zdbb.net
 0.0.0.0 zee.cws.conviva.com

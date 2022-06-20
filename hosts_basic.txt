@@ -1,6 +1,6 @@
-# Version: 202206202123
+# Version: 202206202131
 # Title: oisd basic
-# Last modified: 20 Jun 2022 21:23 UTC
+# Last modified: 20 Jun 2022 21:31 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Hosts                                                  
@@ -5680,7 +5680,6 @@
 0.0.0.0 ads-d.viber.com
 0.0.0.0 ads-delivery.gameforge.com
 0.0.0.0 ads-delivery.gunosy.com
-0.0.0.0 ads-dev.pinterest.com
 0.0.0.0 ads-dot-fbc-web-2018.uc.r.appspot.com
 0.0.0.0 ads-game-187f4.firebaseapp.com
 0.0.0.0 ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
@@ -8080,7 +8079,6 @@
 0.0.0.0 advertising.paltalk.com
 0.0.0.0 advertising.quote.com
 0.0.0.0 advertising.thediabetesnetwork.com
-0.0.0.0 advertising.twitter.com
 0.0.0.0 advertising.wellpack.fr
 0.0.0.0 advertising.yahoo.com
 0.0.0.0 advertising.yandex.ru
@@ -10743,7 +10741,6 @@
 0.0.0.0 api.bttrack.com
 0.0.0.0 api.bugfender.com
 0.0.0.0 api.bugsee.com
-0.0.0.0 api.bugsnag.com
 0.0.0.0 api.c.avazunativeads.com
 0.0.0.0 api.carrottrack.io
 0.0.0.0 api.cazamba.com
@@ -11245,7 +11242,6 @@
 0.0.0.0 app.brand.zing.vn
 0.0.0.0 app.bugfender.com
 0.0.0.0 app.bugreplay.com
-0.0.0.0 app.bugsnag.com
 0.0.0.0 app.cdn.lookbookhq.com
 0.0.0.0 app.cdp.asia
 0.0.0.0 app.cision.com
@@ -11260,7 +11256,6 @@
 0.0.0.0 app.freshmarketer.com
 0.0.0.0 app.gammaplatform.com
 0.0.0.0 app.gelirartisi.com
-0.0.0.0 app.getsentry.com
 0.0.0.0 app.gumgum.com
 0.0.0.0 app.harafunnel.com
 0.0.0.0 app.haraloyalty.com
@@ -15904,7 +15899,6 @@
 0.0.0.0 business.cleverads.vn
 0.0.0.0 business.lbn.ru
 0.0.0.0 business.msnbc.us.intellitxt.com
-0.0.0.0 business.samsungusa.com
 0.0.0.0 businessbells.com
 0.0.0.0 businesscare.com
 0.0.0.0 businessclick.ch
@@ -21891,7 +21885,6 @@
 0.0.0.0 d.pixiv.org
 0.0.0.0 d.pub.network
 0.0.0.0 d.r10.mopub.com
-0.0.0.0 d.reddit.com
 0.0.0.0 d.scorecardresearch.com
 0.0.0.0 d.shareaholic.com
 0.0.0.0 d.skimresources.com
@@ -42131,9 +42124,7 @@
 0.0.0.0 metrics.yellowpages.com
 0.0.0.0 metrics.yousendit.com
 0.0.0.0 metrics0.com
-0.0.0.0 metrics1.data.hicloud.com
 0.0.0.0 metrics34.com
-0.0.0.0 metrics5.data.hicloud.com
 0.0.0.0 metricscollector.lp.xcal.tv
 0.0.0.0 metricsimage.com
 0.0.0.0 metricskey.com
@@ -54373,7 +54364,6 @@
 0.0.0.0 samplerpouch.com
 0.0.0.0 samrattimes.com
 0.0.0.0 samsienshrivel.com
-0.0.0.0 samsung-com.112.2o7.net
 0.0.0.0 samsung3.solution.weborama.fr
 0.0.0.0 samsungacr.com
 0.0.0.0 samsungadhub.com
@@ -68275,7 +68265,6 @@
 0.0.0.0 widgets.mgid.com
 0.0.0.0 widgets.oddschecker.com
 0.0.0.0 widgets.outbrain.com
-0.0.0.0 widgets.pinterest.com
 0.0.0.0 widgets.planeta.ru
 0.0.0.0 widgets.progrids.com
 0.0.0.0 widgets.recruitology.com

@@ -1,7 +1,7 @@
 [Adblock Plus]
-! Version: 202206202106
+! Version: 202206202124
 ! Title: oisd extra
-! Last modified: 20 Jun 2022 21:06 UTC
+! Last modified: 20 Jun 2022 21:24 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://oisd.nl
 ! Syntax: Adblock Plus Filter List                
@@ -126,6 +126,7 @@
 ||acuio.org^
 ||ad-ettoday.cdn.hinet.net^
 ||ad.dmm.com^
+||ad.xiaomi.com^
 ||adash.man.aliyuncs.com^
 ||adbrix.io^
 ||adcast.ru^
@@ -154,9 +155,19 @@
 ||adregain.com^
 ||adrelayer.com^
 ||adresponse.it^
+||ads-api.twitter.com^
+||ads-dev.pinterest.com^
+||ads-sg.tiktok.com^
+||ads.facebook.com^
 ||ads.google.com^
+||ads.linkedin.com^
+||ads.pinterest.com^
 ||ads.reddit.com^
+||ads.tiktok.com^
 ||ads.twitter.com^
+||ads.yahoo.com^
+||ads.yap.yahoo.com^
+||ads.youtube.com^
 ||ads280dummy2.com^
 ||adsafeprotected.com^
 ||adsafety.net^
@@ -180,6 +191,7 @@
 ||adultfriendfinder.com^
 ||adups.com^
 ||advertising.com^
+||advertising.twitter.com^
 ||adzerk.com^
 ||adzerk.net^
 ||adzyou.com^
@@ -206,13 +218,18 @@
 ||amazonbusiness.com^
 ||amdc.m.taobao.com^
 ||amplitude.com^
+||an.facebook.com^
 ||analytics-api.samsunghealthcn.com^
 ||analytics-sg.tiktok.com^
 ||analytics.console.aws.a2z.com^
 ||analytics.edgekey.net^
+||analytics.facebook.com^
 ||analytics.google.com^
 ||analytics.mobile.yandex.net^
+||analytics.pinterest.com^
+||analytics.pointdrive.linkedin.com^
 ||analytics.robinhood.com^
+||analytics.tiktok.com^
 ||analytics.twitter.com^
 ||analytics.yahoo.com^
 ||ancjmfycf.com^
@@ -224,7 +241,9 @@
 ||apex-ad.com^
 ||api-2-0.spot.im^
 ||api-gateway.us-west-2.elasticbeanstalk.com^
+||api-hotjar.com^
 ||api-v3.tinypass.com^
+||api.bugsnag.com^
 ||api.engager.ecbsn.com^
 ||api.parse.com^
 ||api.rollbar.com^
@@ -238,8 +257,10 @@
 ||apmebf.com^
 ||aporasal.net^
 ||app.adjust.io^
+||app.bugsnag.com^
 ||app.chat.xiaomi.net^
 ||app.getresponse.com^
+||app.getsentry.com^
 ||app.meltwater.com^
 ||app.sephora.com^
 ||appboy-images.com^
@@ -399,6 +420,7 @@
 ||cintnetworks.com^
 ||cj.com^
 ||clck.ru^
+||clck.yandex.ru^
 ||cleverpush.com^
 ||clhctrk.com^
 ||click.dtiserv2.com^
@@ -410,6 +432,7 @@
 ||click.oneplus.cn^
 ||click.oneplus.com^
 ||click.redditmail.com^
+||click.sender.yandex.ru^
 ||clickbank.com^
 ||clickcease.com^
 ||clickmail.stubhub.com^
@@ -552,6 +575,7 @@
 ||dstreet.pl^
 ||duiba.com.cn^
 ||dynamitedepressionweapons.com^
+||dzc-metrics.mzstatic.com^
 ||dziwnasprawa.eu^
 ||e-bannerx.com^
 ||e.imguol.com^
@@ -591,6 +615,7 @@
 ||events.jotform.com^
 ||events.launchdarkly.com^
 ||events.mapbox.com^
+||events.redditmedia.com^
 ||events.release.narrativ.com^
 ||events.split.io^
 ||everesttech.net^
@@ -677,6 +702,7 @@
 ||glam.com^
 ||glanceguide.com^
 ||glaxo.xyz^
+||global.adserver.yahoo.com^
 ||global.telemetry.insights.video.a2z.com^
 ||gloyah.net^
 ||go-mpulse.net^
@@ -874,6 +900,7 @@
 ||log-upload-os.hoyoverse.com^
 ||log-upload-os.mihoyo.com^
 ||log-upload.mihoyo.com^
+||log.pinterest.com^
 ||log.quora.com^
 ||log.tiktokv.com^
 ||logbak.hicloud.com^
@@ -1026,6 +1053,7 @@
 ||nocszczecin.xyz^
 ||nonstoppartner.net^
 ||norado.bid^
+||notify.bugsnag.com^
 ||nova-collector-1192479543.us-east-1.elb.amazonaws.com^
 ||nova.collect.igodigital.com^
 ||now.eloqua.com^
@@ -1142,6 +1170,7 @@
 ||pillsmoney.com^
 ||pipe.aria.microsoft.com^
 ||piwik.org^
+||pixel.facebook.com^
 ||pixelzirkus.gameforge.com^
 ||pjatr.com^
 ||pjtra.com^
@@ -1210,6 +1239,7 @@
 ||recruitics.com^
 ||recs.richrelevance.com^
 ||redirect-ads.com^
+||redirect.appmetrica.yandex.ru^
 ||redirectingat.com^
 ||refer.ccbill.com^
 ||referrer.disqus.com^
@@ -1220,6 +1250,7 @@
 ||relacja316.site^
 ||relevant-digital.com^
 ||requestmetrics.com^
+||rereddit.com^
 ||researchnow.co.uk^
 ||researchnow.com^
 ||resolver.msg.xiaomi.net^
@@ -1254,6 +1285,7 @@
 ||sail-horizon.com^
 ||sakura.goguardian.com^
 ||salesmanago.pl^
+||samsungads.com^
 ||sanalytics.disneyplus.com^
 ||sare25.com^
 ||sasedi.xyz^
@@ -1268,6 +1300,7 @@
 ||sdk.asapp.com^
 ||sdk.split.io^
 ||sdkapicdn.applanga.com^
+||sdkconfig.ad.intl.xiaomi.com^
 ||seadform.net^
 ||secondstreetapp.com^
 ||secure-pl.com^
@@ -1292,6 +1325,8 @@
 ||services.brightline.tv^
 ||services.zam.com^
 ||serving-sys.com^
+||sessions.bugsnag.com^
+||settings.luckyorange.net^
 ||sgsnssdk.com.edgekey.net^
 ||shareaholic.com^
 ||shareasale.com^
@@ -1349,6 +1384,7 @@
 ||stat.download.xunlei.com^
 ||stat24.com^
 ||statcounter.com^
+||static.ads-twitter.com^
 ||static.cdn.responsys.net^
 ||static.klaviyo.com^
 ||static.locallogic.co^
@@ -1356,6 +1392,7 @@
 ||staticsfs.host^
 ||stats.paypal.com^
 ||stats.pusher.com^
+||stats.wp.com^
 ||stearmconnrnunity.com^
 ||stertashake.site^
 ||stjosephsoswego.com^
@@ -1540,6 +1577,7 @@
 ||wiadomostka277.site^
 ||widget-cdn.rpxnow.com^
 ||widget.trustpilot.com^
+||widgets.pinterest.com^
 ||widgets.trustedshops.com^
 ||wiesc469.site^
 ||wiesc5526.site^
@@ -1580,6 +1618,7 @@
 ||xtxa.net^
 ||yandexadexchange.net^
 ||yeswegays.com^
+||youtube.cleverads.vn^
 ||youvisit.com^
 ||yxswtummev.info^
 ||zawiadomienie19s.site^

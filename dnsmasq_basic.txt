@@ -1,6 +1,6 @@
-# Version: 202206202124
+# Version: 202206202131
 # Title: oisd basic
-# Last modified: 20 Jun 2022 21:24 UTC
+# Last modified: 20 Jun 2022 21:31 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq                                                
@@ -4374,7 +4374,6 @@ address=/ads-connect.com/#
 address=/ads-d.viber.com/#
 address=/ads-delivery.gameforge.com/#
 address=/ads-delivery.gunosy.com/#
-address=/ads-dev.pinterest.com/#
 address=/ads-dot-fbc-web-2018.uc.r.appspot.com/#
 address=/ads-game-187f4.firebaseapp.com/#
 address=/ads-i2i.jp/#
@@ -6352,7 +6351,6 @@ address=/advertising.online-media24.de/#
 address=/advertising.paltalk.com/#
 address=/advertising.quote.com/#
 address=/advertising.thediabetesnetwork.com/#
-address=/advertising.twitter.com/#
 address=/advertising.wellpack.fr/#
 address=/advertising.yahoo.com/#
 address=/advertising.yandex.ru/#
@@ -8569,7 +8567,6 @@ address=/api.bonusberry.ru/#
 address=/api.brs.intl.miui.com/#
 address=/api.bugfender.com/#
 address=/api.bugsee.com/#
-address=/api.bugsnag.com/#
 address=/api.carrottrack.io/#
 address=/api.cazamba.com/#
 address=/api.cheatsheet.me/#
@@ -8833,7 +8830,6 @@ address=/app.aflink.com/#
 address=/app.airtrack.jp/#
 address=/app.bugfender.com/#
 address=/app.bugreplay.com/#
-address=/app.bugsnag.com/#
 address=/app.cdn.lookbookhq.com/#
 address=/app.cision.com/#
 address=/app.cobrowser.com/#
@@ -8841,7 +8837,6 @@ address=/app.contaup.online/#
 address=/app.crossengage.io/#
 address=/app.datorama.com/#
 address=/app.gelirartisi.com/#
-address=/app.getsentry.com/#
 address=/app.hstatic.net/#
 address=/app.logrocket.com/#
 address=/app.marketo.com/#
@@ -12748,7 +12743,6 @@ address=/buscascolegios.diit.cl/#
 address=/busguyspec.com/#
 address=/business-api.tiktok.com/#
 address=/business.92wy.com/#
-address=/business.samsungusa.com/#
 address=/businessbells.com/#
 address=/businesscare.com/#
 address=/businessclick.ch/#
@@ -17081,7 +17075,6 @@ address=/d.k3r.jp/#
 address=/d.mob.com/#
 address=/d.omsnative.de/#
 address=/d.otaserve.net/#
-address=/d.reddit.com/#
 address=/d.scorecardresearch.com/#
 address=/d.shareaholic.com/#
 address=/d.skimresources.com/#
@@ -43936,7 +43929,6 @@ address=/samiana.com/#
 address=/samplerpouch.com/#
 address=/samrattimes.com/#
 address=/samsienshrivel.com/#
-address=/samsung-com.112.2o7.net/#
 address=/samsungacr.com/#
 address=/samsungadhub.com/#
 address=/samsungads.com/#
@@ -54995,7 +54987,6 @@ address=/widgets.informars.com/#
 address=/widgets.lendingtree.com/#
 address=/widgets.oddschecker.com/#
 address=/widgets.outbrain.com/#
-address=/widgets.pinterest.com/#
 address=/widgets.planeta.ru/#
 address=/widgets.progrids.com/#
 address=/widgets.recruitology.com/#
