@@ -1,6 +1,6 @@
-# Version: 202206191015
+# Version: 202206201927
 # Title: oisd extra
-# Last modified: 19 Jun 2022 10:15 UTC
+# Last modified: 20 Jun 2022 19:27 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Hosts                                                  
@@ -117,6 +117,7 @@
 0.0.0.0 cc-dt.com
 0.0.0.0 cdn-image.com
 0.0.0.0 cdn-net.com
+0.0.0.0 cdn.stroeerdigitalgroup.de
 0.0.0.0 cdn2.cache.vn
 0.0.0.0 cedexis.com
 0.0.0.0 cftrack.com
