@@ -1,12 +1,12 @@
-; Version: 202206202045
+; Version: 202206202124
 ; Title: oisd basic
-; Last modified: 20 Jun 2022 20:45 UTC
+; Last modified: 20 Jun 2022 21:24 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1655757687 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1655759976 86400 3600 604800 30
  NS localhost.
 
 0.code.cotsta.ru CNAME .
@@ -8747,6 +8747,8 @@ ads-delivery.gameforge.com CNAME .
 *.ads-delivery.gameforge.com CNAME .
 ads-delivery.gunosy.com CNAME .
 *.ads-delivery.gunosy.com CNAME .
+ads-dev.pinterest.com CNAME .
+*.ads-dev.pinterest.com CNAME .
 ads-dot-fbc-web-2018.uc.r.appspot.com CNAME .
 *.ads-dot-fbc-web-2018.uc.r.appspot.com CNAME .
 ads-game-187f4.firebaseapp.com CNAME .
@@ -12701,6 +12703,8 @@ advertising.quote.com CNAME .
 *.advertising.quote.com CNAME .
 advertising.thediabetesnetwork.com CNAME .
 *.advertising.thediabetesnetwork.com CNAME .
+advertising.twitter.com CNAME .
+*.advertising.twitter.com CNAME .
 advertising.wellpack.fr CNAME .
 *.advertising.wellpack.fr CNAME .
 advertising.yahoo.com CNAME .
@@ -17133,6 +17137,8 @@ api.bugfender.com CNAME .
 *.api.bugfender.com CNAME .
 api.bugsee.com CNAME .
 *.api.bugsee.com CNAME .
+api.bugsnag.com CNAME .
+*.api.bugsnag.com CNAME .
 api.carrottrack.io CNAME .
 *.api.carrottrack.io CNAME .
 api.cazamba.com CNAME .
@@ -17659,6 +17665,8 @@ app.bugfender.com CNAME .
 *.app.bugfender.com CNAME .
 app.bugreplay.com CNAME .
 *.app.bugreplay.com CNAME .
+app.bugsnag.com CNAME .
+*.app.bugsnag.com CNAME .
 app.cdn.lookbookhq.com CNAME .
 *.app.cdn.lookbookhq.com CNAME .
 app.cision.com CNAME .
@@ -17673,6 +17681,8 @@ app.datorama.com CNAME .
 *.app.datorama.com CNAME .
 app.gelirartisi.com CNAME .
 *.app.gelirartisi.com CNAME .
+app.getsentry.com CNAME .
+*.app.getsentry.com CNAME .
 app.hstatic.net CNAME .
 *.app.hstatic.net CNAME .
 app.logrocket.com CNAME .
@@ -25485,6 +25495,8 @@ business-api.tiktok.com CNAME .
 *.business-api.tiktok.com CNAME .
 business.92wy.com CNAME .
 *.business.92wy.com CNAME .
+business.samsungusa.com CNAME .
+*.business.samsungusa.com CNAME .
 businessbells.com CNAME .
 *.businessbells.com CNAME .
 businesscare.com CNAME .
@@ -34149,6 +34161,8 @@ d.omsnative.de CNAME .
 *.d.omsnative.de CNAME .
 d.otaserve.net CNAME .
 *.d.otaserve.net CNAME .
+d.reddit.com CNAME .
+*.d.reddit.com CNAME .
 d.scorecardresearch.com CNAME .
 *.d.scorecardresearch.com CNAME .
 d.shareaholic.com CNAME .
@@ -87857,6 +87871,8 @@ samrattimes.com CNAME .
 *.samrattimes.com CNAME .
 samsienshrivel.com CNAME .
 *.samsienshrivel.com CNAME .
+samsung-com.112.2o7.net CNAME .
+*.samsung-com.112.2o7.net CNAME .
 samsungacr.com CNAME .
 *.samsungacr.com CNAME .
 samsungadhub.com CNAME .
@@ -109973,6 +109989,8 @@ widgets.oddschecker.com CNAME .
 *.widgets.oddschecker.com CNAME .
 widgets.outbrain.com CNAME .
 *.widgets.outbrain.com CNAME .
+widgets.pinterest.com CNAME .
+*.widgets.pinterest.com CNAME .
 widgets.planeta.ru CNAME .
 *.widgets.planeta.ru CNAME .
 widgets.progrids.com CNAME .

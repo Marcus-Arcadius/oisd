@@ -1,6 +1,6 @@
-# Version: 202206202045
+# Version: 202206202124
 # Title: oisd basic
-# Last modified: 20 Jun 2022 20:45 UTC
+# Last modified: 20 Jun 2022 21:24 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                                
@@ -4376,6 +4376,7 @@ local-zone: "ads-connect.com." always_null
 local-zone: "ads-d.viber.com." always_null
 local-zone: "ads-delivery.gameforge.com." always_null
 local-zone: "ads-delivery.gunosy.com." always_null
+local-zone: "ads-dev.pinterest.com." always_null
 local-zone: "ads-dot-fbc-web-2018.uc.r.appspot.com." always_null
 local-zone: "ads-game-187f4.firebaseapp.com." always_null
 local-zone: "ads-i2i.jp." always_null
@@ -6353,6 +6354,7 @@ local-zone: "advertising.online-media24.de." always_null
 local-zone: "advertising.paltalk.com." always_null
 local-zone: "advertising.quote.com." always_null
 local-zone: "advertising.thediabetesnetwork.com." always_null
+local-zone: "advertising.twitter.com." always_null
 local-zone: "advertising.wellpack.fr." always_null
 local-zone: "advertising.yahoo.com." always_null
 local-zone: "advertising.yandex.ru." always_null
@@ -8569,6 +8571,7 @@ local-zone: "api.bonusberry.ru." always_null
 local-zone: "api.brs.intl.miui.com." always_null
 local-zone: "api.bugfender.com." always_null
 local-zone: "api.bugsee.com." always_null
+local-zone: "api.bugsnag.com." always_null
 local-zone: "api.carrottrack.io." always_null
 local-zone: "api.cazamba.com." always_null
 local-zone: "api.cheatsheet.me." always_null
@@ -8832,6 +8835,7 @@ local-zone: "app.aflink.com." always_null
 local-zone: "app.airtrack.jp." always_null
 local-zone: "app.bugfender.com." always_null
 local-zone: "app.bugreplay.com." always_null
+local-zone: "app.bugsnag.com." always_null
 local-zone: "app.cdn.lookbookhq.com." always_null
 local-zone: "app.cision.com." always_null
 local-zone: "app.cobrowser.com." always_null
@@ -8839,6 +8843,7 @@ local-zone: "app.contaup.online." always_null
 local-zone: "app.crossengage.io." always_null
 local-zone: "app.datorama.com." always_null
 local-zone: "app.gelirartisi.com." always_null
+local-zone: "app.getsentry.com." always_null
 local-zone: "app.hstatic.net." always_null
 local-zone: "app.logrocket.com." always_null
 local-zone: "app.marketo.com." always_null
@@ -12745,6 +12750,7 @@ local-zone: "buscascolegios.diit.cl." always_null
 local-zone: "busguyspec.com." always_null
 local-zone: "business-api.tiktok.com." always_null
 local-zone: "business.92wy.com." always_null
+local-zone: "business.samsungusa.com." always_null
 local-zone: "businessbells.com." always_null
 local-zone: "businesscare.com." always_null
 local-zone: "businessclick.ch." always_null
@@ -17077,6 +17083,7 @@ local-zone: "d.k3r.jp." always_null
 local-zone: "d.mob.com." always_null
 local-zone: "d.omsnative.de." always_null
 local-zone: "d.otaserve.net." always_null
+local-zone: "d.reddit.com." always_null
 local-zone: "d.scorecardresearch.com." always_null
 local-zone: "d.shareaholic.com." always_null
 local-zone: "d.skimresources.com." always_null
@@ -43931,6 +43938,7 @@ local-zone: "samiana.com." always_null
 local-zone: "samplerpouch.com." always_null
 local-zone: "samrattimes.com." always_null
 local-zone: "samsienshrivel.com." always_null
+local-zone: "samsung-com.112.2o7.net." always_null
 local-zone: "samsungacr.com." always_null
 local-zone: "samsungadhub.com." always_null
 local-zone: "samsungads.com." always_null
@@ -54989,6 +54997,7 @@ local-zone: "widgets.informars.com." always_null
 local-zone: "widgets.lendingtree.com." always_null
 local-zone: "widgets.oddschecker.com." always_null
 local-zone: "widgets.outbrain.com." always_null
+local-zone: "widgets.pinterest.com." always_null
 local-zone: "widgets.planeta.ru." always_null
 local-zone: "widgets.progrids.com." always_null
 local-zone: "widgets.recruitology.com." always_null
