@@ -1,6 +1,6 @@
-# Version: 202206192232
+# Version: 202206201004
 # Title: oisd basic
-# Last modified: 19 Jun 2022 22:32 UTC
+# Last modified: 20 Jun 2022 10:04 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                                
@@ -14510,7 +14510,6 @@ local-zone: "circumscribevetofurther.com." always_null
 local-zone: "circumstancesrectangle.com." always_null
 local-zone: "cirochimi.com." always_null
 local-zone: "cirsepuh.net." always_null
-local-zone: "cis-tunisie.com." always_null
 local-zone: "ciscowebex.112.2o7.net." always_null
 local-zone: "cisheeng.com." always_null
 local-zone: "cismovernm.com." always_null

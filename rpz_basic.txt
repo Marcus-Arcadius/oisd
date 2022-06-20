@@ -1,12 +1,12 @@
-; Version: 202206192232
+; Version: 202206201004
 ; Title: oisd basic
-; Last modified: 19 Jun 2022 22:32 UTC
+; Last modified: 20 Jun 2022 10:04 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1655676031 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1655719201 86400 3600 604800 30
  NS localhost.
 
 0.code.cotsta.ru CNAME .
@@ -29015,8 +29015,6 @@ cirochimi.com CNAME .
 *.cirochimi.com CNAME .
 cirsepuh.net CNAME .
 *.cirsepuh.net CNAME .
-cis-tunisie.com CNAME .
-*.cis-tunisie.com CNAME .
 ciscowebex.112.2o7.net CNAME .
 *.ciscowebex.112.2o7.net CNAME .
 cisheeng.com CNAME .
