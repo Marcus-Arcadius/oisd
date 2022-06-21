@@ -1,12 +1,12 @@
-; Version: 202206202131
+; Version: 202206211037
 ; Title: oisd basic
-; Last modified: 20 Jun 2022 21:31 UTC
+; Last modified: 21 Jun 2022 10:37 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1655760428 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1655805601 86400 3600 604800 30
  NS localhost.
 
 0.code.cotsta.ru CNAME .
@@ -1395,6 +1395,8 @@ $TTL 30
 *.289931.com CNAME .
 28acglz.com CNAME .
 *.28acglz.com CNAME .
+28d93367.anchor.northphxchiro.com CNAME .
+*.28d93367.anchor.northphxchiro.com CNAME .
 28wangmeng.com CNAME .
 *.28wangmeng.com CNAME .
 29299892.com CNAME .
@@ -4779,6 +4781,8 @@ abdmi.ru CNAME .
 *.abdmi.ru CNAME .
 abdurantom.com CNAME .
 *.abdurantom.com CNAME .
+abe355cb.anchor.northphxchiro.com CNAME .
+*.abe355cb.anchor.northphxchiro.com CNAME .
 abedwest.com CNAME .
 *.abedwest.com CNAME .
 abee.yeeowl.xyz CNAME .
@@ -19883,6 +19887,8 @@ axuns.com CNAME .
 *.axuns.com CNAME .
 axwxrnk5ydzy.com CNAME .
 *.axwxrnk5ydzy.com CNAME .
+axystem.com CNAME .
+*.axystem.com CNAME .
 axzsd.pro CNAME .
 *.axzsd.pro CNAME .
 ay.delivery CNAME .
@@ -21483,6 +21489,8 @@ barscreative1.com CNAME .
 *.barscreative1.com CNAME .
 bas.boshi.tv CNAME .
 *.bas.boshi.tv CNAME .
+bascoysonido.com.ar CNAME .
+*.bascoysonido.com.ar CNAME .
 baseballapproximately.com CNAME .
 *.baseballapproximately.com CNAME .
 basebanner.com CNAME .
@@ -22059,8 +22067,6 @@ beap1.cb.g01.yahoodns.net CNAME .
 *.beap1.cb.g01.yahoodns.net CNAME .
 bearad.com CNAME .
 *.bearad.com CNAME .
-bearcatpumps.com.cn CNAME .
-*.bearcatpumps.com.cn CNAME .
 bearsg.cn CNAME .
 *.bearsg.cn CNAME .
 beastbeef.com CNAME .
@@ -25303,6 +25309,8 @@ buikolered.com CNAME .
 *.buikolered.com CNAME .
 builderonlinecom.112.2o7.net CNAME .
 *.builderonlinecom.112.2o7.net CNAME .
+buildgujarat.com CNAME .
+*.buildgujarat.com CNAME .
 buildingcarpet.com CNAME .
 *.buildingcarpet.com CNAME .
 buildinghygienicfloating.com CNAME .
@@ -25689,6 +25697,8 @@ bvalphaserver.com CNAME .
 *.bvalphaserver.com CNAME .
 bveyge.com CNAME .
 *.bveyge.com CNAME .
+bvirtual.com CNAME .
+*.bvirtual.com CNAME .
 bvl5bziz9d.ru CNAME .
 *.bvl5bziz9d.ru CNAME .
 bvmcdn.net CNAME .
@@ -28085,6 +28095,8 @@ cephidelixed.com CNAME .
 *.cephidelixed.com CNAME .
 ceppartner.com CNAME .
 *.ceppartner.com CNAME .
+ceramicalafortaleza.com CNAME .
+*.ceramicalafortaleza.com CNAME .
 ceramicminemeeting.com CNAME .
 *.ceramicminemeeting.com CNAME .
 cerberushead1o07.com CNAME .
@@ -28193,6 +28205,8 @@ cfimage.moengage.com CNAME .
 *.cfimage.moengage.com CNAME .
 cfjump.com CNAME .
 *.cfjump.com CNAME .
+cfp-courses.com CNAME .
+*.cfp-courses.com CNAME .
 cfpl.online CNAME .
 *.cfpl.online CNAME .
 cfpushsdevpw.com CNAME .
@@ -31031,6 +31045,8 @@ colonistnobilityheroic.com CNAME .
 *.colonistnobilityheroic.com CNAME .
 colonize.com CNAME .
 *.colonize.com CNAME .
+colordropsgu.com CNAME .
+*.colordropsgu.com CNAME .
 colorfulafterthought.com CNAME .
 *.colorfulafterthought.com CNAME .
 colorfulnotebooks.com CNAME .
@@ -34131,6 +34147,8 @@ d.8181zx.com CNAME .
 *.d.8181zx.com CNAME .
 d.cntv.cn CNAME .
 *.d.cntv.cn CNAME .
+d.delivery.consentmanager.net CNAME .
+*.d.delivery.consentmanager.net CNAME .
 d.email.forbes.com CNAME .
 *.d.email.forbes.com CNAME .
 d.getaccss.com CNAME .
@@ -47759,6 +47777,8 @@ gempeety.com CNAME .
 *.gempeety.com CNAME .
 gemtrackers.com CNAME .
 *.gemtrackers.com CNAME .
+gen-l.tk CNAME .
+*.gen-l.tk CNAME .
 gen2server.com CNAME .
 *.gen2server.com CNAME .
 genccagdas.com.tr CNAME .
@@ -87911,6 +87931,8 @@ sanglah.com CNAME .
 *.sanglah.com CNAME .
 sangogne.com CNAME .
 *.sangogne.com CNAME .
+sanipass-solutions.fr CNAME .
+*.sanipass-solutions.fr CNAME .
 sanitwealth.com CNAME .
 *.sanitwealth.com CNAME .
 sanity-dataplane.rudderstack.com CNAME .
@@ -90377,8 +90399,6 @@ shepeekr.net CNAME .
 *.shepeekr.net CNAME .
 shepherdbetrayaldecoction.com CNAME .
 *.shepherdbetrayaldecoction.com CNAME .
-shepherdsshadowindia.com CNAME .
-*.shepherdsshadowindia.com CNAME .
 shequn.online CNAME .
 *.shequn.online CNAME .
 sher.index.hu CNAME .
@@ -97771,8 +97791,6 @@ talbotthrall.com CNAME .
 *.talbotthrall.com CNAME .
 talent.sharethis.com CNAME .
 *.talent.sharethis.com CNAME .
-talentacademyschool.com CNAME .
-*.talentacademyschool.com CNAME .
 talentbroker.net CNAME .
 *.talentbroker.net CNAME .
 talentedsteel.com CNAME .

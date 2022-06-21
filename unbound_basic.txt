@@ -1,6 +1,6 @@
-# Version: 202206202131
+# Version: 202206211037
 # Title: oisd basic
-# Last modified: 20 Jun 2022 21:31 UTC
+# Last modified: 21 Jun 2022 10:37 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                                
@@ -700,6 +700,7 @@ local-zone: "2886115.com." always_null
 local-zone: "288family.club." always_null
 local-zone: "289931.com." always_null
 local-zone: "28acglz.com." always_null
+local-zone: "28d93367.anchor.northphxchiro.com." always_null
 local-zone: "28wangmeng.com." always_null
 local-zone: "29299892.com." always_null
 local-zone: "293870.com." always_null
@@ -2392,6 +2393,7 @@ local-zone: "abdl-adult-baby-phone-sex.info." always_null
 local-zone: "abdlphone.com." always_null
 local-zone: "abdmi.ru." always_null
 local-zone: "abdurantom.com." always_null
+local-zone: "abe355cb.anchor.northphxchiro.com." always_null
 local-zone: "abedwest.com." always_null
 local-zone: "abee.yeeowl.xyz." always_null
 local-zone: "abeehing.net." always_null
@@ -9944,6 +9946,7 @@ local-zone: "axpvy.cn." always_null
 local-zone: "axqpn.cn." always_null
 local-zone: "axuns.com." always_null
 local-zone: "axwxrnk5ydzy.com." always_null
+local-zone: "axystem.com." always_null
 local-zone: "axzsd.pro." always_null
 local-zone: "ay.delivery." always_null
 local-zone: "ay.eastmoney.com." always_null
@@ -10744,6 +10747,7 @@ local-zone: "barricadefurrydrinks.com." always_null
 local-zone: "bars2show.com." always_null
 local-zone: "barscreative1.com." always_null
 local-zone: "bas.boshi.tv." always_null
+local-zone: "bascoysonido.com.ar." always_null
 local-zone: "baseballapproximately.com." always_null
 local-zone: "basebanner.com." always_null
 local-zone: "basenews7.com." always_null
@@ -11032,7 +11036,6 @@ local-zone: "beap-bc.yahoo.com." always_null
 local-zone: "beap.adx.yahoo.com." always_null
 local-zone: "beap1.cb.g01.yahoodns.net." always_null
 local-zone: "bearad.com." always_null
-local-zone: "bearcatpumps.com.cn." always_null
 local-zone: "bearsg.cn." always_null
 local-zone: "beastbeef.com." always_null
 local-zone: "beastbuying.com." always_null
@@ -12654,6 +12657,7 @@ local-zone: "bugsense.com." always_null
 local-zone: "buhatfjrk9dje10eme.com." always_null
 local-zone: "buikolered.com." always_null
 local-zone: "builderonlinecom.112.2o7.net." always_null
+local-zone: "buildgujarat.com." always_null
 local-zone: "buildingcarpet.com." always_null
 local-zone: "buildinghygienicfloating.com." always_null
 local-zone: "buildkiteanalytics.com." always_null
@@ -12847,6 +12851,7 @@ local-zone: "buzzvids-direct.com." always_null
 local-zone: "bv8888.com." always_null
 local-zone: "bvalphaserver.com." always_null
 local-zone: "bveyge.com." always_null
+local-zone: "bvirtual.com." always_null
 local-zone: "bvl5bziz9d.ru." always_null
 local-zone: "bvmcdn.net." always_null
 local-zone: "bvmtogo.com." always_null
@@ -14045,6 +14050,7 @@ local-zone: "ceorlsrajasic.com." always_null
 local-zone: "cephalanthuseoccidu4entalis.com." always_null
 local-zone: "cephidelixed.com." always_null
 local-zone: "ceppartner.com." always_null
+local-zone: "ceramicalafortaleza.com." always_null
 local-zone: "ceramicminemeeting.com." always_null
 local-zone: "cerberushead1o07.com." always_null
 local-zone: "cerceipremon.com." always_null
@@ -14099,6 +14105,7 @@ local-zone: "cfgr2.com." always_null
 local-zone: "cfhijdsb.cn." always_null
 local-zone: "cfimage.moengage.com." always_null
 local-zone: "cfjump.com." always_null
+local-zone: "cfp-courses.com." always_null
 local-zone: "cfpl.online." always_null
 local-zone: "cfpushsdevpw.com." always_null
 local-zone: "cfqc.me." always_null
@@ -15518,6 +15525,7 @@ local-zone: "collserve.com." always_null
 local-zone: "colonialismresolute.com." always_null
 local-zone: "colonistnobilityheroic.com." always_null
 local-zone: "colonize.com." always_null
+local-zone: "colordropsgu.com." always_null
 local-zone: "colorfulafterthought.com." always_null
 local-zone: "colorfulnotebooks.com." always_null
 local-zone: "colorsoflife.online." always_null
@@ -17068,6 +17076,7 @@ local-zone: "d-test.39.net." always_null
 local-zone: "d.5.to." always_null
 local-zone: "d.8181zx.com." always_null
 local-zone: "d.cntv.cn." always_null
+local-zone: "d.delivery.consentmanager.net." always_null
 local-zone: "d.email.forbes.com." always_null
 local-zone: "d.getaccss.com." always_null
 local-zone: "d.go-mpulse.net." always_null
@@ -23882,6 +23891,7 @@ local-zone: "gemlocomotivemid.com." always_null
 local-zone: "gemorul.com." always_null
 local-zone: "gempeety.com." always_null
 local-zone: "gemtrackers.com." always_null
+local-zone: "gen-l.tk." always_null
 local-zone: "gen2server.com." always_null
 local-zone: "genccagdas.com.tr." always_null
 local-zone: "gencehepatie.club." always_null
@@ -43958,6 +43968,7 @@ local-zone: "sandsitedrhec.club." always_null
 local-zone: "sanggilregard.com." always_null
 local-zone: "sanglah.com." always_null
 local-zone: "sangogne.com." always_null
+local-zone: "sanipass-solutions.fr." always_null
 local-zone: "sanitwealth.com." always_null
 local-zone: "sanity-dataplane.rudderstack.com." always_null
 local-zone: "sankakustatic.com." always_null
@@ -45191,7 +45202,6 @@ local-zone: "shenwupower.com.cn." always_null
 local-zone: "shenyunkeji.com." always_null
 local-zone: "shepeekr.net." always_null
 local-zone: "shepherdbetrayaldecoction.com." always_null
-local-zone: "shepherdsshadowindia.com." always_null
 local-zone: "shequn.online." always_null
 local-zone: "sher.index.hu." always_null
 local-zone: "shermore.info." always_null
@@ -48888,7 +48898,6 @@ local-zone: "talaropa.com." always_null
 local-zone: "talazywho.pro." always_null
 local-zone: "talbotthrall.com." always_null
 local-zone: "talent.sharethis.com." always_null
-local-zone: "talentacademyschool.com." always_null
 local-zone: "talentbroker.net." always_null
 local-zone: "talentedsteel.com." always_null
 local-zone: "tali.iad-03.braze.com." always_null
