@@ -1,6 +1,6 @@
-# Version: 202206211655
+# Version: 202206211839
 # Title: oisd basic
-# Last modified: 21 Jun 2022 16:55 UTC
+# Last modified: 21 Jun 2022 18:39 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                                
@@ -31866,7 +31866,6 @@ local-zone: "logs.gaaana.com." always_null
 local-zone: "logs.gaana.com." always_null
 local-zone: "logs.giaoducthoidai.vn." always_null
 local-zone: "logs.ironsrc.mobi." always_null
-local-zone: "logs.juspay.in." always_null
 local-zone: "logs.locarta.co." always_null
 local-zone: "logs.loggly.com." always_null
 local-zone: "logs.logrocket.com." always_null
@@ -38311,6 +38310,7 @@ local-zone: "papbp.com." always_null
 local-zone: "paperclipservice.com." always_null
 local-zone: "paperfree.cx." always_null
 local-zone: "paperg.com." always_null
+local-zone: "papi.tagger.opecloud.com." always_null
 local-zone: "papilio3glauecus.com." always_null
 local-zone: "papoptidu.pro." always_null
 local-zone: "papoto.com." always_null
@@ -40367,6 +40367,7 @@ local-zone: "profi-para.com." always_null
 local-zone: "profield.ddns.net." always_null
 local-zone: "profile.uproxx.com." always_null
 local-zone: "profiles.segment.com." always_null
+local-zone: "profiles.tagger.opecloud.com." always_null
 local-zone: "profilesnitch.com." always_null
 local-zone: "profiliate.net." always_null
 local-zone: "profiline-berlin.de." always_null
@@ -42698,7 +42699,6 @@ local-zone: "responsibleassociation.com." always_null
 local-zone: "ressp.net." always_null
 local-zone: "rest.dynamicyield.com." always_null
 local-zone: "rest.iad-01.braze.com." always_null
-local-zone: "rest.iad-03.braze.com." always_null
 local-zone: "rest.locuslabs.com." always_null
 local-zone: "rest.sharethis.com." always_null
 local-zone: "rest.wildstar-online.com." always_null
@@ -44247,7 +44247,6 @@ local-zone: "script-protection.com." always_null
 local-zone: "script-sh.d2cdm.jp." always_null
 local-zone: "script.ag." always_null
 local-zone: "script.anura.io." always_null
-local-zone: "script.ioam.de." always_null
 local-zone: "scriptall.ml." always_null
 local-zone: "scriptall.tk." always_null
 local-zone: "scriptcc.cc." always_null
@@ -48753,7 +48752,6 @@ local-zone: "tagdelivery.com." always_null
 local-zone: "tagdelivery.mayoclinic.org." always_null
 local-zone: "tagdelivery.mayoclinic.org.pc-mc.greylabeldelivery.com." always_null
 local-zone: "tagger.ope.scmp.com." always_null
-local-zone: "tagger.opecloud.com." always_null
 local-zone: "taggify.net." always_null
 local-zone: "tagging-qadkfoj6ha-as.a.run.app." always_null
 local-zone: "taggyad.jp." always_null
@@ -49172,7 +49170,6 @@ local-zone: "techcrunchman.com." always_null
 local-zone: "techexpert.site." always_null
 local-zone: "techgadgetsy.com." always_null
 local-zone: "techitdoit.com." always_null
-local-zone: "techlab-cdn.com." always_null
 local-zone: "technicalconsumerreports.com." always_null
 local-zone: "technicalityplayground.com." always_null
 local-zone: "technicallyambition.com." always_null

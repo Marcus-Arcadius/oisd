@@ -1,6 +1,6 @@
-# Version: 202206211655
+# Version: 202206211838
 # Title: oisd basic
-# Last modified: 21 Jun 2022 16:55 UTC
+# Last modified: 21 Jun 2022 18:38 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Hosts                                                  
@@ -39758,7 +39758,6 @@
 0.0.0.0 logs.gaana.com
 0.0.0.0 logs.giaoducthoidai.vn
 0.0.0.0 logs.ironsrc.mobi
-0.0.0.0 logs.juspay.in
 0.0.0.0 logs.locarta.co
 0.0.0.0 logs.loggly.com
 0.0.0.0 logs.logrocket.com
@@ -46997,7 +46996,6 @@
 0.0.0.0 p1.zhongyoo.com
 0.0.0.0 p1.zhumengwl.com
 0.0.0.0 p102-clb.allstarcluster.com
-0.0.0.0 p11.techlab-cdn.com
 0.0.0.0 p117448.clksite.com
 0.0.0.0 p12339.acuityplatform.com
 0.0.0.0 p123p.com
@@ -52671,7 +52669,6 @@
 0.0.0.0 rest.content.ad
 0.0.0.0 rest.dynamicyield.com
 0.0.0.0 rest.iad-01.braze.com
-0.0.0.0 rest.iad-03.braze.com
 0.0.0.0 rest.locuslabs.com
 0.0.0.0 rest.sharethis.com
 0.0.0.0 rest.wildstar-online.com
@@ -54734,7 +54731,6 @@
 0.0.0.0 script.crsspxl.com
 0.0.0.0 script.dotmetrics.net
 0.0.0.0 script.hotjar.com
-0.0.0.0 script.ioam.de
 0.0.0.0 script.leadboxer.com
 0.0.0.0 script.mclick.mobi
 0.0.0.0 script.novanet.vn
@@ -60680,7 +60676,6 @@
 0.0.0.0 tagdelivery.mayoclinic.org.pc-mc.greylabeldelivery.com
 0.0.0.0 tagged-by.rubiconproject.net.akadns.net
 0.0.0.0 tagger.ope.scmp.com
-0.0.0.0 tagger.opecloud.com
 0.0.0.0 taggify.net
 0.0.0.0 tagging-qadkfoj6ha-as.a.run.app
 0.0.0.0 taggyad.jp
@@ -61178,7 +61173,6 @@
 0.0.0.0 techguy.us.intellitxt.com
 0.0.0.0 techimo.us.intellitxt.com
 0.0.0.0 techitdoit.com
-0.0.0.0 techlab-cdn.com
 0.0.0.0 technicalconsumerreports.com
 0.0.0.0 technicalityplayground.com
 0.0.0.0 technicallyambition.com

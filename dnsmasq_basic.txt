@@ -1,6 +1,6 @@
-# Version: 202206211655
+# Version: 202206211839
 # Title: oisd basic
-# Last modified: 21 Jun 2022 16:55 UTC
+# Last modified: 21 Jun 2022 18:39 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq                                                
@@ -31864,7 +31864,6 @@ address=/logs.gaaana.com/#
 address=/logs.gaana.com/#
 address=/logs.giaoducthoidai.vn/#
 address=/logs.ironsrc.mobi/#
-address=/logs.juspay.in/#
 address=/logs.locarta.co/#
 address=/logs.loggly.com/#
 address=/logs.logrocket.com/#
@@ -38309,6 +38308,7 @@ address=/papbp.com/#
 address=/paperclipservice.com/#
 address=/paperfree.cx/#
 address=/paperg.com/#
+address=/papi.tagger.opecloud.com/#
 address=/papilio3glauecus.com/#
 address=/papoptidu.pro/#
 address=/papoto.com/#
@@ -40365,6 +40365,7 @@ address=/profi-para.com/#
 address=/profield.ddns.net/#
 address=/profile.uproxx.com/#
 address=/profiles.segment.com/#
+address=/profiles.tagger.opecloud.com/#
 address=/profilesnitch.com/#
 address=/profiliate.net/#
 address=/profiline-berlin.de/#
@@ -42696,7 +42697,6 @@ address=/responsibleassociation.com/#
 address=/ressp.net/#
 address=/rest.dynamicyield.com/#
 address=/rest.iad-01.braze.com/#
-address=/rest.iad-03.braze.com/#
 address=/rest.locuslabs.com/#
 address=/rest.sharethis.com/#
 address=/rest.wildstar-online.com/#
@@ -44245,7 +44245,6 @@ address=/script-protection.com/#
 address=/script-sh.d2cdm.jp/#
 address=/script.ag/#
 address=/script.anura.io/#
-address=/script.ioam.de/#
 address=/scriptall.ml/#
 address=/scriptall.tk/#
 address=/scriptcc.cc/#
@@ -48751,7 +48750,6 @@ address=/tagdelivery.com/#
 address=/tagdelivery.mayoclinic.org/#
 address=/tagdelivery.mayoclinic.org.pc-mc.greylabeldelivery.com/#
 address=/tagger.ope.scmp.com/#
-address=/tagger.opecloud.com/#
 address=/taggify.net/#
 address=/tagging-qadkfoj6ha-as.a.run.app/#
 address=/taggyad.jp/#
@@ -49170,7 +49168,6 @@ address=/techcrunchman.com/#
 address=/techexpert.site/#
 address=/techgadgetsy.com/#
 address=/techitdoit.com/#
-address=/techlab-cdn.com/#
 address=/technicalconsumerreports.com/#
 address=/technicalityplayground.com/#
 address=/technicallyambition.com/#
