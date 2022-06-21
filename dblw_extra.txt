@@ -1,6 +1,6 @@
-# Version: 202206202132
+# Version: 202206211840
 # Title: oisd extra
-# Last modified: 20 Jun 2022 21:32 UTC
+# Last modified: 21 Jun 2022 18:40 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains (wildcards)                                    
@@ -876,6 +876,7 @@
 *.logs.amap.com
 *.logs.datadoghq.com
 *.logs.datadoghq.eu
+*.logs.juspay.in
 *.logworknomism.com
 *.lolhello.com
 *.lolshock.com
@@ -1378,6 +1379,7 @@
 *.tag.getdrip.com
 *.tag.shopping-feed.com
 *.tagcommander.com
+*.tagger.opecloud.com
 *.tagm.tchibo.de
 *.tags.news.com.au
 *.tags.tiqcdn.com
@@ -1387,6 +1389,7 @@
 *.tauron-oplaty.net
 *.tce.alicdn.com
 *.tealium.com
+*.techlab-cdn.com
 *.technical-service.net
 *.telecommand.telemetry.microsoft.com
 *.teresfal.site

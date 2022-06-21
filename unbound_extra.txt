@@ -1,6 +1,6 @@
-# Version: 202206202132
+# Version: 202206211840
 # Title: oisd extra
-# Last modified: 20 Jun 2022 21:32 UTC
+# Last modified: 21 Jun 2022 18:40 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                                
@@ -875,6 +875,7 @@ local-zone: "logrocket.com." always_null
 local-zone: "logs.amap.com." always_null
 local-zone: "logs.datadoghq.com." always_null
 local-zone: "logs.datadoghq.eu." always_null
+local-zone: "logs.juspay.in." always_null
 local-zone: "logworknomism.com." always_null
 local-zone: "lolhello.com." always_null
 local-zone: "lolshock.com." always_null
@@ -1377,6 +1378,7 @@ local-zone: "tag.aticdn.net." always_null
 local-zone: "tag.getdrip.com." always_null
 local-zone: "tag.shopping-feed.com." always_null
 local-zone: "tagcommander.com." always_null
+local-zone: "tagger.opecloud.com." always_null
 local-zone: "tagm.tchibo.de." always_null
 local-zone: "tags.news.com.au." always_null
 local-zone: "tags.tiqcdn.com." always_null
@@ -1386,6 +1388,7 @@ local-zone: "tapresearch.com." always_null
 local-zone: "tauron-oplaty.net." always_null
 local-zone: "tce.alicdn.com." always_null
 local-zone: "tealium.com." always_null
+local-zone: "techlab-cdn.com." always_null
 local-zone: "technical-service.net." always_null
 local-zone: "telecommand.telemetry.microsoft.com." always_null
 local-zone: "teresfal.site." always_null

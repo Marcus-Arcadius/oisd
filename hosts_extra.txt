@@ -1,6 +1,6 @@
-# Version: 202206202132
+# Version: 202206211840
 # Title: oisd extra
-# Last modified: 20 Jun 2022 21:32 UTC
+# Last modified: 21 Jun 2022 18:40 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Hosts                                                  
@@ -838,6 +838,7 @@
 0.0.0.0 logs.amap.com
 0.0.0.0 logs.datadoghq.com
 0.0.0.0 logs.datadoghq.eu
+0.0.0.0 logs.juspay.in
 0.0.0.0 lolhello.com
 0.0.0.0 lolshock.com
 0.0.0.0 loltrain.com
@@ -1080,6 +1081,7 @@
 0.0.0.0 researchnow.co.uk
 0.0.0.0 researchnow.com
 0.0.0.0 resolver.msg.xiaomi.net
+0.0.0.0 rest.iad-03.braze.com
 0.0.0.0 resu8.hjfile.cn
 0.0.0.0 rezync.com
 0.0.0.0 rlcdn.com
@@ -1235,6 +1237,7 @@
 0.0.0.0 tag.getdrip.com
 0.0.0.0 tag.shopping-feed.com
 0.0.0.0 tagcommander.com
+0.0.0.0 tagger.opecloud.com
 0.0.0.0 tagm.tchibo.de
 0.0.0.0 tags.adsafety.net
 0.0.0.0 tags.news.com.au
@@ -1247,6 +1250,7 @@
 0.0.0.0 tdn.r42tag.com
 0.0.0.0 te.technical-service.net
 0.0.0.0 tealium.com
+0.0.0.0 techlab-cdn.com
 0.0.0.0 technical-service.net
 0.0.0.0 telecommand.telemetry.microsoft.com
 0.0.0.0 theannoyingsite.com
