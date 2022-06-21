@@ -1,6 +1,6 @@
-# Version: 202206211839
+# Version: 202206211912
 # Title: oisd basic
-# Last modified: 21 Jun 2022 18:39 UTC
+# Last modified: 21 Jun 2022 19:12 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                                
@@ -30959,7 +30959,6 @@ local-zone: "lfd-media.ru." always_null
 local-zone: "lfdydk.com." always_null
 local-zone: "lfeeder.com." always_null
 local-zone: "lfg5jnbi.com." always_null
-local-zone: "lfjack.com." always_null
 local-zone: "lflili.com." always_null
 local-zone: "lflucky.com." always_null
 local-zone: "lfov.net." always_null
