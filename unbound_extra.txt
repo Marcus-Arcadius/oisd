@@ -1,6 +1,6 @@
-# Version: 202206211840
+# Version: 202206212025
 # Title: oisd extra
-# Last modified: 21 Jun 2022 18:40 UTC
+# Last modified: 21 Jun 2022 20:25 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                                
@@ -851,6 +851,7 @@ local-zone: "lemonparty.org." always_null
 local-zone: "leptonsmotoneuron.com." always_null
 local-zone: "lever-analytics.com." always_null
 local-zone: "lexatrade.com." always_null
+local-zone: "lfjack.com." always_null
 local-zone: "lgsmartad.com." always_null
 local-zone: "lightboxcdn.com." always_null
 local-zone: "linkev.com." always_null
