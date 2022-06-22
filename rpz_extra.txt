@@ -1,12 +1,12 @@
-; Version: 202206212025
+; Version: 202206221912
 ; Title: oisd extra
-; Last modified: 21 Jun 2022 20:25 UTC
+; Last modified: 22 Jun 2022 19:12 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1655842801 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1655923898 86400 3600 604800 30
  NS localhost.
 
 0.0.0.0.beeglivesex.com CNAME .
@@ -33,48 +33,24 @@ $TTL 30
 *.06-16-2014.net.daraz.com CNAME .
 06-23-2014.net.daraz.com CNAME .
 *.06-23-2014.net.daraz.com CNAME .
-07-02-2014.net.daraz.com CNAME .
-*.07-02-2014.net.daraz.com CNAME .
-07-04-2014.net.daraz.com CNAME .
-*.07-04-2014.net.daraz.com CNAME .
-07-25-2014.net.daraz.com CNAME .
-*.07-25-2014.net.daraz.com CNAME .
-08-26-2014.net.daraz.com CNAME .
-*.08-26-2014.net.daraz.com CNAME .
-08-27-2014.net.daraz.com CNAME .
-*.08-27-2014.net.daraz.com CNAME .
 0emm.com CNAME .
 *.0emm.com CNAME .
 0emn.com CNAME .
 *.0emn.com CNAME .
 0fmm.com CNAME .
 *.0fmm.com CNAME .
-10-01-2014.net.daraz.com CNAME .
-*.10-01-2014.net.daraz.com CNAME .
-10.105-226.net.daraz.com CNAME .
-*.10.105-226.net.daraz.com CNAME .
 102-63.2012.net.daraz.com CNAME .
 *.102-63.2012.net.daraz.com CNAME .
-106-184.2027.net.daraz.com CNAME .
-*.106-184.2027.net.daraz.com CNAME .
 106-235.20.net.daraz.com CNAME .
 *.106-235.20.net.daraz.com CNAME .
-11-10-2014.net.daraz.com CNAME .
-*.11-10-2014.net.daraz.com CNAME .
-121-124-124-220-europe.net.daraz.com CNAME .
-*.121-124-124-220-europe.net.daraz.com CNAME .
-121-124-124-220-support.net.daraz.com CNAME .
-*.121-124-124-220-support.net.daraz.com CNAME .
 123greetings.com CNAME .
 *.123greetings.com CNAME .
 1292-52-136-116-243.ngrok.io CNAME .
 *.1292-52-136-116-243.ngrok.io CNAME .
 137-74-148-87.cprapid.com CNAME .
 *.137-74-148-87.cprapid.com CNAME .
-15-10-2014.net.daraz.com CNAME .
-*.15-10-2014.net.daraz.com CNAME .
-15-68-74.net.daraz.com CNAME .
-*.15-68-74.net.daraz.com CNAME .
+142-4-222-14.net.zooplus.de CNAME .
+*.142-4-222-14.net.zooplus.de CNAME .
 185-92-221-7.cprapid.com CNAME .
 *.185-92-221-7.cprapid.com CNAME .
 189-211-177-171.static.axtel.net CNAME .
@@ -97,34 +73,6 @@ $TTL 30
 *.1priest1nun.net CNAME .
 20-55-32-61.cprapid.com CNAME .
 *.20-55-32-61.cprapid.com CNAME .
-2006-08-24-ultental-ferragosto-2006.net.daraz.com CNAME .
-*.2006-08-24-ultental-ferragosto-2006.net.daraz.com CNAME .
-2009-02-12.net.daraz.com CNAME .
-*.2009-02-12.net.daraz.com CNAME .
-2009-05-23.net.daraz.com CNAME .
-*.2009-05-23.net.daraz.com CNAME .
-2011-03-23-links-on-this-nuclear-thing.net.daraz.com CNAME .
-*.2011-03-23-links-on-this-nuclear-thing.net.daraz.com CNAME .
-2012-71-141.net.daraz.com CNAME .
-*.2012-71-141.net.daraz.com CNAME .
-2013-01-27-javascript-arguments-function.net.daraz.com CNAME .
-*.2013-01-27-javascript-arguments-function.net.daraz.com CNAME .
-2013-03-19-git-gitconfig.net.daraz.com CNAME .
-*.2013-03-19-git-gitconfig.net.daraz.com CNAME .
-2013-05-08-bettertrainingdeliverybydevelopers.net.daraz.com CNAME .
-*.2013-05-08-bettertrainingdeliverybydevelopers.net.daraz.com CNAME .
-2014-02-01-an.net.daraz.com CNAME .
-*.2014-02-01-an.net.daraz.com CNAME .
-2014-05-24.net.daraz.com CNAME .
-*.2014-05-24.net.daraz.com CNAME .
-2014-11-29.net.daraz.com CNAME .
-*.2014-11-29.net.daraz.com CNAME .
-2016-07-07-assignment-3.net.daraz.com CNAME .
-*.2016-07-07-assignment-3.net.daraz.com CNAME .
-2016-12-29.net.daraz.com CNAME .
-*.2016-12-29.net.daraz.com CNAME .
-2016-6-27-json-decode-json-encode.net.daraz.com CNAME .
-*.2016-6-27-json-decode-json-encode.net.daraz.com CNAME .
 207.net CNAME .
 *.207.net CNAME .
 24-tvn.pl CNAME .
@@ -169,8 +117,6 @@ $TTL 30
 *.56.com CNAME .
 59-106-20-39.r-bl100.sakura.ne.jp CNAME .
 *.59-106-20-39.r-bl100.sakura.ne.jp CNAME .
-617-313-8170.net.daraz.com CNAME .
-*.617-313-8170.net.daraz.com CNAME .
 7-7-7-partner.com CNAME .
 *.7-7-7-partner.com CNAME .
 72-news.com CNAME .
@@ -397,8 +343,6 @@ allo-sexe.com CNAME .
 *.allo-sexe.com CNAME .
 alpari.ru CNAME .
 *.alpari.ru CNAME .
-altyn.xyz CNAME .
-*.altyn.xyz CNAME .
 amazon-adsystem.com CNAME .
 *.amazon-adsystem.com CNAME .
 amazonbusiness.com CNAME .
@@ -1095,6 +1039,8 @@ e-bannerx.com CNAME .
 *.e-bannerx.com CNAME .
 e.imguol.com CNAME .
 *.e.imguol.com CNAME .
+e.kc-education.com CNAME .
+*.e.kc-education.com CNAME .
 e7876.dscg.akamaiedge.net CNAME .
 *.e7876.dscg.akamaiedge.net CNAME .
 ea.galerieslafayette.com CNAME .
@@ -1209,32 +1155,20 @@ extreme-ip-lookup.com CNAME .
 *.extreme-ip-lookup.com CNAME .
 f-log-at.grammarly.io CNAME .
 *.f-log-at.grammarly.io CNAME .
-fabkks.pl CNAME .
-*.fabkks.pl CNAME .
-facbuuk.pl CNAME .
-*.facbuuk.pl CNAME .
 facebook-com-pl.pl CNAME .
 *.facebook-com-pl.pl CNAME .
 faktor.io CNAME .
 *.faktor.io CNAME .
 fakty24.xyz CNAME .
 *.fakty24.xyz CNAME .
-fancbook.pl CNAME .
-*.fancbook.pl CNAME .
-fanvbi.pl CNAME .
-*.fanvbi.pl CNAME .
 fast.appcues.com CNAME .
 *.fast.appcues.com CNAME .
 faulall.pl CNAME .
 *.faulall.pl CNAME .
-fbbanka.pl CNAME .
-*.fbbanka.pl CNAME .
 fccinteractive.com CNAME .
 *.fccinteractive.com CNAME .
 feature.fm CNAME .
 *.feature.fm CNAME .
-fejcebuk.pl CNAME .
-*.fejcebuk.pl CNAME .
 filipelucio.com CNAME .
 *.filipelucio.com CNAME .
 findthemnow905.club CNAME .
@@ -1351,6 +1285,8 @@ go.mybusinessacademy.ph CNAME .
 *.go.mybusinessacademy.ph CNAME .
 go.neverware.com CNAME .
 *.go.neverware.com CNAME .
+go.opendoors.nl CNAME .
+*.go.opendoors.nl CNAME .
 go.slalom.com CNAME .
 *.go.slalom.com CNAME .
 go.updates.iata.org CNAME .
@@ -1411,6 +1347,8 @@ hai2u.com CNAME .
 *.hai2u.com CNAME .
 hairsthoughtfulgovernor.com CNAME .
 *.hairsthoughtfulgovernor.com CNAME .
+hanslionel.com CNAME .
+*.hanslionel.com CNAME .
 happyyong.com CNAME .
 *.happyyong.com CNAME .
 hay-borsa.ru CNAME .
@@ -1429,8 +1367,6 @@ hit.interia.pl CNAME .
 *.hit.interia.pl CNAME .
 hitmarkerjobs.com CNAME .
 *.hitmarkerjobs.com CNAME .
-hkg518.com CNAME .
-*.hkg518.com CNAME .
 holecatorange.com CNAME .
 *.holecatorange.com CNAME .
 homewares.org CNAME .
@@ -1645,6 +1581,8 @@ kidsinsandbox.info CNAME .
 *.kidsinsandbox.info CNAME .
 kiks.yandex.ru CNAME .
 *.kiks.yandex.ru CNAME .
+kinguin.net CNAME .
+*.kinguin.net CNAME .
 kinico.net CNAME .
 *.kinico.net CNAME .
 klclick.com CNAME .
@@ -2115,6 +2053,8 @@ ops.bpost.be CNAME .
 *.ops.bpost.be CNAME .
 optimizely.com CNAME .
 *.optimizely.com CNAME .
+orders98551.info CNAME .
+*.orders98551.info CNAME .
 orlen.digital CNAME .
 *.orlen.digital CNAME .
 orlencorpgijnejr.xyz CNAME .
@@ -2213,8 +2153,6 @@ pelorian.xyz CNAME .
 *.pelorian.xyz CNAME .
 people4people488.cyou CNAME .
 *.people4people488.cyou CNAME .
-peoplehere820.work CNAME .
-*.peoplehere820.work CNAME .
 pepperjamnetwork.com CNAME .
 *.pepperjamnetwork.com CNAME .
 perfectgirls.net CNAME .
@@ -2375,10 +2313,6 @@ r42tag.com CNAME .
 *.r42tag.com CNAME .
 rd.rakuten.co.jp CNAME .
 *.rd.rakuten.co.jp CNAME .
-reactnow262.club CNAME .
-*.reactnow262.club CNAME .
-reactnow262.work CNAME .
-*.reactnow262.work CNAME .
 realsrv.com CNAME .
 *.realsrv.com CNAME .
 rebrancardera.site CNAME .
@@ -2545,8 +2479,6 @@ servedby.o2.co.uk CNAME .
 *.servedby.o2.co.uk CNAME .
 server.iad.liveperson.net CNAME .
 *.server.iad.liveperson.net CNAME .
-service.cz.nl CNAME .
-*.service.cz.nl CNAME .
 services.brightline.tv CNAME .
 *.services.brightline.tv CNAME .
 services.zam.com CNAME .
@@ -2643,6 +2575,8 @@ specjalnynacisnij.site CNAME .
 *.specjalnynacisnij.site CNAME .
 spectivvr.org CNAME .
 *.spectivvr.org CNAME .
+speeddials.opera.com CNAME .
+*.speeddials.opera.com CNAME .
 sportsdream.top CNAME .
 *.sportsdream.top CNAME .
 sportsinteraction.com CNAME .
@@ -2797,8 +2731,6 @@ thehomo.org CNAME .
 *.thehomo.org CNAME .
 themacuser.org CNAME .
 *.themacuser.org CNAME .
-thinkaboutit047.work CNAME .
-*.thinkaboutit047.work CNAME .
 thirdparty.bnc.lt CNAME .
 *.thirdparty.bnc.lt CNAME .
 thunderhead.com CNAME .
@@ -3019,8 +2951,6 @@ weighted.com.akadns.net CNAME .
 *.weighted.com.akadns.net CNAME .
 wemfbox.ch CNAME .
 *.wemfbox.ch CNAME .
-weneedhelpnow442.club CNAME .
-*.weneedhelpnow442.club CNAME .
 weselenet.pl CNAME .
 *.weselenet.pl CNAME .
 wesfor.host CNAME .
@@ -3071,6 +3001,8 @@ wvs3bmct6mkz.com CNAME .
 *.wvs3bmct6mkz.com CNAME .
 www1.amnhealthcare.com CNAME .
 *.www1.amnhealthcare.com CNAME .
+www2.leapmotion.com CNAME .
+*.www2.leapmotion.com CNAME .
 www2.pardot.com CNAME .
 *.www2.pardot.com CNAME .
 www2.primecreative.com.au CNAME .
