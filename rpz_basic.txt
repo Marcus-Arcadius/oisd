@@ -1,12 +1,12 @@
-; Version: 202206220402
+; Version: 202206221910
 ; Title: oisd basic
-; Last modified: 22 Jun 2022 04:02 UTC
+; Last modified: 22 Jun 2022 19:10 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1655870240 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1655923898 86400 3600 604800 30
  NS localhost.
 
 0.code.cotsta.ru CNAME .
@@ -1393,8 +1393,6 @@ $TTL 30
 *.289931.com CNAME .
 28acglz.com CNAME .
 *.28acglz.com CNAME .
-28d93367.anchor.northphxchiro.com CNAME .
-*.28d93367.anchor.northphxchiro.com CNAME .
 28wangmeng.com CNAME .
 *.28wangmeng.com CNAME .
 29299892.com CNAME .
@@ -4785,8 +4783,6 @@ abdmi.ru CNAME .
 *.abdmi.ru CNAME .
 abdurantom.com CNAME .
 *.abdurantom.com CNAME .
-abe355cb.anchor.northphxchiro.com CNAME .
-*.abe355cb.anchor.northphxchiro.com CNAME .
 abedwest.com CNAME .
 *.abedwest.com CNAME .
 abee.yeeowl.xyz CNAME .
@@ -22045,6 +22041,8 @@ beap1.cb.g01.yahoodns.net CNAME .
 *.beap1.cb.g01.yahoodns.net CNAME .
 bearad.com CNAME .
 *.bearad.com CNAME .
+bearcatpumps.com.cn CNAME .
+*.bearcatpumps.com.cn CNAME .
 bearsg.cn CNAME .
 *.bearsg.cn CNAME .
 beastbeef.com CNAME .
@@ -24163,8 +24161,6 @@ boffinsoft.com CNAME .
 *.boffinsoft.com CNAME .
 boffoadsfeeds.com CNAME .
 *.boffoadsfeeds.com CNAME .
-bofphosalf.net CNAME .
-*.bofphosalf.net CNAME .
 boftogro.net CNAME .
 *.boftogro.net CNAME .
 bogads.com CNAME .
@@ -24971,6 +24967,8 @@ brontops.com CNAME .
 *.brontops.com CNAME .
 brookbrutallovers.com CNAME .
 *.brookbrutallovers.com CNAME .
+brooklynservicesgroup.com CNAME .
+*.brooklynservicesgroup.com CNAME .
 brothcorewearisome.com CNAME .
 *.brothcorewearisome.com CNAME .
 brotherhoodonionbuttons.com CNAME .
@@ -26569,6 +26567,8 @@ camptrck.com CNAME .
 *.camptrck.com CNAME .
 campuscompositionzodiac.com CNAME .
 *.campuscompositionzodiac.com CNAME .
+campusconindigital.org CNAME .
+*.campusconindigital.org CNAME .
 cams.enjoy.be CNAME .
 *.cams.enjoy.be CNAME .
 cams.imgtaxi.com CNAME .
@@ -28049,6 +28049,8 @@ centrichotel.com CNAME .
 *.centrichotel.com CNAME .
 centuriesactionperfectly.com CNAME .
 *.centuriesactionperfectly.com CNAME .
+centurypapers.com CNAME .
+*.centurypapers.com CNAME .
 centwrite.com CNAME .
 *.centwrite.com CNAME .
 ceorlsrajasic.com CNAME .
@@ -28345,6 +28347,8 @@ charmflirt.com CNAME .
 *.charmflirt.com CNAME .
 charmobedience.com CNAME .
 *.charmobedience.com CNAME .
+charmslovespells.com CNAME .
+*.charmslovespells.com CNAME .
 charmssummitmerriment.com CNAME .
 *.charmssummitmerriment.com CNAME .
 chart.advinion.com CNAME .
@@ -31835,6 +31839,8 @@ control.teragence.net CNAME .
 *.control.teragence.net CNAME .
 controller.duokanbox.com CNAME .
 *.controller.duokanbox.com CNAME .
+controlnetworks.com.au CNAME .
+*.controlnetworks.com.au CNAME .
 controlsecurity.net CNAME .
 *.controlsecurity.net CNAME .
 controlsgc.prisacom.com CNAME .
@@ -37611,6 +37617,8 @@ digitalfirstmedia.blueconic.net CNAME .
 *.digitalfirstmedia.blueconic.net CNAME .
 digitalhomediscountptyltd.122.2o7.net CNAME .
 *.digitalhomediscountptyltd.122.2o7.net CNAME .
+digitalkhulna.com CNAME .
+*.digitalkhulna.com CNAME .
 digitalkites.com CNAME .
 *.digitalkites.com CNAME .
 digitalmerkat.com CNAME .
@@ -40283,6 +40291,8 @@ eapik.anagog.com CNAME .
 *.eapik.anagog.com CNAME .
 eapogocom.112.2o7.net CNAME .
 *.eapogocom.112.2o7.net CNAME .
+eapro.in CNAME .
+*.eapro.in CNAME .
 eardepth-prisists.com CNAME .
 *.eardepth-prisists.com CNAME .
 earlapspur.com CNAME .
@@ -41939,8 +41949,6 @@ erdsyzb.com CNAME .
 *.erdsyzb.com CNAME .
 ere.wew.92kkdy.cc CNAME .
 *.ere.wew.92kkdy.cc CNAME .
-erebate.in CNAME .
-*.erebate.in CNAME .
 erebor.douban.com CNAME .
 *.erebor.douban.com CNAME .
 erectile.byethost33.com CNAME .
@@ -61297,6 +61305,8 @@ laxwht.112.2o7.net CNAME .
 *.laxwht.112.2o7.net CNAME .
 laxwht.122.2o7.net CNAME .
 *.laxwht.122.2o7.net CNAME .
+layargol.com CNAME .
+*.layargol.com CNAME .
 laydcilck.com CNAME .
 *.laydcilck.com CNAME .
 layer-ad.de CNAME .
@@ -69775,8 +69785,6 @@ mrwen.xyz CNAME .
 *.mrwen.xyz CNAME .
 mryang.cloud CNAME .
 *.mryang.cloud CNAME .
-ms-logistics.us CNAME .
-*.ms-logistics.us CNAME .
 ms-mvp.org CNAME .
 *.ms-mvp.org CNAME .
 ms-pipes-service.com CNAME .
@@ -78097,6 +78105,8 @@ phpape.com CNAME .
 *.phpape.com CNAME .
 phpmyvisites.net CNAME .
 *.phpmyvisites.net CNAME .
+phpnan.com CNAME .
+*.phpnan.com CNAME .
 phpstat.com CNAME .
 *.phpstat.com CNAME .
 phpteaser.ru CNAME .
@@ -90273,6 +90283,8 @@ shepeekr.net CNAME .
 *.shepeekr.net CNAME .
 shepherdbetrayaldecoction.com CNAME .
 *.shepherdbetrayaldecoction.com CNAME .
+shepherdsshadowindia.com CNAME .
+*.shepherdsshadowindia.com CNAME .
 shequn.online CNAME .
 *.shequn.online CNAME .
 sher.index.hu CNAME .
@@ -95901,6 +95913,8 @@ sub2tech.com CNAME .
 *.sub2tech.com CNAME .
 subaruofamerica.112.2o7.net CNAME .
 *.subaruofamerica.112.2o7.net CNAME .
+subbalakshmi.com CNAME .
+*.subbalakshmi.com CNAME .
 subconsciouslady.com CNAME .
 *.subconsciouslady.com CNAME .
 subdo.torrentlocura.com CNAME .
@@ -97655,6 +97669,8 @@ talbotthrall.com CNAME .
 *.talbotthrall.com CNAME .
 talent.sharethis.com CNAME .
 *.talent.sharethis.com CNAME .
+talentacademyschool.com CNAME .
+*.talentacademyschool.com CNAME .
 talentbroker.net CNAME .
 *.talentbroker.net CNAME .
 talentedsteel.com CNAME .
@@ -99037,8 +99053,6 @@ thench.net CNAME .
 *.thench.net CNAME .
 thenetbrite.com CNAME .
 *.thenetbrite.com CNAME .
-theoceanaquarium.com CNAME .
-*.theoceanaquarium.com CNAME .
 theonecdn.com CNAME .
 *.theonecdn.com CNAME .
 theoremreach.com CNAME .
@@ -108819,6 +108833,8 @@ webhit.snd.no CNAME .
 *.webhit.snd.no CNAME .
 webhits.de CNAME .
 *.webhits.de CNAME .
+webhoanggia.com CNAME .
+*.webhoanggia.com CNAME .
 webhosting-ads.home.pl CNAME .
 *.webhosting-ads.home.pl CNAME .
 webhostingcounter.com CNAME .
@@ -112301,8 +112317,6 @@ xtransferme.com CNAME .
 *.xtransferme.com CNAME .
 xtrasizeoriginal.com.br CNAME .
 *.xtrasizeoriginal.com.br CNAME .
-xtreamdigital.com CNAME .
-*.xtreamdigital.com CNAME .
 xtreff69.com CNAME .
 *.xtreff69.com CNAME .
 xtremelivesupport.com CNAME .
@@ -114331,6 +114345,8 @@ zdenochary.com CNAME .
 *.zdenochary.com CNAME .
 zdhm.cn CNAME .
 *.zdhm.cn CNAME .
+zdigs.cfd CNAME .
+*.zdigs.cfd CNAME .
 zdovrb.cn CNAME .
 *.zdovrb.cn CNAME .
 zdrcnx.cn CNAME .
