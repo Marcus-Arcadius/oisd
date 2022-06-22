@@ -1,6 +1,6 @@
-# Version: 202206221910
+# Version: 202206222206
 # Title: oisd basic
-# Last modified: 22 Jun 2022 19:10 UTC
+# Last modified: 22 Jun 2022 22:06 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                                
@@ -31,6 +31,7 @@ local-zone: "00xvppy.cn." always_null
 local-zone: "01-sex-amateur.info." always_null
 local-zone: "01.static.xsf.ximxim.com." always_null
 local-zone: "0101011.com." always_null
+local-zone: "016665.com." always_null
 local-zone: "017gj.com." always_null
 local-zone: "01apple.com." always_null
 local-zone: "01counter.com." always_null
@@ -1065,6 +1066,7 @@ local-zone: "45a3fe976c.com." always_null
 local-zone: "45d2bbfb2a.com." always_null
 local-zone: "45eijvhgj2.com." always_null
 local-zone: "45f2373b26b8e2.com." always_null
+local-zone: "45tu1c0.com." always_null
 local-zone: "468.vologdainfo.ru." always_null
 local-zone: "4690y10pvpq8.com." always_null
 local-zone: "469716.top." always_null
@@ -1378,6 +1380,7 @@ local-zone: "62b70ac32d4614b.com." always_null
 local-zone: "62eeca06166.com." always_null
 local-zone: "62wm.com." always_null
 local-zone: "633642.parkingcrew.net." always_null
+local-zone: "6370bb20.spool.jcscateringaz.com." always_null
 local-zone: "6374870abd.com." always_null
 local-zone: "63r2vxacp0pr.com." always_null
 local-zone: "63voy9ciyi14.com." always_null
@@ -1414,6 +1417,7 @@ local-zone: "666592.xyz." always_null
 local-zone: "666593.xyz." always_null
 local-zone: "666595.xyz." always_null
 local-zone: "666596.xyz." always_null
+local-zone: "666597.xyz." always_null
 local-zone: "666666666666.site." always_null
 local-zone: "6667778882021.site." always_null
 local-zone: "6669667.com." always_null
@@ -2416,7 +2420,6 @@ local-zone: "abi.run." always_null
 local-zone: "abi83-schramberg.de." always_null
 local-zone: "abieaoa.cn." always_null
 local-zone: "abissnet.net." always_null
-local-zone: "abj.noveltypolytechnic.edu.ng." always_null
 local-zone: "abjectionremarksdisarm.com." always_null
 local-zone: "abjjsc.cn." always_null
 local-zone: "ablatesgascon.cam." always_null
@@ -2585,6 +2588,7 @@ local-zone: "aceadsys.net." always_null
 local-zone: "acecoincident.com." always_null
 local-zone: "acecounter.com." always_null
 local-zone: "acedacc160.com." always_null
+local-zone: "aceekroo.net." always_null
 local-zone: "acelacien.com." always_null
 local-zone: "acellr.co.uk." always_null
 local-zone: "acemo.vip." always_null
@@ -2640,6 +2644,7 @@ local-zone: "acoossd.top." always_null
 local-zone: "acoossn.top." always_null
 local-zone: "acoozzh.top." always_null
 local-zone: "acornpointlodge.com." always_null
+local-zone: "acortar.co." always_null
 local-zone: "acountscr.cool." always_null
 local-zone: "acousticairplane.com." always_null
 local-zone: "acousticsapparel.com." always_null
@@ -3294,6 +3299,7 @@ local-zone: "ad2games.com." always_null
 local-zone: "ad2goal.com." always_null
 local-zone: "ad2links.com." always_null
 local-zone: "ad2up.com." always_null
+local-zone: "ad2upapp.com." always_null
 local-zone: "ad3.depositfiles.com." always_null
 local-zone: "ad3.eu." always_null
 local-zone: "ad3.iinfo.cz." always_null
@@ -4376,6 +4382,7 @@ local-zone: "ads-connect.com." always_null
 local-zone: "ads-d.viber.com." always_null
 local-zone: "ads-delivery.gameforge.com." always_null
 local-zone: "ads-delivery.gunosy.com." always_null
+local-zone: "ads-dev.pinterest.com." always_null
 local-zone: "ads-dot-fbc-web-2018.uc.r.appspot.com." always_null
 local-zone: "ads-game-187f4.firebaseapp.com." always_null
 local-zone: "ads-i2i.jp." always_null
@@ -5818,6 +5825,7 @@ local-zone: "adslivecorp.com." always_null
 local-zone: "adsload.co." always_null
 local-zone: "adsloading.com." always_null
 local-zone: "adsloads.com." always_null
+local-zone: "adsloboclick.com." always_null
 local-zone: "adslog.apexinnotech.com." always_null
 local-zone: "adsloom.com." always_null
 local-zone: "adslop.com." always_null
@@ -6902,7 +6910,6 @@ local-zone: "agbmcom.112.2o7.net." always_null
 local-zone: "agcdn.com." always_null
 local-zone: "agdm.ml." always_null
 local-zone: "agegreetings.112.2o7.net." always_null
-local-zone: "agemn.co.za." always_null
 local-zone: "agenduret.com." always_null
 local-zone: "agent.contentsanalyst.com." always_null
 local-zone: "agent.tamedia.com.tw." always_null
@@ -7036,6 +7043,7 @@ local-zone: "aifishing.cn." always_null
 local-zone: "aiggkj.cn." always_null
 local-zone: "aigneloa.com." always_null
 local-zone: "aiharsul.net." always_null
+local-zone: "aihposboutique.com.br." always_null
 local-zone: "aihu.me." always_null
 local-zone: "aihuihui.xyz." always_null
 local-zone: "aijiamao.top." always_null
@@ -7202,6 +7210,7 @@ local-zone: "akdalarabic.com." always_null
 local-zone: "akdbr.com." always_null
 local-zone: "akhoondoutsert.com." always_null
 local-zone: "akiko.f9.co.uk." always_null
+local-zone: "akim.org.ar." always_null
 local-zone: "akimboeloiner.com." always_null
 local-zone: "akirkpatrick.com." always_null
 local-zone: "akita.kz." always_null
@@ -7434,6 +7443,7 @@ local-zone: "allpdfmags.net." always_null
 local-zone: "allprofitsurvey.top." always_null
 local-zone: "allsiemens.com." always_null
 local-zone: "allsports4free.live." always_null
+local-zone: "allsportsflix.best." always_null
 local-zone: "allstarmediagroup.com." always_null
 local-zone: "allstealing.com." always_null
 local-zone: "alltizer.ru." always_null
@@ -8286,6 +8296,7 @@ local-zone: "anni141224.club." always_null
 local-zone: "annonce.lequipement.fr." always_null
 local-zone: "annonser.dagbladet.no." always_null
 local-zone: "annotationcoinboiled.com." always_null
+local-zone: "announcem.com." always_null
 local-zone: "announcement.ru." always_null
 local-zone: "annoyedairport.com." always_null
 local-zone: "annoyedfifth.com." always_null
@@ -8341,6 +8352,7 @@ local-zone: "antifa.co.at." always_null
 local-zone: "antillephone.com." always_null
 local-zone: "antiqueminefield.com." always_null
 local-zone: "antiquitytissuepod.com." always_null
+local-zone: "antirgiocub.com." always_null
 local-zone: "antispywareexpert.com." always_null
 local-zone: "antiterroristqueenjolly.com." always_null
 local-zone: "antivirus-scanner.com." always_null
@@ -9107,6 +9119,7 @@ local-zone: "arenitezill.com." always_null
 local-zone: "areyoulivingwell.com." always_null
 local-zone: "arfanbajt.xyz." always_null
 local-zone: "argeersarchfoe.com." always_null
+local-zone: "argerm.com." always_null
 local-zone: "argondenial.com." always_null
 local-zone: "argos.citruserve.com." always_null
 local-zone: "arguerepetition.com." always_null
@@ -9176,6 +9189,7 @@ local-zone: "artantash.club." always_null
 local-zone: "artbluesea.xyz." always_null
 local-zone: "artcomix.com." always_null
 local-zone: "artefact.is." always_null
+local-zone: "arteisabello.space." always_null
 local-zone: "artemisaffiliates.com." always_null
 local-zone: "artfut.com." always_null
 local-zone: "arthahoonte.biz." always_null
@@ -9335,7 +9349,6 @@ local-zone: "askto.net." always_null
 local-zone: "aslaironer.com." always_null
 local-zone: "aslaprason.com." always_null
 local-zone: "asleyty.com." always_null
-local-zone: "aslforwarding.com." always_null
 local-zone: "aslnk.link." always_null
 local-zone: "aslro.top." always_null
 local-zone: "asmodeusfields.com." always_null
@@ -9742,6 +9755,7 @@ local-zone: "automotive-offer.com." always_null
 local-zone: "autonations.com." always_null
 local-zone: "autopsyglossy.com." always_null
 local-zone: "autoscout24.112.2o7.net." always_null
+local-zone: "autosmorla.es." always_null
 local-zone: "autosurfpro.com." always_null
 local-zone: "autoteaser.ru." always_null
 local-zone: "autoua.com." always_null
@@ -9956,6 +9970,7 @@ local-zone: "ayhjukc.cn." always_null
 local-zone: "ayk.cx." always_null
 local-zone: "aylarl.com." always_null
 local-zone: "ayqxx.com." always_null
+local-zone: "aysbody.com." always_null
 local-zone: "aysccnn.cn." always_null
 local-zone: "ayuki.ink." always_null
 local-zone: "ayun.ltd." always_null
@@ -10265,6 +10280,7 @@ local-zone: "bailonushe.com." always_null
 local-zone: "baimb.com." always_null
 local-zone: "baimbw.cn." always_null
 local-zone: "bainiaochaofeng.xyz." always_null
+local-zone: "bainingsardana.com." always_null
 local-zone: "bainushe.com." always_null
 local-zone: "bairentou.com.cn." always_null
 local-zone: "baisb.com." always_null
@@ -10608,6 +10624,7 @@ local-zone: "banners.seniorfriendfinder.com." always_null
 local-zone: "banners.sublimedirectory.com." always_null
 local-zone: "banners.swapfinder.com." always_null
 local-zone: "banners.sys-con.com." always_null
+local-zone: "banners.tapclap.com." always_null
 local-zone: "banners.tempobet.com." always_null
 local-zone: "banners.thirdmovies.com." always_null
 local-zone: "banners.thiswillshockyou.com." always_null
@@ -10747,6 +10764,7 @@ local-zone: "basheighthnumerous.com." always_null
 local-zone: "bashfuladvancedeliberately.com." always_null
 local-zone: "bashfulweaponsscratch.com." always_null
 local-zone: "bashirian.biz." always_null
+local-zone: "bashod.com." always_null
 local-zone: "basic-check.disconnect.me." always_null
 local-zone: "basicpossibility.com." always_null
 local-zone: "basicstat.com." always_null
@@ -10800,6 +10818,7 @@ local-zone: "bayfenlee.com." always_null
 local-zone: "bayfluke.com." always_null
 local-zone: "bayil.cn." always_null
 local-zone: "bayirksrap.com." always_null
+local-zone: "baylnk.com." always_null
 local-zone: "baymax.video." always_null
 local-zone: "bayno.cn." always_null
 local-zone: "baynote.net." always_null
@@ -10933,6 +10952,7 @@ local-zone: "bdxnc.com." always_null
 local-zone: "bdyxzx.com." always_null
 local-zone: "be-funk.com." always_null
 local-zone: "be-rtl.videoplaza.tv." always_null
+local-zone: "be-well.es." always_null
 local-zone: "bea-s.dinghuoche.com." always_null
 local-zone: "bea4.v.fwmrm.net." always_null
 local-zone: "beabsolom.com." always_null
@@ -11019,6 +11039,7 @@ local-zone: "beanbounce.net." always_null
 local-zone: "beanstalkdata.com." always_null
 local-zone: "beanstock.com." always_null
 local-zone: "beantemote.com." always_null
+local-zone: "beanx99.xyz." always_null
 local-zone: "beap-bc.yahoo.com." always_null
 local-zone: "beap.adx.yahoo.com." always_null
 local-zone: "beap1.cb.g01.yahoodns.net." always_null
@@ -11319,6 +11340,7 @@ local-zone: "bestgameads.com." always_null
 local-zone: "bestgong.top." always_null
 local-zone: "bestheadphones4u.com." always_null
 local-zone: "besthitsnow.com." always_null
+local-zone: "bestladieshere.life." always_null
 local-zone: "bestlandcn.com." always_null
 local-zone: "bestmmo2018.com." always_null
 local-zone: "bestmobileapps.mobi." always_null
@@ -11326,6 +11348,7 @@ local-zone: "bestnews.biz." always_null
 local-zone: "bestnewsforbest.com." always_null
 local-zone: "bestnewsworld.net." always_null
 local-zone: "bestnfd.com." always_null
+local-zone: "bestnff.com." always_null
 local-zone: "bestnfq.com." always_null
 local-zone: "bestnfz.com." always_null
 local-zone: "bestofferdirect.com." always_null
@@ -11515,6 +11538,7 @@ local-zone: "bidswitch.net." always_null
 local-zone: "bidsxchange.com." always_null
 local-zone: "bidtellect.com." always_null
 local-zone: "bidtheatre.com." always_null
+local-zone: "bidtimize.com." always_null
 local-zone: "bidtraffic.com." always_null
 local-zone: "bidtrk.com." always_null
 local-zone: "bidvance.com." always_null
@@ -11560,7 +11584,6 @@ local-zone: "bighop.com." always_null
 local-zone: "bighow.net." always_null
 local-zone: "biglinksrc.cool." always_null
 local-zone: "bigmart.com.np." always_null
-local-zone: "bigmikesupplies.co.za." always_null
 local-zone: "bigmining.com." always_null
 local-zone: "bigmobileads.com." always_null
 local-zone: "bigosearch.com." always_null
@@ -11631,6 +11654,7 @@ local-zone: "biniprobit.com." always_null
 local-zone: "binlayer.com." always_null
 local-zone: "binlayer.de." always_null
 local-zone: "binnuryetikdanismanlik.com.tr." always_null
+local-zone: "binotwither.com." always_null
 local-zone: "binsaiwo.net." always_null
 local-zone: "bintds.com." always_null
 local-zone: "biocdn.net." always_null
@@ -11831,6 +11855,8 @@ local-zone: "blingbling.wiki." always_null
 local-zone: "blingbucks.com." always_null
 local-zone: "blink.fra-01.braze.eu." always_null
 local-zone: "blinkadr.com." always_null
+local-zone: "blinkjork.com." always_null
+local-zone: "blinnowther.com." always_null
 local-zone: "blis.com." always_null
 local-zone: "blismedia.com." always_null
 local-zone: "blissfuldes.com." always_null
@@ -12047,6 +12073,7 @@ local-zone: "bnux.store." always_null
 local-zone: "bnvxcfhdgf.blogspot.com.es." always_null
 local-zone: "bo.facesbet.com." always_null
 local-zone: "bo2ffe45ss4gie.com." always_null
+local-zone: "bo4news.biz." always_null
 local-zone: "boa-0918-verify-login-2014.icrb.cl." always_null
 local-zone: "boacheeb.com." always_null
 local-zone: "boahoupi.com." always_null
@@ -12450,6 +12477,7 @@ local-zone: "briskeagle.io." always_null
 local-zone: "briskedmiskept.com." always_null
 local-zone: "briskpelican.io." always_null
 local-zone: "bristlyxystus.com." always_null
+local-zone: "britainsolicitors.com." always_null
 local-zone: "britehostngco.xyz." always_null
 local-zone: "britepool.com." always_null
 local-zone: "brithungown.com." always_null
@@ -12532,11 +12560,11 @@ local-zone: "brunettemattersrefused.com." always_null
 local-zone: "brwbimexv.com." always_null
 local-zone: "brxfinance.com." always_null
 local-zone: "bryantaylor.free-online.co.uk." always_null
+local-zone: "brydhoye.com." always_null
 local-zone: "brznetwork.com." always_null
 local-zone: "bs-dante.ru." always_null
 local-zone: "bs-meta.yandex.ru." always_null
 local-zone: "bs.orsk.ru." always_null
-local-zone: "bs.quadrosystems.ru." always_null
 local-zone: "bs.url.tw." always_null
 local-zone: "bs.yandex.ru." always_null
 local-zone: "bs987.cn." always_null
@@ -12625,6 +12653,7 @@ local-zone: "budnetoil.com." always_null
 local-zone: "budvawshes.ru." always_null
 local-zone: "buf.lemonde.fr." always_null
 local-zone: "bufamy.com." always_null
+local-zone: "bufan.in." always_null
 local-zone: "bufetgarrigosa.com." always_null
 local-zone: "buffalogoesout.com." always_null
 local-zone: "bufferwriter.com." always_null
@@ -13252,6 +13281,7 @@ local-zone: "calvfk.cn." always_null
 local-zone: "calworthingtonford.com." always_null
 local-zone: "calzadoyuyin.com." always_null
 local-zone: "cam.demdex.net." always_null
+local-zone: "cam4tracking.com." always_null
 local-zone: "camadmin.ru." always_null
 local-zone: "camads.net." always_null
 local-zone: "camakaroda.com." always_null
@@ -13289,6 +13319,7 @@ local-zone: "campuscompositionzodiac.com." always_null
 local-zone: "campusconindigital.org." always_null
 local-zone: "cams.enjoy.be." always_null
 local-zone: "cams.imgtaxi.com." always_null
+local-zone: "camsbanner.wtfgroup.co." always_null
 local-zone: "camschat.net." always_null
 local-zone: "camsitecash.com." always_null
 local-zone: "camsoda1.com." always_null
@@ -13405,6 +13436,7 @@ local-zone: "careers.adpushup.com." always_null
 local-zone: "careers.outbrain.com." always_null
 local-zone: "carefuldolls.com." always_null
 local-zone: "carememachera.com." always_null
+local-zone: "careofu.com." always_null
 local-zone: "caressleazy.com." always_null
 local-zone: "careuropecreatures.com." always_null
 local-zone: "carextenuous.com." always_null
@@ -13477,6 +13509,7 @@ local-zone: "cashewsforlife208.com." always_null
 local-zone: "cashfiesta.com." always_null
 local-zone: "cashflowmarketing.com." always_null
 local-zone: "cashlayer.com." always_null
+local-zone: "cashmailsystem.com." always_null
 local-zone: "cashmylinks.com." always_null
 local-zone: "cashnews.info." always_null
 local-zone: "cashpartner.com." always_null
@@ -13519,6 +13552,7 @@ local-zone: "catbeardx.com." always_null
 local-zone: "catchandfatch.bid." always_null
 local-zone: "catchingplace.com." always_null
 local-zone: "catchynews.net." always_null
+local-zone: "cateredjapish.com." always_null
 local-zone: "catgride.com." always_null
 local-zone: "cathaycentury.com." always_null
 local-zone: "cathedralbagsslant.com." always_null
@@ -13528,6 +13562,7 @@ local-zone: "cati.com.tw." always_null
 local-zone: "catiligh.ru." always_null
 local-zone: "catmintwain.com." always_null
 local-zone: "catschickens.com." always_null
+local-zone: "catsnbootsncats2020.com." always_null
 local-zone: "catsnetwork.ru." always_null
 local-zone: "catsupsfloit.com." always_null
 local-zone: "catsys.jp." always_null
@@ -13652,7 +13687,6 @@ local-zone: "ccjxwlkj.com." always_null
 local-zone: "ccjxybj.cn." always_null
 local-zone: "ccleaner.fr." always_null
 local-zone: "cclnuzn.cn." always_null
-local-zone: "ccm19.de." always_null
 local-zone: "ccmcroads.com." always_null
 local-zone: "ccmdgg.com." always_null
 local-zone: "ccpa.psg.nexstardigital.net." always_null
@@ -13744,7 +13778,6 @@ local-zone: "cdn.adt567.net." always_null
 local-zone: "cdn.adtradr.com." always_null
 local-zone: "cdn.adual.net." always_null
 local-zone: "cdn.alistcloud.com." always_null
-local-zone: "cdn.allsportsflix.best." always_null
 local-zone: "cdn.altitudeplatform.com." always_null
 local-zone: "cdn.amplitude.com." always_null
 local-zone: "cdn.amzuu.com." always_null
@@ -13818,6 +13851,7 @@ local-zone: "cdn.logrocket.com." always_null
 local-zone: "cdn.luckyorange.com." always_null
 local-zone: "cdn.malokacha.club." always_null
 local-zone: "cdn.maropost.com." always_null
+local-zone: "cdn.mediatradecraft.com." always_null
 local-zone: "cdn.metalocator.com." always_null
 local-zone: "cdn.mmtro.com." always_null
 local-zone: "cdn.mobify.com." always_null
@@ -14084,6 +14118,7 @@ local-zone: "cfdanet.com." always_null
 local-zone: "cferw.com." always_null
 local-zone: "cfg.imtt.qq.com." always_null
 local-zone: "cfgr1.com." always_null
+local-zone: "cfgr2.com." always_null
 local-zone: "cfhijdsb.cn." always_null
 local-zone: "cfimage.moengage.com." always_null
 local-zone: "cfjump.com." always_null
@@ -14125,6 +14160,7 @@ local-zone: "chaghets.net." always_null
 local-zone: "chaglihysty.pro." always_null
 local-zone: "chaicdn.tk." always_null
 local-zone: "chainads.io." always_null
+local-zone: "chainandpyle.com." always_null
 local-zone: "chaingab.net." always_null
 local-zone: "chaintopdom.nl." always_null
 local-zone: "chainwalladsy.com." always_null
@@ -14234,6 +14270,7 @@ local-zone: "checkfreevideos.net." always_null
 local-zone: "checkhit.com." always_null
 local-zone: "checkifyouarealive.me." always_null
 local-zone: "checkinform.net." always_null
+local-zone: "checking-your-browser.com." always_null
 local-zone: "checkm8.com." always_null
 local-zone: "checkoutfree.com." always_null
 local-zone: "checkreliableupdatinglatest.info." always_null
@@ -14308,6 +14345,7 @@ local-zone: "chicagosuntimes.122.2o7.net." always_null
 local-zone: "chicgar.info." always_null
 local-zone: "chichosebook.com." always_null
 local-zone: "chickensstation.com." always_null
+local-zone: "chicks4date.com." always_null
 local-zone: "chicoryapp.com." always_null
 local-zone: "chidc2.outbrain.org." always_null
 local-zone: "chidir.com." always_null
@@ -14496,6 +14534,7 @@ local-zone: "cinglecitrals.com." always_null
 local-zone: "cingualr.com." always_null
 local-zone: "cintent.streanplay.cc." always_null
 local-zone: "cioco-froll.com." always_null
+local-zone: "cipro.mx." always_null
 local-zone: "circle.am." always_null
 local-zone: "circlelevel.com." always_null
 local-zone: "circuitrestbeds.com." always_null
@@ -14963,6 +15002,7 @@ local-zone: "cliquesteria.net." always_null
 local-zone: "clit120.outster.com." always_null
 local-zone: "clit50.outster.com." always_null
 local-zone: "cliv2508.com." always_null
+local-zone: "clivads.com." always_null
 local-zone: "clix.vn." always_null
 local-zone: "clixco.in." always_null
 local-zone: "clixcount.com." always_null
@@ -15071,6 +15111,7 @@ local-zone: "cloudzhuge.cn." always_null
 local-zone: "cloutbeliefphantom.com." always_null
 local-zone: "clovekwealth.com." always_null
 local-zone: "clovisclark.com." always_null
+local-zone: "clprr.com." always_null
 local-zone: "clrpdhptoddatj49.pro." always_null
 local-zone: "clrstm.com." always_null
 local-zone: "clscsbcj.com." always_null
@@ -15407,7 +15448,6 @@ local-zone: "coldnessstretchedfriendship.com." always_null
 local-zone: "coldwellbanker.net." always_null
 local-zone: "colegiounamuno.es." always_null
 local-zone: "colextidapp.com." always_null
-local-zone: "colgefine.at." always_null
 local-zone: "coliassfeurytheme.com." always_null
 local-zone: "colintoxicate.com." always_null
 local-zone: "coll1onf.com." always_null
@@ -15522,6 +15562,7 @@ local-zone: "com-directory.co." always_null
 local-zone: "com-wkejf32ljd23409system.net." always_null
 local-zone: "com.econa.com." always_null
 local-zone: "com495.ru." always_null
+local-zone: "comacantha.com." always_null
 local-zone: "comalonger.com." always_null
 local-zone: "comaoblivion.com." always_null
 local-zone: "comasoiling.casa." always_null
@@ -15670,6 +15711,7 @@ local-zone: "comsss-56.com." always_null
 local-zone: "comsysnet.com." always_null
 local-zone: "comtakelink.xyz." always_null
 local-zone: "comunicazio.com." always_null
+local-zone: "comurbate.com." always_null
 local-zone: "comwgi.com." always_null
 local-zone: "conative.de." always_null
 local-zone: "conative.network." always_null
@@ -16540,11 +16582,9 @@ local-zone: "creative-cdn.appgrowth.com." always_null
 local-zone: "creative-platform.vrvm.com." always_null
 local-zone: "creative-serving.com." always_null
 local-zone: "creative.cc-dt.com." always_null
-local-zone: "creative.leojmp.com." always_null
 local-zone: "creative.nscash.com." always_null
 local-zone: "creative.sphdigital.com." always_null
 local-zone: "creative.stripchat.com." always_null
-local-zone: "creative.strpjmp.com." always_null
 local-zone: "creativecarrer.com." always_null
 local-zone: "creativecdn.com." always_null
 local-zone: "creativedisplayformat.com." always_null
@@ -16926,6 +16966,7 @@ local-zone: "cutesaucepuppy.com." always_null
 local-zone: "cutescale.online." always_null
 local-zone: "cutestpotting.com." always_null
 local-zone: "cuteturkey.com." always_null
+local-zone: "cuttooscete.com." always_null
 local-zone: "cuttuberaxis.com." always_null
 local-zone: "cutworkbanago.cam." always_null
 local-zone: "cux.io." always_null
@@ -17144,6 +17185,7 @@ local-zone: "d18t35yyry2k49.cloudfront.net." always_null
 local-zone: "d19182vyfoustz.cloudfront.net." always_null
 local-zone: "d191y0yd6d0jy4.cloudfront.net." always_null
 local-zone: "d196fri2z18sm.cloudfront.net." always_null
+local-zone: "d19f0dp1dh77jq.cloudfront.net." always_null
 local-zone: "d19ptbnuzhibkh.cloudfront.net." always_null
 local-zone: "d19uh5b0umbjrr.cloudfront.net." always_null
 local-zone: "d19xf4taj229i8.cloudfront.net." always_null
@@ -17636,6 +17678,7 @@ local-zone: "d3iz6lralvg77g.cloudfront.net." always_null
 local-zone: "d3j1weegxvu8ns.cloudfront.net." always_null
 local-zone: "d3j3yrurxcqogk.cloudfront.net." always_null
 local-zone: "d3j7esvm4tntxq.cloudfront.net." always_null
+local-zone: "d3jcjsor8fnmka.cloudfront.net." always_null
 local-zone: "d3jdulus8lb392.cloudfront.net." always_null
 local-zone: "d3k68ig7ckr3r6.cloudfront.net." always_null
 local-zone: "d3kblkhdtjv0tf.cloudfront.net." always_null
@@ -17772,6 +17815,7 @@ local-zone: "d8962a.xyz." always_null
 local-zone: "d8af4fb8c1.com." always_null
 local-zone: "d8d4ab7673.com." always_null
 local-zone: "d8fb9b701c.com." always_null
+local-zone: "d90z5o386dhs7.cloudfront.net." always_null
 local-zone: "d95d1c685a.6c142df43a.com." always_null
 local-zone: "d985a9d2clzq5.cloudfront.net." always_null
 local-zone: "d9etzk30b05yg.cloudfront.net." always_null
@@ -17837,6 +17881,7 @@ local-zone: "daijopimplo.com." always_null
 local-zone: "dail01.wanmeilr.com." always_null
 local-zone: "dailiqing.net." always_null
 local-zone: "dailybet365vn.com." always_null
+local-zone: "dailyc24.com." always_null
 local-zone: "dailydistanceparallel.com." always_null
 local-zone: "dailyfeature.net." always_null
 local-zone: "dailyheraldpaddockpublication.112.2o7.net." always_null
@@ -17944,6 +17989,7 @@ local-zone: "dart-apac.l.doubleclick.net." always_null
 local-zone: "dart.chron.com." always_null
 local-zone: "dart.clearchannel.com." always_null
 local-zone: "dartarscuspids.casa." always_null
+local-zone: "dartg665moetyor.com." always_null
 local-zone: "dartimyl.com." always_null
 local-zone: "dartoverboardcoupon.com." always_null
 local-zone: "darts-ads.telkom.co.id." always_null
@@ -17982,6 +18028,7 @@ local-zone: "data-collector.wefi.com." always_null
 local-zone: "data-data-vac.com." always_null
 local-zone: "data-dynamic.net." always_null
 local-zone: "data-failover.eroadvertising.com." always_null
+local-zone: "data-host-file-16.com." always_null
 local-zone: "data-location.enhance.co." always_null
 local-zone: "data-optout-service.uca.cloud.unity3d.com." always_null
 local-zone: "data.abebooks.com." always_null
@@ -18160,6 +18207,7 @@ local-zone: "dclk-match.dotomi.com." always_null
 local-zone: "dclk.themarker.com." always_null
 local-zone: "dclk.themarketer.com." always_null
 local-zone: "dcm5.com." always_null
+local-zone: "dcmgptcbcrogl.com." always_null
 local-zone: "dcmn.com." always_null
 local-zone: "dcmn.io." always_null
 local-zone: "dcmosques.com." always_null
@@ -18177,6 +18225,7 @@ local-zone: "dd1.diymianmo.com." always_null
 local-zone: "dd3d.xyz." always_null
 local-zone: "dd6zx4ibq538k.cloudfront.net." always_null
 local-zone: "dd7bet.me." always_null
+local-zone: "ddacn6pr5v0tl.cloudfront.net." always_null
 local-zone: "ddanq.com." always_null
 local-zone: "ddb85f4fd9.com." always_null
 local-zone: "ddc08eb47c.com." always_null
@@ -18260,6 +18309,7 @@ local-zone: "deceitmalnutritionhonest.com." always_null
 local-zone: "deceittoured.com." always_null
 local-zone: "decemberpedalunfair.com." always_null
 local-zone: "decenthat.com." always_null
+local-zone: "dechauffersnough.xyz." always_null
 local-zone: "decibelinsight.net." always_null
 local-zone: "decide.dev." always_null
 local-zone: "decide.mixpanel.com." always_null
@@ -18404,6 +18454,7 @@ local-zone: "delivery51.com." always_null
 local-zone: "deliveryengine.adswizz.com." always_null
 local-zone: "deliveryengine.cox.adswizz.com." always_null
 local-zone: "deliverymodo.com." always_null
+local-zone: "deliverytraffnews.com." always_null
 local-zone: "dellswhinyrank.com." always_null
 local-zone: "delmarviato.com." always_null
 local-zone: "delmovip.com." always_null
@@ -18689,6 +18740,7 @@ local-zone: "dgpp7fq3iorb.cloudfront.net." always_null
 local-zone: "dgtauto.com." always_null
 local-zone: "dgw7ae5vrovs7.cloudfront.net." always_null
 local-zone: "dgxlm.xyz." always_null
+local-zone: "dh.net.br." always_null
 local-zone: "dh0uktvqfaomb.cloudfront.net." always_null
 local-zone: "dhads.net." always_null
 local-zone: "dhaheihfgiijeahhgcc.ru." always_null
@@ -18827,7 +18879,6 @@ local-zone: "digresstrailfined.com." always_null
 local-zone: "diguver.com." always_null
 local-zone: "dihutyaiafuhr.cloudfront.net." always_null
 local-zone: "diitlm.com." always_null
-local-zone: "dijicom.net." always_null
 local-zone: "dikeletwhelk.cam." always_null
 local-zone: "dikematou.com." always_null
 local-zone: "dikkoplida.cam." always_null
@@ -19155,6 +19206,7 @@ local-zone: "dlrioxg1637dk.cloudfront.net." always_null
 local-zone: "dlsdk.appsflyer.com." always_null
 local-zone: "dlski.space." always_null
 local-zone: "dlswbr.baidu.com." always_null
+local-zone: "dltqxz76sim1s.cloudfront.net." always_null
 local-zone: "dlv.itmedia.jp." always_null
 local-zone: "dlvds9i67c60j.cloudfront.net." always_null
 local-zone: "dlvjmr.cn." always_null
@@ -19253,6 +19305,7 @@ local-zone: "dn0qt3r0xannq.cloudfront.net." always_null
 local-zone: "dn34cbtcv9mef.cloudfront.net." always_null
 local-zone: "dn3uy6cx65ujf.cloudfront.net." always_null
 local-zone: "dnab.info." always_null
+local-zone: "dnahealth.gr." always_null
 local-zone: "dnajc.co." always_null
 local-zone: "dnbizcdn.com." always_null
 local-zone: "dnckawxatc.com." always_null
@@ -19300,6 +19353,7 @@ local-zone: "docodoco.jp." always_null
 local-zone: "docomo-analytics.com." always_null
 local-zone: "docs1.iwon.com." always_null
 local-zone: "doctor-alex.com." always_null
+local-zone: "doctorcasenave.com." always_null
 local-zone: "doctorhousing.com." always_null
 local-zone: "doctorsassociatesrx.112.2o7.net." always_null
 local-zone: "doctorschoicenursing.com." always_null
@@ -19513,17 +19567,20 @@ local-zone: "down.1230578.com." always_null
 local-zone: "down.nishuoa.com." always_null
 local-zone: "down.pcclear.com." always_null
 local-zone: "down.rxgif.cn." always_null
+local-zone: "down.yjhyjl.cn." always_null
 local-zone: "down1oads.com." always_null
 local-zone: "downads.com." always_null
 local-zone: "downgradeproduct.com." always_null
 local-zone: "download-alert.com." always_null
 local-zone: "download-file.ml." always_null
+local-zone: "download-ready-now.com." always_null
 local-zone: "download-ready.net." always_null
 local-zone: "download-readynow.com." always_null
 local-zone: "download-stats.mozilla.org." always_null
 local-zone: "download.350.com." always_null
 local-zone: "download.56.com." always_null
 local-zone: "download.cdn.sharelive.net." always_null
+local-zone: "download.doumaibiji.cn." always_null
 local-zone: "download.grandcloud.cn." always_null
 local-zone: "download.inboxace.com." always_null
 local-zone: "download.jword.jp." always_null
@@ -19561,6 +19618,7 @@ local-zone: "dpbyc.com." always_null
 local-zone: "dpd9yiocsyy6p.cloudfront.net." always_null
 local-zone: "dpgawov.com." always_null
 local-zone: "dpjszs.com." always_null
+local-zone: "dploy.nl." always_null
 local-zone: "dpmsrv.com." always_null
 local-zone: "dprograp.online." always_null
 local-zone: "dprtb.com." always_null
@@ -19648,7 +19706,6 @@ local-zone: "drivingdirt.com." always_null
 local-zone: "drivingschoolburlington.ca." always_null
 local-zone: "drivotracker.com." always_null
 local-zone: "drjaralampos.com." always_null
-local-zone: "drjasonneuro.in." always_null
 local-zone: "drjgjngf.com." always_null
 local-zone: "drkalan.com." always_null
 local-zone: "drkness.net." always_null
@@ -20463,6 +20520,7 @@ local-zone: "eezavops.net." always_null
 local-zone: "eezegrip.net." always_null
 local-zone: "eezoulru.com." always_null
 local-zone: "ef.futuroscope.com." always_null
+local-zone: "ef06dd70.spool.jcscateringaz.com." always_null
 local-zone: "ef9i0f3oev47.com." always_null
 local-zone: "efashionsolutions.122.2o7.net." always_null
 local-zone: "efatik.me." always_null
@@ -20567,6 +20625,7 @@ local-zone: "ek8802.com." always_null
 local-zone: "ek882.com." always_null
 local-zone: "ek883.com." always_null
 local-zone: "ekareqif.xyz." always_null
+local-zone: "ekdj30.com." always_null
 local-zone: "ekmas.com." always_null
 local-zone: "ekmpinpoint.co.uk." always_null
 local-zone: "ekmpinpoint.com." always_null
@@ -20718,6 +20777,7 @@ local-zone: "employdearestspatter.com." always_null
 local-zone: "employedlawn.com." always_null
 local-zone: "employment.112.2o7.net." always_null
 local-zone: "empowercareer.com." always_null
+local-zone: "emprendedorimbatible.com." always_null
 local-zone: "emptyescort.com." always_null
 local-zone: "emptyspaceads.com." always_null
 local-zone: "emrgods.com." always_null
@@ -21059,6 +21119,7 @@ local-zone: "escalatenetwork.com." always_null
 local-zone: "escape.insites.eu." always_null
 local-zone: "escapeeelapid.com." always_null
 local-zone: "escatedint.work." always_null
+local-zone: "escondeme.com." always_null
 local-zone: "escorterosion.com." always_null
 local-zone: "escotsmaligns.com." always_null
 local-zone: "escrowyez.com." always_null
@@ -21257,6 +21318,7 @@ local-zone: "evcknbym.com." always_null
 local-zone: "evemasoil.com." always_null
 local-zone: "evenescapenavy.com." always_null
 local-zone: "evenffext.com." always_null
+local-zone: "evengledritrophap.pro." always_null
 local-zone: "evening-badlands-6215.herokuapp.com." always_null
 local-zone: "event-action.popinfo.jp." always_null
 local-zone: "event-api.contactatonce.co.uk." always_null
@@ -21328,6 +21390,7 @@ local-zone: "events.claspws.tv." always_null
 local-zone: "events.demoup.com." always_null
 local-zone: "events.emogi.com." always_null
 local-zone: "events.engager.ecbsn.com." always_null
+local-zone: "events.getsitectrl.com." always_null
 local-zone: "events.ifunny.co." always_null
 local-zone: "events.influencemobile.com." always_null
 local-zone: "events.jokerly.com." always_null
@@ -21337,6 +21400,7 @@ local-zone: "events.kumulos.com." always_null
 local-zone: "events.lbesecapi.com." always_null
 local-zone: "events.marketo.com." always_null
 local-zone: "events.matterport.com." always_null
+local-zone: "events.mercadolibre.com." always_null
 local-zone: "events.newsroom.bi." always_null
 local-zone: "events.niit-mts.com." always_null
 local-zone: "events.ocdn.eu." always_null
@@ -21458,6 +21522,7 @@ local-zone: "excellenceads.com." always_null
 local-zone: "excellernod.xyz." always_null
 local-zone: "excelsales.co.in." always_null
 local-zone: "exceptexchange.com." always_null
+local-zone: "exceptingincludedelivering.com." always_null
 local-zone: "exchak.com." always_null
 local-zone: "exchange-it.com." always_null
 local-zone: "exchange-traffic.com." always_null
@@ -21552,6 +21617,7 @@ local-zone: "experienceeggs.com." always_null
 local-zone: "experimentmelting.com." always_null
 local-zone: "expertcamomile.com." always_null
 local-zone: "expertist.xyz." always_null
+local-zone: "expertistofficular.xyz." always_null
 local-zone: "expertland.net." always_null
 local-zone: "expertnifg.com." always_null
 local-zone: "expertsexchange.112.2o7.net." always_null
@@ -21698,6 +21764,7 @@ local-zone: "f11098.privacy4browsers.com." always_null
 local-zone: "f1190.com." always_null
 local-zone: "f164.sheltonherald.com." always_null
 local-zone: "f18085.privacy4browsers.com." always_null
+local-zone: "f1a75ead16.com." always_null
 local-zone: "f1t5pb.cn." always_null
 local-zone: "f1tbit.com." always_null
 local-zone: "f2.p0y.com." always_null
@@ -21933,6 +22000,7 @@ local-zone: "fast2load.ru." always_null
 local-zone: "fastad.beepworld.de." always_null
 local-zone: "fastanalytic.com." always_null
 local-zone: "fastapi.net." always_null
+local-zone: "fastbike.xyz." always_null
 local-zone: "fastbuy.biz." always_null
 local-zone: "fastcache.fun." always_null
 local-zone: "fastcdn.info." always_null
@@ -21997,6 +22065,7 @@ local-zone: "favourableencampmentdecency.com." always_null
 local-zone: "favourablequickdelve.com." always_null
 local-zone: "favouritesuitable.com." always_null
 local-zone: "fawhositho.com." always_null
+local-zone: "faxfossil.com." always_null
 local-zone: "faxqaaawyb.com." always_null
 local-zone: "fazendacampoformoso.com.br." always_null
 local-zone: "fb-plus.com." always_null
@@ -22674,6 +22743,7 @@ local-zone: "fmads.osdn.com." always_null
 local-zone: "fmates.ru." always_null
 local-zone: "fmei.wang." always_null
 local-zone: "fmesperanza945.com." always_null
+local-zone: "fmgfqwe.xyz." always_null
 local-zone: "fmiphone-apple.com." always_null
 local-zone: "fmketang.cn." always_null
 local-zone: "fmkys.com." always_null
@@ -22824,6 +22894,7 @@ local-zone: "formattortoise.com." always_null
 local-zone: "formedable.nl." always_null
 local-zone: "formerdrearybiopsy.com." always_null
 local-zone: "formessengers.com." always_null
+local-zone: "formfulerses.com." always_null
 local-zone: "formisimo.com." always_null
 local-zone: "formosahappiness.org." always_null
 local-zone: "forms.earnmydegree.com." always_null
@@ -22847,6 +22918,7 @@ local-zone: "forumiklan.com." always_null
 local-zone: "forums.sharethis.com." always_null
 local-zone: "forvideo.at." always_null
 local-zone: "forward5costume.com." always_null
+local-zone: "forwardrb.bid." always_null
 local-zone: "forwrdnow.com." always_null
 local-zone: "forzslodge.com." always_null
 local-zone: "forzubatr.com." always_null
@@ -23079,6 +23151,7 @@ local-zone: "freewebcards.com." always_null
 local-zone: "freewebcounter.com." always_null
 local-zone: "freeweblogger.com." always_null
 local-zone: "freewebtown.com." always_null
+local-zone: "freewheel-jitt.dpgmedia.be." always_null
 local-zone: "freeyue.xyz." always_null
 local-zone: "freezpic.ru." always_null
 local-zone: "freihit.de." always_null
@@ -23451,6 +23524,7 @@ local-zone: "g2afse.com." always_null
 local-zone: "g2c.cloud-elements.com." always_null
 local-zone: "g2insights-cdn.azureedge.net." always_null
 local-zone: "g3.letv.com." always_null
+local-zone: "g33ktr4ck.com." always_null
 local-zone: "g3ao2q.cn." always_null
 local-zone: "g3j2wzmon8b.com." always_null
 local-zone: "g4news.biz." always_null
@@ -23482,7 +23556,6 @@ local-zone: "ga.webdigi.co.uk." always_null
 local-zone: "ga1.3dmgame.com." always_null
 local-zone: "gacela.eu." always_null
 local-zone: "gaconnector.com." always_null
-local-zone: "gacpropiedades.cl." always_null
 local-zone: "gacraft.jp." always_null
 local-zone: "gad.shinobi.jp." always_null
 local-zone: "gadfaros.com." always_null
@@ -24012,6 +24085,7 @@ local-zone: "get-answers-fast.com." always_null
 local-zone: "get-avast.com." always_null
 local-zone: "get-click.ru." always_null
 local-zone: "get-downloads.com." always_null
+local-zone: "get-link.xyz." always_null
 local-zone: "get-me-wow.xyz." always_null
 local-zone: "get-quadcleaner.com." always_null
 local-zone: "get.com." always_null
@@ -24114,6 +24188,7 @@ local-zone: "gezkdx7.com." always_null
 local-zone: "gf.umenglog.com." always_null
 local-zone: "gf108.com." always_null
 local-zone: "gfd80.com." always_null
+local-zone: "gfghr.com." always_null
 local-zone: "gfhdkse.com." always_null
 local-zone: "gflcsiot.com." always_null
 local-zone: "gflnzl1vqntw.com." always_null
@@ -24186,13 +24261,13 @@ local-zone: "gi8vn.vip." always_null
 local-zone: "gialnk.com." always_null
 local-zone: "giantaffiliates.com." always_null
 local-zone: "gianwho.com." always_null
-local-zone: "giaoductretuky.com." always_null
 local-zone: "gibbousbalaic.com." always_null
 local-zone: "gibeleftyeuro.com." always_null
 local-zone: "giddinessfeintsum.com." always_null
 local-zone: "giddycoat.com." always_null
 local-zone: "giddyuptrk.com." always_null
 local-zone: "gifastcompanycom.112.2o7.net." always_null
+local-zone: "giftcardbouns.com." always_null
 local-zone: "giftcardchallenge.com." always_null
 local-zone: "giftcardsurveys.us.com." always_null
 local-zone: "giftcode-mobilelienquan.com." always_null
@@ -24480,7 +24555,6 @@ local-zone: "go-gal.com." always_null
 local-zone: "go-rank.de." always_null
 local-zone: "go-rillatrack.com." always_null
 local-zone: "go-top.xyz." always_null
-local-zone: "go.ad2upapp.com." always_null
 local-zone: "go.analsextuber.com." always_null
 local-zone: "go.bestmobiworld.com." always_null
 local-zone: "go.biz." always_null
@@ -24509,7 +24583,6 @@ local-zone: "go.showmeyouradsnow.com." always_null
 local-zone: "go.siftscience.com." always_null
 local-zone: "go.spaceshipads.com." always_null
 local-zone: "go.ss-n-30.com." always_null
-local-zone: "go.strpjmp.com." always_null
 local-zone: "go.toutapp.com." always_null
 local-zone: "go.tracksz.co." always_null
 local-zone: "go.trvdp.com." always_null
@@ -25024,6 +25097,7 @@ local-zone: "greenshot.fr." always_null
 local-zone: "greensmallcanvas.com." always_null
 local-zone: "greensprite.top." always_null
 local-zone: "greentechits.com." always_null
+local-zone: "greenvalleyschool.com." always_null
 local-zone: "greenxcx.com." always_null
 local-zone: "greeptax.com." always_null
 local-zone: "greetallergic.com." always_null
@@ -25251,6 +25325,7 @@ local-zone: "guominziben.com." always_null
 local-zone: "guoshipartners.com." always_null
 local-zone: "guotaotaoci.net." always_null
 local-zone: "guoxintdh.com." always_null
+local-zone: "guoyang.us." always_null
 local-zone: "guoyu.link." always_null
 local-zone: "guppymedia.com." always_null
 local-zone: "guq9.vente-unique.it." always_null
@@ -25325,6 +25400,7 @@ local-zone: "gyro-n.com." always_null
 local-zone: "gyros.es." always_null
 local-zone: "gysapiny.com." always_null
 local-zone: "gyt168.com.cn." always_null
+local-zone: "gytty.top." always_null
 local-zone: "gytychuna.com." always_null
 local-zone: "gywiqnmn.cn." always_null
 local-zone: "gz-bz.cn." always_null
@@ -25939,7 +26015,6 @@ local-zone: "hexovythi.pro." always_null
 local-zone: "hexp.xyz." always_null
 local-zone: "hexusads.fluent.ltd.uk." always_null
 local-zone: "hey.lt." always_null
-local-zone: "heyatek.com." always_null
 local-zone: "heybuddycn.me." always_null
 local-zone: "heygugu.com." always_null
 local-zone: "heyhelga.net." always_null
@@ -26255,6 +26330,7 @@ local-zone: "hlmiq.com." always_null
 local-zone: "hlog.bclugu.com." always_null
 local-zone: "hlog.hiido.com." always_null
 local-zone: "hlokux.cn." always_null
+local-zone: "hlryy.top." always_null
 local-zone: "hls.v.fwmrm.net." always_null
 local-zone: "hlserve.com." always_null
 local-zone: "hlstlyy.com." always_null
@@ -26317,7 +26393,6 @@ local-zone: "hobbi.xyz." always_null
 local-zone: "hobbyatticnickname.com." always_null
 local-zone: "hobfadbig.com." always_null
 local-zone: "hobwelt.com." always_null
-local-zone: "hoccu.vn." always_null
 local-zone: "hocgeese.com." always_null
 local-zone: "hockeyhavoc.com." always_null
 local-zone: "hockeystack.com." always_null
@@ -26535,6 +26610,7 @@ local-zone: "hotrank.com.tw." always_null
 local-zone: "hotranks.com." always_null
 local-zone: "hotterenvisage.com." always_null
 local-zone: "hottopnow.com." always_null
+local-zone: "hottracker.biz." always_null
 local-zone: "hottraffic.nl." always_null
 local-zone: "hotwire-widget.dailywire.com." always_null
 local-zone: "hotwords.com." always_null
@@ -26790,6 +26866,7 @@ local-zone: "huldeeelfwife.com." always_null
 local-zone: "hulemedia.com." always_null
 local-zone: "hulewangsi.cn." always_null
 local-zone: "hulkflugarb.com." always_null
+local-zone: "hulksskyed.com." always_null
 local-zone: "hulu.112.2o7.net." always_null
 local-zone: "huludev.112.2o7.net." always_null
 local-zone: "huluruiner.com." always_null
@@ -27101,7 +27178,6 @@ local-zone: "iaudienc.com." always_null
 local-zone: "iauto.wang." always_null
 local-zone: "ib-ibi.com." always_null
 local-zone: "ib.adnxs.com." always_null
-local-zone: "ib.isappcloud.com." always_null
 local-zone: "ibanner.de." always_null
 local-zone: "ibannerexchange.com." always_null
 local-zone: "ibanwatch.com." always_null
@@ -27305,6 +27381,7 @@ local-zone: "ig0nr8hhhb.com." always_null
 local-zone: "igame2steam.com." always_null
 local-zone: "igame4free.com." always_null
 local-zone: "igameunion.com." always_null
+local-zone: "igaming-service.io." always_null
 local-zone: "igaming.biz." always_null
 local-zone: "igg.biz." always_null
 local-zone: "igig87.cn." always_null
@@ -27514,6 +27591,7 @@ local-zone: "imarketservices.com." always_null
 local-zone: "imatmobile.com." always_null
 local-zone: "imbedsbeauts.com." always_null
 local-zone: "imbrexmapped.com." always_null
+local-zone: "imbueautoworx.co.za." always_null
 local-zone: "imc.l.qq.com." always_null
 local-zone: "imc2.122.2o7.net." always_null
 local-zone: "imcht.net." always_null
@@ -27836,7 +27914,6 @@ local-zone: "indoadsnet.com." always_null
 local-zone: "indofad.com." always_null
 local-zone: "indofreeads.com." always_null
 local-zone: "indoleads.com." always_null
-local-zone: "indonesias.me." always_null
 local-zone: "indoriauperkasa.com." always_null
 local-zone: "indpolice.com." always_null
 local-zone: "indrasbikaner.com." always_null
@@ -27878,6 +27955,7 @@ local-zone: "inflationmileage.com." always_null
 local-zone: "inflectionpointmedia.com." always_null
 local-zone: "inflectionquake.com." always_null
 local-zone: "influads.com." always_null
+local-zone: "influencedzerobelief.com." always_null
 local-zone: "influencer2020.com." always_null
 local-zone: "influid.co." always_null
 local-zone: "info.a7.org." always_null
@@ -27938,6 +28016,7 @@ local-zone: "infrashift.com." always_null
 local-zone: "infrastrategy.122.2o7.net." always_null
 local-zone: "infratotalduicom.122.2o7.net." always_null
 local-zone: "infreescowed.com." always_null
+local-zone: "infuga.cl." always_null
 local-zone: "infuriateharder.com." always_null
 local-zone: "ing-district.clicktale.net." always_null
 local-zone: "ing.clicktale.net." always_null
@@ -27950,6 +28029,7 @@ local-zone: "ingenioustech.biz." always_null
 local-zone: "ingest.m2appmonitor.com." always_null
 local-zone: "ingest.make.rvapps.io." always_null
 local-zone: "ingivergrimier.com." always_null
+local-zone: "ingonherbal.com." always_null
 local-zone: "ingoomychan.com." always_null
 local-zone: "ingramony.com." always_null
 local-zone: "inhaletorchesoffended.com." always_null
@@ -28688,6 +28768,7 @@ local-zone: "j-a-net.jp." always_null
 local-zone: "j.baminw.cn." always_null
 local-zone: "j.image-ad.jp." always_null
 local-zone: "j.imdb.cn." always_null
+local-zone: "j.mrpdata.net." always_null
 local-zone: "j.northbeam.io." always_null
 local-zone: "j.uralweb.ru." always_null
 local-zone: "j.xyzgamej.com." always_null
@@ -28757,6 +28838,7 @@ local-zone: "jandersburntly.com." always_null
 local-zone: "janglemysticalpiggy.com." always_null
 local-zone: "jangonetwork.com." always_null
 local-zone: "janimperativefinance.com." always_null
+local-zone: "janitoraccrue.com." always_null
 local-zone: "janrain.xyz." always_null
 local-zone: "jao38.xyz." always_null
 local-zone: "japanbros.com." always_null
@@ -28992,6 +29074,7 @@ local-zone: "jiejiemimu.cn." always_null
 local-zone: "jiemeichike.cn." always_null
 local-zone: "jiese.fun." always_null
 local-zone: "jieyixiu.com." always_null
+local-zone: "jiffspogonia.com." always_null
 local-zone: "jigdigtry.com." always_null
 local-zone: "jighucme.com." always_null
 local-zone: "jiglarexi.com." always_null
@@ -29040,6 +29123,7 @@ local-zone: "jinshenglong.cn." always_null
 local-zone: "jintengli.mobi." always_null
 local-zone: "jintonghua.com." always_null
 local-zone: "jinxexaminesketch.com." always_null
+local-zone: "jinxian.co." always_null
 local-zone: "jinxiangyu.ltd." always_null
 local-zone: "jinxiuzhilv.com." always_null
 local-zone: "jinyihui.vip." always_null
@@ -29200,6 +29284,7 @@ local-zone: "joomxer.fun." always_null
 local-zone: "joopaish.com." always_null
 local-zone: "joophesh.com." always_null
 local-zone: "joorijet.net." always_null
+local-zone: "jootizud.net." always_null
 local-zone: "jopd.ru." always_null
 local-zone: "joredi.com." always_null
 local-zone: "josephantecedentsick.com." always_null
@@ -29621,6 +29706,7 @@ local-zone: "kadam.net." always_null
 local-zone: "kadigital.co.uk." always_null
 local-zone: "kadkaxjfeh.com." always_null
 local-zone: "kafar4.club." always_null
+local-zone: "kafei.528k.cn." always_null
 local-zone: "kaffnet.com." always_null
 local-zone: "kagdf.com." always_null
 local-zone: "kagiti.club." always_null
@@ -29631,6 +29717,7 @@ local-zone: "kaidee.info." always_null
 local-zone: "kaifiluk.com." always_null
 local-zone: "kaiguangdou.com." always_null
 local-zone: "kaikmumms.com." always_null
+local-zone: "kairaliagencies.com." always_null
 local-zone: "kaiseki-website.com." always_null
 local-zone: "kaistaup.com." always_null
 local-zone: "kaiu-marketing.com." always_null
@@ -29834,6 +29921,7 @@ local-zone: "keywordstrategy.org." always_null
 local-zone: "keyxel.com." always_null
 local-zone: "kf3.xyz." always_null
 local-zone: "kf3msfm.com." always_null
+local-zone: "kfcburgers.com." always_null
 local-zone: "kfd3sm2c.com." always_null
 local-zone: "kfir.club." always_null
 local-zone: "kfluoa.com." always_null
@@ -30175,6 +30263,7 @@ local-zone: "kotikinar2ko8tiki09.com." always_null
 local-zone: "kotucuzu.xyz." always_null
 local-zone: "koudaiyundong.com." always_null
 local-zone: "koudooze.net." always_null
+local-zone: "koudov.com." always_null
 local-zone: "koukoku.red." always_null
 local-zone: "koukomol.com." always_null
 local-zone: "koukou7.com." always_null
@@ -30370,7 +30459,6 @@ local-zone: "kyqcfj.com." always_null
 local-zone: "kythodoby.pro." always_null
 local-zone: "kyvhxik.cn." always_null
 local-zone: "kyxnz.cn." always_null
-local-zone: "kz.cateredjapish.com." always_null
 local-zone: "kz.search.need2find.com." always_null
 local-zone: "kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes." always_null
 local-zone: "kzeaa.com." always_null
@@ -30463,6 +30551,7 @@ local-zone: "ladsabs.com." always_null
 local-zone: "ladsans.com." always_null
 local-zone: "ladsanz.com." always_null
 local-zone: "ladsats.com." always_null
+local-zone: "ladsatz.com." always_null
 local-zone: "ladsblue.com." always_null
 local-zone: "ladsdown.com." always_null
 local-zone: "ladsecs.com." always_null
@@ -30478,6 +30567,7 @@ local-zone: "ladsp.com." always_null
 local-zone: "ladsp.jp." always_null
 local-zone: "ladspmz.com." always_null
 local-zone: "ladsreds.com." always_null
+local-zone: "ladsup.com." always_null
 local-zone: "lady177.com." always_null
 local-zone: "ladybugsweb.site." always_null
 local-zone: "ladycash.ru." always_null
@@ -30759,6 +30849,7 @@ local-zone: "leadlab.click." always_null
 local-zone: "leadlife.com." always_null
 local-zone: "leadmanagerfx.com." always_null
 local-zone: "leadmediapartners.com." always_null
+local-zone: "leadnote.me." always_null
 local-zone: "leadplace.fr." always_null
 local-zone: "leadpub.com." always_null
 local-zone: "leadrebel.io." always_null
@@ -30864,6 +30955,7 @@ local-zone: "lemmotx.cn." always_null
 local-zone: "lemoncai.xyz." always_null
 local-zone: "lemouwee.com." always_null
 local-zone: "lencool.cn." always_null
+local-zone: "lengejoberdak.pro." always_null
 local-zone: "lenkmio.com." always_null
 local-zone: "lenmit.com." always_null
 local-zone: "lennart.serv.se." always_null
@@ -30876,6 +30968,7 @@ local-zone: "lentpedigreecompletely.com." always_null
 local-zone: "lenty.ru." always_null
 local-zone: "leoban.ru." always_null
 local-zone: "leoceran.pw." always_null
+local-zone: "leojmp.com." always_null
 local-zone: "leokross.com." always_null
 local-zone: "leonab.com." always_null
 local-zone: "leonardoadv.it." always_null
@@ -30974,6 +31067,7 @@ local-zone: "lgygy.cn." always_null
 local-zone: "lhafy.com." always_null
 local-zone: "lhedgelnha.com." always_null
 local-zone: "lhinsights.com." always_null
+local-zone: "lhippac.cn." always_null
 local-zone: "lhj.asia." always_null
 local-zone: "lhmos.com." always_null
 local-zone: "lhs-3844b.com." always_null
@@ -31360,6 +31454,7 @@ local-zone: "liveupdt.com." always_null
 local-zone: "liveviewer.ez.no." always_null
 local-zone: "livewebstats.dk." always_null
 local-zone: "livewell.net." always_null
+local-zone: "livewidget.net." always_null
 local-zone: "livezombymil.com." always_null
 local-zone: "livingshedhowever.com." always_null
 local-zone: "livwrite.com." always_null
@@ -31475,6 +31570,7 @@ local-zone: "load.jabx.net." always_null
 local-zone: "load.s3.amazonaws.com." always_null
 local-zone: "load.try-games.com." always_null
 local-zone: "load.xxxdb.io." always_null
+local-zone: "loader-cdn.azureedge.net." always_null
 local-zone: "loader.sharethis.com." always_null
 local-zone: "loader.zeroform.com." always_null
 local-zone: "loadesecoparc.co.uk." always_null
@@ -32112,7 +32208,6 @@ local-zone: "lr-ingest.io." always_null
 local-zone: "lraa.xiaoniutui.com." always_null
 local-zone: "lrcs.info." always_null
 local-zone: "lrqugqq.cn." always_null
-local-zone: "ls-droid.com." always_null
 local-zone: "ls.hit.gemius.pl." always_null
 local-zone: "ls.skimresources.com." always_null
 local-zone: "ls.srvcs.tumblr.com." always_null
@@ -32353,6 +32448,7 @@ local-zone: "lzwnb.site." always_null
 local-zone: "lzylgnd.cn." always_null
 local-zone: "m-99.co.uk." always_null
 local-zone: "m-adash.m.taobao.com." always_null
+local-zone: "m-ainsurance.com." always_null
 local-zone: "m-arata.com." always_null
 local-zone: "m-barati.de." always_null
 local-zone: "m-brain.fi." always_null
@@ -32444,6 +32540,7 @@ local-zone: "m88my.com." always_null
 local-zone: "m88vina.com." always_null
 local-zone: "m8tu2.online." always_null
 local-zone: "m8winvip.com." always_null
+local-zone: "m8winvnn.com." always_null
 local-zone: "m9853.com." always_null
 local-zone: "ma-code.ru." always_null
 local-zone: "ma-collection-de-pubs.com." always_null
@@ -32681,6 +32778,7 @@ local-zone: "malware-scan.com." always_null
 local-zone: "mama.pipi.ne.jp." always_null
 local-zone: "mamababu.cn." always_null
 local-zone: "mambkooocango.com." always_null
+local-zone: "mamblubamblua.com." always_null
 local-zone: "mambo.kiev.ua." always_null
 local-zone: "mamboedclarine.com." always_null
 local-zone: "mament.co." always_null
@@ -32718,6 +32816,7 @@ local-zone: "mangoads.net." always_null
 local-zone: "mangoalmahs.com." always_null
 local-zone: "manholecrate.com." always_null
 local-zone: "maniacalappliance.com." always_null
+local-zone: "maniconclavis.com." always_null
 local-zone: "manifest-server.naiadsystems.com." always_null
 local-zone: "manilaslurrier.com." always_null
 local-zone: "manipulativepublishedblockade.com." always_null
@@ -32888,6 +32987,7 @@ local-zone: "massrelevance.com." always_null
 local-zone: "masstech.info." always_null
 local-zone: "master-push.com." always_null
 local-zone: "master-push.net." always_null
+local-zone: "masteret.co.za." always_null
 local-zone: "mastermilligram.com." always_null
 local-zone: "mastermind.com." always_null
 local-zone: "masterspace.biz." always_null
@@ -33086,6 +33186,8 @@ local-zone: "mcleanvahomes.com." always_null
 local-zone: "mclick.mobi." always_null
 local-zone: "mcloudglobal.com." always_null
 local-zone: "mclseww.top." always_null
+local-zone: "mcludi.com." always_null
+local-zone: "mcmo22.com." always_null
 local-zone: "mcnt.jp." always_null
 local-zone: "mcontigo.com." always_null
 local-zone: "mcoreads.com." always_null
@@ -33302,7 +33404,6 @@ local-zone: "medianaft.com." always_null
 local-zone: "medianaft.ru." always_null
 local-zone: "medianet-match.dotomi.com." always_null
 local-zone: "medianetworks.ru." always_null
-local-zone: "medianews.ge." always_null
 local-zone: "mediaoaktree.com." always_null
 local-zone: "mediaonenetwork.net." always_null
 local-zone: "mediapalmtree.com." always_null
@@ -34150,6 +34251,7 @@ local-zone: "mirago.com." always_null
 local-zone: "mirando.de." always_null
 local-zone: "mirextpro.com." always_null
 local-zone: "mirishkeeps.com." always_null
+local-zone: "mirnews.pro." always_null
 local-zone: "mirrorcoukcelebs.skimlinks.com." always_null
 local-zone: "mirrors.site50.net." always_null
 local-zone: "mirrorsearch.speedbit.com." always_null
@@ -34345,6 +34447,7 @@ local-zone: "mnbasd77.com." always_null
 local-zone: "mnbvjhg.com." always_null
 local-zone: "mncarteam.com." always_null
 local-zone: "mncvz.top." always_null
+local-zone: "mndsrv.com." always_null
 local-zone: "mnemicguaza.cam." always_null
 local-zone: "mnet-ad.net." always_null
 local-zone: "mnetads.com." always_null
@@ -34572,6 +34675,8 @@ local-zone: "moguozhi.com." always_null
 local-zone: "mohaijishu.cn." always_null
 local-zone: "mohammadyarico.com." always_null
 local-zone: "mohini-ger.com." always_null
+local-zone: "mohion.com." always_null
+local-zone: "mohreshwar-19-east.com." always_null
 local-zone: "moijs.com." always_null
 local-zone: "moistblank.com." always_null
 local-zone: "mojing.xyz." always_null
@@ -34819,6 +34924,7 @@ local-zone: "mowfruit.com." always_null
 local-zone: "mowunai.ru." always_null
 local-zone: "mowuzoji.xyz." always_null
 local-zone: "mowyappedbibs.com." always_null
+local-zone: "moxiang.plus." always_null
 local-zone: "moxiaoqihuoguo.com." always_null
 local-zone: "moz.execulink.net." always_null
 local-zone: "mozbar.moz.com." always_null
@@ -35032,6 +35138,7 @@ local-zone: "muchads.com." always_null
 local-zone: "muchhetont.ru." always_null
 local-zone: "muchotrust.com." always_null
 local-zone: "mucu.jp." always_null
+local-zone: "mucums.com." always_null
 local-zone: "muddiedbubales.com." always_null
 local-zone: "muddishcachrys.website." always_null
 local-zone: "muddledaftermath.com." always_null
@@ -35229,6 +35336,7 @@ local-zone: "mycounter.com.ua." always_null
 local-zone: "mycounter.ua." always_null
 local-zone: "mycpm.ru." always_null
 local-zone: "mycpvlife.com." always_null
+local-zone: "mycrypto-app.com." always_null
 local-zone: "mydailynewz.com." always_null
 local-zone: "mydancecn.online." always_null
 local-zone: "mydas.mobi." always_null
@@ -35256,7 +35364,6 @@ local-zone: "mygqhvz.cn." always_null
 local-zone: "mygreatrewards.com." always_null
 local-zone: "mygtmn.com." always_null
 local-zone: "mygummyjelly.com." always_null
-local-zone: "myharavan.com." always_null
 local-zone: "myheartbuild.com." always_null
 local-zone: "myhitbox.com." always_null
 local-zone: "myhypestories.com." always_null
@@ -35311,7 +35418,6 @@ local-zone: "myrrhiskie.com." always_null
 local-zone: "myrtleheathenmontleymontley.com." always_null
 local-zone: "mysafeurl.com." always_null
 local-zone: "mysagagame.com." always_null
-local-zone: "mysapo.net." always_null
 local-zone: "myscoop-tracking.googlecode.com." always_null
 local-zone: "myscreen.com." always_null
 local-zone: "mysearch-engine.com." always_null
@@ -35475,7 +35581,6 @@ local-zone: "namemek.com." always_null
 local-zone: "namesakeoscilloscopemarquis.com." always_null
 local-zone: "nametraff.com." always_null
 local-zone: "namol.xyz." always_null
-local-zone: "namproject.jp." always_null
 local-zone: "namystal.com." always_null
 local-zone: "nan46ysangt28eec.com." always_null
 local-zone: "nancyface.com." always_null
@@ -35496,7 +35601,6 @@ local-zone: "napimigrans.info." always_null
 local-zone: "napitrend.blogspot.hu." always_null
 local-zone: "napiujsag.hu." always_null
 local-zone: "naplo-extra.com." always_null
-local-zone: "napolilovemark.com." always_null
 local-zone: "napolimagazine.biz." always_null
 local-zone: "nappyattack.com." always_null
 local-zone: "nappybedcandid.com." always_null
@@ -35511,7 +35615,6 @@ local-zone: "nas-k.co.jp." always_null
 local-zone: "nasacort.1.p2l.info." always_null
 local-zone: "nasdaq.122.2o7.net." always_null
 local-zone: "nasimke.ru." always_null
-local-zone: "naslco.ir." always_null
 local-zone: "nasonex.1.p2l.info." always_null
 local-zone: "nasrispit.com." always_null
 local-zone: "nasrolaugers.com." always_null
@@ -35891,6 +35994,7 @@ local-zone: "newdosug.eu." always_null
 local-zone: "neweed.org." always_null
 local-zone: "neweggstats.com." always_null
 local-zone: "newfeatureview.perfectionholic.com." always_null
+local-zone: "newgoplus.com." always_null
 local-zone: "newhigee.net." always_null
 local-zone: "newinfo.support." always_null
 local-zone: "newip-info.com." always_null
@@ -35900,7 +36004,6 @@ local-zone: "newjulads.com." always_null
 local-zone: "newjunk4u.com." always_null
 local-zone: "newkano.com." always_null
 local-zone: "newlog.daidoanket.vn." always_null
-local-zone: "newlog.lilithgame.com." always_null
 local-zone: "newlog.overwolf.com." always_null
 local-zone: "newlook.112.2o7.net." always_null
 local-zone: "newlywedblew.com." always_null
@@ -36033,12 +36136,12 @@ local-zone: "nextoptim.com." always_null
 local-zone: "nextstat.com." always_null
 local-zone: "nextstudent.com." always_null
 local-zone: "nextyourcontent.com." always_null
-local-zone: "nexxdecor.vn." always_null
 local-zone: "neyhdjwpumivpa.com." always_null
 local-zone: "neyscape.com." always_null
 local-zone: "nf.5.p2l.info." always_null
 local-zone: "nfbhakhweh.com." always_null
 local-zone: "nffkfg.com." always_null
+local-zone: "nfflife.com." always_null
 local-zone: "nffyghbliml.xyz." always_null
 local-zone: "nfhlink.com." always_null
 local-zone: "nfkd2ug8d9.com." always_null
@@ -36097,6 +36200,7 @@ local-zone: "nicelook.cn." always_null
 local-zone: "nicertie.com." always_null
 local-zone: "nicesearches.com." always_null
 local-zone: "nicestsame.com." always_null
+local-zone: "nicewistful.com." always_null
 local-zone: "niche247.trade." always_null
 local-zone: "nicheads.com." always_null
 local-zone: "nichools.com." always_null
@@ -36222,6 +36326,7 @@ local-zone: "nkxrb.xyz." always_null
 local-zone: "nkyouvery.fun." always_null
 local-zone: "nkzker.cn." always_null
 local-zone: "nl4.hit.stat24.com." always_null
+local-zone: "nlasandbox.com." always_null
 local-zone: "nld0jsg9s9p8.com." always_null
 local-zone: "nlink.com.br." always_null
 local-zone: "nlntrk.com." always_null
@@ -36366,7 +36471,6 @@ local-zone: "noobutoa.net." always_null
 local-zone: "noobydoobi.com." always_null
 local-zone: "nookexcellentsubdue.com." always_null
 local-zone: "nooncommentary.com." always_null
-local-zone: "noonimpex.com." always_null
 local-zone: "noordhoekmedical.co.za." always_null
 local-zone: "nooroapo.com." always_null
 local-zone: "noowho.com." always_null
@@ -36947,6 +37051,7 @@ local-zone: "occursexpertloving.com." always_null
 local-zone: "occustantwidity.com." always_null
 local-zone: "ocd.yodo1api.com." always_null
 local-zone: "oceanbot-steam.com." always_null
+local-zone: "oceancityrentalbyowner.com." always_null
 local-zone: "oceanidembain.com." always_null
 local-zone: "oceanwebcraft.com." always_null
 local-zone: "ocelot.studio." always_null
@@ -37169,6 +37274,7 @@ local-zone: "oktrk.com." always_null
 local-zone: "okueroskynt.com." always_null
 local-zone: "okupsudd.work." always_null
 local-zone: "okwan.cn." always_null
+local-zone: "olarshalrolli.com." always_null
 local-zone: "olatumal.com." always_null
 local-zone: "olayz.cn." always_null
 local-zone: "olc.yodo1api.com." always_null
@@ -37281,7 +37387,6 @@ local-zone: "omotenashi.cygames.jp." always_null
 local-zone: "omplacearbit.xyz." always_null
 local-zone: "omporygonr.com." always_null
 local-zone: "oms.pappai.com." always_null
-local-zone: "omscoc.pappai.com." always_null
 local-zone: "omshedinjaor.com." always_null
 local-zone: "omt.honda.com." always_null
 local-zone: "omt.shinobi.jp." always_null
@@ -37601,6 +37706,7 @@ local-zone: "opoew.top." always_null
 local-zone: "opolicycrea.xyz." always_null
 local-zone: "opolis.io." always_null
 local-zone: "opootsoa.net." always_null
+local-zone: "opositeass.com." always_null
 local-zone: "opoxv.com." always_null
 local-zone: "oppa888.com." always_null
 local-zone: "oppa88888888.com." always_null
@@ -38266,7 +38372,6 @@ local-zone: "pandan.love." always_null
 local-zone: "pandanetwork.club." always_null
 local-zone: "pandasloveforlife.com." always_null
 local-zone: "pandasoftware.112.2o7.net." always_null
-local-zone: "pandeicaruggiu.com." always_null
 local-zone: "pandlewombier.com." always_null
 local-zone: "pandre10.ru." always_null
 local-zone: "panea.it." always_null
@@ -38332,6 +38437,7 @@ local-zone: "parcrescentimportantly.com." always_null
 local-zone: "pardedatl.com." always_null
 local-zone: "pardnergam.com." always_null
 local-zone: "pardompus.ru." always_null
+local-zone: "pardongaskins.com." always_null
 local-zone: "parentelement.ml." always_null
 local-zone: "parentful.club." always_null
 local-zone: "parflushfeet.com." always_null
@@ -38991,7 +39097,6 @@ local-zone: "phillycom.112.2o7.net." always_null
 local-zone: "phillymedia.112.2o7.net." always_null
 local-zone: "philosophere.com." always_null
 local-zone: "philyraauklet.com." always_null
-local-zone: "phinil.nl." always_null
 local-zone: "phirgese.com." always_null
 local-zone: "phiriaxi.com." always_null
 local-zone: "phizzle.com." always_null
@@ -39121,7 +39226,6 @@ local-zone: "pierrottease.com." always_null
 local-zone: "piet2eix3l.com." always_null
 local-zone: "pietexture.com." always_null
 local-zone: "pietyinputinsult.com." always_null
-local-zone: "piffl.com." always_null
 local-zone: "pignuwoa.com." always_null
 local-zone: "pigpenchiba.com." always_null
 local-zone: "pigredoben12.sytes.net." always_null
@@ -39887,7 +39991,6 @@ local-zone: "portprintingchecking.com." always_null
 local-zone: "portredirect.net." always_null
 local-zone: "portscalculateappease.com." always_null
 local-zone: "portserratic.com." always_null
-local-zone: "portugalguide.de." always_null
 local-zone: "pos.baidu.com." always_null
 local-zone: "posakevy.com." always_null
 local-zone: "posecoug.pro." always_null
@@ -40576,6 +40679,7 @@ local-zone: "protection.stpolice.com." always_null
 local-zone: "protection.topolice.com." always_null
 local-zone: "protectorincorporatehush.com." always_null
 local-zone: "protectsubrev.com." always_null
+local-zone: "protectsurf-a.akamaihd.net." always_null
 local-zone: "proteographiummarcellus.com." always_null
 local-zone: "protesidenext.com." always_null
 local-zone: "protestbraces.com." always_null
@@ -40797,6 +40901,7 @@ local-zone: "ptujvmq.cn." always_null
 local-zone: "ptulepti.net." always_null
 local-zone: "ptupoobs.com." always_null
 local-zone: "ptutchiz.com." always_null
+local-zone: "ptwmemd.com." always_null
 local-zone: "ptwmjmp.com." always_null
 local-zone: "ptwmstc.com." always_null
 local-zone: "ptywajofa.pro." always_null
@@ -41272,6 +41377,7 @@ local-zone: "qasqs.com." always_null
 local-zone: "qatarchekmak.com." always_null
 local-zone: "qaykb.com." always_null
 local-zone: "qbaka.net." always_null
+local-zone: "qbccpgljgxc.com." always_null
 local-zone: "qbhyczr5hw.ru." always_null
 local-zone: "qbittorrent.com." always_null
 local-zone: "qbj8.com." always_null
@@ -41978,6 +42084,7 @@ local-zone: "rc.youbora.com." always_null
 local-zone: "rcblkkhfvrxyn.com." always_null
 local-zone: "rcci.122.2o7.net." always_null
 local-zone: "rce.ee." always_null
+local-zone: "rchamrevolu.xyz." always_null
 local-zone: "rchkup.com." always_null
 local-zone: "rcjww9.xyz." always_null
 local-zone: "rckymtnnws.112.2o7.net." always_null
@@ -42485,6 +42592,7 @@ local-zone: "relaxtime24.biz." always_null
 local-zone: "relead.com." always_null
 local-zone: "release-me.ru." always_null
 local-zone: "releasedverge.com." always_null
+local-zone: "releinemaoff.pro." always_null
 local-zone: "relentfrance.com." always_null
 local-zone: "relentlessmaniacspecies.com." always_null
 local-zone: "relestar.com." always_null
@@ -42498,6 +42606,7 @@ local-zone: "reliablespecified.com." always_null
 local-zone: "reliancevalve.com." always_null
 local-zone: "reliantatomtradition.com." always_null
 local-zone: "relivesovereign.com." always_null
+local-zone: "relliun.cn." always_null
 local-zone: "relmaxtop.com." always_null
 local-zone: "reloading-page1.com." always_null
 local-zone: "reloadinput.com." always_null
@@ -42536,6 +42645,7 @@ local-zone: "remyyadan.online.fr." always_null
 local-zone: "renaissanto.com." always_null
 local-zone: "rencai56.com." always_null
 local-zone: "rencontreavenue.com." always_null
+local-zone: "rencontres-coquines.jacquieetmichel.net." always_null
 local-zone: "renderer.apester.com." always_null
 local-zone: "renewnewss.net." always_null
 local-zone: "renfas.com." always_null
@@ -42708,6 +42818,7 @@ local-zone: "resultlinks.com." always_null
 local-zone: "resultplus.jp." always_null
 local-zone: "resultsenraged.casa." always_null
 local-zone: "resultsz.com." always_null
+local-zone: "resumeconcurrence.com." always_null
 local-zone: "resumedelayed.com." always_null
 local-zone: "resumersvo.fun." always_null
 local-zone: "resupposer.club." always_null
@@ -42750,6 +42861,7 @@ local-zone: "return.domainnamesales.com." always_null
 local-zone: "return.uk.domainnamesales.com." always_null
 local-zone: "returnpath.net." always_null
 local-zone: "returnsflyswat.com." always_null
+local-zone: "reukandthis.xyz." always_null
 local-zone: "reundcwkqvctq.com." always_null
 local-zone: "reunioncom.112.2o7.net." always_null
 local-zone: "reusenproject-n.nl." always_null
@@ -43001,6 +43113,7 @@ local-zone: "risausso.com." always_null
 local-zone: "rishenglaw.cn." always_null
 local-zone: "risk.clearbit.com." always_null
 local-zone: "riskelaborate.com." always_null
+local-zone: "riskoccur.com." always_null
 local-zone: "riskybus.f9.co.uk." always_null
 local-zone: "ristoranteilmedioevo.it." always_null
 local-zone: "ristoromontebasso.it." always_null
@@ -43073,6 +43186,7 @@ local-zone: "rmjwkcugppojnnh.com." always_null
 local-zone: "rmkflouh.com." always_null
 local-zone: "rmndme.com." always_null
 local-zone: "rmraos.com." always_null
+local-zone: "rmt.plus." always_null
 local-zone: "rmtag.com." always_null
 local-zone: "rmwdn.com." always_null
 local-zone: "rmxads.com." always_null
@@ -43265,6 +43379,7 @@ local-zone: "route31.org." always_null
 local-zone: "routeit.one." always_null
 local-zone: "routeme.one." always_null
 local-zone: "routemomentarilydiscovering.com." always_null
+local-zone: "routerhydrula.com." always_null
 local-zone: "routeserve.info." always_null
 local-zone: "rouvoute.net." always_null
 local-zone: "rouwhapt.com." always_null
@@ -43334,6 +43449,7 @@ local-zone: "rscxwmj.cn." always_null
 local-zone: "rsepv.com." always_null
 local-zone: "rshi.club." always_null
 local-zone: "rskillsplu.club." always_null
+local-zone: "rsnvboidrvqjso.com." always_null
 local-zone: "rsptrack.com." always_null
 local-zone: "rsrly.com." always_null
 local-zone: "rss-loader.com." always_null
@@ -43512,6 +43628,7 @@ local-zone: "runtime.lemonpi.io." always_null
 local-zone: "runtnc.net." always_null
 local-zone: "runwaff.com." always_null
 local-zone: "ruokareseptit.online." always_null
+local-zone: "rupayanpropertyfair.com." always_null
 local-zone: "ruppiamartha.casa." always_null
 local-zone: "ruscontext.com." always_null
 local-zone: "rusenov.com." always_null
@@ -43890,7 +44007,6 @@ local-zone: "samsienshrivel.com." always_null
 local-zone: "samsungacr.com." always_null
 local-zone: "samsungadhub.com." always_null
 local-zone: "samsungads.com." always_null
-local-zone: "samsungsmartcafetirunelveli.in." always_null
 local-zone: "samsungtvads.com." always_null
 local-zone: "samtrg.com." always_null
 local-zone: "samuelgirlism.com." always_null
@@ -43970,6 +44086,7 @@ local-zone: "saturdayaremoaning.com." always_null
 local-zone: "saturdayloathe.com." always_null
 local-zone: "saturim.com." always_null
 local-zone: "saturn-j1407b.com." always_null
+local-zone: "satyaday.in." always_null
 local-zone: "saub27i3os.com." always_null
 local-zone: "sauceillusionstruggling.com." always_null
 local-zone: "saucepanshakymemorial.com." always_null
@@ -44584,6 +44701,7 @@ local-zone: "seed.btc.petertodd.org." always_null
 local-zone: "seed.by." always_null
 local-zone: "seedallegation.com." always_null
 local-zone: "seedapp-creative.s3.amazonaws.com." always_null
+local-zone: "seedattentiontestify.com." always_null
 local-zone: "seeder.igetget.com." always_null
 local-zone: "seedoupo.com." always_null
 local-zone: "seedr.com." always_null
@@ -45043,7 +45161,6 @@ local-zone: "shahrezamarket.amood-graphic.ir." always_null
 local-zone: "shahu66.com." always_null
 local-zone: "shaiban.wang." always_null
 local-zone: "shaidolt.com." always_null
-local-zone: "shailaenterprises.com." always_null
 local-zone: "shaimsoo.net." always_null
 local-zone: "shakamech.com." always_null
 local-zone: "shakeegi.com." always_null
@@ -45084,6 +45201,7 @@ local-zone: "share-apple.com." always_null
 local-zone: "share-clouds.com." always_null
 local-zone: "share-server.com." always_null
 local-zone: "share.mob.com." always_null
+local-zone: "share.notizie.it." always_null
 local-zone: "share.yandex.ru." always_null
 local-zone: "shareadspace.com." always_null
 local-zone: "sharecash.org." always_null
@@ -45121,6 +45239,7 @@ local-zone: "shbet3.com." always_null
 local-zone: "shcy3.com." always_null
 local-zone: "shcylxl.com." always_null
 local-zone: "shebaasot.com." always_null
+local-zone: "sheeckaz.com." always_null
 local-zone: "sheeftee.net." always_null
 local-zone: "sheenaup.net." always_null
 local-zone: "sheerbenchmeltdown.com." always_null
@@ -45144,7 +45263,6 @@ local-zone: "shenwupower.com.cn." always_null
 local-zone: "shenyunkeji.com." always_null
 local-zone: "shepeekr.net." always_null
 local-zone: "shepherdbetrayaldecoction.com." always_null
-local-zone: "shepherdsshadowindia.com." always_null
 local-zone: "shequn.online." always_null
 local-zone: "sher.index.hu." always_null
 local-zone: "shermore.info." always_null
@@ -45374,6 +45492,7 @@ local-zone: "sidebyz.com." always_null
 local-zone: "sidelinesibilant.com." always_null
 local-zone: "sidewaybeings.com." always_null
 local-zone: "sielsmaats.com." always_null
+local-zone: "sienns.com." always_null
 local-zone: "sieubomtan.com." always_null
 local-zone: "sieubong88.info." always_null
 local-zone: "sieukeo.live." always_null
@@ -46379,6 +46498,7 @@ local-zone: "sophisticatedstove.com." always_null
 local-zone: "sophomoreclassicoriginally.com." always_null
 local-zone: "sophus3.com." always_null
 local-zone: "sopital.com." always_null
+local-zone: "soprocerto.pt." always_null
 local-zone: "sopsimcan.site." always_null
 local-zone: "soquan.xyz." always_null
 local-zone: "sor-sdk.follow-apps.com." always_null
@@ -46421,7 +46541,6 @@ local-zone: "soulshape.cn." always_null
 local-zone: "soundcloud-pax.pandora.com." always_null
 local-zone: "soundelktemper.com." always_null
 local-zone: "soundpublishing.blueconic.net." always_null
-local-zone: "source3.boys4dayz.com." always_null
 local-zone: "sourcecode.pro." always_null
 local-zone: "sourcelog.cool." always_null
 local-zone: "sourcengo.com." always_null
@@ -46437,6 +46556,7 @@ local-zone: "souvenirwatery.com." always_null
 local-zone: "souyou.org." always_null
 local-zone: "sovieashlig.club." always_null
 local-zone: "sovietit.com." always_null
+local-zone: "sovrn.com." always_null
 local-zone: "sowlettuce.com." always_null
 local-zone: "soysapslad.com." always_null
 local-zone: "sp-consent.stuttgarter-zeitung.de." always_null
@@ -47110,6 +47230,7 @@ local-zone: "stargamesaffiliate.com." always_null
 local-zone: "starkhelperidentifier.com." always_null
 local-zone: "starkpropagandaattacks.com." always_null
 local-zone: "starlayer.com." always_null
+local-zone: "starluckycentre.com." always_null
 local-zone: "starsearchtool.com." always_null
 local-zone: "starseed.fr." always_null
 local-zone: "start-page.org." always_null
@@ -47780,6 +47901,7 @@ local-zone: "stizoolr.com." always_null
 local-zone: "stjjp.msn.com." always_null
 local-zone: "stkexcy.cn." always_null
 local-zone: "stlog.d.dmkt-sp.jp." always_null
+local-zone: "stmentaustr.info." always_null
 local-zone: "stnetsdk.vivo.com.cn." always_null
 local-zone: "stnperu.com." always_null
 local-zone: "stoagergu.com." always_null
@@ -47905,6 +48027,7 @@ local-zone: "strossle.com." always_null
 local-zone: "strossle.it." always_null
 local-zone: "stroublederaa.club." always_null
 local-zone: "strownstramp.cam." always_null
+local-zone: "strpjmp.com." always_null
 local-zone: "strs.jp." always_null
 local-zone: "structurerod.com." always_null
 local-zone: "struq.com." always_null
@@ -48647,6 +48770,7 @@ local-zone: "t2.t2b.click." always_null
 local-zone: "t2lgo.com." always_null
 local-zone: "t2zc6vo8zj2ch6sh6kvu5vq8cjz4iv8v2aj1ckjy8zktaj8vm6visk6als8l.me." always_null
 local-zone: "t3.marinsm.com." always_null
+local-zone: "t3lyem.info." always_null
 local-zone: "t4ft.de." always_null
 local-zone: "t570.wiltonbulletin.com." always_null
 local-zone: "t58b.com." always_null
@@ -48760,6 +48884,7 @@ local-zone: "tags.catapultx.com." always_null
 local-zone: "tags.cdn.circlesix.co." always_null
 local-zone: "tags.creativille.co.uk." always_null
 local-zone: "tags.creditkarma.com." always_null
+local-zone: "tags.fullcontact.com." always_null
 local-zone: "tags.master-perf-tools.com." always_null
 local-zone: "tags.newscgp.com." always_null
 local-zone: "tags.op-palvelut.fi." always_null
@@ -48852,7 +48977,6 @@ local-zone: "talktomeplease.biz." always_null
 local-zone: "tallergestion.com." always_null
 local-zone: "tallowstwangle.com." always_null
 local-zone: "tally.upsideout.com." always_null
-local-zone: "talmacbelgelendirme.com.tr." always_null
 local-zone: "talsauve.com." always_null
 local-zone: "talysu.info." always_null
 local-zone: "tam.outbrain.com." always_null
@@ -49008,7 +49132,6 @@ local-zone: "taxmartbrevity.com." always_null
 local-zone: "taxodiu2m2dis7tichum.com." always_null
 local-zone: "tb.baimgfroggd.site." always_null
 local-zone: "tb.mybb.ru." always_null
-local-zone: "tb.turbocap.net." always_null
 local-zone: "tba4.cn." always_null
 local-zone: "tbaffiliate.com." always_null
 local-zone: "tbaia.com." always_null
@@ -49351,6 +49474,7 @@ local-zone: "tethered-realms.valorbuff.com." always_null
 local-zone: "tetigi.com." always_null
 local-zone: "tetoolbox.com." always_null
 local-zone: "tetrylscullion.com." always_null
+local-zone: "teucle.com." always_null
 local-zone: "tework.cn." always_null
 local-zone: "tewxda71.secure.ne.jp." always_null
 local-zone: "texas-diesel.com." always_null
@@ -49390,6 +49514,7 @@ local-zone: "tf88v.com." always_null
 local-zone: "tfaa2.com." always_null
 local-zone: "tfag.de." always_null
 local-zone: "tfaln.com." always_null
+local-zone: "tffkroute.com." always_null
 local-zone: "tfiph.com." always_null
 local-zone: "tfla.xyz." always_null
 local-zone: "tfosrv.com." always_null
@@ -49508,6 +49633,7 @@ local-zone: "thefontzone.com." always_null
 local-zone: "thefootpetso.com." always_null
 local-zone: "thefuncoolstuff.com." always_null
 local-zone: "thegioididong.me." always_null
+local-zone: "thegoodneighbourapp.com." always_null
 local-zone: "thegroup.112.2o7.net." always_null
 local-zone: "theherohomes.in." always_null
 local-zone: "theirsvendor.com." always_null
@@ -49668,6 +49794,7 @@ local-zone: "thome.112.2o7.net." always_null
 local-zone: "thompaur.com." always_null
 local-zone: "thongaspredo.com." always_null
 local-zone: "thongcivic.com." always_null
+local-zone: "thongcongnghethuthamcau.com." always_null
 local-zone: "thongedoptions.com." always_null
 local-zone: "thongke.24h.com.vn." always_null
 local-zone: "thongke.baotintuc.vn." always_null
@@ -49847,6 +49974,7 @@ local-zone: "timetwig.com." always_null
 local-zone: "timewarner.122.2o7.net." always_null
 local-zone: "timi.pro." always_null
 local-zone: "timingaskew.com." always_null
+local-zone: "timull.com." always_null
 local-zone: "timup.top." always_null
 local-zone: "timy.ink." always_null
 local-zone: "tin.xpornoset.com." always_null
@@ -50553,7 +50681,6 @@ local-zone: "track.brafiliados.com.br." always_null
 local-zone: "track.briskfile.com." always_null
 local-zone: "track.buybox.click." always_null
 local-zone: "track.byzon.swelen.net." always_null
-local-zone: "track.cam4tracking.com." always_null
 local-zone: "track.catalogs.com." always_null
 local-zone: "track.cedsdigital.it." always_null
 local-zone: "track.chanret.com." always_null
@@ -51026,6 +51153,7 @@ local-zone: "tracking.nesox.com." always_null
 local-zone: "tracking.netdoktor.at." always_null
 local-zone: "tracking.nextdoor.com." always_null
 local-zone: "tracking.noen.at." always_null
+local-zone: "tracking.notizie.it." always_null
 local-zone: "tracking.nw.de." always_null
 local-zone: "tracking.oe24.at." always_null
 local-zone: "tracking.oerug.com." always_null
@@ -51166,6 +51294,7 @@ local-zone: "trademob.com." always_null
 local-zone: "tradescape.biz." always_null
 local-zone: "trading-ad.net." always_null
 local-zone: "trading24.io." always_null
+local-zone: "tradingview-brokers.learnforcareer.com." always_null
 local-zone: "traditionallyobjectlessblinked.com." always_null
 local-zone: "traditionlargest.com." always_null
 local-zone: "tradplusad.com." always_null
@@ -51572,6 +51701,7 @@ local-zone: "trtjigpsscmv9epe10.com." always_null
 local-zone: "trtl.ws." always_null
 local-zone: "tru.am." always_null
 local-zone: "tru.webelapp.com." always_null
+local-zone: "truantsambaree.com." always_null
 local-zone: "truceforensicswaterfall.com." always_null
 local-zone: "truckstomatoes.com." always_null
 local-zone: "truconversion.com." always_null
@@ -51814,6 +51944,7 @@ local-zone: "turbo2sdk-push.oupeng.com." always_null
 local-zone: "turboads.de." always_null
 local-zone: "turboadv.com." always_null
 local-zone: "turbobanner.com." always_null
+local-zone: "turbocap.net." always_null
 local-zone: "turboeagle.co." always_null
 local-zone: "turbolion.io." always_null
 local-zone: "turbotraff.net." always_null
@@ -52029,6 +52160,7 @@ local-zone: "uadexchange.com." always_null
 local-zone: "uads.shop." always_null
 local-zone: "uadsaa.com." always_null
 local-zone: "uaid-linkage.imrworldwide.com." always_null
+local-zone: "uapekkgmhjxponr.com." always_null
 local-zone: "uater.cn." always_null
 local-zone: "uauniverse.com." always_null
 local-zone: "uavsgklwxsx.xyz." always_null
@@ -52068,6 +52200,7 @@ local-zone: "uc4a.cn." always_null
 local-zone: "uc610.com." always_null
 local-zone: "uc9.suinidai.com.cn." always_null
 local-zone: "ucads.ucweb.com." always_null
+local-zone: "ucationin.club." always_null
 local-zone: "ucconn.live." always_null
 local-zone: "ucdn.website." always_null
 local-zone: "ucesreferre.club." always_null
@@ -52184,6 +52317,7 @@ local-zone: "uk.marketo.com." always_null
 local-zone: "uk4.hit.stat24.com." always_null
 local-zone: "ukan.online." always_null
 local-zone: "ukcomparends.pro." always_null
+local-zone: "ukfareputfea.xyz." always_null
 local-zone: "ukguk71.ru." always_null
 local-zone: "uknsyenerg.co." always_null
 local-zone: "ukoffzeh.com." always_null
@@ -52210,6 +52344,7 @@ local-zone: "ulogix.ru." always_null
 local-zone: "ulosmuynstes.ml." always_null
 local-zone: "ulourgaz.net." always_null
 local-zone: "ulqihfr.cn." always_null
+local-zone: "ultimateaderaser.com." always_null
 local-zone: "ultimateclixx.com." always_null
 local-zone: "ultimatecounter.com." always_null
 local-zone: "ultimatetopsites.com." always_null
@@ -52234,6 +52369,7 @@ local-zone: "ulxypyg.cn." always_null
 local-zone: "ulyvjty4rd.com." always_null
 local-zone: "um-public-panel-prod.s3.amazonaws.com." always_null
 local-zone: "umbel.com." always_null
+local-zone: "umbemonop.info." always_null
 local-zone: "umbrella.asia." always_null
 local-zone: "umbrellaomendear.com." always_null
 local-zone: "umehoars.club." always_null
@@ -52416,6 +52552,7 @@ local-zone: "unpk41.online." always_null
 local-zone: "unpleasantconcrete.com." always_null
 local-zone: "unpredictableshell.com." always_null
 local-zone: "unpredictablewatchpenalty.com." always_null
+local-zone: "unqhuyfkhbj.com." always_null
 local-zone: "unrealcommander.com." always_null
 local-zone: "unrealcommander.org." always_null
 local-zone: "unreasonablecompatibledivorced.com." always_null
@@ -52633,7 +52770,6 @@ local-zone: "us4post.com." always_null
 local-zone: "usa.cc." always_null
 local-zone: "usabilitytools.com." always_null
 local-zone: "usachoice.net." always_null
-local-zone: "usadheffreas.top." always_null
 local-zone: "usadmm-ds.dotomi.com." always_null
 local-zone: "usadmm.dotomi.com." always_null
 local-zone: "usadserver.com." always_null
@@ -53272,7 +53408,6 @@ local-zone: "victorjx.com." always_null
 local-zone: "victorlutte.cl." always_null
 local-zone: "victory.cnn.com." always_null
 local-zone: "victory1999.com." always_null
-local-zone: "victorysanitizer.com." always_null
 local-zone: "vicustom.cn." always_null
 local-zone: "vicwin.vip." always_null
 local-zone: "vid-adblocker.com." always_null
@@ -53510,8 +53645,8 @@ local-zone: "vipko.ru." always_null
 local-zone: "viplinck.com." always_null
 local-zone: "vipmasajes.com." always_null
 local-zone: "viprelax.com.ua." always_null
-local-zone: "vipteck.com." always_null
 local-zone: "viptizer.com." always_null
+local-zone: "vipysknik.by." always_null
 local-zone: "vipytyl.ltd." always_null
 local-zone: "viqyxamy.xyz." always_null
 local-zone: "vir70n.news." always_null
@@ -53833,6 +53968,7 @@ local-zone: "vppst.iltrovatore.it." always_null
 local-zone: "vprza.com." always_null
 local-zone: "vpsite.ru." always_null
 local-zone: "vptbn.com." always_null
+local-zone: "vpts.co.za." always_null
 local-zone: "vpvsy.com." always_null
 local-zone: "vq1qi.pw." always_null
 local-zone: "vq7736.com." always_null
@@ -53952,6 +54088,7 @@ local-zone: "vuryua.ru." always_null
 local-zone: "vutudm.com." always_null
 local-zone: "vuuwd.com." always_null
 local-zone: "vuwgt.com." always_null
+local-zone: "vuwomoby.pro." always_null
 local-zone: "vv8h9vyjgnst.com." always_null
 local-zone: "vvbox.cz." always_null
 local-zone: "vvhatsappsohbetim.site." always_null
@@ -54025,6 +54162,7 @@ local-zone: "w3facility.org." always_null
 local-zone: "w3hoster.de." always_null
 local-zone: "w3i.com." always_null
 local-zone: "w4.com." always_null
+local-zone: "w4o7aea80ss3-a.akamaihd.net." always_null
 local-zone: "w55c.net." always_null
 local-zone: "w65p.com." always_null
 local-zone: "w6gis5.com." always_null
@@ -54110,7 +54248,6 @@ local-zone: "wakiupswacken.com." always_null
 local-zone: "walasearch.com." always_null
 local-zone: "walgrns.112.2o7.net." always_null
 local-zone: "walkedcreak.com." always_null
-local-zone: "walkindrivetoday.com." always_null
 local-zone: "walkinghonoured.com." always_null
 local-zone: "wall.adgaterewards.com." always_null
 local-zone: "wall.vgr.com." always_null
@@ -55203,6 +55340,7 @@ local-zone: "wonfigfig.com." always_null
 local-zone: "woniu1314520.vip." always_null
 local-zone: "wonoddgiris.com." always_null
 local-zone: "wonsegax.net." always_null
+local-zone: "wontent.powvideo.net." always_null
 local-zone: "wontonsnosite.com." always_null
 local-zone: "woobi.com." always_null
 local-zone: "woobids.com." always_null
@@ -56264,6 +56402,7 @@ local-zone: "xyrydark.pw." always_null
 local-zone: "xytom.com." always_null
 local-zone: "xyuwxpupdr.com." always_null
 local-zone: "xywdvhd.com." always_null
+local-zone: "xyxhtyy.cn." always_null
 local-zone: "xyy9.xyz." always_null
 local-zone: "xyz0k4gfs.xyz." always_null
 local-zone: "xyznews1.today." always_null
@@ -56454,6 +56593,7 @@ local-zone: "yektanet.com." always_null
 local-zone: "yellads.com." always_null
 local-zone: "yellcom.122.2o7.net." always_null
 local-zone: "yellowacorn.net." always_null
+local-zone: "yellowblue.io." always_null
 local-zone: "yellowbrix.com." always_null
 local-zone: "yellspain.112.2o7.net." always_null
 local-zone: "yema.shop." always_null
@@ -56834,6 +56974,7 @@ local-zone: "ypnciu.com." always_null
 local-zone: "ypocrasbywalk.com." always_null
 local-zone: "ypqy3sgq.com." always_null
 local-zone: "ypreferred.com." always_null
+local-zone: "ypz5trk.com." always_null
 local-zone: "yqeuu.com." always_null
 local-zone: "yqg0rv8p35.ru." always_null
 local-zone: "yqgjq.com." always_null
@@ -56937,6 +57078,7 @@ local-zone: "yumomis.com." always_null
 local-zone: "yumu.pro." always_null
 local-zone: "yun-pdm2000.cn." always_null
 local-zone: "yun-pdm5000.cn." always_null
+local-zone: "yundaxue.love." always_null
 local-zone: "yundingez.top." always_null
 local-zone: "yundingmap.com." always_null
 local-zone: "yunfeiyang.club." always_null
@@ -57315,6 +57457,7 @@ local-zone: "zhangmingqin.tech." always_null
 local-zone: "zhangshen.club." always_null
 local-zone: "zhangshiyuan.com." always_null
 local-zone: "zhangtiantian.cc." always_null
+local-zone: "zhangzhiyang01.cn." always_null
 local-zone: "zhanjiangletian.com." always_null
 local-zone: "zhaoanhu.vip." always_null
 local-zone: "zhaovip.site." always_null
@@ -57330,6 +57473,7 @@ local-zone: "zhengzhoupengbo.com." always_null
 local-zone: "zhenniu.shop." always_null
 local-zone: "zhentao.shop." always_null
 local-zone: "zhenxingkuangchanpin.com." always_null
+local-zone: "zhetoutiao.top." always_null
 local-zone: "zhflodsix.cn." always_null
 local-zone: "zhiai.space." always_null
 local-zone: "zhichi08.com." always_null
@@ -57551,6 +57695,7 @@ local-zone: "zongjiangc.top." always_null
 local-zone: "zongjiangd.top." always_null
 local-zone: "zonmxej.cn." always_null
 local-zone: "zononi.com." always_null
+local-zone: "zontent.powvideo.net." always_null
 local-zone: "zontera.com." always_null
 local-zone: "zonvid.com." always_null
 local-zone: "zoogdisany.com." always_null
