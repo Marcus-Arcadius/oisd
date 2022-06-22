@@ -1,6 +1,6 @@
-# Version: 202206221912
+# Version: 202206222207
 # Title: oisd extra
-# Last modified: 22 Jun 2022 19:12 UTC
+# Last modified: 22 Jun 2022 22:07 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq                                                
@@ -625,6 +625,7 @@ address=/geojs.io/#
 address=/geolocation-db.com/#
 address=/geolocation.onetrust.com/#
 address=/georiot.com/#
+address=/gesirt.com/#
 address=/get-express-vpn.com/#
 address=/get.untangle.com/#
 address=/get.x-link.pl/#
@@ -1479,6 +1480,7 @@ address=/wemfbox.ch/#
 address=/weselenet.pl/#
 address=/wesfor.host/#
 address=/wesklose.xyz/#
+address=/wesokit.com/#
 address=/wexness.cc/#
 address=/whipcrack.org/#
 address=/wiadomosc2bc.site/#

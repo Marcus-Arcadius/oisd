@@ -1,6 +1,6 @@
-# Version: 202206221912
+# Version: 202206222207
 # Title: oisd extra
-# Last modified: 22 Jun 2022 19:12 UTC
+# Last modified: 22 Jun 2022 22:07 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains (wildcards)                                    
@@ -628,6 +628,7 @@
 *.geolocation-db.com
 *.geolocation.onetrust.com
 *.georiot.com
+*.gesirt.com
 *.get-express-vpn.com
 *.get.untangle.com
 *.get.x-link.pl
@@ -1482,6 +1483,7 @@
 *.weselenet.pl
 *.wesfor.host
 *.wesklose.xyz
+*.wesokit.com
 *.wexness.cc
 *.whipcrack.org
 *.wiadomosc2bc.site

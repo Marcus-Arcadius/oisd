@@ -1,6 +1,6 @@
-# Version: 202206221912
+# Version: 202206222207
 # Title: oisd extra
-# Last modified: 22 Jun 2022 19:12 UTC
+# Last modified: 22 Jun 2022 22:07 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                                
@@ -627,6 +627,7 @@ local-zone: "geojs.io." always_null
 local-zone: "geolocation-db.com." always_null
 local-zone: "geolocation.onetrust.com." always_null
 local-zone: "georiot.com." always_null
+local-zone: "gesirt.com." always_null
 local-zone: "get-express-vpn.com." always_null
 local-zone: "get.untangle.com." always_null
 local-zone: "get.x-link.pl." always_null
@@ -1481,6 +1482,7 @@ local-zone: "wemfbox.ch." always_null
 local-zone: "weselenet.pl." always_null
 local-zone: "wesfor.host." always_null
 local-zone: "wesklose.xyz." always_null
+local-zone: "wesokit.com." always_null
 local-zone: "wexness.cc." always_null
 local-zone: "whipcrack.org." always_null
 local-zone: "wiadomosc2bc.site." always_null
