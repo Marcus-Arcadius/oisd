@@ -1,6 +1,6 @@
-# Version: 202206222207
+# Version: 202206231725
 # Title: oisd extra
-# Last modified: 22 Jun 2022 22:07 UTC
+# Last modified: 23 Jun 2022 17:25 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Hosts                                                  
@@ -83,6 +83,7 @@
 0.0.0.0 a1.api.bbc.co.uk
 0.0.0.0 a1843.g.akamai.net
 0.0.0.0 a2.xinhuanet.com
+0.0.0.0 a34549.actonservice.com
 0.0.0.0 a43601.actonservice.com
 0.0.0.0 a8onlineshop.trendmicro.co.jp
 0.0.0.0 aan.amazon.com
@@ -843,6 +844,7 @@
 0.0.0.0 marfeel.com
 0.0.0.0 marfeelcache.com
 0.0.0.0 marinsm.com
+0.0.0.0 marketing.avantage.nl
 0.0.0.0 marketing.net.idealo-partner.com
 0.0.0.0 marketing.tr.netsalesmedia.pl
 0.0.0.0 marketingautomation.services

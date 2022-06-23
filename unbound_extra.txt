@@ -1,6 +1,6 @@
-# Version: 202206222207
+# Version: 202206231725
 # Title: oisd extra
-# Last modified: 22 Jun 2022 22:07 UTC
+# Last modified: 23 Jun 2022 17:25 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                                
@@ -77,6 +77,7 @@ local-zone: "a.wishabi.com." always_null
 local-zone: "a1.api.bbc.co.uk." always_null
 local-zone: "a1843.g.akamai.net." always_null
 local-zone: "a2.xinhuanet.com." always_null
+local-zone: "a34549.actonservice.com." always_null
 local-zone: "a43601.actonservice.com." always_null
 local-zone: "a8onlineshop.trendmicro.co.jp." always_null
 local-zone: "aan.amazon.com." always_null
@@ -880,6 +881,7 @@ local-zone: "mangler4.generals.ea.com." always_null
 local-zone: "marfeel.com." always_null
 local-zone: "marfeelcache.com." always_null
 local-zone: "marinsm.com." always_null
+local-zone: "marketing.avantage.nl." always_null
 local-zone: "marketing.net.idealo-partner.com." always_null
 local-zone: "marketing.tr.netsalesmedia.pl." always_null
 local-zone: "marketingautomation.services." always_null

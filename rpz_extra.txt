@@ -1,12 +1,12 @@
-; Version: 202206222207
+; Version: 202206231725
 ; Title: oisd extra
-; Last modified: 22 Jun 2022 22:07 UTC
+; Last modified: 23 Jun 2022 17:25 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1655935201 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1656004703 86400 3600 604800 30
  NS localhost.
 
 0.0.0.0.beeglivesex.com CNAME .
@@ -149,6 +149,8 @@ a1843.g.akamai.net CNAME .
 *.a1843.g.akamai.net CNAME .
 a2.xinhuanet.com CNAME .
 *.a2.xinhuanet.com CNAME .
+a34549.actonservice.com CNAME .
+*.a34549.actonservice.com CNAME .
 a43601.actonservice.com CNAME .
 *.a43601.actonservice.com CNAME .
 a8onlineshop.trendmicro.co.jp CNAME .
@@ -1755,6 +1757,8 @@ marfeelcache.com CNAME .
 *.marfeelcache.com CNAME .
 marinsm.com CNAME .
 *.marinsm.com CNAME .
+marketing.avantage.nl CNAME .
+*.marketing.avantage.nl CNAME .
 marketing.net.idealo-partner.com CNAME .
 *.marketing.net.idealo-partner.com CNAME .
 marketing.tr.netsalesmedia.pl CNAME .
