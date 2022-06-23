@@ -1,12 +1,12 @@
-; Version: 202206231725
+; Version: 202206232206
 ; Title: oisd extra
-; Last modified: 23 Jun 2022 17:25 UTC
+; Last modified: 23 Jun 2022 22:06 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1656004703 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1656021631 86400 3600 604800 30
  NS localhost.
 
 0.0.0.0.beeglivesex.com CNAME .
@@ -123,8 +123,6 @@ $TTL 30
 *.72-news.com CNAME .
 778669.com CNAME .
 *.778669.com CNAME .
-79zgycmr.com CNAME .
-*.79zgycmr.com CNAME .
 7lbd4.armandthiery.fr CNAME .
 *.7lbd4.armandthiery.fr CNAME .
 810251.com CNAME .
@@ -363,8 +361,6 @@ analytics.robinhood.com CNAME .
 *.analytics.robinhood.com CNAME .
 analytics.twitter.com CNAME .
 *.analytics.twitter.com CNAME .
-ancjmfycf.com CNAME .
-*.ancjmfycf.com CNAME .
 androidtvchannels-pa.googleapis.com CNAME .
 *.androidtvchannels-pa.googleapis.com CNAME .
 androidtvwatsonfe-pa.googleapis.com CNAME .
@@ -441,8 +437,6 @@ asadcdn.com CNAME .
 *.asadcdn.com CNAME .
 aspgfx.org CNAME .
 *.aspgfx.org CNAME .
-aspirinsuicide.com CNAME .
-*.aspirinsuicide.com CNAME .
 assets-secure.applicaster.com CNAME .
 *.assets-secure.applicaster.com CNAME .
 assets.minutemediacdn.com CNAME .
@@ -797,8 +791,6 @@ com.com CNAME .
 *.com.com CNAME .
 comet.yahoo.com CNAME .
 *.comet.yahoo.com CNAME .
-comfortlessweave.com CNAME .
-*.comfortlessweave.com CNAME .
 commander1.com CNAME .
 *.commander1.com CNAME .
 commission-junction.com CNAME .
@@ -861,8 +853,6 @@ cts.vresp.com CNAME .
 *.cts.vresp.com CNAME .
 cuci.nl CNAME .
 *.cuci.nl CNAME .
-culpritwatchmanhostile.com CNAME .
-*.culpritwatchmanhostile.com CNAME .
 curalate.com CNAME .
 *.curalate.com CNAME .
 custom.plausible.io CNAME .
@@ -965,8 +955,6 @@ devices.carnivalmobile.com CNAME .
 *.devices.carnivalmobile.com CNAME .
 dgulden.ru CNAME .
 *.dgulden.ru CNAME .
-dgvnudoa.xyz CNAME .
-*.dgvnudoa.xyz CNAME .
 digitaladvisor.dk CNAME .
 *.digitaladvisor.dk CNAME .
 disclamationsmanhunt.info CNAME .
@@ -997,8 +985,6 @@ docmartenssklep.com CNAME .
 *.docmartenssklep.com CNAME .
 dolphincdn.xyz CNAME .
 *.dolphincdn.xyz CNAME .
-dolsoste.com CNAME .
-*.dolsoste.com CNAME .
 domsearch.net CNAME .
 *.domsearch.net CNAME .
 doniesienie0nz.site CNAME .
@@ -1031,8 +1017,6 @@ dstreet.pl CNAME .
 *.dstreet.pl CNAME .
 duiba.com.cn CNAME .
 *.duiba.com.cn CNAME .
-dynamitedepressionweapons.com CNAME .
-*.dynamitedepressionweapons.com CNAME .
 dzc-metrics.mzstatic.com CNAME .
 *.dzc-metrics.mzstatic.com CNAME .
 dziwnasprawa.eu CNAME .
@@ -1389,8 +1373,6 @@ hotelscombined.com.au CNAME .
 *.hotelscombined.com.au CNAME .
 hotkeys.com CNAME .
 *.hotkeys.com CNAME .
-howstroll.com CNAME .
-*.howstroll.com CNAME .
 hpygame.com CNAME .
 *.hpygame.com CNAME .
 hs-scripts.com CNAME .
@@ -1691,8 +1673,6 @@ logs.datadoghq.eu CNAME .
 *.logs.datadoghq.eu CNAME .
 logs.juspay.in CNAME .
 *.logs.juspay.in CNAME .
-logworknomism.com CNAME .
-*.logworknomism.com CNAME .
 lolhello.com CNAME .
 *.lolhello.com CNAME .
 lolshock.com CNAME .
@@ -1797,8 +1777,6 @@ mediarich.us CNAME .
 *.mediarich.us CNAME .
 medyanetads.com CNAME .
 *.medyanetads.com CNAME .
-meehaina.net CNAME .
-*.meehaina.net CNAME .
 meldunek0ga.site CNAME .
 *.meldunek0ga.site CNAME .
 meldunek1726.site CNAME .
@@ -1953,8 +1931,6 @@ nexusrules.officeapps.live.com CNAME .
 *.nexusrules.officeapps.live.com CNAME .
 nfivh.shop CNAME .
 *.nfivh.shop CNAME .
-nielofficieshandl.info CNAME .
-*.nielofficieshandl.info CNAME .
 niewolnikelegancki.site CNAME .
 *.niewolnikelegancki.site CNAME .
 nijaki473.site CNAME .
@@ -2127,8 +2103,6 @@ pastie.org CNAME .
 *.pastie.org CNAME .
 patientlyrequisite.com CNAME .
 *.patientlyrequisite.com CNAME .
-pattentinevec.site CNAME .
-*.pattentinevec.site CNAME .
 pay-reservation.site CNAME .
 *.pay-reservation.site CNAME .
 pay11-olx.info CNAME .
@@ -2321,8 +2295,6 @@ rd.rakuten.co.jp CNAME .
 *.rd.rakuten.co.jp CNAME .
 realsrv.com CNAME .
 *.realsrv.com CNAME .
-rebrancardera.site CNAME .
-*.rebrancardera.site CNAME .
 recruitics.com CNAME .
 *.recruitics.com CNAME .
 recs.richrelevance.com CNAME .
@@ -2365,8 +2337,6 @@ rezync.com CNAME .
 *.rezync.com CNAME .
 riden.network CNAME .
 *.riden.network CNAME .
-ridiculousyoungsterrookie.com CNAME .
-*.ridiculousyoungsterrookie.com CNAME .
 ripiocreditnetwork.in CNAME .
 *.ripiocreditnetwork.in CNAME .
 rlcdn.com CNAME .
@@ -2641,10 +2611,6 @@ streamate.com CNAME .
 *.streamate.com CNAME .
 strikerbolt.com CNAME .
 *.strikerbolt.com CNAME .
-strongexplain.com CNAME .
-*.strongexplain.com CNAME .
-subdatescene.cam CNAME .
-*.subdatescene.cam CNAME .
 suckdude.com CNAME .
 *.suckdude.com CNAME .
 sucmetrics.unicredit.it CNAME .
@@ -2881,8 +2847,6 @@ useinsider.com CNAME .
 *.useinsider.com CNAME .
 userreport.com CNAME .
 *.userreport.com CNAME .
-ushooque.net CNAME .
-*.ushooque.net CNAME .
 utpgxaylxurhbc.com CNAME .
 *.utpgxaylxurhbc.com CNAME .
 v.shopify.com CNAME .
@@ -3005,8 +2969,6 @@ wt-eu02.net CNAME .
 *.wt-eu02.net CNAME .
 wurfl.io CNAME .
 *.wurfl.io CNAME .
-wvs3bmct6mkz.com CNAME .
-*.wvs3bmct6mkz.com CNAME .
 www1.amnhealthcare.com CNAME .
 *.www1.amnhealthcare.com CNAME .
 www2.leapmotion.com CNAME .
@@ -3035,8 +2997,6 @@ xapi.ozon.ru CNAME .
 *.xapi.ozon.ru CNAME .
 xg4ken.com CNAME .
 *.xg4ken.com CNAME .
-xhrxmbqixobk.com CNAME .
-*.xhrxmbqixobk.com CNAME .
 xiti.com CNAME .
 *.xiti.com CNAME .
 xlog-va.musical.ly CNAME .
@@ -3073,14 +3033,10 @@ zenaps.com CNAME .
 *.zenaps.com CNAME .
 zencia.store CNAME .
 *.zencia.store CNAME .
-zexastize.pro CNAME .
-*.zexastize.pro CNAME .
 zhenxinchicken.xyz CNAME .
 *.zhenxinchicken.xyz CNAME .
 ziffdavis.com CNAME .
 *.ziffdavis.com CNAME .
-zmnkduay.com CNAME .
-*.zmnkduay.com CNAME .
 znowubialystok.xyz CNAME .
 *.znowubialystok.xyz CNAME .
 zondio.store CNAME .
