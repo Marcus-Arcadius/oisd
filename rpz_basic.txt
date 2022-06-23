@@ -1,12 +1,12 @@
-; Version: 202206230601
+; Version: 202206232006
 ; Title: oisd basic
-; Last modified: 23 Jun 2022 06:01 UTC
+; Last modified: 23 Jun 2022 20:06 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1655963741 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1656013011 86400 3600 604800 30
  NS localhost.
 
 0.code.cotsta.ru CNAME .
@@ -13229,6 +13229,8 @@ ae888i.com CNAME .
 *.ae888i.com CNAME .
 ae988bet.com CNAME .
 *.ae988bet.com CNAME .
+aearth.com CNAME .
+*.aearth.com CNAME .
 aebadu.com CNAME .
 *.aebadu.com CNAME .
 aec40f9e073ba6.com CNAME .
@@ -23773,6 +23775,8 @@ blog.andropps.com CNAME .
 *.blog.andropps.com CNAME .
 blog.byethost.com CNAME .
 *.blog.byethost.com CNAME .
+blog.petratools.com CNAME .
+*.blog.petratools.com CNAME .
 blog.stetgzs.cn CNAME .
 *.blog.stetgzs.cn CNAME .
 blog104.com CNAME .
@@ -30231,6 +30235,8 @@ clubmed.112.2o7.net CNAME .
 *.clubmed.112.2o7.net CNAME .
 clubmom.122.2o7.net CNAME .
 *.clubmom.122.2o7.net CNAME .
+clubnauticocordoba.com.ar CNAME .
+*.clubnauticocordoba.com.ar CNAME .
 clubpenguinclub.com CNAME .
 *.clubpenguinclub.com CNAME .
 clubwinnerz.com CNAME .
@@ -31695,6 +31701,8 @@ consumergoodnight.com CNAME .
 *.consumergoodnight.com CNAME .
 consumerspanel.frge.io CNAME .
 *.consumerspanel.frge.io CNAME .
+contabilidadeplenus.com.br CNAME .
+*.contabilidadeplenus.com.br CNAME .
 contacting-customer.com CNAME .
 *.contacting-customer.com CNAME .
 contactmonkey.com CNAME .
@@ -32191,6 +32199,8 @@ corp-downloads.com CNAME .
 *.corp-downloads.com CNAME .
 corp.leanplum.com CNAME .
 *.corp.leanplum.com CNAME .
+corpernaija.com CNAME .
+*.corpernaija.com CNAME .
 corpolevesuplementos.com.br CNAME .
 *.corpolevesuplementos.com.br CNAME .
 correctchaos.com CNAME .
@@ -36329,6 +36339,8 @@ dbmbrasil.com CNAME .
 *.dbmbrasil.com CNAME .
 dbncp.com CNAME .
 *.dbncp.com CNAME .
+dbr.hostingsdc.pl CNAME .
+*.dbr.hostingsdc.pl CNAME .
 dbv0r7a702yve.cloudfront.net CNAME .
 *.dbv0r7a702yve.cloudfront.net CNAME .
 dbvault.net CNAME .
@@ -40161,6 +40173,8 @@ e-volution.ai CNAME .
 *.e-volution.ai CNAME .
 e-webtrack.net CNAME .
 *.e-webtrack.net CNAME .
+e-xim.pl CNAME .
+*.e-xim.pl CNAME .
 e-zeeinternet.com CNAME .
 *.e-zeeinternet.com CNAME .
 e-zeitung.de CNAME .
@@ -40617,6 +40631,8 @@ ebtmarketing.com CNAME .
 *.ebtmarketing.com CNAME .
 ebtrk1.com CNAME .
 *.ebtrk1.com CNAME .
+ebuysa.co.za CNAME .
+*.ebuysa.co.za CNAME .
 ebuysolar.com CNAME .
 *.ebuysolar.com CNAME .
 ebuzzing.com CNAME .
@@ -50423,6 +50439,8 @@ gstat.orange.fr CNAME .
 *.gstat.orange.fr CNAME .
 gstats.cn CNAME .
 *.gstats.cn CNAME .
+gsverwelius.nl CNAME .
+*.gsverwelius.nl CNAME .
 gsvyjunccsw.com CNAME .
 *.gsvyjunccsw.com CNAME .
 gswtol.com CNAME .
@@ -56013,8 +56031,6 @@ infratotalduicom.122.2o7.net CNAME .
 *.infratotalduicom.122.2o7.net CNAME .
 infreescowed.com CNAME .
 *.infreescowed.com CNAME .
-infuga.cl CNAME .
-*.infuga.cl CNAME .
 infuriateharder.com CNAME .
 *.infuriateharder.com CNAME .
 ing-district.clicktale.net CNAME .
@@ -84471,6 +84487,8 @@ reblownwinare.website CNAME .
 *.reblownwinare.website CNAME .
 rebtelnetworks.112.2o7.net CNAME .
 *.rebtelnetworks.112.2o7.net CNAME .
+rec-escape.com CNAME .
+*.rec-escape.com CNAME .
 rec1.smt.docomo.ne.jp CNAME .
 *.rec1.smt.docomo.ne.jp CNAME .
 rec2000.at.ua CNAME .
@@ -88137,8 +88155,6 @@ saturim.com CNAME .
 *.saturim.com CNAME .
 saturn-j1407b.com CNAME .
 *.saturn-j1407b.com CNAME .
-satyaday.in CNAME .
-*.satyaday.in CNAME .
 saub27i3os.com CNAME .
 *.saub27i3os.com CNAME .
 sauceillusionstruggling.com CNAME .
@@ -94093,6 +94109,8 @@ srv224.com CNAME .
 *.srv224.com CNAME .
 srv2trking.com CNAME .
 *.srv2trking.com CNAME .
+srv60340528.ultasrv.com CNAME .
+*.srv60340528.ultasrv.com CNAME .
 srvads.argentina.com CNAME .
 *.srvads.argentina.com CNAME .
 srvadsnew.argentina.com CNAME .
@@ -105675,6 +105693,8 @@ ustausoo.com CNAME .
 *.ustausoo.com CNAME .
 ustithoo.net CNAME .
 *.ustithoo.net CNAME .
+ustreamiptv.com CNAME .
+*.ustreamiptv.com CNAME .
 ustujuvo.com CNAME .
 *.ustujuvo.com CNAME .
 ustxsntseyhwsx.com CNAME .
