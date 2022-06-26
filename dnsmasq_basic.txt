@@ -1,6 +1,6 @@
-# Version: 202206262021
+# Version: 202206262203
 # Title: oisd basic
-# Last modified: 26 Jun 2022 20:21 UTC
+# Last modified: 26 Jun 2022 22:03 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq                                                
@@ -43284,7 +43284,6 @@ address=/report.salmonads.com/#
 address=/report.seznamzpravy.cz/#
 address=/report.smartcount.net/#
 address=/report.sport.cz/#
-address=/report.uc.heytapmobi.com/#
 address=/report.vnay.vn/#
 address=/report02.adtech.fr/#
 address=/report02.adtech.us/#
@@ -52930,6 +52929,7 @@ address=/ubuvnjbvdijenrh.com/#
 address=/ubuyanalytics.ubuy.com/#
 address=/ubxqerc.cn/#
 address=/uc-ap.yodo1api.com/#
+address=/uc.heytapmobi.com/#
 address=/uc.ucweb.com/#
 address=/uc.xddi.ru/#
 address=/uc.zhuici.com/#
@@ -58552,7 +58552,6 @@ address=/zplayer-trk.zdn.vn/#
 address=/zplayer.trk.zapps.vn/#
 address=/zprelandappslab.com/#
 address=/zprk.io/#
-address=/zptncsir.com/#
 address=/zptxjlh.cn/#
 address=/zpujlrylfvk.com/#
 address=/zpxw.vip/#

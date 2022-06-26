@@ -1,12 +1,12 @@
-; Version: 202206262021
+; Version: 202206262203
 ; Title: oisd basic
-; Last modified: 26 Jun 2022 20:21 UTC
+; Last modified: 26 Jun 2022 22:03 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1656274656 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1656280801 86400 3600 604800 30
  NS localhost.
 
 0.code.cotsta.ru CNAME .
@@ -86567,8 +86567,6 @@ report.smartcount.net CNAME .
 *.report.smartcount.net CNAME .
 report.sport.cz CNAME .
 *.report.sport.cz CNAME .
-report.uc.heytapmobi.com CNAME .
-*.report.uc.heytapmobi.com CNAME .
 report.vnay.vn CNAME .
 *.report.vnay.vn CNAME .
 report02.adtech.fr CNAME .
@@ -105859,6 +105857,8 @@ ubxqerc.cn CNAME .
 *.ubxqerc.cn CNAME .
 uc-ap.yodo1api.com CNAME .
 *.uc-ap.yodo1api.com CNAME .
+uc.heytapmobi.com CNAME .
+*.uc.heytapmobi.com CNAME .
 uc.ucweb.com CNAME .
 *.uc.ucweb.com CNAME .
 uc.xddi.ru CNAME .
@@ -117103,8 +117103,6 @@ zprelandappslab.com CNAME .
 *.zprelandappslab.com CNAME .
 zprk.io CNAME .
 *.zprk.io CNAME .
-zptncsir.com CNAME .
-*.zptncsir.com CNAME .
 zptxjlh.cn CNAME .
 *.zptxjlh.cn CNAME .
 zpujlrylfvk.com CNAME .

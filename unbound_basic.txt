@@ -1,6 +1,6 @@
-# Version: 202206262021
+# Version: 202206262203
 # Title: oisd basic
-# Last modified: 26 Jun 2022 20:21 UTC
+# Last modified: 26 Jun 2022 22:03 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                                
@@ -43286,7 +43286,6 @@ local-zone: "report.salmonads.com." always_null
 local-zone: "report.seznamzpravy.cz." always_null
 local-zone: "report.smartcount.net." always_null
 local-zone: "report.sport.cz." always_null
-local-zone: "report.uc.heytapmobi.com." always_null
 local-zone: "report.vnay.vn." always_null
 local-zone: "report02.adtech.fr." always_null
 local-zone: "report02.adtech.us." always_null
@@ -52932,6 +52931,7 @@ local-zone: "ubuvnjbvdijenrh.com." always_null
 local-zone: "ubuyanalytics.ubuy.com." always_null
 local-zone: "ubxqerc.cn." always_null
 local-zone: "uc-ap.yodo1api.com." always_null
+local-zone: "uc.heytapmobi.com." always_null
 local-zone: "uc.ucweb.com." always_null
 local-zone: "uc.xddi.ru." always_null
 local-zone: "uc.zhuici.com." always_null
@@ -58554,7 +58554,6 @@ local-zone: "zplayer-trk.zdn.vn." always_null
 local-zone: "zplayer.trk.zapps.vn." always_null
 local-zone: "zprelandappslab.com." always_null
 local-zone: "zprk.io." always_null
-local-zone: "zptncsir.com." always_null
 local-zone: "zptxjlh.cn." always_null
 local-zone: "zpujlrylfvk.com." always_null
 local-zone: "zpxw.vip." always_null
