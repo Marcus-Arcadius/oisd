@@ -1,12 +1,12 @@
-; Version: 202206261331
+; Version: 202206262021
 ; Title: oisd basic
-; Last modified: 26 Jun 2022 13:31 UTC
+; Last modified: 26 Jun 2022 20:21 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1656250055 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1656274656 86400 3600 604800 30
  NS localhost.
 
 0.code.cotsta.ru CNAME .
@@ -275,6 +275,8 @@ $TTL 30
 *.0redird.com CNAME .
 0rg.pw CNAME .
 *.0rg.pw CNAME .
+0s9dxlr07huu.com CNAME .
+*.0s9dxlr07huu.com CNAME .
 0sntp7dnrr.com CNAME .
 *.0sntp7dnrr.com CNAME .
 0stats.com CNAME .
@@ -20285,8 +20287,6 @@ b.sweet-hd.com CNAME .
 *.b.sweet-hd.com CNAME .
 b.thanksearch.com CNAME .
 *.b.thanksearch.com CNAME .
-b.trovagnocca.com CNAME .
-*.b.trovagnocca.com CNAME .
 b.unjs.com CNAME .
 *.b.unjs.com CNAME .
 b00.xyz CNAME .
@@ -37715,8 +37715,6 @@ dev2pub.com CNAME .
 *.dev2pub.com CNAME .
 dev4enki.com CNAME .
 *.dev4enki.com CNAME .
-devaje.pourfemme.it CNAME .
-*.devaje.pourfemme.it CNAME .
 devaluationlimetreedeadly.com CNAME .
 *.devaluationlimetreedeadly.com CNAME .
 devaluationobserve.com CNAME .
@@ -80227,8 +80225,6 @@ plavxml.com CNAME .
 *.plavxml.com CNAME .
 play-poker-free.forsearch.net CNAME .
 *.play-poker-free.forsearch.net CNAME .
-play.cineblog01.bid CNAME .
-*.play.cineblog01.bid CNAME .
 play.entretenimientolz.com CNAME .
 *.play.entretenimientolz.com CNAME .
 play.estream.to CNAME .
@@ -91971,8 +91967,6 @@ shop.kicker.de CNAME .
 *.shop.kicker.de CNAME .
 shop.mediasova.ru CNAME .
 *.shop.mediasova.ru CNAME .
-shop.sportal.it CNAME .
-*.shop.sportal.it CNAME .
 shop.vnay.vn CNAME .
 *.shop.vnay.vn CNAME .
 shopalyst.com CNAME .
@@ -117109,6 +117103,8 @@ zprelandappslab.com CNAME .
 *.zprelandappslab.com CNAME .
 zprk.io CNAME .
 *.zprk.io CNAME .
+zptncsir.com CNAME .
+*.zptncsir.com CNAME .
 zptxjlh.cn CNAME .
 *.zptxjlh.cn CNAME .
 zpujlrylfvk.com CNAME .

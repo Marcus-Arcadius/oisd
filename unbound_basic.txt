@@ -1,6 +1,6 @@
-# Version: 202206261331
+# Version: 202206262021
 # Title: oisd basic
-# Last modified: 26 Jun 2022 13:31 UTC
+# Last modified: 26 Jun 2022 20:21 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                                
@@ -140,6 +140,7 @@ local-zone: "0q2.sitey.me." always_null
 local-zone: "0redirb.com." always_null
 local-zone: "0redird.com." always_null
 local-zone: "0rg.pw." always_null
+local-zone: "0s9dxlr07huu.com." always_null
 local-zone: "0sntp7dnrr.com." always_null
 local-zone: "0stats.com." always_null
 local-zone: "0sywjs4r1x.com." always_null
@@ -10145,7 +10146,6 @@ local-zone: "b.sonorousporn.com." always_null
 local-zone: "b.stranamam.ru." always_null
 local-zone: "b.sweet-hd.com." always_null
 local-zone: "b.thanksearch.com." always_null
-local-zone: "b.trovagnocca.com." always_null
 local-zone: "b.unjs.com." always_null
 local-zone: "b00.xyz." always_null
 local-zone: "b014381c95cb.com." always_null
@@ -18860,7 +18860,6 @@ local-zone: "dev0.buzz." always_null
 local-zone: "dev2-admin.ycbnt.net." always_null
 local-zone: "dev2pub.com." always_null
 local-zone: "dev4enki.com." always_null
-local-zone: "devaje.pourfemme.it." always_null
 local-zone: "devaluationlimetreedeadly.com." always_null
 local-zone: "devaluationobserve.com." always_null
 local-zone: "devaluestannum.com." always_null
@@ -40116,7 +40115,6 @@ local-zone: "plavid.com." always_null
 local-zone: "plavix.shengen.ru." always_null
 local-zone: "plavxml.com." always_null
 local-zone: "play-poker-free.forsearch.net." always_null
-local-zone: "play.cineblog01.bid." always_null
 local-zone: "play.entretenimientolz.com." always_null
 local-zone: "play.estream.to." always_null
 local-zone: "play.estream.xyz." always_null
@@ -45988,7 +45986,6 @@ local-zone: "shootpatagainjogging.com." always_null
 local-zone: "shop-cdn.coccoc.com." always_null
 local-zone: "shop.kicker.de." always_null
 local-zone: "shop.mediasova.ru." always_null
-local-zone: "shop.sportal.it." always_null
 local-zone: "shop.vnay.vn." always_null
 local-zone: "shopalyst.com." always_null
 local-zone: "shopathome.com." always_null
@@ -58557,6 +58554,7 @@ local-zone: "zplayer-trk.zdn.vn." always_null
 local-zone: "zplayer.trk.zapps.vn." always_null
 local-zone: "zprelandappslab.com." always_null
 local-zone: "zprk.io." always_null
+local-zone: "zptncsir.com." always_null
 local-zone: "zptxjlh.cn." always_null
 local-zone: "zpujlrylfvk.com." always_null
 local-zone: "zpxw.vip." always_null
