@@ -1,6 +1,6 @@
-# Version: 202206261031
+# Version: 202206261332
 # Title: oisd extra
-# Last modified: 26 Jun 2022 10:31 UTC
+# Last modified: 26 Jun 2022 13:32 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq                                                
@@ -248,7 +248,6 @@ address=/bannerconnect.com/#
 address=/bannertrack.net/#
 address=/bardzo-duzyskrot.cyou/#
 address=/baremetrics.com/#
-address=/barzdigital.com/#
 address=/baseny355.com/#
 address=/bat.bing.com/#
 address=/bazartani.pl/#

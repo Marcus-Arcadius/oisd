@@ -1,6 +1,6 @@
-# Version: 202206261031
+# Version: 202206261332
 # Title: oisd extra
-# Last modified: 26 Jun 2022 10:31 UTC
+# Last modified: 26 Jun 2022 13:32 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                                
@@ -250,7 +250,6 @@ local-zone: "bannerconnect.com." always_null
 local-zone: "bannertrack.net." always_null
 local-zone: "bardzo-duzyskrot.cyou." always_null
 local-zone: "baremetrics.com." always_null
-local-zone: "barzdigital.com." always_null
 local-zone: "baseny355.com." always_null
 local-zone: "bat.bing.com." always_null
 local-zone: "bazartani.pl." always_null
