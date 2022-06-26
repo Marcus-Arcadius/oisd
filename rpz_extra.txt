@@ -1,12 +1,12 @@
-; Version: 202206232206
+; Version: 202206261031
 ; Title: oisd extra
-; Last modified: 23 Jun 2022 22:06 UTC
+; Last modified: 26 Jun 2022 10:31 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1656021631 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1656237601 86400 3600 604800 30
  NS localhost.
 
 0.0.0.0.beeglivesex.com CNAME .
@@ -495,6 +495,8 @@ bardzo-duzyskrot.cyou CNAME .
 *.bardzo-duzyskrot.cyou CNAME .
 baremetrics.com CNAME .
 *.baremetrics.com CNAME .
+barzdigital.com CNAME .
+*.barzdigital.com CNAME .
 baseny355.com CNAME .
 *.baseny355.com CNAME .
 bat.bing.com CNAME .
@@ -1015,6 +1017,8 @@ dspultra.com CNAME .
 *.dspultra.com CNAME .
 dstreet.pl CNAME .
 *.dstreet.pl CNAME .
+duhalw.win CNAME .
+*.duhalw.win CNAME .
 duiba.com.cn CNAME .
 *.duiba.com.cn CNAME .
 dzc-metrics.mzstatic.com CNAME .
@@ -1555,6 +1559,8 @@ jwpltx.com CNAME .
 *.jwpltx.com CNAME .
 k.cocooncenter.com CNAME .
 *.k.cocooncenter.com CNAME .
+kaftakoy.win CNAME .
+*.kaftakoy.win CNAME .
 kake.images.worldnow.com CNAME .
 *.kake.images.worldnow.com CNAME .
 kampyle.com CNAME .
@@ -1605,8 +1611,6 @@ lcprd1.samsungcloudsolution.net CNAME .
 *.lcprd1.samsungcloudsolution.net CNAME .
 lcprd2.samsungcloudsolution.net CNAME .
 *.lcprd2.samsungcloudsolution.net CNAME .
-leadpages.net CNAME .
-*.leadpages.net CNAME .
 leanplum.com CNAME .
 *.leanplum.com CNAME .
 learn.cisecurity.org CNAME .
@@ -1901,6 +1905,8 @@ neemu.com CNAME .
 *.neemu.com CNAME .
 nejmqianyan.cn CNAME .
 *.nejmqianyan.cn CNAME .
+nelo2-col.linecorp.com CNAME .
+*.nelo2-col.linecorp.com CNAME .
 neoamwhdg.com CNAME .
 *.neoamwhdg.com CNAME .
 net-s.pl CNAME .

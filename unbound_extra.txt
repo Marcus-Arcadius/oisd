@@ -1,6 +1,6 @@
-# Version: 202206232206
+# Version: 202206261031
 # Title: oisd extra
-# Last modified: 23 Jun 2022 22:06 UTC
+# Last modified: 26 Jun 2022 10:31 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                                
@@ -250,6 +250,7 @@ local-zone: "bannerconnect.com." always_null
 local-zone: "bannertrack.net." always_null
 local-zone: "bardzo-duzyskrot.cyou." always_null
 local-zone: "baremetrics.com." always_null
+local-zone: "barzdigital.com." always_null
 local-zone: "baseny355.com." always_null
 local-zone: "bat.bing.com." always_null
 local-zone: "bazartani.pl." always_null
@@ -510,6 +511,7 @@ local-zone: "drfdisvc.walmart.com." always_null
 local-zone: "drunkenstepfather.com." always_null
 local-zone: "dspultra.com." always_null
 local-zone: "dstreet.pl." always_null
+local-zone: "duhalw.win." always_null
 local-zone: "duiba.com.cn." always_null
 local-zone: "dzc-metrics.mzstatic.com." always_null
 local-zone: "dziwnasprawa.eu." always_null
@@ -780,6 +782,7 @@ local-zone: "js.gleam.io." always_null
 local-zone: "juicingwell.com." always_null
 local-zone: "jwpltx.com." always_null
 local-zone: "k.cocooncenter.com." always_null
+local-zone: "kaftakoy.win." always_null
 local-zone: "kake.images.worldnow.com." always_null
 local-zone: "kampyle.com." always_null
 local-zone: "kaxsdc.com." always_null
@@ -805,7 +808,6 @@ local-zone: "l.qq.com." always_null
 local-zone: "l2.io." always_null
 local-zone: "lcprd1.samsungcloudsolution.net." always_null
 local-zone: "lcprd2.samsungcloudsolution.net." always_null
-local-zone: "leadpages.net." always_null
 local-zone: "leanplum.com." always_null
 local-zone: "learn.cisecurity.org." always_null
 local-zone: "lemonparty.biz." always_null
@@ -953,6 +955,7 @@ local-zone: "nasapaul.com." always_null
 local-zone: "naytev.com." always_null
 local-zone: "neemu.com." always_null
 local-zone: "nejmqianyan.cn." always_null
+local-zone: "nelo2-col.linecorp.com." always_null
 local-zone: "neoamwhdg.com." always_null
 local-zone: "net-s.pl." always_null
 local-zone: "net.kg." always_null

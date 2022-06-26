@@ -1,6 +1,6 @@
-# Version: 202206232206
+# Version: 202206261031
 # Title: oisd extra
-# Last modified: 23 Jun 2022 22:06 UTC
+# Last modified: 26 Jun 2022 10:31 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq                                                
@@ -248,6 +248,7 @@ address=/bannerconnect.com/#
 address=/bannertrack.net/#
 address=/bardzo-duzyskrot.cyou/#
 address=/baremetrics.com/#
+address=/barzdigital.com/#
 address=/baseny355.com/#
 address=/bat.bing.com/#
 address=/bazartani.pl/#
@@ -508,6 +509,7 @@ address=/drfdisvc.walmart.com/#
 address=/drunkenstepfather.com/#
 address=/dspultra.com/#
 address=/dstreet.pl/#
+address=/duhalw.win/#
 address=/duiba.com.cn/#
 address=/dzc-metrics.mzstatic.com/#
 address=/dziwnasprawa.eu/#
@@ -778,6 +780,7 @@ address=/js.gleam.io/#
 address=/juicingwell.com/#
 address=/jwpltx.com/#
 address=/k.cocooncenter.com/#
+address=/kaftakoy.win/#
 address=/kake.images.worldnow.com/#
 address=/kampyle.com/#
 address=/kaxsdc.com/#
@@ -803,7 +806,6 @@ address=/l.qq.com/#
 address=/l2.io/#
 address=/lcprd1.samsungcloudsolution.net/#
 address=/lcprd2.samsungcloudsolution.net/#
-address=/leadpages.net/#
 address=/leanplum.com/#
 address=/learn.cisecurity.org/#
 address=/lemonparty.biz/#
@@ -951,6 +953,7 @@ address=/nasapaul.com/#
 address=/naytev.com/#
 address=/neemu.com/#
 address=/nejmqianyan.cn/#
+address=/nelo2-col.linecorp.com/#
 address=/neoamwhdg.com/#
 address=/net-s.pl/#
 address=/net.kg/#
