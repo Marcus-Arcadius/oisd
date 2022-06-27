@@ -1,6 +1,6 @@
-# Version: 202206261332
+# Version: 202206271005
 # Title: oisd extra
-# Last modified: 26 Jun 2022 13:32 UTC
+# Last modified: 27 Jun 2022 10:05 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                                
@@ -768,7 +768,6 @@ local-zone: "iterable.com." always_null
 local-zone: "ivhnnw.com." always_null
 local-zone: "jackettrain.com." always_null
 local-zone: "japscat.org." always_null
-local-zone: "jav321.com." always_null
 local-zone: "jdoqocy.com." always_null
 local-zone: "jivox.com." always_null
 local-zone: "jjdtrliuftaouhg.xyz." always_null
