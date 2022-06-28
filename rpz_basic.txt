@@ -1,12 +1,12 @@
-; Version: 202206281820
+; Version: 202206282204
 ; Title: oisd basic
-; Last modified: 28 Jun 2022 18:20 UTC
+; Last modified: 28 Jun 2022 22:04 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1656438729 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1656453601 86400 3600 604800 30
  NS localhost.
 
 0.code.cotsta.ru CNAME .
@@ -34299,8 +34299,6 @@ cushionpig.com CNAME .
 *.cushionpig.com CNAME .
 cusok.ru CNAME .
 *.cusok.ru CNAME .
-cuspal.cf CNAME .
-*.cuspal.cf CNAME .
 cussixia.de CNAME .
 *.cussixia.de CNAME .
 custodyabsolutiondrawback.com CNAME .
@@ -82627,8 +82625,6 @@ proton-tm.com CNAME .
 *.proton-tm.com CNAME .
 protonix.shengen.ru CNAME .
 *.protonix.shengen.ru CNAME .
-protonosko.host CNAME .
-*.protonosko.host CNAME .
 protovid.com CNAME .
 *.protovid.com CNAME .
 protraffic.com CNAME .

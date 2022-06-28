@@ -1,6 +1,6 @@
-# Version: 202206281820
+# Version: 202206282204
 # Title: oisd basic
-# Last modified: 28 Jun 2022 18:20 UTC
+# Last modified: 28 Jun 2022 22:04 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                                
@@ -17152,7 +17152,6 @@ local-zone: "curvycry.com." always_null
 local-zone: "cuseccharm.com." always_null
 local-zone: "cushionpig.com." always_null
 local-zone: "cusok.ru." always_null
-local-zone: "cuspal.cf." always_null
 local-zone: "cussixia.de." always_null
 local-zone: "custodyabsolutiondrawback.com." always_null
 local-zone: "customad.cnn.com." always_null
@@ -41316,7 +41315,6 @@ local-zone: "protexting.com." always_null
 local-zone: "protoawe.com." always_null
 local-zone: "proton-tm.com." always_null
 local-zone: "protonix.shengen.ru." always_null
-local-zone: "protonosko.host." always_null
 local-zone: "protovid.com." always_null
 local-zone: "protraffic.com." always_null
 local-zone: "protrafv2.com." always_null
