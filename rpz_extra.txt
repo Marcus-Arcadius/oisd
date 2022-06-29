@@ -1,12 +1,12 @@
-; Version: 202206271005
+; Version: 202206291830
 ; Title: oisd extra
-; Last modified: 27 Jun 2022 10:05 UTC
+; Last modified: 29 Jun 2022 18:30 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1656324002 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1656525383 86400 3600 604800 30
  NS localhost.
 
 0.0.0.0.beeglivesex.com CNAME .
@@ -2387,6 +2387,8 @@ sail-horizon.com CNAME .
 *.sail-horizon.com CNAME .
 sakura.goguardian.com CNAME .
 *.sakura.goguardian.com CNAME .
+salesloft.com CNAME .
+*.salesloft.com CNAME .
 salesmanago.pl CNAME .
 *.salesmanago.pl CNAME .
 sanalytics.disneyplus.com CNAME .
