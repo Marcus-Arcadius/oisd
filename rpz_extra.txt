@@ -1,12 +1,12 @@
-; Version: 202206291830
+; Version: 202206302236
 ; Title: oisd extra
-; Last modified: 29 Jun 2022 18:30 UTC
+; Last modified: 30 Jun 2022 22:36 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1656525383 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1656626431 86400 3600 604800 30
  NS localhost.
 
 0.0.0.0.beeglivesex.com CNAME .
@@ -653,8 +653,6 @@ c.msn.com CNAME .
 *.c.msn.com CNAME .
 c00.adobe.com CNAME .
 *.c00.adobe.com CNAME .
-ca24-logowanie.com CNAME .
-*.ca24-logowanie.com CNAME .
 cabanio.store CNAME .
 *.cabanio.store CNAME .
 campaign.abb.com CNAME .
@@ -741,8 +739,6 @@ click.email.sonos.com CNAME .
 *.click.email.sonos.com CNAME .
 click.mail.carousell.com CNAME .
 *.click.mail.carousell.com CNAME .
-click.official.nike.com CNAME .
-*.click.official.nike.com CNAME .
 click.redditmail.com CNAME .
 *.click.redditmail.com CNAME .
 click.sender.yandex.ru CNAME .
@@ -1001,6 +997,8 @@ dotomi.com CNAME .
 *.dotomi.com CNAME .
 doubleclick.net CNAME .
 *.doubleclick.net CNAME .
+doyouneedhelp094.cfd CNAME .
+*.doyouneedhelp094.cfd CNAME .
 dpbolvw.net CNAME .
 *.dpbolvw.net CNAME .
 dpu.samsungelectronics.com CNAME .
@@ -1275,14 +1273,12 @@ go.mybusinessacademy.ph CNAME .
 *.go.mybusinessacademy.ph CNAME .
 go.neverware.com CNAME .
 *.go.neverware.com CNAME .
-go.opendoors.nl CNAME .
-*.go.opendoors.nl CNAME .
-go.slalom.com CNAME .
-*.go.slalom.com CNAME .
 go.updates.iata.org CNAME .
 *.go.updates.iata.org CNAME .
 go.usa.gov CNAME .
 *.go.usa.gov CNAME .
+go.zigwebsoftware.nl CNAME .
+*.go.zigwebsoftware.nl CNAME .
 go2jump.org CNAME .
 *.go2jump.org CNAME .
 goatcounter.com CNAME .
@@ -1349,6 +1345,8 @@ hello.heroku.com CNAME .
 *.hello.heroku.com CNAME .
 help4ppl578.work CNAME .
 *.help4ppl578.work CNAME .
+hesskoe.site CNAME .
+*.hesskoe.site CNAME .
 hightradingsfx.com CNAME .
 *.hightradingsfx.com CNAME .
 hiperdex.com CNAME .
@@ -1721,6 +1719,8 @@ magicplayer-s.torrentstream.org CNAME .
 *.magicplayer-s.torrentstream.org CNAME .
 mail.hallym.ac.kr CNAME .
 *.mail.hallym.ac.kr CNAME .
+mail.tsinghua.edu.cn CNAME .
+*.mail.tsinghua.edu.cn CNAME .
 mailfoogae.appspot.com CNAME .
 *.mailfoogae.appspot.com CNAME .
 mainstreamdisco.site CNAME .
@@ -1871,8 +1871,6 @@ myetherwalletview.com CNAME .
 *.myetherwalletview.com CNAME .
 myetlherwallet.com CNAME .
 *.myetlherwallet.com CNAME .
-myhealthcareblog.com CNAME .
-*.myhealthcareblog.com CNAME .
 mysdvvf.com CNAME .
 *.mysdvvf.com CNAME .
 mysimpletoken.org CNAME .
@@ -2107,8 +2105,6 @@ patientlyrequisite.com CNAME .
 *.patientlyrequisite.com CNAME .
 pay-reservation.site CNAME .
 *.pay-reservation.site CNAME .
-pay11-olx.info CNAME .
-*.pay11-olx.info CNAME .
 pay22-olx.info CNAME .
 *.pay22-olx.info CNAME .
 pay55-olx.info CNAME .
@@ -2185,8 +2181,6 @@ planning-analytics.ibmcloud.com CNAME .
 *.planning-analytics.ibmcloud.com CNAME .
 plarium.com CNAME .
 *.plarium.com CNAME .
-plata-za-usluge.site CNAME .
-*.plata-za-usluge.site CNAME .
 platformorlen.biz CNAME .
 *.platformorlen.biz CNAME .
 platnosc-za-dostawe.pl CNAME .
@@ -2459,6 +2453,8 @@ servedby.o2.co.uk CNAME .
 *.servedby.o2.co.uk CNAME .
 server.iad.liveperson.net CNAME .
 *.server.iad.liveperson.net CNAME .
+service.cz.nl CNAME .
+*.service.cz.nl CNAME .
 services.brightline.tv CNAME .
 *.services.brightline.tv CNAME .
 services.zam.com CNAME .
@@ -2867,6 +2863,8 @@ velaro.com CNAME .
 *.velaro.com CNAME .
 verify.authorize.net CNAME .
 *.verify.authorize.net CNAME .
+verqiw.win CNAME .
+*.verqiw.win CNAME .
 vi-serve.com CNAME .
 *.vi-serve.com CNAME .
 vidaxl.pl CNAME .
@@ -2973,12 +2971,8 @@ wt-eu02.net CNAME .
 *.wt-eu02.net CNAME .
 wurfl.io CNAME .
 *.wurfl.io CNAME .
-www1.amnhealthcare.com CNAME .
-*.www1.amnhealthcare.com CNAME .
 www2.leapmotion.com CNAME .
 *.www2.leapmotion.com CNAME .
-www2.pardot.com CNAME .
-*.www2.pardot.com CNAME .
 www2.primecreative.com.au CNAME .
 *.www2.primecreative.com.au CNAME .
 www3.bloomingdales.com CNAME .

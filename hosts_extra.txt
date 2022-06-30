@@ -1,6 +1,6 @@
-# Version: 202206291830
+# Version: 202206302236
 # Title: oisd extra
-# Last modified: 29 Jun 2022 18:30 UTC
+# Last modified: 30 Jun 2022 22:36 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Hosts                                                  
@@ -393,7 +393,6 @@
 0.0.0.0 click.email.sonos.com
 0.0.0.0 click.icptrack.com
 0.0.0.0 click.mail.carousell.com
-0.0.0.0 click.official.nike.com
 0.0.0.0 click.redditmail.com
 0.0.0.0 click.sender.yandex.ru
 0.0.0.0 clickbank.com
@@ -637,13 +636,12 @@
 0.0.0.0 go.dlink.com
 0.0.0.0 go.mybusinessacademy.ph
 0.0.0.0 go.neverware.com
-0.0.0.0 go.opendoors.nl
 0.0.0.0 go.redirectingat.com
 0.0.0.0 go.skimresources.com
-0.0.0.0 go.slalom.com
 0.0.0.0 go.trafficrouter.io
 0.0.0.0 go.updates.iata.org
 0.0.0.0 go.usa.gov
+0.0.0.0 go.zigwebsoftware.nl
 0.0.0.0 go2jump.org
 0.0.0.0 goatcounter.com
 0.0.0.0 goatse.bz
@@ -835,6 +833,7 @@
 0.0.0.0 magicplayer-s.acestream.net
 0.0.0.0 magicplayer-s.torrentstream.org
 0.0.0.0 mail.hallym.ac.kr
+0.0.0.0 mail.tsinghua.edu.cn
 0.0.0.0 mailfoogae.appspot.com
 0.0.0.0 mairdumont.com
 0.0.0.0 mangler3.generals.ea.com
@@ -1132,6 +1131,7 @@
 0.0.0.0 servebbs.net
 0.0.0.0 servedby.o2.co.uk
 0.0.0.0 server.iad.liveperson.net
+0.0.0.0 service.cz.nl
 0.0.0.0 services.brightline.tv
 0.0.0.0 services.zam.com
 0.0.0.0 serving-sys.com
@@ -1538,7 +1538,6 @@
 0.0.0.0 www.bxczchdxynw.com
 0.0.0.0 www.byet.org
 0.0.0.0 www.bylismy-i-bedziemy.pl
-0.0.0.0 www.ca24-logowanie.com
 0.0.0.0 www.cabanio.store
 0.0.0.0 www.campaignmonitor.com
 0.0.0.0 www.camsoda.com
@@ -1615,6 +1614,7 @@
 0.0.0.0 www.dostawa-safety.rest
 0.0.0.0 www.dotomi.com
 0.0.0.0 www.doubleclick.net
+0.0.0.0 www.doyouneedhelp094.cfd
 0.0.0.0 www.dpbolvw.net
 0.0.0.0 www.drabina-bp.com
 0.0.0.0 www.drunkenstepfather.com
@@ -1717,6 +1717,7 @@
 0.0.0.0 www.happyyong.com
 0.0.0.0 www.hay-borsa.ru
 0.0.0.0 www.help4ppl578.work
+0.0.0.0 www.hesskoe.site
 0.0.0.0 www.hightradingsfx.com
 0.0.0.0 www.hiperdex.com
 0.0.0.0 www.hitmarkerjobs.com
@@ -1882,7 +1883,6 @@
 0.0.0.0 www.myetherwalletsecure.com
 0.0.0.0 www.myetherwalletview.com
 0.0.0.0 www.myetlherwallet.com
-0.0.0.0 www.myhealthcareblog.com
 0.0.0.0 www.mysdvvf.com
 0.0.0.0 www.mysimpletoken.org
 0.0.0.0 www.myvisualiq.net
@@ -1964,7 +1964,6 @@
 0.0.0.0 www.pastie.org
 0.0.0.0 www.patientlyrequisite.com
 0.0.0.0 www.pay-reservation.site
-0.0.0.0 www.pay11-olx.info
 0.0.0.0 www.pay22-olx.info
 0.0.0.0 www.pay55-olx.info
 0.0.0.0 www.pay63-olx.pl
@@ -1995,7 +1994,6 @@
 0.0.0.0 www.pjtra.com
 0.0.0.0 www.pl-lotos-cashup.site
 0.0.0.0 www.plarium.com
-0.0.0.0 www.plata-za-usluge.site
 0.0.0.0 www.platformorlen.biz
 0.0.0.0 www.platnosc-za-dostawe.pl
 0.0.0.0 www.plmcdelivery.site
@@ -2191,6 +2189,7 @@
 0.0.0.0 www.vacresdo.site
 0.0.0.0 www.vebnose.website
 0.0.0.0 www.velaro.com
+0.0.0.0 www.verqiw.win
 0.0.0.0 www.vidaxl.pl
 0.0.0.0 www.videoplayerhub.com
 0.0.0.0 www.vidible.tv
@@ -2253,9 +2252,7 @@
 0.0.0.0 www.znowubialystok.xyz
 0.0.0.0 www.zondio.store
 0.0.0.0 www.zorajka.pl
-0.0.0.0 www1.amnhealthcare.com
 0.0.0.0 www2.leapmotion.com
-0.0.0.0 www2.pardot.com
 0.0.0.0 www2.primecreative.com.au
 0.0.0.0 www3.bloomingdales.com
 0.0.0.0 www3.webhostingtalk.com
