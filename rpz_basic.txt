@@ -1,12 +1,12 @@
-; Version: 202206300418
+; Version: 202206301741
 ; Title: oisd basic
-; Last modified: 30 Jun 2022 04:18 UTC
+; Last modified: 30 Jun 2022 17:41 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1656562408 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1656610916 86400 3600 604800 30
  NS localhost.
 
 0.code.cotsta.ru CNAME .
@@ -66591,8 +66591,6 @@ mail.radar.imgsmail.ru CNAME .
 *.mail.radar.imgsmail.ru CNAME .
 mail.tropmet.res.in CNAME .
 *.mail.tropmet.res.in CNAME .
-mail.tsinghua.edu.cn CNAME .
-*.mail.tsinghua.edu.cn CNAME .
 mailboxleadsphone.com CNAME .
 *.mailboxleadsphone.com CNAME .
 mailboxmeeting.com CNAME .

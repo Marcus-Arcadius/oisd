@@ -1,6 +1,6 @@
-# Version: 202206300418
+# Version: 202206301741
 # Title: oisd basic
-# Last modified: 30 Jun 2022 04:18 UTC
+# Last modified: 30 Jun 2022 17:41 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                                
@@ -33298,7 +33298,6 @@ local-zone: "mail.issas.ac.cn." always_null
 local-zone: "mail.pmo.ac.cn." always_null
 local-zone: "mail.radar.imgsmail.ru." always_null
 local-zone: "mail.tropmet.res.in." always_null
-local-zone: "mail.tsinghua.edu.cn." always_null
 local-zone: "mailboxleadsphone.com." always_null
 local-zone: "mailboxmeeting.com." always_null
 local-zone: "mailguardonline.net." always_null
