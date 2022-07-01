@@ -1,6 +1,6 @@
-# Version: 202207011004
+# Version: 202207011408
 # Title: oisd basic
-# Last modified: 1 Jul 2022 10:04 UTC
+# Last modified: 1 Jul 2022 14:08 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                                 
@@ -45326,7 +45326,6 @@ local-zone: "sdxkdj.cn." always_null
 local-zone: "se05.biz." always_null
 local-zone: "se42ade5e3son7ing.com." always_null
 local-zone: "sea-nov-1.com." always_null
-local-zone: "sea.net.edu.cn." always_null
 local-zone: "sea1b-ls.naiadsystems.com." always_null
 local-zone: "seabedchita.com." always_null
 local-zone: "seaboblit.com." always_null
