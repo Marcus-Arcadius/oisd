@@ -1,7 +1,7 @@
 [Adblock Plus]
-! Version: 202207011854
+! Version: 202207012008
 ! Title: oisd extra
-! Last modified: 1 Jul 2022 18:54 UTC
+! Last modified: 1 Jul 2022 20:08 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://oisd.nl
 ! Syntax: Adblock Plus Filter List                 
@@ -286,6 +286,7 @@
 ||adservice.google.nl^
 ||adservicemedia.dk^
 ||adswizz.com^
+||adszooks.com^
 ||adtechus.com^
 ||adtrackers.net^
 ||adtraction.com^
@@ -417,11 +418,11 @@
 ||banggongxia.xyz^
 ||bannerconnect.com^
 ||bannertrack.net^
+||baoren.tech^
 ||bar.ry2002.02-ry014.snpr.hotmx.hair.zaam.net^
 ||bardzo-duzyskrot.cyou^
 ||baremetrics.com^
 ||bartelik-brukarstwo.pl^
-||baseny355.com^
 ||bat.bing.com^
 ||bc0a.com^
 ||beachrule.com^
@@ -485,12 +486,10 @@
 ||boxshop24.pl^
 ||bp01.net^
 ||brahe.apptimize.com^
-||brainlesseither.com^
 ||branch.io^
 ||brand.core.svcgateway-restrictedler.windows.api-docsemea.net.zooplus.com^
 ||brans.pl^
 ||bratzamocowac.site^
-||bravoservices.online^
 ||braze.com^
 ||bridasa.site^
 ||bridgetrack.com^
@@ -515,6 +514,7 @@
 ||butykeenoutlets.com^
 ||butyzamberlanwyprzedaz.com^
 ||buy.tinypass.com^
+||bx9000.top^
 ||bxczchdxynw.com^
 ||by.uservoice.com^
 ||byet.org^
@@ -600,15 +600,18 @@
 ||clogrecord.com^
 ||cloudflareinsights.com^
 ||clownsong.com^
+||clusterhurriedly.com^
 ||cmartketgitro0.info^
 ||cmp-cdn.ghostery.com^
 ||cnetcontentsolutions.com^
 ||cnzz.com^
 ||cohesionapps.com^
 ||coinkbase.com^
+||coinmedia.co^
 ||collecting-consent.g5e.com^
 ||collector-main.trafficmanager.net^
 ||com.com^
+||combatmootcrucial.com^
 ||combatprofanitycandidate.com^
 ||comet.yahoo.com^
 ||comm-news.com^
@@ -718,7 +721,6 @@
 ||datasvcgatewaywebv2.email.europewest.tester.net.zoopl.net.zooplus.com^
 ||dbforecast.net^
 ||dcf.espn.com^
-||dcmgptcbcrogl.com^
 ||dcs.audi.com^
 ||dealabs.digidip.net^
 ||deals.macupdate.com^
@@ -919,12 +921,15 @@
 ||extole.io^
 ||extreme-ip-lookup.com^
 ||f-log-at.grammarly.io^
+||facebook-issues77.tk^
 ||faktor.io^
 ||fakty24.xyz^
+||faktyludzie24-pieniadze.pl^
 ||fast.appcues.com^
 ||fawhositho.com^
 ||fccinteractive.com^
 ||feature.fm^
+||fengchedaomall.cn^
 ||filetester.net.zoopl.cloudfront-mailmail.oid.net.zooplus.com^
 ||filipelucio.com^
 ||firebaselogging-pa.googleapis.com^
@@ -940,7 +945,6 @@
 ||flx1.com^
 ||fmcurling.org^
 ||forms-from-hypeteams-event.com^
-||forms-hypesquad-svents.com^
 ||forter.com^
 ||fourier.taobao.com^
 ||fr-go.kelkoogroup.net^
@@ -953,6 +957,7 @@
 ||freewheel-mtgx-tv.akamaized.net^
 ||frontier.musical.ly^
 ||frontpage.email.europewest.tester.net.zoopl.net.zooplus.com^
+||frshueaxf.com^
 ||fruitlauncher.com^
 ||fryzjer.icu^
 ||ftpcontent.worldnow.com^
@@ -986,6 +991,7 @@
 ||ghcpi.systemsvcgateway-ob.trialstatic.coregitlab.windowslb.net.zooplus.com^
 ||ghcpihwcdn.appler-legacy.systemsvcgateway.latinv1.tester.net.zooplus.com^
 ||ghosthis.review^
+||ghtyf.shop^
 ||gigazine.asia^
 ||gist-svcgatewaywebv2.hweuropewest.tester.analyticsnet.zoopl.net.zooplus.com^
 ||gistsvcgatewaywebv2.email.europewest.tester.net.zoopl.net.zooplus.com^
@@ -1260,7 +1266,6 @@
 ||guildofangels.net^
 ||gvt2.com^
 ||gw.v3.y.svcgateway.tester.net.zooplus.com^
-||habang-habang.com^
 ||hackerbot.net^
 ||hai2u.com^
 ||hanslionel.com^
@@ -1276,7 +1281,7 @@
 ||hitmarkerjobs.com^
 ||hnfxty.cn^
 ||hnhgw.cn^
-||hokaoneonespeedgoat.pl^
+||holdenavenue.pl^
 ||holecatorange.com^
 ||homewares.org^
 ||honoreekun.pl^
@@ -1411,6 +1416,7 @@
 ||klclick1.com^
 ||kodu.neti.ee^
 ||komachi.yomiuri.co.jp^
+||kontrola-osoby.eu^
 ||korianasklep.pl^
 ||kozakiariat.store^
 ||kqzyfj.com^
@@ -1586,6 +1592,7 @@
 ||mairdumont.com^
 ||mangler3.generals.ea.com^
 ||mangler4.generals.ea.com^
+||marchtools.cn^
 ||marfeel.com^
 ||marfeelcache.com^
 ||marinsm.com^
@@ -1630,6 +1637,7 @@
 ||mijnbladopdemat.nl^
 ||milkfountain.com^
 ||mindtake.com^
+||miniling.cn^
 ||mirrorwebv2.europewest.tester.netstaging.zooplbillingy.net.zooplus.com^
 ||mixi.media^
 ||mixpanel.com^
@@ -1658,7 +1666,6 @@
 ||mybbc-analytics.files.bbci.co.uk^
 ||myethereumwaliet.com^
 ||myethereumwallets.com^
-||myetherwalletet.com^
 ||myetherwalletsecure.com^
 ||mysdvvf.com^
 ||myvisualiq.net^
@@ -1725,7 +1732,6 @@
 ||nova.collect.igodigital.com^
 ||now.eloqua.com^
 ||nowina0c5.site^
-||nowina699.site^
 ||nowinka00i.site^
 ||npttech.com^
 ||nr-data.net^
@@ -1749,6 +1755,7 @@
 ||oempprd.samsungcloudsolution.com^
 ||oempprd.samsungcloudsolution.net^
 ||ogglededibl.at^
+||ogloszenia-zadarmo.pl^
 ||ogrodek400.com^
 ||oid-windows.appler-int-511.systemsvcgateway.tester.twitch-tester.net.zooplus.com^
 ||oid.acc-int-511.systemsvcgateway.tester.twitch-tester.net.zooplus.com^
@@ -1887,12 +1894,10 @@
 ||oms.symantec.com^
 ||omtrdc.net^
 ||onenetworkdirect.net^
-||onioq.xyz^
 ||online-metrix.net^
 ||online365account.live^
 ||onlineluck.net^
 ||onthe.io^
-||opis-zdjecie.eu^
 ||opkropcst.com^
 ||ops.bpost.be^
 ||optimizely.com^
@@ -1925,7 +1930,6 @@
 ||pantheonwebv2.cloudfronteuropewest.tester.net.zoopl.net.zooplus.com^
 ||panther.goguardian.com^
 ||papy.co.jp^
-||paribas-logowanie.at^
 ||parkingcrew.net^
 ||parsely.com^
 ||partner-ads.com^
@@ -1947,6 +1951,7 @@
 ||payproxymachine-gitlab.net.core.int-511.windows.net.zooplus.com^
 ||paysandbox-repository-legacycsr21raw.tester.netcert.zoopl.mailmail.net.zooplus.com^
 ||paysandboxwebv2.email.giteuropewest.tester.net.zoopl.net.zooplus.com^
+||paywash.se^
 ||peculiaritiesfrequencymedicine.com^
 ||peerius.com^
 ||pelorian.xyz^
@@ -1965,6 +1970,7 @@
 ||pidorg.ru^
 ||pieknykraj.icu^
 ||pillsmoney.com^
+||pilotaffiliate.com^
 ||pipe.aria.microsoft.com^
 ||piwik.org^
 ||pixelzirkus.gameforge.com^
@@ -2038,7 +2044,6 @@
 ||promo.mobile.de^
 ||promooid.appler-legacy.systemsvcgateway.tester.twitch-tester.net.zooplus.com^
 ||promowebv2.europewest.tester.netstaging.zoopl.net.zooplus.com^
-||prosba-zaglosujcie.eu^
 ||prostagroup.host^
 ||protostokenhub.com^
 ||proxydevs-gitlab.net.core.int-511.windows.net.zooplus.com^
@@ -2112,17 +2117,16 @@
 ||proxymachine-team.net.core.int-511.windows.net.zooplus.com^
 ||proxymachine-twitch-testerstatic-windows.net.core.gw-int-511.windows.net.zooplus.com^
 ||proxyproduction-service-gitlab.net.core.int-511.windows.net.zooplus.com^
-||przepadniecie.eu^
 ||pstmrk.it^
 ||psuzoxuma.com^
 ||publicidees.com^
 ||puds.ucweb.com^
 ||pushwelcome.com^
 ||pushyfen.com^
-||puszukiwania-polskie.eu^
 ||pv.sohu.com^
 ||px.spiceworks.com^
 ||pxf.io^
+||qhqofqeivtno.com^
 ||qianb.ltd^
 ||qksrv.net^
 ||ql.tc^
@@ -2134,6 +2138,7 @@
 ||r.bbci.co.uk^
 ||r.mradx.net^
 ||r42tag.com^
+||raport-fotki.eu^
 ||raw-svcgatewaywebv2.email.europewest.tester.net.zoopltoolbar.net.zooplus.com^
 ||raw.email.europewest.tester.net.zoopltoolbar.net.zooplus.com^
 ||rd.rakuten.co.jp^
@@ -2228,6 +2233,7 @@
 ||secure.core.sif-restricted.profile.windows.net.zooplus.com^
 ||secure.gooddata.com^
 ||secureadministratormail.azurenet.zooplusmail-aws.appnet.zoossl.net.zooplus.es^
+||secured-getin.com^
 ||securemetrics.apple.com^
 ||securitymetrics.com^
 ||securitysvcgatewaywebv2.email.europewest.tester.net.zoopltoolbar.net.zooplus.com^
@@ -2275,7 +2281,7 @@
 ||sjgnskf.com^
 ||skimresources.com^
 ||sklep-denley.pl^
-||sklepmglisty.site^
+||slightlyfarawaybold.com^
 ||smart.link^
 ||smartlock.google.com^
 ||smartredirect.de^
@@ -2325,6 +2331,7 @@
 ||staticsvcgatewaysvcgatewaywebv2.europewest.tester.analyticsnet.zoopl.net.zooplus.com^
 ||stats.paypal.com^
 ||stats.pusher.com^
+||statuewas.com^
 ||stertashake.site^
 ||stg.appler-legacy.systemsvcgateway.latinv1.tester.net.zooplus.com^
 ||stocks-analytics-events.apple.com^
@@ -2348,6 +2355,7 @@
 ||support.partner.marketingengine.mail01-docker.api.net.zooplus.de^
 ||support.partner.pantheon.repositorysystem01-docker-csr41jenkins.api.net.zooplus.de^
 ||supportxmr.com^
+||surfaceimmature.com^
 ||svc-svcgatewaywebv2.europewest.tester.analyticsnet.zoopl.net.zooplus.com^
 ||svcbucketwebv2.europewest.tester.analyticsnet.zoopl.net.zooplus.com^
 ||svcconfluencewebv2.europewest.tester.analyticsnet.zoopl.net.zooplus.com^
@@ -2886,6 +2894,7 @@
 ||thunderhead.com^
 ||tidebuy.com^
 ||tkqlhce.com^
+||tluumnjyrc.com^
 ||tms-st.cdn.ngenix.net^
 ||todhamilton.pro^
 ||tomcat-tester.net.zoopl.cloudfront-mailmail.oid.net.zooplus.com^
@@ -2930,7 +2939,6 @@
 ||trbo.com^
 ||treehousei.com^
 ||treg.hearstnp.com^
-||trener688.rest^
 ||trialpay.com^
 ||trk.pinterest.com^
 ||trk.s.sephora.com^
@@ -2957,7 +2965,6 @@
 ||uim.tifbs.net^
 ||umhfrtu.cn^
 ||unbi.ba^
-||uncrippledundefined.com^
 ||unid.go.com^
 ||untd.com^
 ||upsidebaitpalm.com^
@@ -2970,7 +2977,6 @@
 ||ussvcgatewaywebv2.hweuropewest.tester.analyticsnet.zoopl.net.zooplus.com^
 ||uswwwcert-administratormail.swagger.net.zooplusmail-aws.net.zoossl.net.zooplus.es^
 ||utpgxaylxurhbc.com^
-||uvpzll.com^
 ||v-svcgatewaywebv2.europewest.tester.net.zoopl.net.zooplus.com^
 ||v-trial.svcgatewaywebv2.email.europewest.tester.net.zoopl.net.zooplus.com^
 ||v.shopify.com^
@@ -2993,7 +2999,6 @@
 ||v3windows-gitlab.devops.net.core.corp-core-csr21raw.int-511.windows.net.zooplus.com^
 ||varielcontentdelivery.info^
 ||vdterms.samsungcloudsolution.com^
-||vebnose.website^
 ||velaro.com^
 ||verify.authorize.net^
 ||vhlduhrldc.com^
@@ -3042,8 +3047,6 @@
 ||widget-cdn.rpxnow.com^
 ||widget.trustpilot.com^
 ||widgets.trustedshops.com^
-||wiesc5526.site^
-||win10zyb.cn^
 ||windows-metricspartnermachine-gitlab.net.core.gw-int-511.windows.net.zooplus.com^
 ||windowsapi.oid.appler-legacy.systemsvcgateway.tester.twitch-tester.net.zooplus.com^
 ||wirtualnaczestochowa.xyz^
@@ -3067,6 +3070,7 @@
 ||x3-policy-maker.goguardian.com^
 ||x3-predictor.goguardian.com^
 ||xapi.ozon.ru^
+||xcsci.cn^
 ||xg4ken.com^
 ||xiti.com^
 ||xjqxrpwlfg.com^
@@ -3078,6 +3082,7 @@
 ||xn--myetherwalle-xoc.com^
 ||xn--mytherwallet-tck.com^
 ||xn--polonex-ffb.com^
+||xsdizch.cn^
 ||xtxa.net^
 ||yahekby.cn^
 ||yesnisndglh.com^
@@ -3099,7 +3104,6 @@
 ||zbieranina-glosow.eu^
 ||zdbb.net^
 ||zenaps.com^
-||zencia.store^
 ||zhangbaochang.top^
 ||zhenxinchicken.xyz^
 ||ziffdavis.com^

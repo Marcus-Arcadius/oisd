@@ -1,6 +1,6 @@
-# Version: 202207012007
+# Version: 202207012014
 # Title: oisd basic
-# Last modified: 1 Jul 2022 20:07 UTC
+# Last modified: 1 Jul 2022 20:14 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                                 
@@ -18330,7 +18330,6 @@ local-zone: "ere.wew.92kkdy.cc." always_null
 local-zone: "erebate.in." always_null
 local-zone: "erebor.douban.com." always_null
 local-zone: "eredunass.club." always_null
-local-zone: "eremogaudio.it." always_null
 local-zone: "eremuribleak.com." always_null
 local-zone: "erenchinterried.pro." always_null
 local-zone: "erenowcommie.com." always_null
@@ -27149,7 +27148,6 @@ local-zone: "leokross.com." always_null
 local-zone: "leonab.com." always_null
 local-zone: "leonardoadv.it." always_null
 local-zone: "leonbetvouum.com." always_null
-local-zone: "leono.club." always_null
 local-zone: "leonodikeu9sj10.com." always_null
 local-zone: "leontius-eli.com." always_null
 local-zone: "leontyche.com." always_null

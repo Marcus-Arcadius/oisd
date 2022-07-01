@@ -1,12 +1,12 @@
-; Version: 202207012007
+; Version: 202207012014
 ; Title: oisd basic
-; Last modified: 1 Jul 2022 20:07 UTC
+; Last modified: 1 Jul 2022 20:14 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                    
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1656705785 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1656706192 86400 3600 604800 30
  NS localhost.
 
 0.code.cotsta.ru CNAME .
@@ -36655,8 +36655,6 @@ erebor.douban.com CNAME .
 *.erebor.douban.com CNAME .
 eredunass.club CNAME .
 *.eredunass.club CNAME .
-eremogaudio.it CNAME .
-*.eremogaudio.it CNAME .
 eremuribleak.com CNAME .
 *.eremuribleak.com CNAME .
 erenchinterried.pro CNAME .
@@ -54293,8 +54291,6 @@ leonardoadv.it CNAME .
 *.leonardoadv.it CNAME .
 leonbetvouum.com CNAME .
 *.leonbetvouum.com CNAME .
-leono.club CNAME .
-*.leono.club CNAME .
 leonodikeu9sj10.com CNAME .
 *.leonodikeu9sj10.com CNAME .
 leontius-eli.com CNAME .
