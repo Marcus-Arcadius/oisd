@@ -1,6 +1,6 @@
-# Version: 202207011408
+# Version: 202207011440
 # Title: oisd basic
-# Last modified: 1 Jul 2022 14:08 UTC
+# Last modified: 1 Jul 2022 14:40 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                                 
@@ -34037,7 +34037,6 @@ local-zone: "mediaonenetwork.net." always_null
 local-zone: "mediapalmtree.com." always_null
 local-zone: "mediapeartree.com." always_null
 local-zone: "mediaplan.ru." always_null
-local-zone: "mediaplayercodecpack.com." always_null
 local-zone: "mediaplazza.com." always_null
 local-zone: "mediaportal.ru." always_null
 local-zone: "mediapostcommunication.net." always_null
@@ -58965,3 +58964,4 @@ local-zone: "zzyonghao.com." always_null
 local-zone: "zzyytt.top." always_null
 local-zone: "zzz.pissrip.net." always_null
 local-zone: "zzznews.ru." always_null
+
