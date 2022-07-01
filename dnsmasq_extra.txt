@@ -1,6 +1,6 @@
-# Version: 202207012008
+# Version: 202207012015
 # Title: oisd extra
-# Last modified: 1 Jul 2022 20:08 UTC
+# Last modified: 1 Jul 2022 20:15 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq                                                 
@@ -1960,7 +1960,6 @@ address=/perimeterx.net/#
 address=/perr.h-cdn.com/#
 address=/pf.intuit.com/#
 address=/pge-invwestpl.info/#
-address=/pgl.example/#
 address=/phaihoaw.net/#
 address=/phonejapan.com/#
 address=/pi.pardot.com/#

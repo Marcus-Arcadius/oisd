@@ -1,6 +1,6 @@
-# Version: 202207012008
+# Version: 202207012015
 # Title: oisd extra
-# Last modified: 1 Jul 2022 20:08 UTC
+# Last modified: 1 Jul 2022 20:15 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                                 
@@ -1962,7 +1962,6 @@ local-zone: "perimeterx.net." always_null
 local-zone: "perr.h-cdn.com." always_null
 local-zone: "pf.intuit.com." always_null
 local-zone: "pge-invwestpl.info." always_null
-local-zone: "pgl.example." always_null
 local-zone: "phaihoaw.net." always_null
 local-zone: "phonejapan.com." always_null
 local-zone: "pi.pardot.com." always_null
